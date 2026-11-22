@@ -1,0 +1,1002 @@
+# Biomotor Unitron 2 (Kikou Seiki Unitron) - traduction française. Scènes (script des événements : dialogues, narration, choix).
+# @ADRESSE (fichier, hex) = texte du catalogue à cette adresse (tools/extraire.py) ; voir README.
+@059D60	Bienvenue dans le{n}{n}mode câble!
+@059D71	Avec un câble de{n}{n}liaison, vous{box}pouvez combattre{n}{n}et échanger.
+@059D9C	Entrer en mode{n}{n}câble?
+@059DB1	Oui
+@059DB9	Non
+@059DC3	{p}Vérification du{n}{n}câble de liaison.
+@059DEA	Le câble est-il{n}{n}branché?
+@059DFE	Sinon, éteignez{n}{n}les consoles,
+@059E22	puis reliez les{n}{n}deux Neo Geo{box}Pocket avec le{n}{n}câble.
+@059E48	Lancer la{n}{n}vérification?
+@059E5D	Oui
+@059E65	Non
+@059E71	Merci d'avoir{n}{n}joué! Fin de la{box}liaison.
+@059E96	Erreur de{n}{n}liaison!!
+@059EA5	Vérifiez le câble{n}{n}et réessayez.
+@059ED1	Choisissez la{n}{n}sauvegarde à{box}utiliser.
+@059F01	Lire l'aide du{n}{n}mode câble?
+@059F16	Oui
+@059F1E	Non
+@059F28	Le mode câble{n}{n}propose deux{box}grands modes.
+@059F4B	Le premier: le{n}{n}【duel par câble】{box}entre Unitrons.
+@059F74	Vous pouvez y{n}{n}affronter vos amis{box}avec vos Unitrons.
+@059F9C	En duel, vous{n}{n}【misez】 un de vos{box}objets,
+@059FC4	donc sans objet,{n}{n}pas de duel.
+@059FE7	Le duel se joue{n}{n}en 3 manches: 2{box}manches gagnées{n}{n}pour l'emporter.
+@05A00F	Les objets{n}{n}utilisés au combat{box}sont perdus,
+@05A032	mais cela ne{n}{n}touche pas votre{box}partie principale.
+@05A04D	Gagnez, et la{n}{n}【mise】 est à vous!
+@05A074	Le second mode{n}{n}sert au 【troc】{box}d'objets.
+@05A09A	Vous pouvez y{n}{n}troquer des objets{box}entre amis.
+@05A0C0	En principe, tous{n}{n}les objets peuvent{box}s'échanger.
+@05A0E6	Fin de l'aide.{n}{n}Retour au menu.
+@05A10D	Lancement du{n}{n}programme.{box}…………
+@05A176	Bon, {J}! On{n}{n}fait quoi, avec{box}le câble?
+@05A19F	Tu choisis quoi?
+@05A1BA	Allez, {J}! On{n}{n}fait quoi avec le{box}câble?
+@05A1E1	Tu prends quoi?
+@05A1FA	Hm. {J}. Que{n}{n}faisons-nous{box}en câble?
+@05A220	Que veux-tu{n}{n}faire?
+@05A23B	Bien, {J}. Que{n}{n}allons-nous faire{box}avec le câble?
+@05A265	Qu'aimerais-tu{n}{n}faire?
+@05A282	OK, {J}! On{n}{n}fait quoi avec le{box}câble, hein?
+@05A2AB	Bon, alors, tu{n}{n}fais quoi?
+@05A2C8	Le câble, c'est{n}{n}trop bien, nya!{box}{J}, on fait{n}{n}quoi, nya?
+@05A2F7	On fait quoi, nya?
+@05A310	Bien. Tout est{n}{n}prêt.{box}Que fait-on en{n}{n}câble?
+@05A341	Que souhaites-tu{n}{n}faire?
+@05A35E	D'accord, {J}.{n}{n}On fait quoi en{box}câble?
+@05A387	Bon, alors? Tu{n}{n}veux quoi?
+@05A3A4	Voilà… c'est bon.{n}{n}{J}, on fait{box}quoi en câble?
+@05A3D1	On fait quoi?
+@05A3EA	…Euh… {J}…{n}{n}on fait quoi, en{box}câble…?
+@05A417	Dis… qu'est-ce{n}{n}qu'on fait…?
+@05A42C	Duel
+@05A436	Troc
+@05A440	Fin
+@05A472	Le duel, alors?
+@05A48D	Un duel, ça te{n}{n}va?
+@05A4A6	Duel, donc?
+@05A4C0	Un duel, c'est{n}{n}bien cela?
+@05A4DC	Un duel, hein?
+@05A4F6	Un duel, nya?
+@05A511	Ce sera le duel?
+@05A52B	Un duel, ça te{n}{n}va?
+@05A544	On fait un duel?
+@05A55D	…Un duel… c'est{n}{n}bien ça…?
+@05A578	Oui
+@05A580	Non
+@05A5B2	Le troc, alors?
+@05A5CD	Un échange?
+@05A5E6	Le troc, donc?
+@05A600	Un échange, c'est{n}{n}bien cela?
+@05A61C	Un troc, hein?
+@05A636	Un échange, nya?
+@05A651	Ce sera l'échange?
+@05A66B	Un échange, ça te{n}{n}va?
+@05A684	On échange, alors?
+@05A69D	…Un échange…{n}{n}c'est bien ça…?
+@05A6B8	Oui
+@05A6C0	Non
+@05A6F2	On arrête le{n}{n}câble?
+@05A70F	On arrête, alors?
+@05A72A	Je coupe la{n}{n}liaison?
+@05A748	Nous arrêtons{n}{n}donc?
+@05A764	On coupe, hein?
+@05A77F	On arrête, nya?
+@05A79B	On s'arrête là,{n}{n}alors?
+@05A7B7	Tu veux arrêter?
+@05A7D4	On arrête, alors?
+@05A7EF	…On peut{n}{n}arrêter…?
+@05A808	Oui
+@05A810	Non
+@05A840	Bon, à plus tard.
+@05A859	À plus!
+@05A871	…Hm. À plus{n}{n}tard.
+@05A88B	Oh. À bientôt.
+@05A8A5	OK! À la{n}{n}prochaine!
+@05A8BE	Nya? Alors à{n}{n}plus, nya!
+@05A8DD	À tout à l'heure,{n}{n}alors.
+@05A8F7	Ah bon? Alors à{n}{n}plus tard.
+@05A912	D'accord. À plus{n}{n}tard!
+@05A92A	…D'accord.{n}{n}À bientôt…
+@05A987	OK! Alors, en{n}{n}route pour{box}l'arène câble!
+@05A9B2	Voilà l'arène{n}{n}câble. On fait{box}quoi?
+@05A9DB	Super! Allons à{n}{n}l'arène câble!
+@05AA09	C'est ici,{n}{n}l'arène câble!{box}On fait quoi?
+@05AA34	Bien. Allons à{n}{n}l'arène câble.
+@05AA5F	Voici l'arène{n}{n}câble. Que{box}veux-tu faire?
+@05AA8B	Bien, entendu.{n}{n}Allons à l'arène{box}câble.
+@05AABA	Voici l'arène{n}{n}câble.{box}Que veux-tu faire?
+@05AAE7	Ouais! Pigé!{n}{n}En route pour{box}l'arène câble!
+@05AB16	Nous v'là à{n}{n}l'arène câble.{box}Alors, tu fais{n}{n}quoi?
+@05AB49	Nya★ OK, nya!{n}{n}En route pour{box}l'arène câble,{n}{n}nya!
+@05AB77	Voilà l'arène{n}{n}câble, nya★{box}Tu veux faire{n}{n}quoi, nya?
+@05ABA5	Hé hé… Entendu.{n}{n}Allons à l'arène{box}câble.
+@05ABD6	Nous voici à{n}{n}l'arène câble.{box}Choisis ce que tu{n}{n}veux faire.
+@05AC0A	Hé hé. D'accord.{n}{n}Direction l'arène{box}câble!
+@05AC38	L'arène câble,{n}{n}nous y voilà.{box}Bon! On fait{n}{n}quoi, alors?
+@05AC68	Oui! D'accord!{n}{n}Allons à l'arène{box}câble!
+@05AC94	C'est ça, l'arène{n}{n}câble! On fait{box}quoi, du coup?
+@05ACBF	Oui! Euh… euh…{n}{n}l'arène câble,{box}c'est ça!
+@05ACED	Voilà l'arène{n}{n}câble…{box}…Euh, on fait{n}{n}quoi…?
+@05AD19	Duel
+@05AD23	Équiper
+@05AD2C	Fin
+@05AD62	OK. Alors on{n}{n}repart!
+@05AD85	Ah bon, d'accord.{n}{n}Alors on y va!
+@05ADAB	…Bien. Alors{n}{n}repartons.
+@05ADD3	Oh, vraiment?{n}{n}Alors repartons.
+@05ADF7	Ouais, pigé.{n}{n}Bon, on bouge!
+@05AE21	Mmh. OK, nya~.{n}{n}On repart, nya.
+@05AE4C	Entendu.{n}{n}Repartons, alors.
+@05AE74	Ah bon? OK, OK.{n}{n}On repart, alors.
+@05AE9F	Hein? On arrête?{n}{n}Bon… on repart.
+@05AECB	…Ah! O… oui.{n}{n}On repart, alors.
+@05AF16	Parfait! Choisis{n}{n}l'objet à miser!
+@05AF3F	Allez! Choisis ce{n}{n}que tu mises!
+@05AF68	Je vois…{n}{n}Choisis l'objet{box}à miser.
+@05AF97	Bien. Choisis donc{n}{n}l'objet à miser.
+@05AFC5	Ouais!! Bon,{n}{n}choisis ta mise!
+@05AFF6	Hanya★ OK, nya!{n}{n}Choisis ta mise,{box}nya!
+@05B024	Hm. Alors, choisis{n}{n}l'objet à miser,{box}je te prie.
+@05B053	OK. Alors, choisis{n}{n}ta mise. Vite!
+@05B081	Super! Alors{n}{n}choisis l'objet{box}à miser!
+@05B0B0	O… oui! Euh…{n}{n}choisis l'objet,{box}s'il te plaît.
+@05B108	Tu mises ça,{n}{n}alors?
+@05B127	Cet objet-là, ça{n}{n}te va?
+@05B144	Cet objet, donc?
+@05B162	C'est bien cet{n}{n}objet-là?
+@05B182	Tu mises ce truc,{n}{n}hein?
+@05B1A1	Cet objet, nya?
+@05B1C1	Cet objet te{n}{n}convient?
+@05B1E0	Cet objet-là, ça{n}{n}te va?
+@05B1FD	Cet objet, OK?
+@05B219	…Cet objet…{n}{n}c'est bien ça…?
+@05B232	Oui
+@05B23A	Non
+@05B26E	Bon, j'envoie les{n}{n}données à l'autre.{box}……………………
+@05B29D	Allez, j'envoie{n}{n}les données!{box}……………………
+@05B2CC	Bon, j'envoie les{n}{n}données à l'autre.{box}……………………
+@05B2FB	J'envoie donc les{n}{n}données.{box}……………………
+@05B32A	Envoi des données,{n}{n}c'est parti!{box}……………………
+@05B359	J'envoie les{n}{n}données, nya~★{box}……………………
+@05B385	J'envoie à présent{n}{n}les données.{box}……………………
+@05B3B4	J'envoie les{n}{n}données, hein!{box}……………………
+@05B3E0	Allez, j'envoie{n}{n}les données!{box}……………………
+@05B40F	Euh… j'envoie{n}{n}les données…{box}……………………
+@05B45D	…Échec de la{n}{n}liaison!{box}Reprends depuis{n}{n}le début!
+@05B48C	…La liaison a{n}{n}échoué!{box}Recommence depuis{n}{n}le début!
+@05B4BA	Hm… La liaison a{n}{n}échoué.{box}Tu veux bien{n}{n}recommencer?
+@05B4EA	…La liaison a{n}{n}échoué.{box}Recommence, s'il{n}{n}te plaît.
+@05B51A	Aïe aïe… La{n}{n}liaison a planté!{box}Faut tout{n}{n}reprendre!
+@05B54D	Fsssh! La liaison{n}{n}a raté, nya!{box}Tout recommencer,{n}{n}nyaaa!
+@05B581	Hm?… Échec de{n}{n}la liaison.{box}Peux-tu tout{n}{n}reprendre?
+@05B5B5	Ah! …Échec de la{n}{n}liaison!{box}Recommence tout!
+@05B5E4	Hein? …La liaison{n}{n}a échoué.{box}Essaie de{n}{n}recommencer!
+@05B617	Hein?! …La liaison{n}{n}a échoué!{box}Euh… tu peux{n}{n}recommencer…?
+@05B66C	Allez, {J}!{n}{n}On fonce!
+@05B691	Allez, {J}!{n}{n}On y va à fond!
+@05B6B9	…{J}.{n}{n}Donnons tout!
+@05B6DF	…{J}.{n}{n}Bon courage.
+@05B701	Ouais, {J}!{n}{n}T'as intérêt à{box}gagner!
+@05B72C	{J}! On y va,{n}{n}nyaaa!{box}On va gagner,{n}{n}nya!!
+@05B756	{J}… Faisons{n}{n}de notre mieux.
+@05B77B	Hé hé hé! {J}!{n}{n}Si tu perds, gare{box}à toi!
+@05B7A7	Hé hé! {J}!{n}{n}On va tout{box}donner!
+@05B7CD	…{J}…{n}{n}…On fait de{box}notre mieux…
+@05B818	Ouais!!{n}{n}Victoire, {J}!!
+@05B82E	On empoche l'objet{n}{n}de l'adversaire!
+@05B84B	…Hé hé!{n}{n}Bien joué, {J}!
+@05B86C	Ouiii!!{n}{n}{J} a gagné!!
+@05B883	L'objet adverse{n}{n}est à nous!
+@05B8A0	…Hi hi!{n}{n}Bravo, {J}★
+@05B8C3	…Bien. Tu as{n}{n}gagné, {J}.
+@05B8D8	On récupère donc{n}{n}l'objet adverse.
+@05B8F5	Hm… {J}.{n}{n}Prenons-le sans{box}nous faire prier.
+@05B91D	Oh…! C'est ta{n}{n}victoire, {J}.
+@05B931	L'objet adverse{n}{n}nous revient.
+@05B94E	{J}, puisqu'il{n}{n}est à nous, je le{box}prends, d'accord?
+@05B973	Ouais!!{n}{n}Gagné, {J}!!
+@05B98A	On rafle l'objet{n}{n}de l'autre!
+@05B9A7	…Ouais! Ça roule{n}{n}pour toi, {J}!
+@05B9CB	Nyaaa, gagné!!{n}{n}Bravo {J}, nya!
+@05B9E6	On a l'objet de{n}{n}l'autre, nya!
+@05BA04	Funyaaa~ {J}~!{n}{n}Trop contente,{box}nyaaa★
+@05BA28	Bravo, {J}.{n}{n}Beau combat.
+@05BA45	Hé hé… L'objet{n}{n}adverse est à{box}nous.
+@05BA67	…Hm. Continuons{n}{n}sur cette lancée.
+@05BA8E	Bien joué!{n}{n}Victoire, {J}!!
+@05BAA3	Hé hé! On rafle{n}{n}son objet!
+@05BAC6	Bon! On gagne{n}{n}aussi la{box}prochaine, {J}!
+@05BAF1	Génial!!{n}{n}Gagné, {J}!!
+@05BB08	On reçoit l'objet{n}{n}de l'adversaire!
+@05BB25	…Hé hé!{n}{n}Bravo, {J}!
+@05BB46	Ah… On a gagné!{n}{n}Bravo, {J}!!
+@05BB63	…Et l'objet de{n}{n}l'autre est à{box}nous!
+@05BB83	…{J}, tu es{n}{n}incroyable.{box}Je t'admire!
+@05BBCD	…………{n}{n}…On a perdu…
+@05BBE9	Bon sang!{n}{n}On gagnera la{box}prochaine!
+@05BC09	…………{n}{n}…Perdu… hein.
+@05BC25	…Trop rageant!{n}{n}La prochaine,{box}on gagne!
+@05BC4B	…………{n}{n}…Défaite.
+@05BC62	…………{n}{n}…………Bon sang!
+@05BC85	…………{n}{n}…Perdu… hélas.
+@05BC9A	…Ce n'est rien.{n}{n}La prochaine fois,{box}on gagnera.
+@05BCBE	Raaah, bon sang!{n}{n}On a perdu!!
+@05BCD6	Rhaa! La{n}{n}prochaine, on{box}l'écrase!
+@05BCFC	Nyaaaaan!!{n}{n}On a perdu,{box}nyaaa!!
+@05BD1E	Trop rageant,{n}{n}nya!{box}On gagnera la{n}{n}prochaine, nya!
+@05BD44	…Ah.{n}{n}…Nous avons perdu.
+@05BD5E	Tant pis. Nous{n}{n}ferons mieux la{box}prochaine fois.
+@05BD86	Quoiii?!{n}{n}Comment on a pu{box}perdre?!
+@05BDA2	{J}… Compris?{n}{n}La prochaine, on{box}gagne!!
+@05BDC7	…Oh non.{n}{n}…On a perdu…
+@05BDE0	…Tant pis.{n}{n}La prochaine fois,{box}on gagne!
+@05BE03	Snif… pardon…{n}{n}Si j'avais fait{box}plus d'efforts…
+@05BE2C	{J}…{n}{n}La prochaine fois,{box}je ferai mieux!
+@05BE6F	On continue les{n}{n}duels?
+@05BE8C	On refait un{n}{n}duel?
+@05BEA8	On poursuit les{n}{n}duels?
+@05BEC5	Souhaites-tu{n}{n}continuer?
+@05BEE4	On remet ça?
+@05BF00	On remet ça, nya?
+@05BF0A	Encore, nya?
+@05BF1E	Veux-tu continuer{n}{n}les duels?
+@05BF28	On continue?
+@05BF3B	On refait un{n}{n}duel?
+@05BF57	Un autre duel?
+@05BF72	Veux-tu continuer{n}{n}les duels?
+@05BF89	Oui
+@05BF91	Non
+@05BFC7	Bon boulot! On{n}{n}retourne au menu!
+@05BFF1	Bien joué~! On{n}{n}retourne au menu!
+@05C01A	Entendu.{n}{n}Retour au menu.
+@05C040	Oui. Bon travail.{n}{n}Retournons au{box}menu.
+@05C069	…OK. Bien bossé!{n}{n}Retour au menu!
+@05C093	Bon boulot, nya~★{n}{n}Retour au menu,{box}nya!
+@05C0BD	Beau travail.{n}{n}Retournons au{box}menu.
+@05C0EE	Bien joué, {J}.{n}{n}Retour au menu.
+@05C115	Bravo à nous!{n}{n}On retourne au{box}menu!
+@05C13F	…Oui! Bravo à{n}{n}nous…{box}…On retourne au{n}{n}menu.
+@05C1B5	Un échange par{n}{n}câble? OK, je{box}prépare tout!
+@05C1E3	C'est parti pour{n}{n}l'échange!{box}Choisis un objet!
+@05C209	Certains objets{n}{n}ne s'échangent{box}pas, attention!
+@05C238	Un échange par{n}{n}câble? OK! Je{box}m'en occupe!
+@05C263	On commence{n}{n}l'échange!{box}Choisis un objet,{n}{n}s'il te plaît!
+@05C28A	Fais attention,{n}{n}certains objets{box}ne s'échangent{n}{n}pas!
+@05C2B7	Un échange par{n}{n}câble? Entendu.
+@05C2DC	Commençons{n}{n}l'échange.{box}Choisis un objet.
+@05C303	Prends garde:{n}{n}certains objets{box}ne s'échangent{n}{n}pas.
+@05C332	Un échange par{n}{n}câble… Très bien,{box}je prépare tout.
+@05C360	Commençons{n}{n}l'échange. Choisis{box}un objet, veux-tu.
+@05C388	Fais attention:{n}{n}certains objets{box}ne s'échangent{n}{n}pas.
+@05C3B6	Un échange par{n}{n}câble? OK! Je{box}prépare ça!
+@05C3E5	C'est parti pour{n}{n}l'échange!!{box}Choisis ton objet!
+@05C40D	Y a des objets{n}{n}qu'on peut pas{box}échanger, gaffe,{n}{n}hein!
+@05C43E	Un échange par{n}{n}câble, nya?{box}Hanya★ Je{n}{n}prépare, nya!
+@05C46D	On commence{n}{n}l'échange, nya!{box}Choisis l'objet{n}{n}que tu veux, nya!
+@05C494	Certains objets{n}{n}s'échangent pas,{box}attention, nya!
+@05C4C2	Un échange par{n}{n}câble? Hé hé…{box}Préparons cela.
+@05C4F2	Commençons{n}{n}l'échange. Choisis{box}un objet, je te{n}{n}prie.
+@05C51D	Certains objets{n}{n}ne s'échangent{box}pas. Fais bien{n}{n}attention.
+@05C54E	Un échange par{n}{n}câble? Voyons…{box}D'accord.
+@05C578	Bon, on commence{n}{n}l'échange. Choisis{box}un objet.
+@05C5A0	Fais gaffe, hein:{n}{n}certains objets{box}ne s'échangent{n}{n}pas.
+@05C5CF	Un échange par{n}{n}câble? Super! Je{box}prépare tout!
+@05C5FC	C'est parti pour{n}{n}l'échange! Choisis{box}un objet!
+@05C623	Certains objets{n}{n}ne s'échangent{box}pas, attention.
+@05C650	Un échange par{n}{n}câble? Oui! Je{box}prépare tout!
+@05C67C	…On commence{n}{n}l'échange.{box}Choisis un objet,{n}{n}s'il te plaît.
+@05C6A4	Certains objets{n}{n}ne s'échangent{box}pas… fais{n}{n}attention…
+@05C6F6	On échange ça?
+@05C709	Oui
+@05C711	Non
+@05C722	Tu échanges ça?
+@05C734	Oui
+@05C73C	Non
+@05C74D	Échanger ceci,{n}{n}donc?
+@05C760	Oui
+@05C768	Non
+@05C779	C'est cela que tu{n}{n}échanges?
+@05C78D	Oui
+@05C795	Non
+@05C7A6	On échange ça,{n}{n}hein?
+@05C7B8	Oui
+@05C7C0	Non
+@05C7D1	On échange ça,{n}{n}nya?
+@05C7E5	Oui
+@05C7ED	Non
+@05C7FE	Tu échanges{n}{n}ceci?
+@05C811	Oui
+@05C819	Non
+@05C82A	Tu échanges ça?
+@05C83C	Oui
+@05C844	Non
+@05C855	Ça, on l'échange?
+@05C866	Oui
+@05C86E	Non
+@05C87F	…On échange ça…?
+@05C891	Oui
+@05C899	Non
+@05C8CD	OK! Lancement{n}{n}de l'échange!
+@05C8FC	Échange terminé!
+@05C916	D'accord! Je{n}{n}lance l'échange!
+@05C944	Et voilà,{n}{n}échange fait!
+@05C95F	Entendu. Lançons{n}{n}l'échange.
+@05C98E	Échange effectué.
+@05C9A9	Bien. Je lance{n}{n}l'échange.
+@05C9DA	L'échange est{n}{n}terminé.
+@05C9F5	Pigé! L'échange,{n}{n}c'est parti!!
+@05CA25	Et voilà,{n}{n}échange fait!
+@05CA40	OK, nya! Je lance{n}{n}l'échange, nya!
+@05CA72	Échange fini,{n}{n}nya!
+@05CA8E	Entendu. Je{n}{n}lance l'échange.
+@05CAC0	Échange accompli.
+@05CADC	D'accord! Je{n}{n}lance l'échange.
+@05CB0D	Et voilà,{n}{n}échange terminé!
+@05CB28	Oui, d'accord!{n}{n}Je lance{box}l'échange!
+@05CB59	Échange terminé!
+@05CB73	…Ah, o… oui!{n}{n}Je lance{box}l'échange!
+@05CBA6	L'échange est{n}{n}terminé…
+@05CBE4	Tu arrêtes?{n}{n}D'accord…
+@05CC06	On arrête?{n}{n}Bon, d'accord…
+@05CC29	Tu arrêtes?{n}{n}Entendu.
+@05CC48	Tu préfères{n}{n}arrêter?{box}Bien… d'accord…
+@05CC71	On arrête là?{n}{n}Ouais, pigé…
+@05CC98	On arrête, nya?{n}{n}Bon… OK, nya.
+@05CCC0	Tu arrêtes?{n}{n}Hé hé… Entendu.
+@05CCE7	On arrête?{n}{n}Ah. Bon, d'accord…
+@05CD0B	On arrête?{n}{n}Pff… d'accord.
+@05CD2F	…Hein? On{n}{n}arrête?{box}Ah, o… oui!{n}{n}D'accord.
+@05CD82	On continue les{n}{n}échanges?
+@05CD94	Oui
+@05CD9C	Non
+@05CDB0	Encore un{n}{n}échange?
+@05CDC1	Oui
+@05CDC9	Non
+@05CDDD	On poursuit les{n}{n}échanges?
+@05CDEF	Oui
+@05CDF7	Non
+@05CE0B	Veux-tu continuer{n}{n}les échanges?
+@05CE1E	Oui
+@05CE26	Non
+@05CE3A	Un autre échange,{n}{n}hein?
+@05CE4D	Oui
+@05CE55	Non
+@05CE69	On continue,{n}{n}nya?
+@05CE7C	Oui
+@05CE84	Non
+@05CE98	Souhaites-tu{n}{n}continuer?
+@05CEAA	Oui
+@05CEB2	Non
+@05CEC6	Encore un{n}{n}échange?
+@05CED7	Oui
+@05CEDF	Non
+@05CEF3	On continue, hein?
+@05CF03	Oui
+@05CF0B	Non
+@05CF1F	…On continue…?
+@05CF30	Oui
+@05CF38	Non
+@05CF6C	Allez, retour au{n}{n}menu câble!
+@05CF88	On retourne au{n}{n}menu câble!
+@05CFA4	Retour au menu{n}{n}câble.
+@05CFC0	Je nous ramène au{n}{n}menu câble.
+@05CFDC	On r'tourne au{n}{n}menu câble!
+@05CFF8	Retour au menu{n}{n}câble, nya.
+@05D015	Retournons au{n}{n}menu câble.
+@05D034	On retourne au{n}{n}menu câble, hein.
+@05D051	On retourne au{n}{n}menu câble!
+@05D06D	…On retourne{n}{n}au menu câble…
+@05D0AC	Pas un objet{n}{n}équipé!{box}Tu en choisis un{n}{n}autre?
+@05D0DD	Pas un objet{n}{n}équipé, voyons!{box}Prends-en un{n}{n}autre!
+@05D10E	Désolé, cet objet{n}{n}ne va pas.{box}Choisis-en un{n}{n}autre, veux-tu?
+@05D142	Oh? Pas cet objet.{n}{n}Prends-en un{box}autre, veux-tu?
+@05D176	Holà! Pas ce{n}{n}truc-là!{box}Prends-en un{n}{n}autre.
+@05D1A6	Pas cet objet,{n}{n}nya!{box}Choisis-en un{n}{n}autre, nya★
+@05D1D4	Tiens? Cet objet{n}{n}ne convient pas.{box}Peux-tu en{n}{n}choisir un autre?
+@05D209	Celui-là, tu peux{n}{n}pas le prendre!{box}Prends-en un{n}{n}autre, tu veux?
+@05D23C	Ah! Pas cet objet!{box}Prends-en un{n}{n}autre.
+@05D26B	Euh… cet objet{n}{n}ne va pas…{box}Tu peux en{n}{n}choisir un autre?
+@05D2C0	Tu mises ça,{n}{n}alors?
+@05D2DF	Cet objet-là, ça{n}{n}te va?
+@05D2FC	Cet objet, donc?
+@05D31A	C'est bien cet{n}{n}objet-là?
+@05D33A	Tu mises ce truc,{n}{n}hein?
+@05D359	Cet objet, nya?
+@05D379	Cet objet te{n}{n}convient?
+@05D398	Cet objet-là, ça{n}{n}te va?
+@05D3B5	Cet objet, OK?
+@05D3D1	…Cet objet…{n}{n}c'est bien ça…?
+@05D3EA	Oui
+@05D3F2	Non
+@1A612D	À qui parler?
+@1A613E	Solty
+@1A6166	Arkis
+@1A61A7	Sayaka
+@1A61B0	Retour
+@1A636B	Tiens, {J}!{n}{n}Alors, ça avance?
+@1A6388	Ne force pas trop,{n}{n}d'accord?{box}Des occasions, il{n}{n}y en aura encore.
+@1A63AF	Si tu y laisses ta{n}{n}peau, à quoi bon?
+@1A63CD	Savoir où est sa{n}{n}limite: voilà ce{box}qui fait un grand{n}{n}aventurier.
+@1A63F7	Je suis avec toi,{n}{n}alors tiens bon!
+@1A641D	La 【Pleine-Lune】{n}{n}se trouve dans la{box}【mer de la Lune】,{n}{n}au 【lac d'Argent】.
+@1A6445	Bon courage,{n}{n}{J}!
+@1A6464	…Oh, {J}!{n}{n}Ouf, te revoilà.{box}Ça me rassure.
+@1A6488	…Pardon?{n}{n}Tu l'as trouvée?
+@1A649B	Ne me dis pas…{n}{n}la 【Pleine-Lune】?!
+@1A64B9	…À votre âge…{n}{n}…………Incroyable!!
+@1A64DD	Figure-toi…{n}{n}Sayaka est passée{box}ici, il y a pas{n}{n}cinq minutes.
+@1A6500	D'après elle, un{n}{n}monstre aurait{box}surgi au{n}{n}【lac d'Argent】.
+@1A6524	Et un gros, qui{n}{n}plus est…{box}Franchement, j'ai{n}{n}craint le pire.
+@1A654C	Mais vous revenez,{n}{n}et en rapportant{box}la 【Pleine-Lune】…
+@1A6572	Bien. Si tu as pu{n}{n}battre ce monstre,{box}{J}, je n'ai{n}{n}plus de doute.
+@1A6592	Au nom de Solty…{n}{n}je vous déclare{box}membres de la{n}{n}guilde.
+@1A65B9	Bon! Qu'est-ce que{n}{n}vous vouliez me{box}demander, déjà?
+@1A65E8	…D'accord, je vois{n}{n}le problème.{box}Tu cherches ton{n}{n}grand frère, hein.
+@1A6625	…………{J}, je ne{n}{n}sais pas si c'est{box}bien ton frère,{n}{n}mais…
+@1A6649	il y a trois mois{n}{n}environ, deux{box}voyageurs sont{n}{n}passés ici.
+@1A6669	Vêtus de noir…{n}{n}Un jeune couple,{box}à ce qu'il paraît.
+@1A668F	Remarque… ils sont{n}{n}vite repartis,{box}apparemment.
+@1A66AF	{J}… c'est tout{n}{n}ce que je sais{box}pour l'instant,{n}{n}mais…
+@1A66D0	laisse-moi un peu{n}{n}de temps, et je{box}me renseignerai.
+@1A66F1	C'est entendu.{n}{n}Je me renseigne.
+@1A670D	En attendant… sans{n}{n}vouloir abuser…{box}un petit boulot,{n}{n}ça vous dirait?
+@1A6730	Quand vous voulez,{n}{n}bien sûr. Il vous{box}faudra des sous,{n}{n}pas vrai?
+@1A6757	Bon! C'est dit.{n}{n}Bienvenue à bord!
+@1A6775	…Tiens?
+@1A6786	Bonjour, Solty.{n}{n}Mission accomplie.
+@1A67AF	Bravo! Toujours{n}{n}aussi efficace.
+@1A67CE	…Tiens. Ta prime{n}{n}de 60000G.
+@1A67F1	Un travail pareil…{n}{n}Hé hé… du gâteau.
+@1A6813	…Hm? Et qui sont{n}{n}ces enfants?
+@1A6830	Je te présente{n}{n}{J} et {P},{box}nos nouvelles{n}{n}recrues.
+@1A6859	Tiens donc…{n}{n}Des collègues?{box}Qui l'eût cru.
+@1A6875	…………Hé hé. Et moi{n}{n}qui les prenais{box}pour le personnel!
+@1A68A6	Oh, hi hi! Non,{n}{n}pas tout à fait.
+@1A68C6	Ne te fie pas aux{n}{n}apparences: ces{box}deux-là, c'est du{n}{n}solide!
+@1A68F1	Je vois. Eh bien,{n}{n}bonne chance,{box}jeune prodige.
+@1A6915	Tiens, j'y pense.{n}{n}J'ai du travail{box}pour toi.
+@1A692F	Repeindre mon{n}{n}Unitron, par{box}exemple… Ça te{n}{n}dirait?
+@1A6954	Ha ha ha ha!{n}{n}Je vous laisse!
+@1A6976	Hi hi, toujours le{n}{n}même.{box}Hein? Lui?
+@1A6993	C'est Arkis{n}{n}Celebrate, un{box}aventurier de{n}{n}grand talent.
+@1A69B8	Un peu trop sûr de{n}{n}lui, mais ce n'est{box}pas un mauvais{n}{n}garçon.
+@1A69DA	Vous serez{n}{n}collègues, alors{box}soyez sympas!
+@1A69FA	Bon, allez! Merci{n}{n}pour aujourd'hui!
+@1A6A12	Ah… euh… j'allais{n}{n}oublier un truc.
+@1A6A31	Désormais, avant{n}{n}de partir où que{box}ce soit, passez{n}{n}me voir.
+@1A6A59	Des missions ou{n}{n}autre chose…{box}j'aurai peut-être{n}{n}du nouveau.
+@1A6A7E	À la prochaine!
+@1A6AC5	Oh, {J}! Alors,{n}{n}tu t'habitues?
+@1A6AE3	La vie d'aventure,{n}{n}c'est pas évident,{box}hein?
+@1A6B01	Que des risques,{n}{n}aucune sécurité…
+@1A6B1E	…Oh? Pardon.{n}{n}Je ne voulais pas{box}te décourager.
+@1A6B44	Alors, qu'est-ce{n}{n}qui t'amène?{box}Hein? Du travail?
+@1A6B61	Voyons… j'ai bien{n}{n}une mission, mais…{box}elle est plutôt{n}{n}corsée.
+@1A6B8C	Hmm. Je n'ai rien{n}{n}d'autre, hélas.{box}Désolée, {J}.
+@1A6BAC	Le boulot? De la{n}{n}【chasse au bandit】
+@1A6BC8	Il faut démanteler{n}{n}un célèbre gang{box}de pillards armés:{n}{n}【Ele Zar】.
+@1A6BF0	Si ça t'intéresse,{n}{n}reviens me parler.
+@1A6C1D	Tu acceptes la{n}{n}mission?{box}…Entendu.
+@1A6C37	Alors… je vais te{n}{n}faire un résumé.
+@1A6C56	La bande armée{n}{n}【Ele Zar】 est,{box}de toutes celles{n}{n}qu'on connaît,
+@1A6C82	la plus grande, et{n}{n}on la dit aussi{box}la plus forte.
+@1A6CA7	Et on dit que la{n}{n}plupart de ses{box}membres pilotent{n}{n}des Unitrons.
+@1A6CCF	D'ailleurs, ils en{n}{n}auraient des{box}dizaines.
+@1A6CF7	Sans compter un{n}{n}vaste réseau{box}d'informateurs.
+@1A6D1D	Grâce à tout ça,{n}{n}ils attaquent les{box}caravanes,
+@1A6D40	et vont jusqu'à{n}{n}piller les villes{box}et les villages{n}{n}des environs.
+@1A6D61	Et le chef présumé{n}{n}d'【Ele Zar】,
+@1A6D81	surnommé le{n}{n}【Démon aux Sabots】{box}c'est…{n}{n}【Lanza Ele Zar】.
+@1A6DA5	On ne sait pas{n}{n}grand-chose sur{box}lui, mais il{n}{n}serait d'une force{box}terrifiante.
+@1A6DCD	…C'est à peu près{n}{n}tout. Et voici{box}un petit bonus{n}{n}de ma part.
+@1A6DF1	【Ele Zar】 se{n}{n}cacherait dans la{box}【forêt verdoyante】
+@1A6E18	…Bon. Surtout,{n}{n}ne prends pas de{box}risques inutiles.
+@1A6E36	J'espère de bonnes{n}{n}nouvelles!
+@1A6E54	Salut, jeune{n}{n}prodige! Toujours{box}la forme? C'est{n}{n}bien de ton âge.
+@1A6E78	Il paraît que tu{n}{n}as accepté de{box}traquer Ele Zar?
+@1A6E9E	Je serai franc:{n}{n}vous n'êtes pas de{box}taille.
+@1A6EBA	Rentrez donc chez{n}{n}maman avant de{box}vous faire mal.
+@1A6EDB	Les enfants sages{n}{n}écoutent les{box}grandes personnes.
+@1A6F21	Pff. Occupe-toi{n}{n}de tes affaires.{box}J'ai pas de leçon{n}{n}à recevoir de toi.
+@1A6F52	Pfff! Mêle-toi de{n}{n}tes oignons!
+@1A6F74	…Et alors?{n}{n}Tu n'as aucune{box}leçon à me donner.
+@1A6FA0	Merci du conseil,{n}{n}bien que superflu.
+@1A6FD0	Quoiii?! Tu veux{n}{n}que je te croque{box}le pif?!
+@1A6FFC	Grrr!! Mêle-toi de{n}{n}tes oignons, nya!!
+@1A7023	Merci de votre{n}{n}sollicitude. Mais{box}elle est inutile.
+@1A7054	Hmpf! …Oh, merci{n}{n}infiniment. Mais…{box}mêlez-vous de vos{n}{n}oignons!!
+@1A708B	Grr! …Ça, on verra{n}{n}bien en essayant!!
+@1A70BA	…Mais… pourquoi…{n}{n}pourquoi vous{box}dites des choses{n}{n}pareilles?
+@1A70ED	Allons, allons…{n}{n}Ces jeunes, quelle{box}insolence!
+@1A710F	Moi qui me donnais{n}{n}la peine de vous{box}prévenir… C'est{n}{n}désolant.
+@1A7133	Une fille qui fait{n}{n}cette tête-là ne{box}plaît à personne,{n}{n}vous savez?
+@1A7158	Sur ce, je vous{n}{n}laisse.{box}…Ha ha ha ha ha!!
+@1A719B	…Tss, quel sale{n}{n}type. Il nous{box}traite comme des{n}{n}gosses!
+@1A71C1	{J}! On va lui{n}{n}clouer le bec!
+@1A7208	…Quelle peste!!{n}{n}Ma tête, il a pas{box}à la critiquer!
+@1A7229	{J}! On va lui{n}{n}montrer de quoi on{box}est capables!
+@1A7275	…Hm. Individu{n}{n}détestable.{box}Il nous traite en{n}{n}enfants…!
+@1A729A	Alors, {J}…{n}{n}montrons-lui notre{box}vraie valeur.
+@1A72EC	…………Quel homme{n}{n}désagréable.
+@1A7307	Ignorons-le et{n}{n}faisons de notre{box}mieux, {J}.
+@1A7353	Tss! Il me gonfle,{n}{n}ce type! J'aurais{box}dû lui croquer le{n}{n}pif pour de vrai!
+@1A737A	Bon sang! On va{n}{n}lui montrer, coûte{box}que coûte!!
+@1A73CF	Fsssh! Il est{n}{n}méchant, nya!{box}La prochaine fois,{n}{n}je le griffe, nya!
+@1A73F2	{J}! On va le{n}{n}tabasser, nya!
+@1A743B	Eh bien… Il nous{n}{n}prend décidément{box}pour des enfants.
+@1A7459	Hm. Prouvons-lui{n}{n}le contraire en{box}menant cette{n}{n}mission à bien.
+@1A74AD	…Non mais quel{n}{n}crâneur! Tout ça{box}parce qu'il est{n}{n}un peu mignon!
+@1A74D2	Écoute, {J}!{n}{n}Il va voir ce{box}qu'il va voir!!
+@1A7523	Pff. Il est pas{n}{n}gentil, lui.{box}Il nous traite{n}{n}comme des bébés!
+@1A7549	On bat Ele Zar, et{n}{n}il nous devra des{box}excuses!
+@1A759F	…………C'est{n}{n}méchant…{box}Je ne l'aime pas,{n}{n}ce monsieur.
+@1A75BE	{J}…!{n}{n}{P} aussi… va{box}faire de son{n}{n}mieux!
+@1A760E	Oh, te voilà.{n}{n}Alors, ce travail?
+@1A762B	…Je vois.{n}{n}Pas encore, hein.
+@1A7641	Il paraît que le{n}{n}chef d'【Ele Zar】{box}est terriblement{n}{n}fort.
+@1A7662	On raconte qu'il{n}{n}pilote un Unitron{box}de type Centaure,
+@1A7685	et que sa{n}{n}hallebarde peut{box}fendre la terre.
+@1A76A8	Fais bien{n}{n}attention, {J}!
+@1A76CB	【Ele Zar】 se cache{n}{n}dans la{box}【forêt verdoyante】
+@1A76EC	Surtout, ne prends{n}{n}pas de risques!{box}C'est compris?
+@1A7714	…Oh, {J}!{n}{n}Te revoilà enfin!
+@1A772E	Ouf! Je dois dire{n}{n}que cette fois, je{box}m'inquiétais un{n}{n}peu.
+@1A7756	……………………{n}{n}…………Hein?
+@1A776D	Vous avez battu{n}{n}【Ele Zar】?{box}Bravo, tous les{n}{n}deux!
+@1A7790	Hm hm. Ele Zar a{n}{n}dit que la bande{box}allait se{n}{n}dissoudre?
+@1A77B5	Si c'est vrai,{n}{n}【Ele Zar】 ne{box}tourmentera plus{n}{n}personne.
+@1A77DE	Beau travail,{n}{n}{J}!
+@1A77F3	Voici votre prime{n}{n}de 50000G.
+@1A7811	Encore bravo pour{n}{n}aujourd'hui!{box}J'aurai d'autres{n}{n}boulots pour vous!
+@1A7870	…Oh, qu'y a-t-il?{n}{n}Tu veux me parler?
+@1A7892	Hein? Les ruines{n}{n}de 【Raphias】?{box}Racontez-moi ça.
+@1A78D1	…………Je vois.{n}{n}Je comprends.
+@1A78EF	Ah, le{n}{n}【Chevalier Noir】…{box}J'en ai entendu{n}{n}parler, oui.
+@1A7910	Hmm… à vrai dire,{n}{n}je préférerais{box}que vous n'y{n}{n}alliez pas.
+@1A7934	J'ai un mauvais{n}{n}pressentiment.{box}Pire que jamais.
+@1A7958	Et mon instinct ne{n}{n}m'a jamais trompée{box}jusqu'ici… pas une{n}{n}seule fois.
+@1A797A	…………{n}{n}…Ta décision est{box}prise, je vois.
+@1A7997	Si vous y allez…{n}{n}revenez me parler.
+@1A79BB	On en reparlera à{n}{n}ce moment-là.
+@1A79D7	Vous y tenez…{n}{n}vraiment?{box}…Alors… je n'ai{n}{n}pas le choix.
+@1A79F9	Dans les ruines de{n}{n}【Raphias】… se{box}trouve une antique{n}{n}【arène】.
+@1A7A20	Jusqu'ici, on a{n}{n}fait en sorte que{box}personne ne s'en{n}{n}approche, mais…
+@1A7A44	elle renferme une{n}{n}【certaine chose】.{box}Rien de très{n}{n}réjouissant.
+@1A7A6C	Si jamais le{n}{n}【Chevalier Noir】{box}se montre, ce sera{n}{n}là-bas… je pense.
+@1A7A8F	Retiens bien ceci:{n}{n}cet endroit est{box}dangereux.
+@1A7AAF	Plus que tous ceux{n}{n}que tu as vus.{box}Parce que……{n}{n}…………
+@1A7ACE	Fais attention.{n}{n}C'est compris?
+@1A7B1C	Oh? …………Ouf. Ça{n}{n}a l'air d'aller.
+@1A7B39	Je suis un peu{n}{n}rassurée.{box}Oh! Hi hi, mais{n}{n}c'est vrai!
+@1A7B5B	Mais écoute.{n}{n}Pour l'instant,{box}tout va bien, mais
+@1A7B76	si tu baisses ta{n}{n}garde, ce sera la{box}fin de tout.
+@1A7B95	Ne jamais baisser{n}{n}sa garde! Ne{box}jamais se presser!
+@1A7BAF	C'est la règle de{n}{n}base de tout{box}【aventurier】.
+@1A7BD1	Alors promets-moi{n}{n}de toujours{box}revenir en vie!{n}{n}C'est compris?
+@1A7BF5	Bon… Je t'attends{n}{n}avec Arkis.
+@1A7C1F	À vrai dire…{n}{n}je préférerais ne{box}pas te laisser{n}{n}partir…
+@1A7C3C	Mais l'【aventure】,{n}{n}c'est votre vie…{box}hein, {J}…
+@1A7C5F	Ta vie, à toi de{n}{n}la protéger.
+@1A7C79	C'est compris?
+@1A7C93	…………{n}{n}{J}!!
+@1A7CA7	Fini, les{n}{n}imprudences!{box}C'est compris?
+@1A7CC0	Encore une folie,{n}{n}et je te retire ta{box}licence!
+@1A7CE5	…Bien. Puisque tu{n}{n}regrettes, ça ira.
+@1A7D18	Tu as l'oreille{n}{n}fine, dis donc!{box}Oui, j'ai une{n}{n}mission pour vous.
+@1A7D3F	Et cette fois, la{n}{n}demande sort de{box}l'ordinaire!
+@1A7D62	Si ça t'intéresse,{n}{n}reviens me parler.
+@1A7D90	Tu acceptes?{n}{n}Bon… d'accord.
+@1A7DAB	C'est un travail{n}{n}assez spécial.
+@1A7DCA	La cliente, c'est{n}{n}Sirius. Vous la{box}connaissez, non?
+@1A7DED	C'est rare qu'elle{n}{n}fasse appel à la{box}guilde, tu sais.
+@1A7E0F	Vous allez devoir{n}{n}vous rendre à la{box}【tour du Mirage】.
+@1A7E31	Là-bas, il faudra{n}{n}récupérer une clé{box}argentée, appelée{n}{n}【clé des Enfers】.
+@1A7E57	Voilà la mission{n}{n}en résumé.
+@1A7E74	Et maintenant, un{n}{n}petit bonus de ma{box}part, pour vous{n}{n}aider.
+@1A7E9F	Il paraît que la{n}{n}【tour du Mirage】{box}est liée à un{n}{n}antique édifice{box}disparu depuis{n}{n}des siècles,
+@1A7EC5	appelé les{n}{n}【ruines du Vent】.
+@1A7EEC	Et à son dernier{n}{n}étage se trouve{box}un autel antique.
+@1A7F10	La clé que vous{n}{n}cherchez y est{box}sûrement, non?
+@1A7F31	Bien sûr, il y{n}{n}aurait plein de{box}monstres. Faites{n}{n}attention!
+@1A7F57	Rappelez-vous la{n}{n}dernière fois…{box}Faites vraiment{n}{n}attention.
+@1A7F82	Vous savez, j'ai{n}{n}une haute opinion{box}de vos talents.
+@1A7FA2	Pas de folies,{n}{n}{J}!
+@1A7FC6	Tiens donc! Notre{n}{n}jeune prodige!{box}Oh, pardon.
+@1A7FE6	J'ai appris que le{n}{n}【Chevalier Noir】{box}vous a mis une{n}{n}belle raclée?
+@1A800E	…Je vous l'avais{n}{n}dit. Ce métier{box}n'est pas un jeu.
+@1A8034	Cette fois, vous{n}{n}vous en tirez avec{box}la vie sauve,
+@1A8059	mais inutile de{n}{n}gâcher vos vies{box}pour rien, non?
+@1A807C	Un enfant, ça doit{n}{n}rester un enfant.{box}Allez donc jouer à{n}{n}cache-cache.
+@1A80A2	Si vous comprenez{n}{n}ce que je dis,{box}rentrez vite à la{n}{n}maison.
+@1A80CA	Hein? On a bien{n}{n}compwis, jeune{box}pwodige? Ha ha!!
+@1A8115	Bon sang! Il se{n}{n}gêne pas, lui!!
+@1A8131	Il nous prend{n}{n}vraiment de haut!{box}Comme des gosses!
+@1A8159	On va lui montrer,{n}{n}hein, {J}!
+@1A81A8	Grrr! Toujours{n}{n}aussi odieux, lui!
+@1A81C5	Beau gosse, mais{n}{n}caractère pourri!{box}Le genre de gars à{n}{n}fuir!
+@1A81F1	Un jour, on lui{n}{n}rabattra son{box}caquet, tu verras!
+@1A8244	C'était sans doute{n}{n}un conseil, mais{box}d'un ton bien{n}{n}méprisant.
+@1A8268	…Décidément, le{n}{n}courant ne passe{box}pas avec cet{n}{n}homme.
+@1A8289	Hm… {J}.{n}{n}Ignorons-le et{box}allons-y.
+@1A82D4	…………Mon Dieu.{n}{n}Quelle façon de{box}nous traiter.
+@1A82F0	Inutile de prêter{n}{n}attention aux{box}propos d'un tel{n}{n}homme.
+@1A8313	Hâtons-nous{n}{n}plutôt, {J}.
+@1A835F	Pfiou… J'étais à{n}{n}deux doigts de lui{box}en coller une.
+@1A8381	Je me suis retenu{n}{n}pour Solty, mais{box}sérieux, quoi!
+@1A83A9	Raaah!! J'ai les{n}{n}nerfs! Allez, on{box}décolle, vite!
+@1A8401	Fsssh! J'étais si{n}{n}fâchée que j'ai{box}failli tomber dans{n}{n}les pommes, nya!!
+@1A8426	Si je le recroise,{n}{n}je le réduis en{box}miettes sans{n}{n}discuter, nya!!
+@1A844D	…Ça m'énerve,{n}{n}nyaaa! Allez, on{box}file, nya!!
+@1A84A0	…Hm hm. On nous{n}{n}prend encore pour{box}des enfants.
+@1A84BF	Mais {J}, ne{n}{n}perds pas{box}confiance en toi.
+@1A84DC	Suffisance et{n}{n}assurance, ce{box}sont deux choses{n}{n}bien distinctes.
+@1A8531	…Non mais quel{n}{n}sale type?!{box}J'y crois pas!
+@1A8555	On va lui faire{n}{n}ravaler ses mots!{box}Compris, {J}?
+@1A857B	Allez, en route,{n}{n}et que ça saute!
+@1A85C3	Mmmh! Il a le don{n}{n}de m'agacer, lui!
+@1A85E0	P… pff! Nous, on{n}{n}a passé l'âge de{box}répondre à ça!
+@1A8607	Allez, on y va,{n}{n}{J}!!
+@1A864C	Dis… {J}…{n}{n}Monsieur Arkis…
+@1A8668	il déteste {P}…{n}{n}c'est… ça?
+@1A8685	Pourquoi… il est{n}{n}si méchant?{box}…C'est pas gentil…
+@1A86A8	Hein…? Ah… oui.{n}{n}On y va…
+@1A86FF	Ah, {J}. Tu ne{n}{n}forces pas trop,{box}j'espère?
+@1A871D	…Ah non? Tant{n}{n}mieux. Mais{box}fais attention.
+@1A8741	Mort, on ne peut{n}{n}plus rien faire.{box}Je le répète, mais{n}{n}c'est vrai.
+@1A876A	Oui…{n}{n}surtout quand on{box}est 【aventurier】.
+@1A8784	【Se battre pour{n}{n}survivre】: c'est{box}la règle des{n}{n}aventuriers.
+@1A87AB	Retiens bien ça.{n}{n}Ne l'oublie pas.
+@1A87CF	Allez, bonne{n}{n}chance, {J}!!
+@1A87F9	La mission de{n}{n}Sirius: trouver la{box}【clé des Enfers】.
+@1A8819	Le lieu? La{n}{n}【tour du Mirage】.
+@1A8835	Courage,{n}{n}{J}!
+@1A8856	{J}! Pas de{n}{n}bobo, on dirait!
+@1A8886	…………{n}{n}Je vois… D'accord.
+@1A889E	Pour l'instant,{n}{n}faites votre{box}rapport à Sirius.
+@1A88BD	Elle est juste là.
+@1A88D3	{J}. Votre{n}{n}retour me soulage.
+@1A8900	…Je vois…{n}{n}On n'y peut rien.
+@1A891A	Vous êtes en vie:{n}{n}c'est déjà une{box}grâce.
+@1A893A	Oubliez ma{n}{n}requête, je vous{box}en prie.
+@1A8957	Car il vous faut{n}{n}désormais partir.
+@1A8977	…Oui… aux ruines{n}{n}de Raphias… vers{box}l'【arène】.
+@1A899B	Tout a commencé{n}{n}là-bas. Et c'est{box}là-bas que tout{n}{n}finira.
+@1A89C5	Allez-y, et vous y{n}{n}trouverez votre{box}propre 【voie】.
+@1A89EB	Je ne puis vous en{n}{n}dire davantage.{box}Ou plutôt… cela{n}{n}m'est interdit.
+@1A8A15	Que les esprits{n}{n}vous protègent.
+@1A8A3C	C'est fait, le{n}{n}rapport?{box}Bon… je vois.
+@1A8A5E	Ah… au fait.{n}{n}Sirius m'a confié{box}quelque chose.
+@1A8A81	…Tenez. La prime:{n}{n}50000G.
+@1A8A9B	Prenez donc. C'est{n}{n}ce qui était{box}convenu.
+@1A8AC2	« Un modeste gage{n}{n}de gratitude »,{box}selon Sirius.
+@1A8AE4	…………Allons, haut{n}{n}les cœurs! Ça ira{box}mieux la prochaine{n}{n}fois.
+@1A8B45	Pardon? Vous allez{n}{n}aux ruines de{box}【Raphias】?
+@1A8B62	…………{n}{n}Hi… hi. Je le{box}sentais venir.
+@1A8B7F	Quand j'ai parlé{n}{n}avec Sirius… je{box}m'en doutais un{n}{n}peu.
+@1A8BA4	Pas par goût de{n}{n}l'【aventure】, mais{box}pour protéger ce{n}{n}qui vous est cher.
+@1A8BCA	{J}.{n}{n}Quand ta décision{box}sera prise…
+@1A8BE4	reviens me parler.{n}{n}Je t'attendrai.
+@1A8C11	Ta décision est{n}{n}prise, je vois.{box}Je vais… tout te{n}{n}raconter.
+@1A8C13	Ta décision est{n}{n}prise, je vois.{box}Je vais… tout te{n}{n}raconter.
+@1A8C36	【Chevalier Noir】…{n}{n}Non… ton frère
+@1A8C53	se trouverait à{n}{n}l'【arène】 de{box}【Raphias】, dit-on.
+@1A8C74	Dans quel but, je{n}{n}l'ignore. Mais…
+@1A8C8D	il a volé la 【clé】{n}{n}avant de filer à{box}l'【arène】.
+@1A8CA9	Ça suffit pour{n}{n}comprendre. La{box}【clé】… et la{n}{n}【porte】.
+@1A8CCD	Il n'y a qu'une{n}{n}réponse possible.{box}Mais ce n'est pas{n}{n}une certitude.
+@1A8CEE	Je me trompe{n}{n}peut-être. Va le{box}vérifier de tes{n}{n}propres yeux.
+@1A8D16	Encore une chose:{n}{n}un petit tuyau.
+@1A8D31	En ce moment, des{n}{n}monstres se{box}rassemblent à{n}{n}Raphias.
+@1A8D53	Ne regarde pas que{n}{n}droit devant toi:{box}surveille aussi{n}{n}les alentours.
+@1A8D76	Si tu as compris…{n}{n}alors, en route.
+@1A8D91	…Écoute bien.
+@1A8D9C	Tu dois revenir,{n}{n}quoi qu'il arrive!
+@1A8DE9	…Je n'ai plus{n}{n}rien à te dire.
+@1A8E07	Sauf une chose:{n}{n}ce combat…
+@1A8E25	sera le plus grand{n}{n}des 【combats】.
+@1A8E43	La fin de tous les{n}{n}【cauchemars】… elle{box}est toute proche.
+@1A8E68	Je prie pour que{n}{n}ça se réalise.
+@1A8E89	Courage. Et{n}{n}reviens en vie,{box}surtout.
+@1A8EAA	Avec ton frère.
+@1A8EC8	Au cœur des ruines{n}{n}de 【Raphias】…{box}…l'【arène】.
+@1A8EE9	Ce qui t'attend{n}{n}【au-delà】…{box}c'est l'ancien{n}{n}【cauchemar】.
+@1A8F0B	…{J}.{n}{n}Tu dois revenir{box}en vie, quoi qu'il{n}{n}arrive.
+@1A8F3C	……………………{n}{n}……{J}.
+@1A8F55	Ton 【combat】 n'est{n}{n}pas encore fini,{box}n'est-ce pas?
+@1A8F76	Alors… ne pleure{n}{n}pas. Pas{box}maintenant.
+@1A8F96	Quand tout sera{n}{n}réglé… alors{box}seulement, pleure.
+@1A8FBB	Pour l'instant…{n}{n}rien n'est fini.
+@1A8FD8	Je sais que c'est{n}{n}dur à entendre,{box}mais retourne…{n}{n}là-bas.
+@1A8FFE	Et découvre toute{n}{n}la vérité.{box}D'accord, {J}?
+@1A901F	Ça va aller. Tu as{n}{n}des amis, non?
+@1A903F	Crois en eux… et{n}{n}fais un pas en{box}avant.
+@1A905D	Ensuite… reviens.{n}{n}On t'attendra.
+@1A9084	Je vais te montrer{n}{n}la preuve que tu{box}as des amis.
+@1A90B1	Allez, va.{n}{n}…………{J}!
+@1A90CA	Sous l'【arène】…{n}{n}au-delà de la{box}【porte du Destin】!
+@1A90FC	Oh?{n}{n}Mais c'est {J}!
+@1A9112	Il paraît que tu{n}{n}vas souvent à la{box}【tour du Mirage】?
+@1A9136	Il y a quelque{n}{n}chose d'amusant{box}là-bas?
+@1A9152	Hi hi. Bon, je ne{n}{n}t'embête pas.{box}On a tous nos{n}{n}petits secrets.
+@1A9176	Pour vous deux,{n}{n}{J}, je ne{box}m'en fais plus.
+@1A9197	Régler ses propres{n}{n}problèmes{box}soi-même…
+@1A91B1	c'est ce qui fait{n}{n}un 【aventurier】 de{box}premier ordre.
+@1A91D5	Allez, bon{n}{n}courage, {J}.
+@1A91FD	Que le temps passe{n}{n}vite…{box}Ah, l'【aventure】…{n}{n}hein.
+@1A9220	Ça me rend un peu{n}{n}triste, mais…{box}c'est une bonne{n}{n}chose.
+@1A9245	Tiens bon,{n}{n}{J}!
+@1A926A	…{J}!{n}{n}Tu es au courant?
+@1A928A	Les autorités{n}{n}viennent de nous{box}confier une{n}{n}mission.
+@1A92AB	L'équipe d'enquête{n}{n}officielle a fait{box}chou blanc…
+@1A92CD	Alors, désormais,{n}{n}les aventuriers{box}sont autorisés à y{n}{n}entrer.
+@1A92F1	Mais il faut pour{n}{n}ça une 【licence】{box}spéciale.
+@1A9310	{J}, si vous{n}{n}voulez y aller…
+@1A932C	je vous la{n}{n}prépare. Passez{box}la chercher plus{n}{n}tard.
+@1A934C	À tout à l'heure!
+@1A9368	Oh! Parfait, vous{n}{n}tombez à pic!
+@1A938D	…Tenez. Voici la{n}{n}carte de licence.
+@1A93A8	Avec elle, vous{n}{n}pourrez entrer{box}dans le{n}{n}【Miroir sacré】.
+@1A93C9	Mais… comment{n}{n}pénétrer dans{box}【cette chose】?
+@1A93EB	{J}, vous avez{n}{n}une idée?
+@1A940A	D'après ce qu'on{n}{n}m'a dit, l'équipe{box}d'enquête n'a même{n}{n}pas pu approcher.
+@1A9432	Une licence ne{n}{n}sert à rien si{box}on ne peut pas{n}{n}entrer.
+@1A9458	Il vaudrait mieux{n}{n}trouver un moyen.
+@1A9476	Allez, courage!{n}{n}J'espère de bonnes{box}nouvelles!
+@1A94D1	{J}.{n}{n}L'enquête avance?
+@1A94EA	【Cette chose】… on{n}{n}l'appellerait{box}【Yggdrasil】.
+@1A950D	C'est ce que dit{n}{n}une 【fresque】{box}découverte{n}{n}récemment.
+@1A9535	Pour le reste, on{n}{n}ne sait rien.
+@1A9558	Maintenant, tout{n}{n}repose sur toi,{box}{J}.
+@1A9573	…Pourquoi? Parce{n}{n}que les autres ont{box}tous abandonné.
+@1A9599	C'est désolant,{n}{n}mais personne{box}n'arrive à entrer,{n}{n}alors bon…
+@1A95C0	J'espère de bonnes{n}{n}nouvelles, {J}!
+@1A95E8	【Yggdrasil】…{n}{n}Ça me tracasse.
+@1A9608	Ça a peut-être un{n}{n}rapport avec{box}【Ragnarok】.
+@1A9627	C'est juste une{n}{n}【intuition】.
+@1A9648	Tiens?{n}{n}Le jeune prodige!
+@1A965F	Toujours en forme,{n}{n}c'est de ton âge.{box}Bien, très bien.
+@1A9681	Hm? Quoi donc? Tu{n}{n}as l'air d'avoir{box}quelque chose à{n}{n}dire.
+@1A96A1	Que j'arrête avec{n}{n}« jeune prodige »?{box}Ha ha! Pas de quoi{n}{n}te vexer.
+@1A96C6	Tous les enfants{n}{n}en rêvent, non?{box}Ça devrait te{n}{n}faire plaisir.
+@1A96EB	On surnommait le{n}{n}héros légendaire{box}【Rod】 le Maître{n}{n}des Maîtres…
+@1A9715	Lui, on l'appelait{n}{n}aussi 【Prodige】.
+@1A9732	Bien. Sur ce, je{n}{n}vous laisse.
+@1A9753	Hm? Qu'y a-t-il?{n}{n}Je suis occupé.
+@1A9770	Je jouerai avec{n}{n}toi une autre{box}fois. …Ha ha ha!
+@1A979F	Salut, jeune{n}{n}prodige! Toujours{box}en un seul{n}{n}morceau? Alors…
+@1A97BF	tu as renoncé à{n}{n}traquer Ele Zar,{box}on dirait.
+@1A97DD	Bien. C'est sage.{n}{n}Inutile de forcer.
+@1A97FA	Une mission à ta{n}{n}taille? Disons…{box}【enfants perdus】?{n}{n}Ha ha ha!
+@1A9821	…Comment? Tu{n}{n}continues encore?
+@1A983F	…Quelle bêtise…{n}{n}Je t'avais dit{box}d'arrêter, non?
+@1A9863	Pourquoi{n}{n}t'obstiner ainsi?{box}Par 【orgueil】{n}{n}de gamin?
+@1A9887	Allons, allons.{n}{n}Écoute-moi bien:{box}arrête tout de{n}{n}suite.
+@1A98A3	Je le répète: ce{n}{n}n'est pas de votre{box}âge.
+@1A98C2	C'est compris?
+@1A98D8	Un enfant, ça{n}{n}écoute les{box}grandes personnes.
+@1A98F9	Voilà ce que fait{n}{n}un enfant sage.{box}Compris?
+@1A992C	…Pourquoi tu leur{n}{n}dis toujours ça,{box}mon petit Arkis?
+@1A9955	Parce que ce sont{n}{n}des enfants.{box}Rien de plus.
+@1A9981	Tu penses encore{n}{n}à 【cette affaire】?{box}Ce n'est pas toi{n}{n}qui……… enfin…
+@1A99B4	Pas du tout. Je ne{n}{n}veux simplement{box}pas d'enfants dans{n}{n}mes pattes.
+@1A99E1	…Bon.{n}{n}Si tu le dis.
+@1A99F9	Enfin, restons-en{n}{n}là. Hein, {J}?
+@1A9A24	…?! …C'est toi,{n}{n}{J}? Écouter{box}aux portes, ce{n}{n}n'est pas bien.
+@1A9A45	Papa et maman ne{n}{n}te l'ont pas dit?{box}Hé… ha ha ha!{n}{n}Je vous laisse.
+@1A9A76	Oh là là…{n}{n}À plus, {J}.
+@1A9A9E	Ne fourre pas ton{n}{n}nez dans les{box}affaires des{n}{n}grands.
+@1A9ABE	Un enfant reste à{n}{n}sa place… Tâche{box}de t'en souvenir.
+@1A9AF0	…Ah, {J}.{n}{n}Solty m'a tout{box}raconté.
+@1A9B11	Vous allez aux{n}{n}ruines de Raphias,{box}rien que vous{n}{n}deux, paraît-il?
+@1A9B35	Pourquoi prendre{n}{n}un tel risque…{box}Vous voulez gâcher{n}{n}vos vies?
+@1A9B60	À Raphias… il y a{n}{n}des créatures{box}particulièrement{n}{n}dangereuses.
+@1A9B82	Et puis……………{n}{n}Non. Renoncez,{box}un point c'est{n}{n}tout.
+@1A9BA3	C'est compris?
+@1A9BB9	Soyez sages,{n}{n}écoutez les{box}grands, et{n}{n}renoncez.
+@1A9BDC	Pas vrai, jeune{n}{n}prodige? Ha ha!
+@1A9C06	C'est comme jadis.{n}{n}Voilà pourquoi je{box}n'aime pas les{n}{n}enfants.
+@1A9C34	Oublie{n}{n}【ce jour-là】.{box}…Facile à dire,{n}{n}hein.
+@1A9C5D	Mais rien ne dit{n}{n}que ces petits{box}finiront pareil.
+@1A9C84	Ce sera pareil.{n}{n}Exactement comme{box}【ce jour-là】.
+@1A9CA7	Non. Eux, c'est{n}{n}différent. Tu le{box}sais bien, toi{n}{n}aussi, non?
+@1A9CD8	…Mais… moi…{n}{n}je ne veux plus{box}voir un enfant……
+@1A9D04	Je comprends. Moi{n}{n}non plus, je ne{box}veux pas revivre{n}{n}ça.
+@1A9D2B	Mais ces petits{n}{n}ont une 【force】{box}capable de{n}{n}tout changer.
+@1A9D51	Une autre 【force】{n}{n}que la 【chance】{box}ou la 【malchance】.
+@1A9D80	…………{n}{n}Une 【force】…{box}Et pourtant, moi…
+@1A9DA2	……………………{n}{n}…Je vous laisse.
+@1A9DCB	Arkis…………
+@1A9DE4	…………{n}{n}Pourquoi… est-ce{box}que ça recommence?
+@1A9E01	Je ne veux plus{n}{n}voir ça… Plus{box}jamais…
+@1A9E2F	{J}…{n}{n}Pardon pour{box}l'autre fois.
+@1A9E4C	Votre force…{n}{n}hé hé… j'en ai{box}pris la mesure.
+@1A9E6C	Mais permettez-moi{n}{n}un dernier{box}conseil.
+@1A9E8A	Aussi doués que{n}{n}vous soyez,{box}la 【hâte】 reste{n}{n}votre ennemie.
+@1A9EAF	La 【hâte】 peut{n}{n}vous passer la{box}corde au cou.
+@1A9ED7	【Prudence est{n}{n}mère de sûreté】:{box}c'est la règle{n}{n}d'or du métier.
+@1A9EFF	La 【témérité】{n}{n}n'est pas du{box}【courage】.{n}{n}Prenez garde.
+@1A9F2F	…【Vein】…{n}{n}Ils ne subiront{box}pas ton sort.
+@1A9F52	Je le jure sur le{n}{n}nom d'Arkis{box}Celebrate…{n}{n}Jamais…
+@1A9F74	Alors ne t'en{n}{n}fais pas… hein,{box}【Vein】…
+@1A9FA8	Salut, {J}!{n}{n}Toujours la forme,{box}à ce que je vois.
+@1A9FC7	Non, non… je ne{n}{n}vous traiterai{box}plus d'enfants.
+@1A9FE7	Vous êtes des{n}{n}adultes, à part{box}entière. À mes{n}{n}yeux, du moins.
+@1AA010	Toi qui as vaincu{n}{n}ton chagrin, nul{box}ne te traitera{n}{n}plus d'enfant.
+@1AA034	Dans l'【aventure】{n}{n}comme sur le plan{box}【humain】,
+@1AA056	tu es une grande{n}{n}personne. Ça, je{box}te le garantis.
+@1AA07C	Alors agis en{n}{n}adulte, d'accord?
+@1AA09D	Ha ha ha ha!!
+@1AA0B4	Il se passe des{n}{n}choses étranges{box}au 【Miroir sacré】{n}{n}ces temps-ci.
+@1AA0D6	Il faudrait que{n}{n}j'aille y jeter{box}un œil.
+@1AA0F6	Avant qu'il soit{n}{n}trop tard…
+@1AA116	Tiens, {J}.{n}{n}Ça se corse,{box}dis donc.
+@1AA13A	Oui, je parle de{n}{n}la 【sphère】{box}apparue au{n}{n}【Miroir sacré】.
+@1AA15C	Les autorités{n}{n}enquêtent, mais{box}la mission sera{n}{n}bientôt pour nous.
+@1AA186	Les aventuriers{n}{n}pourront alors y{box}entrer.
+@1AA1A7	Mais comment{n}{n}approcher de{box}【cette chose】,{n}{n}en plein ciel?
+@1AA1D1	Même des jambes{n}{n}de 【type volant】{box}n'iraient pas si{n}{n}haut, paraît-il…
+@1AA1F6	Résultat: même{n}{n}l'équipe d'enquête{box}officielle est{n}{n}dans l'impasse.
+@1AA21A	…?{n}{n}Tu sembles avoir{box}une idée.
+@1AA235	Bon, pour{n}{n}【cette chose】, je{box}vous laisse la{n}{n}main.
+@1AA256	…Faites très{n}{n}attention. S'il{box}vous arrivait{n}{n}quelque chose…
+@1AA27F	N… non… ha ha,{n}{n}rien du tout.{box}Je vous laisse.
+@1AA2B0	…S'il vous{n}{n}arrivait quelque{box}chose, 【Vein】 me{n}{n}le reprocherait.
+@1AA2D6	…Qui est 【Vein】?{n}{n}Zut… ça m'a{box}échappé.
+@1AA301	Juste… quelqu'un{n}{n}de très cher…{box}de très… très{n}{n}cher.
+@1AA32A	Hm… c'est une{n}{n}vieille histoire.
+@1AA34B	Salut, {J}!{n}{n}Tu as l'air en{box}forme.
+@1AA36B	Où en est{n}{n}l'enquête sur{box}【cette chose】?
+@1AA386	Ça avance bien,{n}{n}hein? Hé hé… ça{box}se voit sur ton{n}{n}visage.
+@1AA3AF	Vous y arriverez.{n}{n}…J'en ai le{box}pressentiment.
+@1AA3D1	Bon… au travail,{n}{n}moi aussi.
+@1AA3ED	Je m'en voudrais{n}{n}de vous laisser{box}tout le sale{n}{n}boulot.
+@1AA416	Je dois faire ma{n}{n}part. Je suis un{box}【as】, après{n}{n}tout.
+@1AA437	Donnons-nous à{n}{n}fond! En rivaux!{box}Ha ha ha!
+@1AA464	Comme de vrais{n}{n}rivaux, on va se{box}stimuler l'un{n}{n}l'autre.
+@1AA48A	C'est ainsi qu'on{n}{n}grandit. Pas{box}vrai, {J}!
+@1AA4B9	Té! C'est {J}!{n}{n}Alors, ça roule?
+@1AA4D6	Moi? Ben, je fais{n}{n}une petite pause.
+@1AA4F7	Même une bosseuse{n}{n}comme moi, faut{box}bien souffler un{n}{n}peu, pardi!
+@1AA51F	Hé! C'est quoi{n}{n}cette tête? Ça me{box}chiffonne, ça!
+@1AA543	Tu sais pas comme{n}{n}je trime, toi! Je{box}suis une vraie{n}{n}machine!
+@1AA567	Avec ma chère{n}{n}【Zeny】, je file{box}aux quatre coins{n}{n}du monde!
+@1AA58C	Les monstres? Je{n}{n}m'en fiche! Tant{box}qu'y a un client,{n}{n}j'y vais!
+@1AA5B3	Alors? Ça émeut,{n}{n}hein? Une histoire{box}qui va droit au{n}{n}cœur!
+@1AA5DA	Bref! Compte sur{n}{n}moi, hein!★
+@1AA5FA	À plus!
+@1AA611	Le coin astuces{n}{n}de Sayaka!{box}C'est cadeau!{n}{n}Écoute bien!
+@1AA636	Le donjon est{n}{n}tout noir? Pas de{box}panique: utilise{n}{n}【Clarté】!!
+@1AA65E	Avec ça, tu y{n}{n}verras de nouveau{box}clair!
+@1AA67C	Fin de l'astuce!{n}{n}À la prochaine!★
+@1AA6AB	Coucou~ C'est{n}{n}Sayaka~★{box}Alors, ça roule?
+@1AA6C8	Moi, j'ai une{n}{n}pêche d'enfer★{box}Comme toujours,{n}{n}hein!
+@1AA6EC	Au fait, tu{n}{n}fouilles les{box}ruines de Raphias,{n}{n}c'est ça?
+@1AA70B	Ces ruines-là,{n}{n}tu sais, ça me{box}touche de près.
+@1AA72B	Comment ça? Té,{n}{n}minute, écoute.
+@1AA74B	À la base, les{n}{n}gens d'ici, leur{box}【pays natal】,{n}{n}c'est Raphias.
+@1AA773	Et la boutique de{n}{n}mes ancêtres{box}était à Raphias,{n}{n}figure-toi★
+@1AA797	Une boutique{n}{n}d'objets pour{box}aventuriers, très{n}{n}connue, paraît-il.
+@1AA7BF	Bon, c'est vieux,{n}{n}alors va savoir{box}si c'est vrai.
+@1AA7E2	Bref, dans la{n}{n}famille, on est{box}【marchands】 de{n}{n}père en fils!
+@1AA804	Alors? Tu me vois{n}{n}d'un autre œil,{box}hein?
+@1AA826	T'inquiète! C'est{n}{n}pas parce qu'on{box}est une vieille{n}{n}maison qu'on{box}t'arnaque!
+@1AA849	Compte sur moi,{n}{n}hein, {J}!★
+@1AA873	Coin astuces de{n}{n}Sayaka, épisode 2!{box}Je suis trop{n}{n}gentille, moi!
+@1AA899	Les tourbillons{n}{n}bleus des donjons,{box}ce sont des{n}{n}【trous de ver】.
+@1AA8C1	Entres-y, et tu{n}{n}iras dans un{box}autre donjon!
+@1AA8E0	Pour le reste,{n}{n}à toi de voir!{box}À la prochaine!★
+@1AA915	{J}! Ça fait{n}{n}un bail~★{box}T'as la pêche!
+@1AA931	Tu explores quoi,{n}{n}en ce moment?
+@1AA94C	【Tour du Mirage】?{n}{n}Ah… je vois.
+@1AA96B	Alors? Y en a, des{n}{n}trésors, là-bas,{box}hein?
+@1AA98F	Forcément, elle a{n}{n}été découverte{box}y a pas longtemps.
+@1AA9AE	Les aventuriers{n}{n}l'ont pas encore{box}pillée.
+@1AA9CE	Et au dernier{n}{n}étage, y aurait{box}un mystérieux{n}{n}【autel】!
+@1AA9F4	Y aurait un truc,{n}{n}mais moi, j'y ai{box}jamais été.
+@1AAA03	{n}{n}J'y ai jamais été.
+@1AAA19	Si tu trouves un{n}{n}truc, tu me diras?
+@1AAA39	En échange, je te{n}{n}ferai une fleur!
+@1AAA57	Allez, courage~★
+@1AAA73	Coin astuces de{n}{n}Sayaka, épisode 3!{box}Je te gâte, hein?
+@1AAA9A	Les dalles noires{n}{n}dans les donjons,{box}ce sont des{n}{n}【monolithes】.
+@1AAAC0	Examine-les, et{n}{n}tes stats{box}grimpent!!
+@1AAAE0	Mais attention,{n}{n}c'est pas toujours{box}gagnant!{n}{n}À la prochaine!★
+@1AAB18	Té, {J}…{n}{n}Ça va aller?
+@1AAB35	Ça va être ton{n}{n}plus grand combat,{box}hein, {J}…
+@1AAB57	Moi, je peux rien{n}{n}faire, mais… je{box}suis de tout cœur{n}{n}avec toi.
+@1AAB7C	…Allez. Surtout…{n}{n}…………
+@1AAB96	Tiens bon…{n}{n}Et lâche rien!!
+@1AABBE	Justement, vu le{n}{n}moment…{box}Coin astuces de{n}{n}Sayaka, épisode 4!
+@1AABDD	Tu le sais{n}{n}peut-être, mais la{box}profondeur des{n}{n}donjons change.
+@1AAC05	Mais si tu{n}{n}retournes en{box}【ville】, tout est{n}{n}【remis à zéro】.
+@1AAC2B	Bref, essaie un{n}{n}peu, tu verras.{box}Allez, salut~★
+@1AAC5B	Salut★{n}{n}La forme, {J}?
+@1AAC75	Ça fait un bail,{n}{n}depuis… C'est{box}calme, hein.
+@1AAC95	Au fond, qu'est-ce{n}{n}qu'y avait, sous{box}Raphias?
+@1AACB8	{J}, vous me{n}{n}dites rien…
+@1AACD3	Oh! Je te force{n}{n}pas, hein. Vous{box}avez vos raisons.
+@1AACFE	Et puis {J},{n}{n}t'as l'air d'aller{box}un peu mieux,
+@1AAD1B	alors c'est bien{n}{n}comme ça. Tout{box}est réglé!
+@1AAD3C	Allez, à plus~★
+@1AAD57	Coin astuces de{n}{n}Sayaka, épisode 5!{box}…Je commence à{n}{n}sécher, là.
+@1AAD7C	Les meilleurs{n}{n}matériaux sont{box}dans les étages{n}{n}les plus profonds!
+@1AADA7	Les ennemis sont{n}{n}plus forts, mais{box}ça vaut le coup!
+@1AADC7	La prochaine fois:{n}{n}dernier épisode!{box}Reste à l'écoute★
+@1AADFA	{J}! Alors,{n}{n}【Yggdrasil】?
+@1AAE15	Y avait des{n}{n}trésors, dedans?{box}5000000000G, au{n}{n}moins?
+@1AAE3E	…Quoi? C'est{n}{n}tout?
+@1AAE57	D'après mon flair,{n}{n}y avait mieux{box}que ça, là-dedans.
+@1AAE7F	C'est… décevant.{n}{n}Pfff… la barbe!
+@1AAE9F	Bah, tant pis.{n}{n}Moi, j'y vais pas,{box}de toute façon.
+@1AAEBB	Tiens… et si je{n}{n}dénichais un{box}nouveau donjon?
+@1AAEDE	Ouais, pas bête!{n}{n}Allez, j'y cours!
+@1AAF02	À plus~★
+@1AAF1A	Coin astuces de{n}{n}Sayaka: la finale!{box}Dernière astuce~★
+@1AAF42	…Sauf que… en{n}{n}fait, j'ai plus{box}d'idées. Oups★
+@1AAF64	Je me rattraperai{n}{n}à la boutique!
+@1AAF85	Allez, on se{n}{n}retrouve dans les{box}donjons★
+@1AAFB8	À qui parler?
+@1AAFE7	Sirius
+@1AB014	Sayaka
+@1AB02C	Lanza
+@1AB035	Retour
+@1AB1C6	Tiens! Mais c'est{n}{n}{J}!
+@1AB1DF	Vous avez vu{n}{n}Solty, je crois?
+@1AB211	…………Je vois.{n}{n}L'accréditation{box}de membre, donc…
+@1AB230	Votre destination{n}{n}est bien le{box}【lac d'Argent】?
+@1AB259	Jadis, on l'a{n}{n}aussi appelé la{box}【Galerie d'Azur】.
+@1AB280	Mais ses maîtres{n}{n}d'alors ont{box}aujourd'hui{n}{n}disparu…
+@1AB2A4	Le 【lac d'Argent】{n}{n}abrite des{box}monstres marins.
+@1AB2C9	Prenez garde, et{n}{n}menez à bien{box}votre mission.
+@1AB2F5	Surtout, ne vous{n}{n}enfoncez pas{box}imprudemment dans{n}{n}le donjon.
+@1AB319	N'approchez pas{n}{n}des lieux qui{box}dépassent vos{n}{n}forces.
+@1AB341	Que les esprits{n}{n}vous protègent.
+@1AB36A	…Tiens, tiens.{n}{n}Mais c'est {J}!
+@1AB387	…Oh. Vous avez{n}{n}atteint votre but,{box}semble-t-il.
+@1AB3AA	【Comment je le{n}{n}sais?】 Hm hm…
+@1AB3C5	Votre visage{n}{n}parle pour vous.{box}N'importe qui le{n}{n}verrait.
+@1AB3EF	Allez donc voir{n}{n}Solty.
+@1AB411	Pour lui prouver{n}{n}votre valeur.
+@1AB433	Eh bien? Vous{n}{n}n'avez pas encore{box}vu Solty?
+@1AB450	Ce n'est pas bien{n}{n}de l'inquiéter.
+@1AB46C	Allez-y, voyons.
+@1AB486	Ah, {J}! Vous{n}{n}semblez en forme,{box}j'en suis ravie.
+@1AB4AB	Les bandits sont{n}{n}bien actifs, ces{box}temps-ci.
+@1AB4D3	{J}, soyez{n}{n}sur vos gardes.
+@1AB4F1	…………{n}{n}Surtout dans la{box}【forêt verdoyante】
+@1AB50F	Je vous laisse…
+@1AB541	…Oh. C'est vous,{n}{n}{J}.
+@1AB556	Pardonnez-moi.{n}{n}J'étais plongée{box}dans mes pensées.
+@1AB575	Je suis navrée,{n}{n}mais… je dois{box}vous laisser.
+@1AB5A0	…Que vous{n}{n}arrive-t-il donc?{box}Ça ne vous{n}{n}ressemble pas…
+@1AB5DD	…Pourquoi? Vous{n}{n}ne pouvez rien me{box}dire?
+@1AB614	…Satella, c'est{n}{n}bien ça? Pourquoi?
+@1AB635	…………C'est…{n}{n}le destin.
+@1AB64C	Le destin…? C'est{n}{n}là votre réponse?
+@1AB683	…………Mais qui{n}{n}êtes-vous… donc?
+@1AB698	…Oh? C'est vous,{n}{n}{J}?
+@1AB6C8	Satella…!{n}{n}……………………
+@1AB6DF	…Hm hm. Vous{n}{n}avez assisté à{box}une scène bien{n}{n}peu glorieuse.
+@1AB700	Cette jeune fille…{n}{n}Satella?{box}……………………
+@1AB722	…Bien. Je vais{n}{n}vous expliquer.
+@1AB73D	Je l'ai rencontrée{n}{n}tout récemment.
+@1AB75B	Elle semblait{n}{n}en difficulté…{box}J'ai voulu{n}{n}l'aider, mais…
+@1AB781	Seulement… elle{n}{n}ne se confie pas.
+@1AB7A1	Je dois mal m'y{n}{n}prendre…
+@1AB7C0	…………Pardon.{n}{n}Je vous ennuie{box}avec tout ça.
+@1AB7E1	J'ai à faire,{n}{n}veuillez{box}m'excuser.
+@1AB811	…Satella…{n}{n}Qui êtes-vous{box}donc…
+@1AB84F	…{J}. Quel{n}{n}soulagement de{box}vous revoir.
+@1AB869	Il semble que la{n}{n}traque d'Ele Zar{box}ait réussi.
+@1AB88E	Hm hm… Je n'en{n}{n}attendais pas{box}moins.
+@1AB89C	Au fait, et{n}{n}Lanza?{box}…………Oh. Je vois.
+@1AB8C1	Comme vous le{n}{n}savez, elle a un{box}tempérament bien{n}{n}à elle.
+@1AB8E6	Mais elle sait{n}{n}tourner la page.{box}…Je suis{n}{n}rassurée.
+@1AB90C	Bien… Vous{n}{n}devriez aller{box}faire votre{n}{n}rapport, non?
+@1AB931	Sur ce…{n}{n}je vous laisse.
+@1AB94C	Où Lanza est-elle{n}{n}partie? Peut-être…

@@ -1,0 +1,1002 @@
+# Biomotor Unitron 2 (Kikou Seiki Unitron) - traduction française. Scènes (script des événements : dialogues, narration, choix).
+# @ADRESSE (fichier, hex) = texte du catalogue à cette adresse (tools/extraire.py) ; voir README.
+@1AB96A	Hm hm. Vous la{n}{n}reverrez bientôt,{box}qui sait.
+@1AB9A9	……………………{n}{n}…………{J}.
+@1AB9C3	Auriez-vous… vu{n}{n}Satella?
+@1AB9DC	…………Je vois…{n}{n}Non… ce n'est{box}rien.
+@1AB9FA	…………{n}{n}…Excusez-moi.
+@1ABA1A	…Je ne peux pas{n}{n}la laisser suivre{box}la même voie{n}{n}qu'elle…
+@1ABA3B	…Mais…{n}{n}que dois-je faire…
+@1ABA65	{J}…{n}{n}Vous allez à{box}Raphias?
+@1ABA80	Sur cette terre{n}{n}errent des âmes{box}sans nombre.
+@1ABA9F	{J}, l'arène{n}{n}en particulier{box}est dangereuse.
+@1ABABB	Non, dangereuse…{n}{n}n'est pas le mot.{box}C'est un lieu{n}{n}empli de chagrin.
+@1ABADD	Ce qui s'y passe…{n}{n}ce qui vous{box}assaille…
+@1ABB00	est à la fois{n}{n}vrai… et faux.
+@1ABB1E	Ne vous laissez{n}{n}pas emporter par{box}le tourbillon de{n}{n}vos émotions…
+@1ABB41	Ne cédez pas aux{n}{n}sentiments les{box}plus noirs…
+@1ABB60	Sur ce,{n}{n}je vous laisse.
+@1ABB80	Raphias…{n}{n}l'arène…
+@1ABB95	……se trouve{n}{n}aussi là-bas…?
+@1ABBBA	{J}… Comment{n}{n}vous sentez-vous?
+@1ABBD4	…Tant mieux. Vos{n}{n}blessures étaient{box}légères, sans{n}{n}doute.
+@1ABBF5	Dans quelques{n}{n}jours, il n'y{box}paraîtra plus.
+@1ABC17	D'ici là, évitez{n}{n}les efforts et{box}reposez-vous.
+@1ABC3D	Sur ce… que les{n}{n}esprits vous{box}protègent.
+@1ABC69	{J}, une fois{n}{n}vos blessures{box}guéries,
+@1ABC81	j'aurais un{n}{n}service à vous{box}demander.
+@1ABC9D	Je vais déposer{n}{n}une requête{box}chez Solty.
+@1ABCBC	Si vous le{n}{n}voulez bien,{box}accepteriez-vous{n}{n}cette mission?
+@1ABCD9	Non… bien sûr,{n}{n}je ne vous oblige{box}à rien.
+@1ABCF6	Si le cœur vous en{n}{n}dit… je compte{box}sur vous.
+@1ABD13	…Sur ce…
+@1ABD2C	Vous avez accepté{n}{n}ma requête?
+@1ABD47	{J}, je vous{n}{n}en suis très{box}reconnaissante.
+@1ABD61	Ce que je vous{n}{n}demande de{box}rapporter…
+@1ABD7F	est une clé de{n}{n}métal, appelée la{box}【clé des Enfers】.
+@1ABDA0	Elle repose tout{n}{n}en haut de la{box}【tour du Mirage】…
+@1ABDBF	en un lieu nommé{n}{n}【autel des âmes】.
+@1ABDE2	…………Dans quel{n}{n}but?
+@1ABDEF	Je suis navrée,{n}{n}mais je ne puis{box}vous le dire.
+@1ABE12	Croyez seulement{n}{n}que c'est… pour{box}le bien du monde.
+@1ABE35	…Je compte sur{n}{n}vous.
+@1ABE68	…Pourquoi{n}{n}restez-vous avec{box}【lui】?
+@1ABE8D	…Parce que j'en{n}{n}ai besoin.
+@1ABEA0	Pourquoi en{n}{n}avez-vous besoin?
+@1ABEB6	…Il m'est{n}{n}nécessaire.{box}C'est tout.
+@1ABEDA	Et 【lui】,{n}{n}pourquoi?
+@1ABEEC	Lui aussi a{n}{n}besoin de moi.
+@1ABF07	Vous ne faites{n}{n}qu'un… c'est{box}cela?
+@1ABF3D	Qu'y a-t-il?
+@1ABF4D	…Et vous,{n}{n}pourquoi?
+@1ABF62	Moi?
+@1ABF73	Pourquoi êtes-vous{n}{n}seule? Pourquoi{box}toute seule?
+@1ABF9A	C'est que…………
+@1ABFA6	…………!{n}{n}…Restons-en là.
+@1ABFDC	Bonjour, {J}.{n}{n}Où en est votre{box}enquête?
+@1AC000	…………Je vois.{n}{n}Surtout, ne forcez{box}pas.
+@1AC023	Satella…?{n}{n}C'est une jeune{box}fille bien triste.
+@1AC043	Non… la plus{n}{n}triste, c'est{box}peut-être moi…
+@1AC064	…Pardonnez-moi.{n}{n}Je dois vous{box}laisser.
+@1AC092	……………………{n}{n}Que dois-je…{box}faire?
+@1AC0AF	Que faire, à{n}{n}votre avis?{box}【…………】
+@1AC0D9	C'est donc…{n}{n}votre réponse,{box}sans appel?
+@1AC0FC	…Oui.
+@1AC10A	Et ensuite…{n}{n}que ferez-vous?
+@1AC12B	…J'accomplirai{n}{n}mon vœu. Je ne{box}suis pas comme{n}{n}vous.
+@1AC150	Pas comme moi…?{n}{n}…Vraiment?
+@1AC16A	…C'est vrai.{n}{n}Après tout, nous{box}sommes des{n}{n}【étrangers】.
+@1AC1B3	Pourquoi cet air{n}{n}si triste?{box}Pourquoi cet air{n}{n}si tourmenté?
+@1AC1E0	…………{n}{n}…Vous ne voyez{box}pas?
+@1AC1F9	Non…………{n}{n}vous ne pouvez{box}pas comprendre.{n}{n}Pas maintenant.
+@1AC219	Vous qu'un seul{n}{n}désir enchaîne…
+@1AC23B	Que dites-vous?
+@1AC24E	Un fait…{n}{n}simplement.
+@1AC264	Quelle suffisance…{n}{n}Les faits, nul ne{box}les connaît.
+@1AC28E	En effet. Nul ne{n}{n}peut savoir.
+@1AC2A7	C'est cela, être{n}{n}des 【étrangers】.
+@1AC2D1	…………Mais si{n}{n}l'on s'ouvre, les{box}cœurs finissent{n}{n}par se comprendre.
+@1AC2F7	Même entre{n}{n}【étrangers】.
+@1AC30E	【Étrangers】…?{n}{n}【Étrangers】…?
+@1AC326	Pourquoi me dire{n}{n}ça? Moi…
+@1AC345	……………………?{n}{n}…………Vous…
+@1AC363	…………Assez{n}{n}parlé. Adieu,{box}【……………】.
+@1AC38A	…C'est vous,{n}{n}{J}. Je……
+@1AC3A8	Je n'ai pas su{n}{n}la convaincre.
+@1AC3CD	…Était-ce moi qui{n}{n}restais fermée,{box}au fond?
+@1AC3F7	Me retranchant{n}{n}derrière ce mot,{box}【étrangers】, sans{n}{n}rien partager…
+@1AC41F	C'est… bien{n}{n}douloureux.
+@1AC438	……………………{n}{n}…………Satella…
+@1AC452	Et pourtant, je{n}{n}ne peux pas…{box}vous laisser{n}{n}faire………
+@1AC476	…N'est-ce pas?{n}{n}…………【Lachésis】…
+@1AC4A0	……………………{n}{n}L'heure est venue.
+@1AC4BB	【Lui】 n'a qu'un{n}{n}seul désir, tourné{box}vers ce qu'il a{n}{n}perdu.
+@1AC4E2	Un désir d'une{n}{n}pureté infinie,{box}et empli de{n}{n}chagrin.
+@1AC508	Pourrez-vous le{n}{n}comprendre?
+@1AC524	Un même sort ne{n}{n}fait pas un même{box}cœur.
+@1AC54B	Deux miroirs face{n}{n}à face. 【Lumière】{box}et 【ombre】.
+@1AC569	Mais… si vous et{n}{n}【lui】 ne faisiez{box}qu'un, jadis…
+@1AC58D	vos cœurs se{n}{n}comprendront.{box}Quoi qu'il arrive.
+@1AC5B2	Il n'en ira pas{n}{n}comme pour moi…{box}je veux le croire.
+@1AC5CF	Que les esprits{n}{n}vous protègent.
+@1AC5EC	C'est là ma seule{n}{n}prière.
+@1AC607	……………………{n}{n}Ce que je n'ai pu{box}accomplir…
+@1AC628	vous le pourrez,{n}{n}j'en suis sûre.
+@1AC641	Vous qui avez{n}{n}vécu à ses côtés{box}comme les lunes{n}{n}jumelles du ciel.
+@1AC66C	Au nom des esprits{n}{n}du 【Soleil】 et{box}de la 【Lune】,
+@1AC68A	puissent… les{n}{n}esprits vous{box}protéger.
+@1AC6B6	Ça alors! Mais{n}{n}c'est {J}!
+@1AC6CB	Moi qui pensais{n}{n}qu'un monstre{box}avait fait de toi{n}{n}son goûter!
+@1AC6F2	Ah… ha ha★{n}{n}Je rigole, hein★
+@1AC70E	Penser ça de ma{n}{n}future clientèle?{box}Jamais!
+@1AC737	J'étais morte{n}{n}d'inquiétude… J'en{box}dormais plus!
+@1AC75D	…………Ouh,{n}{n}me fusille pas{box}du regard comme{n}{n}ça!
+@1AC77C	Bon, bref! Compte{n}{n}sur moi, hein!
+@1AC7A0	À plus~★
+@1AC7B2	Salut, {J}★{n}{n}T'as la pêche, ça{box}fait plaisir!
+@1AC7D1	Moi, je pensais{n}{n}faire un saut à la{box}【forêt verdoyante】
+@1AC7FA	On s'y croisera{n}{n}peut-être. À{box}bientôt, alors★
+@1AC826	Salut~★ T'as{n}{n}la pêche, {J}!
+@1AC842	J'ai su pour Ele{n}{n}Zar! Trop fort~★
+@1AC864	Paraît que t'as{n}{n}battu Ele Zar{box}les doigts dans{n}{n}le nez!
+@1AC889	Et aussi que{n}{n}t'as mis la pâtée{box}à 200 bandits!
+@1AC8B1	Et que t'as réduit{n}{n}leur repaire en{box}miettes~★
+@1AC8D8	J'aurais trop{n}{n}voulu voir ça!
+@1AC8EB	…Hein? C'est pas{n}{n}vrai? Oh, allez~{box}Joue pas les{n}{n}modestes!
+@1AC910	La prochaine fois,{n}{n}montre-moi comment{box}tu te déchaînes,{n}{n}hache au poing!
+@1AC935	Allez, promis~★{n}{n}À la prochaine~★
+@1AC95A	Té? Mais c'est{n}{n}{J}!{box}Et ta promesse,{n}{n}alors, ça vient?
+@1AC981	J'attends ça avec{n}{n}impatience, hein~★
+@1AC9AB	…{J}…{n}{n}Je me suis fait{box}un sang d'encre…
+@1AC9C8	Paraît que t'as{n}{n}affronté le{box}【Chevalier Noir】.
+@1AC9E8	…Quand on a ramené{n}{n}ton Unitron en{box}lambeaux…
+@1ACA08	J'ai eu une de ces{n}{n}trouilles!{box}…Mais t'es en vie,{n}{n}ouf.
+@1ACA31	Tes blessures ont{n}{n}pas l'air graves…{box}Tu reprends déjà{n}{n}le boulot?
+@1ACA54	Sérieux, hein…{n}{n}Fais pas de{box}folies.
+@1ACA78	Quoi qu'on dise,{n}{n}sans la vie, on{box}n'a plus rien.
+@1ACA96	Fais gaffe, hein!{n}{n}Je tiens à ma{box}clientèle★
+@1ACAB8	Coucou~★{n}{n}Sayaka pète la{box}forme aujourd'hui★
+@1ACAD8	Je pars chasser{n}{n}le trésor dans un{box}donjon!
+@1ACAF8	On s'y croisera{n}{n}peut-être. Alors{box}sois sympa avec{n}{n}moi, hein~★
+@1ACB2D	Té, {J}~!{n}{n}J'en ai appris de{box}belles~!
+@1ACB4A	Paraît que t'as{n}{n}raté une mission,{box}l'autre jour.
+@1ACB69	Toi, {J}?{n}{n}C'est pas ton{box}genre, pourtant.
+@1ACB89	Un concurrent{n}{n}t'a mis des bâtons{box}dans les roues?
+@1ACBAB	Bah, ce qui est{n}{n}fait est fait!{box}On repart du bon{n}{n}pied, hein!
+@1ACBD5	Hé… quoi? Tu fais{n}{n}une de ces têtes…{box}J'ai été trop{n}{n}loin?
+@1ACBFA	Pardon… je savais{n}{n}pas que ça te{box}touchait autant…
+@1ACC21	Je voulais juste{n}{n}te remonter le{box}moral, moi.
+@1ACC3E	Vraiment…{n}{n}pardon.
+@1ACC55	Aujourd'hui aussi,{n}{n}faut que j'aille{box}écumer un donjon.
+@1ACC7A	Les bons matériaux{n}{n}se font rares, ces{box}temps-ci.
+@1ACCA0	Y a sûrement{n}{n}quelqu'un qui{box}pille les donjons.
+@1ACCC4	Faut que je me{n}{n}grouille avant{box}qu'on me double!{n}{n}Allez, ciao~★
+@1ACCF5	{J}! Ouf, t'es{n}{n}en vie~~!!
+@1ACD12	Après ça, j'ai{n}{n}réussi à remonter{box}à la surface.
+@1ACD33	Sur le coup, je{n}{n}savais vraiment{box}plus quoi faire.
+@1ACD57	Sans toi et ton{n}{n}acolyte, {J}…{box}j'ose pas y{n}{n}penser…
+@1ACD79	…………? Ben,{n}{n}qu'est-ce qu'y a?
+@1ACD8E	T'en fais une{n}{n}tête… Il s'est{box}passé quoi…?
+@1ACDB6	Si tu peux m'en{n}{n}parler, te gêne{box}surtout pas.
+@1ACDD6	Pour te remercier,{n}{n}disons… je suis{box}là pour t'écouter!
+@1ACDF9	Quand tu veux,{n}{n}vraiment~★
+@1ACE13	{J}! Allez,{n}{n}haut les cœurs!
+@1ACE2D	Avec une tête{n}{n}pareille, je me{box}fais trop de bile!
+@1ACE4F	Je sais pas ce{n}{n}qui t'arrive, mais{box}courage, hein!!
+@1ACE7A	T'as vu, {J}?{n}{n}Cette boule{box}gigantesque?
+@1ACE98	Paraît qu'on{n}{n}l'appelle{box}【Yggdrasil】.
+@1ACEBA	C'est fait en{n}{n}quoi, à ton avis?{box}En or, forcément?
+@1ACEDE	Rhaa… rien qu'une{n}{n}fois, j'aimerais{box}entrer là-dedans.
+@1ACF01	Toi aussi, hein,{n}{n}{J}? Ça doit{box}regorger de{n}{n}trésors!
+@1ACF27	Faudrait un avion,{n}{n}mais ça court pas{box}les rues…
+@1ACF50	Faut laisser{n}{n}tomber, tu crois?{box}Ça me rend dingue…
+@1ACF79	Y aurait pas moyen{n}{n}d'entrer dans{box}【Yggdrasil】…?
+@1ACF9E	Dedans, y a plein{n}{n}de trésors, c'est{box}sûr!! Au moins{n}{n}5000000000G!
+@1ACFC8	C'est décidé!!{n}{n}Si j'y vais pas,{box}qui ira?!!
+@1ACFE7	…Sauf que bon~{n}{n}je sais pas{box}voler, moi…
+@1AD009	Y a pas une{n}{n}solution, là?
+@1AD026	…Hein?{n}{n}Ah! C'est {J}!
+@1AD03F	Te croiser ici,{n}{n}quel hasard!
+@1AD059	Moi? Si c'est pas{n}{n}risqué de venir{box}en ville?
+@1AD075	Que la chef{n}{n}d'Ele Zar qui{box}traîne ici, ça{n}{n}craint?
+@1AD096	Ha ha! Pas faux.{n}{n}Mais… t'inquiète.
+@1AD0BC	En fait, ma tête,{n}{n}y a guère que{box}vous deux qui la{n}{n}connaissez.
+@1AD0DF	Personne peut{n}{n}deviner que{box}c'est moi la chef{n}{n}d'Ele Zar.
+@1AD103	Ele Zar est{n}{n}dissoute, alors{box}je me pose en{n}{n}ville un moment.
+@1AD12F	Penses-tu! Je me{n}{n}suis rangée.{box}Sois tranquille.
+@1AD152	Je traîne dans le{n}{n}coin, alors passe{box}me voir quand{n}{n}t'as un moment.
+@1AD178	Salut!
+@1AD18A	Albaris, c'est{n}{n}une sacrée grande{box}ville, hein.
+@1AD1A8	« La plus grande{n}{n}de Tridis »…{box}c'est pas du{n}{n}flan, on dirait.
+@1AD1D2	Avec mon passé{n}{n}chez Ele Zar,{box}leur système de{n}{n}garde m'intéresse.
+@1AD1F8	Ha ha! Je{n}{n}plaisante!
+@1AD217	Tiens, {J}!{n}{n}Tu tombes bien.
+@1AD238	J'ai un truc à te{n}{n}demander… T'as{box}une minute?
+@1AD25D	Tu me trouves{n}{n}comment?{box}…Hein? Comment ça,{n}{n}« quoi »?
+@1AD27E	…Ben… je suis{n}{n}toujours fringuée{box}comme ça, non?
+@1AD2A3	Du temps où{n}{n}j'étais bandit,{box}je m'en fichais.
+@1AD2C6	Pour bouger, y a{n}{n}rien de mieux que{box}cette tenue.
+@1AD2EB	Mais à force de{n}{n}vivre ici… ben,{box}ça me travaille.
+@1AD30D	Les autres filles,{n}{n}elles portent des{box}jupes et tout ça.
+@1AD32C	Alors je me suis{n}{n}dit… et si moi{box}aussi…?
+@1AD360	…Ah, ha ha ha!!{n}{n}Je rigole, hein!
+@1AD380	Moi, en jupe?{n}{n}Tu parles!
+@1AD39C	Cette tenue, c'est{n}{n}ce qui me va le{box}mieux, et de loin.
+@1AD3C9	Ça fait un bail{n}{n}que j'ai pas{box}piloté d'Unitron.
+@1AD3EA	Remarque, j'en ai{n}{n}même plus.
+@1AD40C	Mon Ele Zar est{n}{n}parti à la casse…
+@1AD42B	Je vais peut-être{n}{n}m'en chercher un{box}nouveau…
+@1AD458	Tiens, {J}.{n}{n}Qu'est-ce qui{box}t'arrive?
+@1AD478	T'as l'air…{n}{n}comment dire…{box}à cran.
+@1AD498	C'est à cause des{n}{n}ruines de{box}【Raphias】?
+@1AD4B8	Je comprends que{n}{n}tu t'inquiètes,{box}après ce qui{n}{n}t'est arrivé…
+@1AD4E0	Mais prends ça{n}{n}plus à la cool.{box}Commence déjà{n}{n}par le revoir.
+@1AD50B	Tu réfléchiras{n}{n}après. Rien ne{box}presse, non?
+@1AD533	…Ah, au fait.{n}{n}…Juste un truc.
+@1AD54F	Quoi qu'il arrive…{n}{n}crois en tes{box}【sentiments】.
+@1AD576	Au bout du compte,{n}{n}seul ce que t'as{box}en toi est vrai.
+@1AD578	Au bout du compte,{n}{n}seul ce que t'as{box}en toi est vrai.
+@1AD59F	Bref, de loin, je{n}{n}suis avec toi.
+@1AD5C7	Ah, {J}?{n}{n}Elle est chouette,{box}cette ville.
+@1AD5DF	Y a pas plus{n}{n}paisible dans{box}tout Tridis.
+@1AD601	Ça me ferait{n}{n}presque oublier{box}mon passé…
+@1AD62B	Hé, {J}!{n}{n}T'as pris une{box}nouvelle mission?
+@1AD64D	Et le client, ce{n}{n}serait dame{box}Sirius…
+@1AD671	Hein? La{n}{n}【tour du Mirage】?{box}Ces vieilles{n}{n}ruines-là?
+@1AD693	Ah, j'y suis!{n}{n}L'【autel des âmes】
+@1AD6B2	L'endroit qu'on{n}{n}surnomme le{box}【temple céleste】.
+@1AD6D6	D'après ce que je{n}{n}sais, y a rien{box}de bon là-haut.
+@1AD6FB	Une clé? Pourquoi{n}{n}aller chercher{box}un truc pareil?
+@1AD71A	De plus en plus{n}{n}louche, tout ça.{box}Tu trouves pas?
+@1AD73D	Déjà, dame Sirius{n}{n}elle-même, c'est{box}un vrai mystère.
+@1AD763	Je la vois parfois{n}{n}se disputer avec{box}une femme au{n}{n}visage de marbre.
+@1AD786	J'ai un mauvais{n}{n}pressentiment.{box}Méfie-toi, {J}.
+@1AD7B5	En ce moment, je{n}{n}cherche des pièces{box}d'Unitron.
+@1AD7D4	Les bonnes pièces{n}{n}sont rares. Ça va{box}prendre du temps.
+@1AD7F9	Faut dire que mon{n}{n}Ele Zar, j'ai mis{box}cinq ans à le{n}{n}construire…
+@1AD82F	{J}!{n}{n}Ça va, t'as rien?!
+@1AD84C	Hein? Je parle du{n}{n}【Chevalier Noir】.{box}Paraît qu'il t'a{n}{n}barré la route?
+@1AD875	C'était la mission{n}{n}de dame Sirius,{box}pas vrai?
+@1AD897	Elle avait l'air{n}{n}inquiète depuis{box}le début, tu sais.
+@1AD8BD	Hein? Dame Sirius?{n}{n}Elle est partie{box}à la taverne.
+@1AD8E0	Je sais pas{n}{n}comment, mais{box}elle a su que{n}{n}t'étais en vie.
+@1AD903	Elle vient de{n}{n}filer à la{box}taverne.
+@1AD91D	Va donc voir.
+@1AD936	Hein?{n}{n}Qu'est-ce que tu{box}fiches là?
+@1AD94F	Allez, allez!{n}{n}File, on t'attend!
+@1AD978	Ah, {J}.{n}{n}…T'as vu ça?
+@1AD991	Dame Sirius{n}{n}manigançait encore{box}un truc avec{n}{n}l'autre femme.
+@1AD9BA	Qu'est-ce qu'elles{n}{n}trafiquent? C'est{box}de plus en plus{n}{n}louche.
+@1AD9E0	À mon avis, ces{n}{n}deux-là sont très{box}proches.
+@1ADA07	Des amies… non,{n}{n}peut-être même de{box}la famille.
+@1ADA29	Ouais, c'est sûr.{n}{n}T'en penses quoi,{box}{J}?
+@1ADA60	…Ouais, bon…{n}{n}elles se{box}ressemblent pas,{n}{n}c'est vrai.
+@1ADA7C	…Disons que{n}{n}c'était un peu{box}tiré par les{n}{n}cheveux.
+@1ADA97	Bah, c'est pas mes{n}{n}oignons. Salut,{box}{J}.
+@1ADAC3	J'ai toujours pas{n}{n}toutes les pièces{box}d'【Ele Zar】.
+@1ADAE5	Paraît que les{n}{n}【corps】 sont en{box}rupture de stock,
+@1ADB06	je trouve que des{n}{n}【corps】 pourris.
+@1ADB24	À ce train-là,{n}{n}quand est-ce que…{box}…………Pfff.
+@1ADB4F	…{J}?{n}{n}T'es en vie?!
+@1ADB66	Qu'est-ce qui se{n}{n}passe à Raphias?!
+@1ADB84	À la guilde, ça{n}{n}s'agite pas mal,
+@1ADBA0	mais je peux pas{n}{n}m'y montrer, alors{box}j'en sais pas{n}{n}plus.
+@1ADBC8	…Ah bon…{n}{n}Toi non plus, tu{box}sais pas…
+@1ADBE5	Tss! Si j'avais{n}{n}【Ele Zar】, j'irais{box}voir illico!!
+@1ADC0D	Mais sans Unitron,{n}{n}c'est du suicide…
+@1ADC30	Bon sang… ça me{n}{n}rend dingue!!
+@1ADC4B	{J}! Toi non{n}{n}plus, pas de{box}folies!
+@1ADC66	Si tu y passes,{n}{n}ça sert à rien du{box}tout!
+@1ADC91	{J}! T'as{n}{n}croisé Arkis?
+@1ADCAF	Il est parti pour{n}{n}Raphias, l'air{box}complètement{n}{n}retourné.
+@1ADCD5	…………Je vois…{n}{n}Alors c'était ça.
+@1ADCF5	Si seulement{n}{n}j'avais un{box}Unitron, je{n}{n}pourrais t'aider…
+@1ADD1D	…Je sers à rien!{n}{n}Indigne du nom{box}de Lanza!!
+@1ADD58	J'ignore ce qui{n}{n}s'est passé au{box}fond de Raphias.
+@1ADD7D	Mais je sais une{n}{n}chose: tu vas{box}régler ça une{n}{n}bonne fois.
+@1ADDA4	Hé hé… contre qui,{n}{n}j'en sais rien.{box}Mais je le sens.
+@1ADDC8	Ça se voit à ton{n}{n}visage… et à la{box}【flamme】 qui brûle{n}{n}dans tes yeux.
+@1ADDEF	Courage,{n}{n}{J}!!
+@1ADE0C	Mon vieux… il est{n}{n}mort quand{box}j'étais gamine.
+@1ADE2F	Il m'a laissé une{n}{n}seule chose: une{box}phrase.
+@1ADE52	« Seul le vrai{n}{n}【sentiment】 brise{box}le 【sentiment】{n}{n}mensonger.
+@1ADE76	Le 【cœur】 factice{n}{n}s'efface devant la{box}vérité. »
+@1ADE98	…En clair, le faux{n}{n}ne bat jamais le{box}vrai.
+@1ADEBD	Perds pas face à{n}{n}une 【imitation】!!
+@1ADEE6	Ça fait un bail!{n}{n}T'as l'air en{box}forme!
+@1ADF02	Moi, j'ai eu pas{n}{n}mal de boulot,{box}ces temps-ci.
+@1ADF24	Faut dire que{n}{n}enfin… hé hé hé!!
+@1ADF3F	Je te le dis qu'à{n}{n}toi. Accroche-toi{box}bien.
+@1ADF66	Ça y est! Mon{n}{n}【Ele Zar】 est{box}enfin terminé!!
+@1ADF87	Bon, ça m'a coûté{n}{n}dans les{box}7000000G, quand{n}{n}même.
+@1ADFAF	Mais pour ce prix,{n}{n}il est reproduit à{box}l'identique!
+@1ADFD3	Pour le roder, je{n}{n}vais m'inscrire à{box}l'arène.
+@1ADFF8	Y a un truc appelé{n}{n}grade X: c'est là{box}que je suis{n}{n}inscrite.
+@1AE01C	Si t'as le temps,{n}{n}passe à l'arène.
+@1AE039	À plus.
+@1AE04C	…Hmm.{n}{n}…Pas encore au{box}point, on dirait…
+@1AE069	Il manque de{n}{n}puissance. Faut{box}peut-être changer{n}{n}le noyau.
+@1AE08D	Les stats d'un{n}{n}Unitron dépendent{box}de l'assemblage{n}{n}des pièces,
+@1AE0B2	alors faut bien{n}{n}réfléchir.
+@1AE0D3	Ah, tu tombes{n}{n}bien! T'es au{box}courant, {J}?
+@1AE0F2	Une 【boule】 géante{n}{n}est apparue sur{box}le lagon du{n}{n}【Miroir sacré】!
+@1AE11C	On l'appellerait{n}{n}【Yggdrasil】.
+@1AE141	Pourquoi un truc{n}{n}pareil est apparu,{box}à ton avis?
+@1AE162	…………{n}{n}T'en sais rien,{box}{J}?
+@1AE17D	…Évidemment que{n}{n}non. Laisse{box}tomber.
+@1AE1A1	Mon Unitron sait{n}{n}pas voler,
+@1AE1C3	alors je peux pas{n}{n}aller voir, hélas.
+@1AE1E5	Je voulais juste{n}{n}en savoir un peu.
+@1AE204	【Yggdrasil】 flotte{n}{n}toujours au-dessus{box}du 【Miroir sacré】.
+@1AE229	C'est quoi, ce{n}{n}machin? Ça veut{box}dire quelque{n}{n}chose…?
+@1AE24F	Ça me fascine…
+@1AE26D	Ah, {J}.{n}{n}T'as une minute?
+@1AE284	Dis, t'as réussi{n}{n}à entrer dans{box}【Yggdrasil】?
+@1AE2A7	Moi, j'ai renoncé{n}{n}à y entrer, mais…
+@1AE2C2	je me demande bien{n}{n}ce qu'il y a{box}【dedans】.
+@1AE2E1	Si tu veux mon{n}{n}avis, c'est pas{box}un 【trésor】.
+@1AE303	Comment dire…{n}{n}ça sent pas le{box}magot.
+@1AE324	C'est qu'une{n}{n}intuition, mais{box}ce truc est{n}{n}super dangereux.
+@1AE347	Bien plus que tous{n}{n}les donjons{box}d'avant.
+@1AE369	Si tu comptes y{n}{n}entrer, fais{box}super gaffe.
+@1AE38B	Allez… salut.
+@1AE3A4	【Yggdrasil】, hein…{n}{n}Qui a bien pu{box}fabriquer ça?
+@1AE3C9	C'est l'œuvre des{n}{n}anciens, pas de{box}doute, mais…
+@1AE3EF	Enfin, de toute{n}{n}façon, ça devait{box}être des sales{n}{n}types.
+@1AE41C	{J} avait percé{n}{n}les rangs ennemis,
+@1AE43D	mais au prix de{n}{n}lourds dégâts.
+@1AE461	Pour réparer son{n}{n}Unitron, il lui{box}fallait trouver{n}{n}un 【atelier】.
+@1AE489	Traînant sa{n}{n}carcasse en ruine,{box}il se dirigea vers{n}{n}la ville voisine.
+@1AE4B0	…Alors que le soir{n}{n}tombait,
+@1AE4C4	il arriva enfin,{n}{n}à la pointe sud du
+@1AE4E6	【continent Radina】{box}dans la ville de{n}{n}【Mérice】.
+@1AE505	L'Unitron{n}{n}de {J} franchit
+@1AE524	les portes, sans{n}{n}se presser, en{box}espérant trouver{n}{n}ici un 【atelier】…
+@1AE556	{n}……【Atelier Orbit】{n}
+@1AE57B	…Ho! Toi, là-bas!{n}{n}Tu m'entends?
+@1AE599	………{n}{n}…Ah, quand même!
+@1AE5B7	Écoute, désolé,{n}{n}mais là, tu gênes.
+@1AE5DA	Ton Unitron, tu{n}{n}le gares ailleurs?
+@1AE5F8	…Hein? Tu veux{n}{n}que je le répare?
+@1AE611	Ha! Ça explique{n}{n}la tête qu'il a.{box}…Bon, d'accord.{n}{n}Fais voir un peu.
+@1AE63C	Toi, attends par{n}{n}là. J'en ai pas{box}pour longtemps.
+@1AE661	…………{box}…Je vois…{n}{n}Ici… et là…
+@1AE686	Bon. J'ai une idée{n}{n}de l'état général.{box}…Il a pris cher,{n}{n}ton engin.
+@1AE6B2	Câbles et boîte de{n}{n}vitesses cassés,{box}et le générateur{n}{n}est foutu.
+@1AE6DA	…Mais un gamin{n}{n}comme toi, pilote…{box}Ben ça alors.
+@1AE703	…Ah, tu t'appelles{n}{n}{J}?{box}Moi, c'est{n}{n}Thomas Orbit.
+@1AE728	…Hm?
+@1AE759	Et moi, c'est{n}{n}{P}. Salut!
+@1AE780	Et moi, c'est{n}{n}{P}! Ravie de{box}te connaître,{n}{n}{J}!
+@1AE7AD	……Et mon nom{n}{n}est {P}.
+@1AE7D4	…Et moi, je suis{n}{n}{P}. Enchantée,{box}{J}.
+@1AE802	Et moi, c'est{n}{n}{P}! Salut à{box}toi, {J}!
+@1AE82D	Coucou {J},{n}{n}nya~!{box}Appelle-moi{n}{n}{P}, nya★
+@1AE85B	Et je me nomme{n}{n}{P}. Très{box}heureux de faire{n}{n}ta connaissance.
+@1AE88D	Moi, c'est {P}.{n}{n}Bienvenue, {J}.
+@1AE8B6	Et moi, c'est{n}{n}{P}! Content{box}de te connaître,{n}{n}{J}!
+@1AE8E1	Papa! ………{n}{n}…Ah?!{box}…Euh………{n}{n}…Je suis… {P}.
+@1AE915	…Dis donc. T'as{n}{n}fini ton boulot?
+@1AE95C	B… bah, presque.{n}{n}…Mais laisse-moi{box}voir, moi aussi!
+@1AE984	Un Unitron de{n}{n}type Chevalier,{box}j'en ai jamais vu!
+@1AE9B5	Euh… bon, bon…{n}{n}on verra ça après,{box}d'accord?
+@1AE9D6	Et sinon! Cet{n}{n}Unitron, c'est un{box}type Chevalier?{n}{n}Trop géniaaal!!
+@1AEA0E	…………Fini depuis{n}{n}longtemps.{box}Je viens donc{n}{n}t'aider…
+@1AEA38	Je vois. Un{n}{n}superbe Unitron.{box}Type Chevalier de{n}{n}Galia, je présume?
+@1AEA6E	Hi hi… depuis{n}{n}belle lurette.{box}Je venais donc{n}{n}t'aider…
+@1AEA97	…Quel Unitron…{n}{n}Un type Chevalier{box}de Galia… non?
+@1AEAC8	Hein? Euh…{n}{n}…Bah, on s'en{box}fiche. Pour une{n}{n}fois!
+@1AEAEB	Et sinon, cet{n}{n}Unitron, c'est un{box}type Chevalier?{n}{n}Ça déchire!
+@1AEB22	Nyuh? …C'est{n}{n}fini, nya!!{box}Pour de vrai, nya!{n}{n}Je mens pas, nya!
+@1AEB4E	Nyaaa!! Trop beau,{n}{n}cet Unitro!{box}Un type Chevalier,{n}{n}c'est ça, nya!!
+@1AEB85	Ha ha… c'est{n}{n}terminé, Père.{box}Je venais juste{n}{n}faire une pause.
+@1AEBAC	Oh oh… Superbe{n}{n}corps! Un modèle{box}Chevalier de{n}{n}Galia, non?
+@1AEBE4	Hmpf! Fini depuis{n}{n}longtemps! Je{box}voulais juste{n}{n}aider, c'est tout!
+@1AEC10	…Ouah! Pas mal!{n}{n}Type Chevalier de{box}Galia… hein?
+@1AEC43	Oui… presque{n}{n}fini… C'est juste{box}que… j'étais{n}{n}curieux.
+@1AEC6C	Ouah! Un Unitron{n}{n}type Chevalier!{box}Et un haut de{n}{n}gamme de Galia!
+@1AECA5	…Oui. C'est fini,{n}{n}papa. Alors…{box}je suis venue te{n}{n}chercher.
+@1AECCC	C'est… un Unitron{n}{n}type Chevalier?{box}{P} en a jamais{n}{n}vu…
+@1AECFF	Pff… t'es{n}{n}impossible.{box}…Bon, fais comme{n}{n}tu veux.
+@1AED20	Ah, {J}!{n}{n}Tu peux me{box}déplacer ce truc?
+@1AED3E	Jusqu'au garage{n}{n}derrière, ça ira.{box}Je veux l'étudier{n}{n}de plus près.
+@1AED65	…………Bon!{n}{n}Par ici! Suis-moi…
+@1AED91	…………Bon. Je me{n}{n}présente encore{box}une fois.
+@1AEDB3	Moi, c'est Thomas{n}{n}Orbit. Ingénieur,{box}à mon modeste{n}{n}niveau.
+@1AEDDD	Des petites{n}{n}machines jusqu'aux{box}Unitrons, je{n}{n}touche à tout.
+@1AEE03	Et ça, c'est mon…
+@1AEE39	…assistant et{n}{n}fils!{box}{P} Orbit!
+@1AEE40	…fils!{n}{n}{P} Orbit!
+@1AEE60	…assistante et{n}{n}fille!{box}{P} Orbit!
+@1AEE87	…assistant et{n}{n}fils.{box}{P} Orbit.
+@1AEEAE	…fille… ainsi{n}{n}qu'assistante.{box}{P} Orbit.
+@1AEED6	…fiston!{n}{n}{P} Orbit.{box}Exploité par le{n}{n}vieux, au passage.
+@1AEF07	…fille et petite{n}{n}aide: {P}{box}Orbit, nya★
+@1AEF31	…fils, ainsi{n}{n}qu'assistant:{box}{P} Orbit.
+@1AEF5C	…fille douce et{n}{n}talentueuse:{box}{P} Orbit!
+@1AEF88	…fils et{n}{n}assistant:{box}{P} Orbit!
+@1AEFB0	………f… fille…{n}{n}…………{P} Orbit.
+@1AEFE0	…Et voilà le{n}{n}tableau. Encore à{box}dégrossir, hein.
+@1AF003	Au fait, j'ai une{n}{n}question. Cet{box}Unitron… tu l'as{n}{n}eu où?
+@1AF02C	C'est un Unitron{n}{n}de Galia, non?{box}Un type Chevalier{n}{n}haut de gamme.
+@1AF057	Sans vouloir te{n}{n}vexer, c'est pas{box}un engin à la{n}{n}portée d'un gosse.
+@1AF081	D'habitude, c'est{n}{n}réservé à l'État.{box}À l'ordre des{n}{n}chevaliers-méca…
+@1AF0E4	Papa! Tu vois{n}{n}bien que tu{box}l'embêtes!!
+@1AF10A	…………Papa, enfin!{n}{n}Tu embêtes {J}!
+@1AF138	…………Père…!
+@1AF155	…Père, voyons,{n}{n}c'est impoli.
+@1AF174	Hé, le vieux!!{n}{n}Laisse tomber, on{box}s'en fiche!
+@1AF19F	…………Nyuuu~~.{n}{n}Papa~ tu{box}l'embêtes, nya…
+@1AF1CB	…Arrêtez, Père.{n}{n}Vous embarrassez{box}{J}.
+@1AF1FE	…Laisse tomber,{n}{n}papa! Tu vois pas{box}que tu embêtes{n}{n}{J}?
+@1AF22F	…Papa, tu{n}{n}l'embêtes! Faut{box}pas forcer comme{n}{n}ça!
+@1AF261	…Papa… arrête…{n}{n}…ça gêne {J}…
+@1AF293	…………Oups! T'as{n}{n}raison. Rien ne{box}t'oblige à parler.
+@1AF2B9	J'étais juste{n}{n}curieux, quoi.{box}Pardon si j'ai{n}{n}été lourd!
+@1AF2E1	Bon! Il est temps{n}{n}de s'y mettre!
+@1AF2FF	{P}!{n}{n}Tu me donnes un{box}coup de main!
+@1AF33E	À vos ordres!{n}{n}On fonce!
+@1AF365	Et comment!!{n}{n}Ouah, j'ai trop{box}hâte!
+@1AF38F	Compris…{n}{n}Commençons sans{box}tarder.
+@1AF3BB	Entendu, Père.{n}{n}Commençons vite.
+@1AF3EE	Tss, quel{n}{n}esclavagiste.{box}Bon! Allez, on s'y{n}{n}colle!
+@1AF423	Nyan★ Compris,{n}{n}nya! On va faire{box}ça vite fait,{n}{n}nya~!
+@1AF453	Hé hé… entendu,{n}{n}Père. Je suis{box}curieux moi aussi,{n}{n}je l'avoue.
+@1AF48B	Pff. Quel tyran,{n}{n}celui-là!{box}…Mais bon, je{n}{n}vais t'aider.
+@1AF4C0	OK! Et comment!!{n}{n}J'ai trop hâte!
+@1AF4EA	Oui… d'accord,{n}{n}papa. {P} a{box}hâte aussi.
+@1AF516	{J}! Désolé,{n}{n}mais tu peux{box}attendre à{n}{n}l'intérieur?
+@1AF539	Ça sera pas long.{n}{n}Une heure, tout au{box}plus.
+@1AF55D	Bon, j'y vais.{n}{n}En route, {P}!
+@1AF5A6	À plus tard!{n}{n}………………
+@1AF5CE	À plus, {J}!{n}{n}………………
+@1AF5F6	…………À plus.{n}{n}………………
+@1AF61B	Attends-nous bien{n}{n}sagement.………
+@1AF64A	Hé! Attends-moi,{n}{n}le vieux!………
+@1AF678	Bye bye★ À plus{n}{n}tard, nya~………
+@1AF6A5	Eh bien, à{n}{n}tout à l'heure……
+@1AF6D0	Bon, j'y vais.{n}{n}Salut!………………
+@1AF6FD	À tout à l'heure.{n}{n}Salut!………………
+@1AF726	…Ah… euh… à{n}{n}tout à l'heure…………
+@1AF7BA	………………! …{J}!{n}{n}…Oh, tu te{box}réveilles enfin!
+@1AF7DB	Tu tombais de{n}{n}sommeil, on{box}dirait. Tu dormais{n}{n}comme une souche.
+@1AF803	…Dis, {J},{n}{n}t'as fait quoi,{box}au juste?
+@1AF822	Ton Unitron… il{n}{n}est dans un état!{box}Plus un seul{n}{n}morceau intact.
+@1AF84C	Ah oui! Papa veut{n}{n}te voir. Tu peux{box}y aller?
+@1AF888	………………{J}!{n}{n}…Ah, pardon!{box}Je te réveille…
+@1AF8AD	Tu dois être à{n}{n}bout de forces.{box}Hi hi, tu ronflais{n}{n}même!
+@1AF8D4	Dis, {J}… tu as{n}{n}fait quoi, au{box}juste?
+@1AF8F2	Ton Unitron… il{n}{n}est dans un état!{box}Presque plus rien{n}{n}d'intact!
+@1AF91E	Ah oui! Papa te{n}{n}demande. Tu peux{box}aller le voir?
+@1AF959	………………{J}.{n}{n}…Ah. Tu émerges…
+@1AF97A	Pardon de te{n}{n}réveiller. Mais tu{box}accumules une{n}{n}sacrée fatigue.
+@1AF9A2	Toi, et ton{n}{n}Unitron aussi.{box}…Il était dans un{n}{n}état pitoyable.
+@1AF9C8	…À ce sujet,{n}{n}mon père t'en dira{box}davantage.
+@1AF9FD	………………{J}…{n}{n}…………Oh? Tu{box}t'éveilles?
+@1AFA1E	Pardon, tu as{n}{n}besoin de repos…{box}Hi hi, tu dormais{n}{n}si bien.
+@1AFA45	Ton Unitron… est{n}{n}en piteux état.{box}Endommagé à près{n}{n}de 80%.
+@1AFA6E	Père t'expliquera{n}{n}tout. Il{box}t'attend.
+@1AFAA5	…Hé… hé! {J}!{n}{n}Ah! T'émerges?
+@1AFAC5	Désolé de te{n}{n}tirer du dodo.{box}Mais t'as pas un{n}{n}peu forcé, là?
+@1AFAEC	Toi, et ton{n}{n}Unitron aussi.{box}Dans un état pas{n}{n}possible, l'engin!
+@1AFB16	Bref, le vieux{n}{n}t'expliquera. Il{box}t'attend là-bas.
+@1AFB4E	…ya… nyaa! {J}!{n}{n}…Nya nya! T'ouvres{box}les yeux, nya?
+@1AFB73	{J}… tu tombes{n}{n}de sommeil, nya?{box}Tu ronflais comme{n}{n}un chaton, nya!
+@1AFB94	Ah oui! Ton{n}{n}Unitron, il était{box}tout cassé, tout{n}{n}cabossé, nya!
+@1AFBBB	Papa va tout{n}{n}t'expliquer, nya.{box}Il t'attend, nya.
+@1AFBF5	…Ohé… {J}!{n}{n}…Ah, pardonne-moi{box}de te réveiller.
+@1AFC19	Mais la fatigue se{n}{n}lit sur toi. Sur{box}ton corps… comme{n}{n}sur ton Unitron.
+@1AFC3E	Quant à ton{n}{n}Unitron… il est{box}en bien triste{n}{n}état.
+@1AFC60	Je pourrais te{n}{n}l'expliquer, mais{box}mon père le fera{n}{n}mieux que moi.
+@1AFC9C	…………! …{J}!{n}{n}………Ah? Enfin{box}debout?
+@1AFCBD	La prochaine fois,{n}{n}debout plus vite!{box}…Fatigue ou pas!
+@1AFCE6	Une fille aussi{n}{n}mignonne que moi{box}te réveille, quand{n}{n}même!
+@1AFD0E	Ah oui. Papa te{n}{n}demandait. C'est{box}sûrement pour ton{n}{n}Unitron.
+@1AFD45	…………! …! {J}!!{n}{n}…Ah, tu ouvres les{box}yeux? Pardon.
+@1AFD6A	Je voulais te{n}{n}laisser dormir,{box}tu semblais à{n}{n}bout de forces…
+@1AFD92	Mais ton Unitron{n}{n}est vraiment mal{box}en point.
+@1AFDB4	Papa t'expliquera.{n}{n}Il t'attend.
+@1AFDED	………Euh…{n}{n}excuse-moi……{box}…Ah! B… bonjour!
+@1AFE17	P… pardon……{n}{n}Alors que tu as{box}besoin de repos…
+@1AFE3D	Euh… ton Unitron…{n}{n}il y a… un{box}problème.
+@1AFE65	C… c'est papa qui{n}{n}va tout{box}t'expliquer.
+@1AFECD	Ah! Te voilà.{n}{n}Désolé, je sais{box}que t'es à plat.
+@1AFEEA	Faut que je te{n}{n}parle de ton{box}Unitron.
+@1AFF13	D'abord, à part le{n}{n}corps, tout est{box}fichu, plaques de{n}{n}blindage incluses.
+@1AFF3B	Ça, on peut{n}{n}le remplacer par{box}d'autres pièces…
+@1AFF5F	Mais le noyau, le{n}{n}cœur de ton{box}Unitron, est{n}{n}fissuré.
+@1AFF85	Y avait ce truc{n}{n}planté dedans.{box}Sûrement un éclat{n}{n}d'arme.
+@1AFFAE	Ça a traversé le{n}{n}blindage et frappé{box}le noyau en plein.
+@1AFFD5	Mais tu vois…{n}{n}y a un truc qui me{box}chiffonne.
+@1AFFF3	Vu l'endroit de{n}{n}l'impact… ça{box}aurait dû te{n}{n}toucher, toi.
+@1B001C	Comme si le noyau{n}{n}l'avait aspiré.{box}…Bah, passons.
+@1B0046	Bon, maintenant,{n}{n}venons-en au{box}sujet principal…
+@1B005A	Bref……
+@1B008B	Ohé! Le dîner est{n}{n}prêt!
+@1B00AF	Papaaa! {J}!{n}{n}À taaable!
+@1B00DB	…………{n}{n}…Le repas est là.
+@1B0106	…Père. {J}.{box}Le dîner est{n}{n}servi.
+@1B0134	Ohé! La bouffe est{n}{n}prête!!{box}Si vous traînez,{n}{n}je mange tout!
+@1B0169	Hanyaaan★ À table,{n}{n}nya!{box}Les retardataires{n}{n}auront rien, nya!
+@1B01A0	…{J}, Père,{n}{n}le repas est prêt.
+@1B01D2	…Le dîner est{n}{n}servi!{box}Mangez tant que{n}{n}c'est chaud!
+@1B0205	Papa! {J}!{n}{n}C'est prêt!
+@1B0230	…Papa, c'est prêt.{n}{n}Et… euh… {J}…{box}toi aussi…
+@1B025E	…Bon, on finira{n}{n}de causer à table.
+@1B0283	{P} cuisine pas{n}{n}mal du tout, tu{box}vas voir.
+@1B029F	…Allez, on y va.{n}{n}Faut pas faire{box}attendre le chef,{n}{n}sinon ça râle.
+@1B02CC	Un vrai repas de{n}{n}famille, bien{box}chaud, le premier{n}{n}depuis longtemps.
+@1B02EA	{J} y retrouva{n}{n}un goût d'enfance,{box}et un bien-être{n}{n}oublié.
+@1B030B	…Était-ce pour{n}{n}cela? Sans qu'on{box}sache comment,
+@1B0323	les raisons du{n}{n}voyage leur furent{box}confiées.
+@1B0376	…Je vois.{n}{n}Tu cherches ton{box}frangin.
+@1B0394	Voilà pourquoi tu{n}{n}fais la route en{box}solitaire depuis{n}{n}deux ans.
+@1B03DF	J'espère que tu{n}{n}retrouveras ton{box}frère! Je suis{n}{n}avec toi.
+@1B0411	…Ah, d'accord.{n}{n}J'espère que tu le{box}retrouveras, ton{n}{n}grand frère.
+@1B043B	………………{n}{n}…Courage… {J}.
+@1B0464	…Je prierai pour{n}{n}qu'un jour, vous{box}vous retrouviez…
+@1B0495	T'inquiète! En{n}{n}bourlinguant, tu{box}finiras bien par{n}{n}le dénicher!
+@1B04CA	Fnyuuu. J'espère{n}{n}que tu le trouves,{box}nya. {P} est{n}{n}avec toi, nya.
+@1B04FE	Si tu y crois{n}{n}assez fort… un{box}jour, ton vœu se{n}{n}réalisera.
+@1B052F	…Ah. Bon, courage.{n}{n}………Je suis avec{box}toi, moi aussi.
+@1B0566	Courage, {J}!{n}{n}Je te soutiens,{box}même de loin.
+@1B0598	…Euh… b-bon{n}{n}courage…{box}…………Tu le{n}{n}retrouveras, j'en{box}suis sûre.
+@1B05D1	…Donc t'as pas de{n}{n}temps à perdre?{box}T'as hâte d'aller{n}{n}le chercher, hein.
+@1B05FD	Je peux réparer en{n}{n}urgence, mais ça{box}peut lâcher à tout{n}{n}moment.
+@1B0622	Le mieux, ce{n}{n}serait de lui{box}mettre un noyau{n}{n}tout neuf.
+@1B0648	Hmm… Seulement,{n}{n}j'ai pas de noyau{box}en stock…
+@1B066D	ni de livraison{n}{n}prévue. Alors?{box}Rester en rade,{n}{n}ça t'arrange pas.
+@1B06C1	Au fait, j'ai une{n}{n}idée!{box}…On en déterre un{n}{n}dans des ruines.
+@1B06EA	Il y a peut-être{n}{n}un noyau au{box}sanctuaire des{n}{n}esprits, au nord.
+@1B070D	L'autre jour, un{n}{n}type y a déterré{box}un Unitron entier!
+@1B0742	…Dis! J'ai une{n}{n}idée!{box}On va fouiller des{n}{n}ruines!
+@1B076B	Au sanctuaire des{n}{n}esprits, au nord,{box}il y a peut-être{n}{n}un noyau.
+@1B078F	La dernière fois,{n}{n}quelqu'un y a bien{box}déterré un{n}{n}Unitron, non?
+@1B07C4	Il y a bien un{n}{n}moyen.{box}…En déterrer un{n}{n}dans des ruines.
+@1B07EB	Le sanctuaire des{n}{n}esprits, au nord,{box}pourrait abriter{n}{n}un noyau.
+@1B0810	On m'a dit que{n}{n}quelqu'un y a{box}récemment déterré{n}{n}un Unitron.
+@1B0841	…Il y a une{n}{n}solution: aller en{box}chercher un dans{n}{n}des ruines.
+@1B0867	Au nord, le{n}{n}sanctuaire des{box}esprits pourrait{n}{n}abriter un noyau.
+@1B088E	Des gens y{n}{n}auraient déterré{box}un Unitron{n}{n}récemment.
+@1B08C2	…Ho! J'ai une idée{n}{n}de génie! On va en{box}déterrer un dans{n}{n}des ruines!
+@1B08EA	Y a un sanctuaire{n}{n}des esprits au{box}nord. Il y en a{n}{n}peut-être un, là?
+@1B0912	L'autre fois, y a{n}{n}des gars qui y ont{box}déterré un{n}{n}Unitron!
+@1B0946	Nyuuu~. Ah! J'ai{n}{n}une idée, nya! On{box}va en déterrer un{n}{n}dans des ruines!
+@1B0970	Au sanctuaire des{n}{n}esprits, au nord,{box}il y a peut-être{n}{n}un noyau, nya.
+@1B0998	L'autre jour,{n}{n}quelqu'un y a{box}déterré un{n}{n}Unitron, nya.
+@1B09C9	…Il y a une{n}{n}solution, Père:{box}en déterrer un{n}{n}dans des ruines.
+@1B09F0	Au sanctuaire des{n}{n}esprits, au nord,{box}il pourrait y{n}{n}avoir un noyau.
+@1B0A18	Il paraît que des{n}{n}gens y ont déterré{box}un Unitron, il y a{n}{n}peu.
+@1B0A4C	Voyons… il y a{n}{n}bien une solution.{box}En déterrer un{n}{n}dans des ruines.
+@1B0A74	Au sanctuaire des{n}{n}esprits, au nord,{box}il doit bien y{n}{n}avoir un noyau!
+@1B0A99	Il paraît que{n}{n}quelqu'un y a{box}déterré un Unitron{n}{n}l'autre jour.
+@1B0ACD	Je sais! Il y a un{n}{n}moyen!{box}On n'a qu'à en{n}{n}déterrer un!
+@1B0AF1	Au sanctuaire des{n}{n}esprits, au nord,{box}il y a peut-être{n}{n}bien un noyau!
+@1B0B19	Quelqu'un y a bien{n}{n}déterré un{box}Unitron, l'autre{n}{n}jour.
+@1B0B49	…Papa… il y a un{n}{n}moyen. …Aller en{box}chercher un dans{n}{n}des ruines.
+@1B0B71	Au sanctuaire des{n}{n}esprits, au nord…{box}il y a peut-être…{n}{n}un noyau.
+@1B0B97	L'autre jour…{n}{n}quelqu'un y a{box}trouvé un Unitron,{n}{n}il paraît.
+@1B0BCA	…Le sanctuaire des{n}{n}esprits… hein.{box}Un autel antique.
+@1B0BEB	Presque personne{n}{n}n'y est entré,{box}donc un noyau, ça{n}{n}se pourrait, mais…
+@1B0C14	c'est un repaire{n}{n}de monstres. C'est{box}un poil risqué,{n}{n}non?
+@1B0C3D	…Cela dit, si{n}{n}{J} y tient,{box}j'y peux rien.
+@1B0C60	Attendre une{n}{n}livraison, ça peut{box}prendre une{n}{n}éternité.
+@1B0C82	Alors? On tente le{n}{n}coup?
+@1B0C9C	Avec ton talent,{n}{n}ces bestioles{box}devraient pas te{n}{n}faire peur, mais…
+@1B0CDD	…………Bon… compris.{n}{n}Alors, on attaque{box}les préparatifs.
+@1B0D03	{P}! On reprend{n}{n}le boulot! Et toi,{box}va te reposer.
+@1B0D2A	Si tu tiens plus{n}{n}debout, tu{box}trouveras rien du{n}{n}tout.
+@1B0D50	Allez, à demain!
+@1B0D83	Ton Unitron, je{n}{n}m'en charge!{box}Alors repose-toi{n}{n}bien.
+@1B0DAB	Allez, bonne nuit!
+@1B0DC9	Ton Unitron,{n}{n}compte sur moi!{box}Alors repose-toi{n}{n}bien, hein.
+@1B0DEF	{J}…{n}{n}bonne nuit!
+@1B0E15	Hm… Laisse-moi{n}{n}l'Unitron. Toi,{box}repose-toi.
+@1B0E3E	Demain… la journée{n}{n}sera chargée.{box}Bonne nuit…{n}{n}{J}.
+@1B0E70	Ne t'en fais pas{n}{n}pour la suite.{box}{J}, toi, tu{n}{n}te reposes.
+@1B0E96	À demain, alors.{n}{n}Bonne nuit…
+@1B0EC3	Ouais! Je vais{n}{n}m'y mettre à fond!{box}{J}! Toi, dors{n}{n}comme un loir!
+@1B0EE7	Demain, ça va{n}{n}bouger. Allez,{box}bonne nuit!!
+@1B0F1A	Nyan★ Je répare{n}{n}l'Unitro, nya.{box}Alors dors bien,{n}{n}nya.
+@1B0F46	À demain, nyaaa~!
+@1B0F66	Hé hé, laisse-moi{n}{n}l'Unitron et{box}repose-toi bien.
+@1B0F8B	Retrouvons-nous{n}{n}demain…
+@1B0FAF	Pff, il nous fait{n}{n}trimer, celui-là!{box}Bref, toi, dors{n}{n}bien.
+@1B0FD8	Bonne nuit, alors!
+@1B0FF9	Allez, l'Unitron,{n}{n}compte sur moi!{box}Alors repose-toi{n}{n}bien.
+@1B101F	À demain, alors!
+@1B103F	…Euh… je vais{n}{n}faire de mon mieux{box}pour le réparer.{n}{n}Alors… repose-toi…
+@1B106A	À… demain…{n}{n}…Bonne nuit…
+@1B1098	……………Clang clang…{n}{n}……Vrrriiiiiin………
+@1B10B8	……………Pshhht………{n}{n}………………………………
+@1B111F	{n}  ……Le lendemain……
+@1B1142	…Hé! Salut!{n}{n}T'as récupéré?
+@1B1162	Ton Unitron, je te{n}{n}l'ai retapé,{box}nickel.
+@1B1183	…Pour le noyau,{n}{n}par contre, c'est{box}du provisoire.
+@1B11A3	Bon, il a un peu{n}{n}changé de gueule,{box}mais… rien de{n}{n}grave.
+@1B11CB	J'ai aussi{n}{n}remplacé les{box}pièces bousillées.
+@1B11ED	…T'inquiète donc!{n}{n}Le châssis, lui,{box}n'a pas bougé.
+@1B1212	Oh! T'as fini de{n}{n}te préparer?
+@1B124D	Évidemment. Le{n}{n}transporteur est{box}prêt, lui aussi.
+@1B126D	Ah, {J}, salut!{n}{n}On fait équipe{box}aujourd'hui!
+@1B129B	Et comment!{n}{n}Transporteur paré!
+@1B12B9	Coucou, {J}!{n}{n}On fait équipe{box}aujourd'hui★
+@1B12E6	…Évidemment.{n}{n}Transporteur{box}compris.
+@1B1308	Hm? …{J},{n}{n}bonjour.{box}Je compte sur toi{n}{n}aujourd'hui.
+@1B1338	Oui, c'est fini.{n}{n}Le transporteur{box}est prêt, lui{n}{n}aussi.
+@1B1361	Oh… tu te sens{n}{n}bien?{box}Je compte sur toi{n}{n}toute la journée.
+@1B1397	Un peu, que c'est{n}{n}fini! Et le{box}transporteur{n}{n}aussi, nickel!
+@1B13BA	Salut, {J}!{n}{n}Aujourd'hui, on{box}donne tout!!
+@1B13E6	Je viens de finir,{n}{n}nyaaa~.{box}Le transporteur{n}{n}aussi, ça roule.
+@1B140B	Hanya? {J},{n}{n}bonjour, nya!{box}Aujourd'hui, on{n}{n}fonce, nya!
+@1B143B	Ha ha. Tout va{n}{n}bien, Père.{box}Le transporteur{n}{n}est prêt.
+@1B1462	Ah, {J}.{n}{n}Faisons de notre{box}mieux aujourd'hui.
+@1B148F	Évidemment que{n}{n}c'est fini.{box}Le transporteur{n}{n}aussi.
+@1B14B3	Hé hé, {J}!{n}{n}Aujourd'hui, tu me{box}protèges bien,{n}{n}hein!
+@1B14E1	Et comment! Je{n}{n}suis fin prêt. Le{box}transporteur{n}{n}aussi, c'est fait.
+@1B1510	Ah! {J},{n}{n}bonjour!{box}On va tout donner{n}{n}aujourd'hui!
+@1B153D	…Oui, j'ai fini,{n}{n}papa.{box}La voiture est{n}{n}prête aussi.
+@1B1564	Ah… {J}…{n}{n}euh… je compte sur{box}toi…
+@1B1593	Pourquoi tu fais{n}{n}cette tête?{box}…Ah, c'est vrai,{n}{n}je t'ai rien dit.
+@1B15BC	Aujourd'hui, tu{n}{n}emmènes {P}.
+@1B15D9	Hein? Dangereux?{n}{n}Tu rigoles! Le{box}danger, c'est{n}{n}plutôt pour toi.
+@1B15FD	Ton Unitron, il{n}{n}peut lâcher{box}n'importe quand,{n}{n}tu sais?
+@1B1623	Il te faut un{n}{n}ingénieur pour le{box}réparer à tout{n}{n}moment.
+@1B1648	T'en fais pas, ça{n}{n}ira. Je lui prête{box}notre transporteur{n}{n}spécial.
+@1B166D	Franchement, il{n}{n}est encore plus{box}solide qu'un{n}{n}Unitron!
+@1B1693	Bref, c'est réglé.{n}{n}{P}! Je compte{box}sur toi.
+@1B16DC	Je serai pas un{n}{n}boulet, promis!{box}Allez, en route!
+@1B1701	Destination: les{n}{n}ruines du nord!{box}Le 【sanctuaire{n}{n}des esprits】!
+@1B1731	Moi aussi, je vais{n}{n}tout donner!{box}Allez, c'est{n}{n}partiii!!
+@1B1751	Destination: les{n}{n}ruines du nord!{box}Le 【sanctuaire{n}{n}des esprits】!!
+@1B1781	……………………{n}{n}…Bien. En route.
+@1B17A3	Le 【sanctuaire{n}{n}des esprits】 se{box}trouve au nord{n}{n}d'ici.
+@1B17D5	Hi hi. Je ne te{n}{n}gênerai pas.{box}…On se met en{n}{n}route?
+@1B17F9	Le 【sanctuaire{n}{n}des esprits】 est{box}au nord d'ici.
+@1B182B	Hé hé, t'inquiète!{n}{n}Allez! En route!
+@1B1850	Destination: 60{n}{n}daïdos au nord,{box}le 【sanctuaire{n}{n}des esprits】!
+@1B1881	Hanyun. Ça va{n}{n}aller, nyaaa.{box}T'en fais pas,{n}{n}nya.
+@1B18A3	Destination… au{n}{n}nord! Le{box}【sanctuaire des{n}{n}esprits】, nya!
+@1B18D4	J'insiste un peu,{n}{n}je sais… mais{box}laisse-moi{n}{n}t'aider.
+@1B18F9	Notre destination,{n}{n}au nord d'ici: le{box}【sanctuaire des{n}{n}esprits】.
+@1B192D	Hé hé! Tu peux me{n}{n}dire merci★{box}Bon, on y va?
+@1B1956	Le 【sanctuaire{n}{n}des esprits】 est{box}au nord d'ici,{n}{n}voilà.
+@1B1989	Je vais faire de{n}{n}mon mieux!{box}Alors… on y va!
+@1B19AC	Destination: le{n}{n}【sanctuaire des{box}esprits】. C'est au{n}{n}nord d'ici.
+@1B19E2	…Euh… p-pardon…{n}{n}Mais… je ferai de{box}mon mieux…
+@1B1A0B	Ah… euh… on va…{n}{n}au 【sanctuaire{box}des esprits】…
+@1B1A40	Bien! J'attends de{n}{n}bonnes nouvelles!!
+@1B1A5C	Moi, je prépare la{n}{n}suite ici, en{box}vous attendant!
+@1B1A79	{J}… je te{n}{n}confie {P}.
+@1B1A9E	Quelques heures{n}{n}après le départ{box}de Mérice…
+@1B1ABD	Par-delà une forêt{n}{n}profonde, au bout{box}de vallées sans{n}{n}nombre,
+@1B1ADC	se dressait leur{n}{n}destination: le{box}【sanctuaire des{n}{n}esprits】.
+@1B1AFB	Mangé par le{n}{n}lierre, l'édifice{box}de pierre brune
+@1B1B16	était le spectre{n}{n}d'une civilisation{box}disparue depuis{n}{n}des âges.
+@1B1B37	Malgré l'étrange{n}{n}aura des ruines,{box}l'équipe de {J}
+@1B1B5D	osa s'aventurer à{n}{n}l'intérieur.
+@1B1BA0	Alors c'est ça… le{n}{n}【sanctuaire des{box}esprits】…{n}{n}Un autel antique.
+@1B1BC7	C'est quoi, ce{n}{n}truc…{box}…cette ambiance…?
+@1B1BE2	…{J},{n}{n}entrons vite!
+@1B1C06	C'est ça, le{n}{n}【sanctuaire des{box}esprits】? Ça a{n}{n}l'air vieux…
+@1B1C2D	Mais… c'est quoi?{n}{n}Cette ambiance…{box}c'est quoi…
+@1B1C4B	…Ah… {J},{n}{n}on entre!
+@1B1C70	…………Le 【sanctuaire{n}{n}des esprits】…{box}…De quand peuvent{n}{n}dater ces ruines?
+@1B1C9A	…Cette sensation…{n}{n}…Quelle est cette{box}atmosphère?
+@1B1CBD	…Tch… {J}…{n}{n}…entrons…
+@1B1CE9	Le 【sanctuaire{n}{n}des esprits】……{box}…Il doit être…{n}{n}très ancien.
+@1B1D10	Pourtant… je sens…{n}{n}Quelle est cette{box}atmosphère…
+@1B1D32	…Je ne sais pas…{n}{n}{J}… allons-y.
+@1B1D5E	Alors c'est ça, le{n}{n}【sanctuaire des{box}esprits】… Ça date{n}{n}pas d'hier…
+@1B1D87	Bon sang… c'est{n}{n}quoi, cette{box}ambiance? Elle me{n}{n}colle aux basques.
+@1B1DB1	{J}! On entre,{n}{n}qu'on en finisse.
+@1B1DDA	Nyaouuu…{n}{n}C'est ça, le{box}【sanctuaire des{n}{n}esprits】, nya?
+@1B1DFB	…Ça fait tout{n}{n}bizarre, nya.{box}J'ai le poil tout{n}{n}hérissé, nya.
+@1B1E1E	{J}… Si on{n}{n}entre, on entre{box}vite, nya…
+@1B1E4C	Voici donc le{n}{n}【sanctuaire des{box}esprits】. Il{n}{n}dépasse ce que{box}j'imaginais…
+@1B1E75	Et surtout… cette{n}{n}atmosphère…{box}Cette sensation{n}{n}qui trouble l'âme.
+@1B1E9D	Inutile de rester{n}{n}à regarder.{box}Entrons, {J}.
+@1B1ECF	Le 【sanctuaire{n}{n}des esprits】…{box}C'est quoi, ces{n}{n}ruines…
+@1B1EF4	Une sensation{n}{n}super bizarre…{box}Ça me met tout à{n}{n}l'envers…
+@1B1F1C	Ah! Brrr! {J}!{n}{n}Entrons, vite!
+@1B1F4C	Waouh! Elles sont{n}{n}géniales, ces{box}ruines! C'est ça,{n}{n}le 【sanctuaire{box}des esprits】!
+@1B1F74	Mais… tu le sens?{n}{n}C'est vraiment…{box}une drôle de{n}{n}sensation.
+@1B1F98	Bon, tant pis.{n}{n}On entre, {J}!
+@1B1FBF	…Le 【sanctuaire{n}{n}des esprits】…{box}…C'est… très{n}{n}vieux…
+@1B1FE9	…………Euh… tu ne{n}{n}sens pas?{box}…Une sensation…{n}{n}bizarre…
+@1B2015	…Euh… on entre…{n}{n}hein?{box}…………D'accord…
+@1B204A	…Tiens donc. Je{n}{n}vois. Il s'est{box}passé ça, dans ces{n}{n}ruines.
+@1B206C	…{J}… pardon.{n}{n}Ma réparation…{box}était bâclée.
+@1B2091	Le noyau… il est{n}{n}en miettes.{box}…………Je suis{n}{n}vraiment désolé.
+@1B20BB	…Ça suffira pas à{n}{n}me faire{box}pardonner, mais{n}{n}bon…
+@1B20DD	cette fois, je{n}{n}vais réviser ton{box}Unitron à la{n}{n}perfection.
+@1B2101	Gratis, bien sûr.
+@1B2137	Lulululuuu★{n}{n}…Miam miam crunch…
+@1B2163	Lyulyulyuuun★{n}{n}…Crac crac craac…
+@1B218E	Eh ben… sacré{n}{n}appétit.{box}Vingt tuyaux en{n}{n}fer, rien que ça.
+@1B21B5	Pas de doute,{n}{n}c'est bien ça.
+@1B21EE	Tu sais ce que{n}{n}c'est, papa?
+@1B220C	Papa… tu sais ce{n}{n}que c'est?
+@1B2228	…………Tu sais ce que{n}{n}c'est, Père?
+@1B224C	Oh? Tu sais ce que{n}{n}c'est, Père?
+@1B226E	Hein? Tu connais{n}{n}ça, le vieux?
+@1B228E	Nyanya? Papa, tu{n}{n}connais, nya?
+@1B22B1	Savez-vous ce que{n}{n}c'est, Père?
+@1B22D3	Tiens, tu connais,{n}{n}papa?
+@1B22F0	Hein?{n}{n}Tu connais, papa?
+@1B2314	Hein?!{n}{n}Tu connais, papa?!
+@1B2338	Ouais. J'en ai vu,{n}{n}autrefois. Et puis{box}de toute façon,
+@1B235B	seule une espèce{n}{n}croque du tuyau en{box}fer comme ça.
+@1B2381	Ce truc-là, c'est{n}{n}une 【Elel】.{box}Une bête-esprit,{n}{n}une Elel.
+@1B23A4	Ça sert les{n}{n}esprits divins et{box}d'autres gros{n}{n}bonnets du genre.
+@1B23CB	Ces bêtes mangent{n}{n}des matériaux pour{box}en tirer de{n}{n}l'énergie.
+@1B23F0	Elles stockent en{n}{n}elles l'énergie{box}qu'il y a dans les{n}{n}matériaux.
+@1B2418	Hé hé… elle fera{n}{n}un noyau parfait.{box}Et puis, elle t'a{n}{n}à la bonne.
+@1B2468	Ah, je vois.{n}{n}À la place du{box}noyau…
+@1B2485	…Je sais, {J}!{n}{n}Baptisons-la!
+@1B24A3	Tu l'appelles{n}{n}comment?
+@1B24C0	Ah bon… d'accord!{n}{n}Servir de noyau,{box}la pauvre, quand{n}{n}même.
+@1B24E4	…Je sais! {J}!{n}{n}Si on donnait un{box}nom à la petite?
+@1B2508	On l'appelle{n}{n}comment?
+@1B2527	Elle fera office{n}{n}de noyau. Navré{box}pour elle.
+@1B254D	Bien… Donnons-lui{n}{n}un nom.
+@1B2568	Quel nom veux-tu?
+@1B2586	Oh là là… la faire{n}{n}servir de noyau,{box}c'est cruel. Mais…{n}{n}elle comprendra.
+@1B25AF	Voyons…{n}{n}Baptisons-la.
+@1B25CE	Quel nom lui irait{n}{n}bien?
+@1B25EE	Désolé pour elle,{n}{n}mais va falloir{box}qu'elle s'y colle!
+@1B2613	En échange, on lui{n}{n}trouve un nom!
+@1B262D	Tu choisis quoi?
+@1B264A	Remplaçante du{n}{n}noyau: adoptééé,{box}nya!! Pardon!{n}{n}Pardonne-moi, nya!
+@1B2673	Alors, on lui{n}{n}trouve un nom,{box}nya!
+@1B268A	Tu choisis quoi,{n}{n}nya?
+@1B26A7	En faire un noyau…{n}{n}Pas le choix.{box}J'en suis navré{n}{n}pour elle.
+@1B26CE	Voyons… Il lui{n}{n}faut un nom.
+@1B26ED	Quel nom{n}{n}choisis-tu?
+@1B270E	Remplaçante du{n}{n}noyau, hein…{box}Bon… elle devra{n}{n}bien nous excuser.
+@1B2733	Pour se faire{n}{n}pardonner, on n'a{box}qu'à lui donner un{n}{n}nom!
+@1B2740	{n}{n}Baptisons-la!
+@1B2758	On l'appelle{n}{n}comment?
+@1B2779	Sans noyau, on n'a{n}{n}pas le choix…{box}Pardon! Sers-nous{n}{n}de noyau!
+@1B27A0	Alors… donnons un{n}{n}nom à notre{box}Elel-noyau!
+@1B27C3	Qu'est-ce qui lui{n}{n}irait bien?
+@1B27E0	…Servir de{n}{n}noyau…{box}…On n'a pas le{n}{n}choix… hein…?
+@1B2803	Pardon… au moins…{n}{n}je vais te donner{box}un nom.
+@1B2824	…Euh… tu choisis{n}{n}quoi?
+@1B2847	{FF07}, hein?{n}{n}C'est pas un{box}mauvais nom.
+@1B2862	Et remplaçante ou{n}{n}pas, on va pas la{box}brancher avec des{n}{n}câbles.
+@1B2886	Je lui fabrique un{n}{n}siège, et je{box}l'installe dessus,{n}{n}c'est tout.
+@1B28A7	Avec des panneaux{n}{n}d'énergie tout{box}autour. Rien de{n}{n}plus.
+@1B28CF	Bon… allez, je{n}{n}vais modifier{box}l'Unitron.
+@1B28F5	{J}!{n}{n}Toi, au lit.
+@1B290D	Je te prépare tout{n}{n}pour que tu{box}puisses partir{n}{n}demain.
+@1B2934	J'aimerais bien te{n}{n}garder un peu{box}plus longtemps,{n}{n}mais…
+@1B2955	le temps presse,{n}{n}hein?{box}Pour ton voyage…
+@1B296E	…Laisse. Je{n}{n}comprends ce que{box}tu ressens.
+@1B298D	…{P}!{n}{n}Toi aussi, au lit.
+@1B29A3	T'en peux plus,{n}{n}pas vrai? Une{box}fausse manip, et{n}{n}c'est le drame.
+@1B29C6	Allez, dodo!
+@1B29F9	…{J}!{n}{n}Non… bonne nuit.
+@1B2A0F	À… demain…
+@1B2A2E	…{J}!{n}{n}…Ah… b-bonne nuit…
+@1B2A4A	À… demain, hein.
+@1B2A67	…………{J}…{n}{n}Non… rien.
+@1B2A82	Bonne nuit…{n}{n}À… demain.
+@1B2AAA	…………{J}…{n}{n}…ce n'est… rien.
+@1B2AC6	Bonne… nuit.{n}{n}À demain…
+@1B2AF1	Hé… {J}…{n}{n}…non… laisse{box}tomber.
+@1B2B0E	Bonne nuit!{n}{n}À… demain.
+@1B2B34	Hanyu… {J}…{n}{n}…Fnyu… c'est rien,{box}nya.
+@1B2B55	Bonne nuit, nya.{n}{n}À demain, nya…
+@1B2B82	{J}… non…{n}{n}ce n'est rien…
+@1B2B9E	Bonne nuit…{n}{n}À demain…
+@1B2BC5	Dis… dis! {J}!{n}{n}…………Non… rien.
+@1B2BE7	Bonne nuit…{n}{n}À demain, hein.
+@1B2C0D	{J}… euh…{n}{n}…non… laisse…
+@1B2C2A	Bonne nuit!{n}{n}À demain!
+@1B2C4F	…Euh… euh…{n}{n}{J}…{box}…Non… c'est{n}{n}rien…
+@1B2C72	…Bonne… nuit…{n}{n}À… demain…
+@1B2CBD	…{J}{n}{n}faisait un rêve.
+@1B2CD2	Un rêve sépia,{n}{n}venu du fond de{box}sa mémoire.
+@1B2CF0	La petite enfance…{n}{n}Le temps où sa{box}mère était encore{n}{n}en vie…
+@1B2D19	Son père était{n}{n}parti à la guerre.{box}Ils n'étaient que{n}{n}trois.
+@1B2D3F	Dans le rêve,{n}{n}l'enfant…{box}pleurait, sans{n}{n}savoir pourquoi.
+@1B2D5C	Pourquoi ces{n}{n}larmes? Qu'y{box}avait-il de si{n}{n}triste?
+@1B2D80	Sa mère avait beau{n}{n}consoler l'enfant,{box}les larmes{n}{n}coulaient encore.
+@1B2DA4	C'est alors que le{n}{n}grand frère lui{box}tendit un objet{n}{n}scintillant.
+@1B2DC4	Son trésor le plus{n}{n}précieux, trouvé à{box}la 【source】.
+@1B2DE7	Un éclat de{n}{n}cristal, qui{box}brillait d'un bleu{n}{n}profond.
+@1B2E04	Le grand frère eut{n}{n}un large sourire.{box}Un visage si doux.
+@1B2E28	Gagné par ce{n}{n}sourire, l'enfant{box}se mit à sourire{n}{n}à son tour.
+@1B2E4A	Au creux de la{n}{n}main, la lumière{box}scintillait………
+@1B2E8E	Salut! Bien dormi?{n}{n}Hé hé, t'as une{box}bonne tête, ce{n}{n}matin.
+@1B2EB3	Ton Unitron, il{n}{n}est comme neuf!
+@1B2ED1	Ah, c'est vrai!{n}{n}…Le siège de{box}{FF07} aussi.
+@1B2EEE	…Et maintenant, le{n}{n}plus important.
+@1B2F0A	Si l'Elel sert de{n}{n}noyau, alors en la{box}faisant grandir…
+@1B2F31	Bref, nourris{n}{n}l'Elel, et ton{box}Unitron gagnera en{n}{n}puissance.
+@1B2F5A	…Mais à l'inverse,{n}{n}si tu fais pas{box}grandir l'Elel,
+@1B2F79	ton Unitron ne{n}{n}gagnera pas en{box}puissance… voilà{n}{n}le topo.
+@1B2F9D	La nourrir avec{n}{n}quoi? Avec des{box}matériaux, pardi.
+@1B2FB8	Elle a ses goûts,{n}{n}mais donne-lui un{box}peu de tout, pour{n}{n}voir.
+@1B2FDC	…Hein? {P}?{n}{n}Ah, ça roupille{box}encore.
+@1B2FFD	Cette tête de mule{n}{n}a fini par bosser{box}sur ton Unitron.
+@1B3020	Au lit qu'au petit{n}{n}jour. Toujours à{box}en faire trop…
+@1B3046	…Tu lui dis pas au{n}{n}revoir?{box}…Hm… Peur que ce{n}{n}soit trop dur?
+@1B306B	…Au fait, je peux{n}{n}te demander un{box}truc? Tu vas faire{n}{n}quoi, maintenant?
+@1B30A5	Je vois…{n}{n}【Tridis】, hein?{box}Le continent du{n}{n}Ragnarok…
+@1B30D0	Tu le sais, non?{n}{n}Paraît que c'est…{box}dangereux, là-bas.
+@1B30EF	…Bon…{n}{n}D'accord… je te{box}retiendrai pas.
+@1B310B	Tiens… prends ça.{n}{n}Un petit cadeau{box}pour la route.
+@1B312C	{n}【…………1000G reçus】{n}
+@1B3144	Prends-les sans{n}{n}discuter. C'est{box}juste un petit{n}{n}geste.
+@1B3166	…………Allez, file!{n}{n}D'ici la prochaine{box}ville… compte deux{n}{n}jours.
+@1B318F	{J}… quand{n}{n}t'auras retrouvé{box}ton frangin,{n}{n}repasse par ici.
+@1B31B1	Je t'accueillerai{n}{n}à bras ouverts.{box}…Fais pas de{n}{n}folies… hein.
+@1B31D0	Allez, salut! À la{n}{n}prochaine!!
+@1B31F4	Quelques heures{n}{n}après le départ{box}de Mérice…
+@1B3214	une immense forêt{n}{n}se dessina à{box}l'horizon.
+@1B3234	La route filait{n}{n}tout droit à{box}travers les bois.
+@1B325A	Et là, garée sur{n}{n}le bas-côté: une{box}remorque bien{n}{n}familière.
+@1B3281	C'était le{n}{n}transporteur de{box}{P}…
+@1B32C2	Ho! T'en as mis du{n}{n}temps! J'en{box}pouvais plus{n}{n}d'attendre!
+@1B32E5	…{J}…{n}{n}ne dis rien.
+@1B32FF	Je… veux partir{n}{n}avec toi. Alors…{box}ne dis rien.
+@1B3326	Et si…{n}{n}…tu dis non, je te{box}suis quand même!
+@1B3342	L'entretien de{n}{n}l'Unitron… sans{box}moi, ça irait pas,{n}{n}hein?
+@1B3366	…?!{n}{n}Merci… ça me fait{box}super plaisir!
+@1B3382	Allez! En route!{n}{n}Cette route est{box}plutôt longue.
+@1B33B5	Ah! T'en as mis du{n}{n}temps! J'ai failli{box}prendre racine★
+@1B33D9	…Ah… {J}…{n}{n}ne dis rien.
+@1B33F3	Je… veux partir{n}{n}avec toi.{box}Alors… ne dis{n}{n}rien…
+@1B341A	Et même… si tu dis{n}{n}non, je te suis!
+@1B3438	L'entretien de{n}{n}l'Unitron… sans{box}moi, tu t'en{n}{n}sortirais pas!
+@1B345E	…?!{n}{n}Merci… je suis si{box}contente…
+@1B3478	Allez, on y va!{n}{n}Cette route… elle{box}est longue, hein!
+@1B34AD	Hm. Tu en as mis{n}{n}du temps. J'ai{box}bien failli me{n}{n}lasser…
+@1B34D1	{J}…{n}{n}Ne dis rien.
+@1B34E5	Je veux voyager à{n}{n}tes côtés…
+@1B3504	Même si tu{n}{n}refuses, je te{box}suivrai.
+@1B3517	Ah, non. Ce{n}{n}serait, disons… un{box}peu cavalier.
+@1B3539	…Enfin, bref.
+@1B3546	Me confierais-tu{n}{n}désormais tout{box}l'entretien?
+@1B356C	Tout mon art sera{n}{n}à ton service.{box}À toi… et à{n}{n}personne d'autre.
+@1B3592	…Hm. Hé hé hé!!{n}{n}Merci… vraiment.
+@1B35AE	Allons, le chemin{n}{n}sera long…{box}…En route!
+@1B35E4	Te voilà… je{n}{n}t'attendais.{box}Hi hi, mais pas{n}{n}bien longtemps.
+@1B360A	{J}…{n}{n}…Ne dis rien.{box}Pas maintenant.
+@1B3626	Je pars avec toi…{n}{n}…c'est décidé.
+@1B364B	Même si… tu me{n}{n}disais non,{box}je te suivrais.
+@1B366E	Ton Unitron…{n}{n}laisse-moi en{box}prendre soin.
+@1B3692	…Hi hi… merci.{n}{n}…{J}.
+@1B36AC	…Allons-y!{n}{n}La route est{box}longue, tu sais.
+@1B36E1	Hé hé, te v'là{n}{n}enfin!{box}J'commençais à{n}{n}moisir, moi!
+@1B3703	{J}…{n}{n}Dis rien, OK?
+@1B371C	Moi, j'veux{n}{n}partir avec toi.
+@1B3738	Et puis, faudra{n}{n}bien quelqu'un{box}pour bichonner{n}{n}ton Unitron, non?
+@1B375B	…C'est vrai?!{n}{n}Raaah! Trop{box}content, moi!!
+@1B377D	C'est parti!{n}{n}La route est{box}longue, alors{n}{n}on traîne pas!!
+@1B37B3	Nyaaa★ Te voilà{n}{n}enfin, nya!{box}J'ai trop attendu,{n}{n}nya!
+@1B37DB	Ah… {J}…{n}{n}dis rien, nya.
+@1B37F6	Même si tu dis{n}{n}non, {P} te{box}suivra, nya!!
+@1B3816	Je bichonnerai{n}{n}ton Unitro, nya!{box}Alors dis oui,{n}{n}nya!
+@1B383D	…Hein? C'est{n}{n}vrai, nya?{box}Nya ha ha★ Merci,{n}{n}nya!!
+@1B385F	Alors en route,{n}{n}nya! Le chemin est{box}trèèès long, nya!
+@1B3897	Tiens? Te voilà{n}{n}enfin.{box}Hé hé… tu t'es{n}{n}fait attendre.
+@1B38C2	{J}…{n}{n}ne dis rien, je{box}t'en prie.
+@1B38DF	J'ai décidé de{n}{n}partir en voyage{box}avec toi.
+@1B3905	Je force un peu{n}{n}la main, je sais.{box}Mais… je t'en{n}{n}prie…
+@1B392C	Et puis, il te{n}{n}faudra bien un{box}mécanicien pour{n}{n}ton Unitron, non?
+@1B3950	Je serai ton{n}{n}mécano attitré.
+@1B396C	Alors… partons.{n}{n}Le chemin est{box}long, après tout.
+@1B39A6	Ah! Te voilà{n}{n}enfin!{box}Franchement, j'ai{n}{n}failli moisir!
+@1B39CD	{J}…{n}{n}S'il te plaît… ne{box}dis rien.
+@1B39E9	Moi… je veux{n}{n}partir avec toi…
+@1B3A09	Et si tu dis non,{n}{n}je te suis quand{box}même. Alors…{n}{n}hein?
+@1B3A2A	Ton Unitron…{n}{n}je m'en occupe!
+@1B3A4B	…………Merci.{n}{n}Tu verras, je{box}vais assurer!
+@1B3A6A	Allez! On y va!{n}{n}La route est{box}plutôt longue!
+@1B3A9E	Ah! Te voilà{n}{n}enfin!!{box}Hé hé, j'ai un peu{n}{n}attendu.
+@1B3AC3	S'il te plaît,{n}{n}{J}…{box}ne dis rien.
+@1B3ADE	Je veux venir avec{n}{n}toi.{box}Partir en voyage{n}{n}avec toi.
+@1B3B05	Même si tu dis{n}{n}non, je viendrai!{box}Je te suivrai,{n}{n}quoi qu'il arrive!
+@1B3B2D	Ton Unitron,{n}{n}{J}… je vais{box}m'en occuper à{n}{n}fond!!
+@1B3B53	…Merci!{n}{n}Je vais faire de{box}mon mieux!
+@1B3B6E	Alors, on y va!{n}{n}La route est{box}super longue!!
+@1B3BA2	…Ah… {J}…{n}{n}euh… je{box}t'attendais…
+@1B3BC2	Euh… est-ce que…{n}{n}je peux venir{box}avec toi?
+@1B3BEB	…S'il te plaît…{n}{n}emmène-moi…
+@1B3C0B	Ton Unitron,{n}{n}{J}… je vais{box}en prendre soin!!
+@1B3C31	…Hein? …C'est{n}{n}vrai?!{box}…Snif… snif…{n}{n}merci…
+@1B3C5A	Hic… Oui!{n}{n}Allons-y!!{box}La route est… très{n}{n}longue, tu sais!
+@1B3C97	Sur une route qui{n}{n}filait droit vers{box}l'infini, le duo{n}{n}s'éloignait…
+@1B3CB9	Et de très loin,{n}{n}quelqu'un les{box}regardait partir.
+@1B3CDA	Sa clé à molette{n}{n}suspendue, il{box}murmura, seul:
+@1B3CFC	Depuis que j'suis{n}{n}tombé sur toi au{box}【sanctuaire des{n}{n}esprits】…
+@1B3D1B	J'crois que je{n}{n}savais que ça{box}finirait comme ça.
+@1B3D37	Je compte sur toi,{n}{n}{J}.{box}Veille bien sur{n}{n}{P}… hein.
+@1B3D52	Que les esprits{n}{n}protègent ces deux{box}gamins dans leur{n}{n}aventure.
+@1B3D8D	Un petit port: le{n}{n}seul lien entre{box}Radina et Tridis.
+@1B3DB9	C'est dans ce port{n}{n}que {J} et ses{box}amis entendirent{n}{n}parler de Regina.
+@1B3DDC	Environ trois mois{n}{n}plus tôt, sur un{box}bateau en partance{n}{n}pour Tridis,
+@1B3DFC	un garçon qui{n}{n}ressemblait fort à{box}Regina avait{n}{n}embarqué.
+@1B3E23	Mais il n'était{n}{n}pas seul…{box}…il voyageait à{n}{n}deux.
+@1B3E44	{J} et ses amis{n}{n}résolurent alors{box}de gagner Tridis.
+@1B3E66	Par chance, ils{n}{n}purent embarquer{box}sur le bon navire,
+@1B3E8D	et laissèrent{n}{n}leurs pensées{box}voguer vers{n}{n}l'autre rive.
+@1B3EBC	Le continent de{n}{n}Tridis, jadis si{box}prospère…………
+@1B3EDF	…mais qui perdit{n}{n}tout lors du{box}【Ragnarok】.
+@1B3F07	Raphias, qui en{n}{n}était le cœur,{box}n'est plus qu'un{n}{n}champ de ruines,
+@1B3F2E	devenu, dit-on, le{n}{n}repaire de{box}monstres et{n}{n}d'Unitrons fous.
+@1B3F56	Une fois à Tridis,{n}{n}le duo, en quête{box}d'informations,
+@1B3F7B	décida de gagner{n}{n}【Albaris】, sa plus{box}grande ville.
+@1B3FB1	Albaris fut bâtie{n}{n}par le peuple de{box}Raphias,
+@1B3FD5	et compte{n}{n}aujourd'hui parmi{box}les plus vastes{n}{n}cités de Tridis.
+@1B3FFC	Sitôt en ville, le{n}{n}duo se mit à{box}poser des{n}{n}questions.
+@1B401E	…Mais personne ne{n}{n}savait où était{box}passé Regina.
+@1B4073	…Ça va, {J}?{n}{n}T'as pas l'air en{box}forme.
+@1B4097	…Moi? Bah, ça va.{n}{n}Mieux que toi,{box}{J}.
+@1B40B9	N'empêche… on{n}{n}n'apprend rien.
+@1B40D7	Si personne ne{n}{n}sait rien… Regina{box}n'est peut-être{n}{n}pas ici.
+@1B40FD	Tant pis… on{n}{n}tente une autre{box}ville?
+@1B4127	Dis, {J}, ça{n}{n}va? Tu as petite{box}mine…
+@1B414C	Hein? Moi, ça va.{n}{n}Je pète la forme!
+@1B416C	Mais… on n'arrive{n}{n}à rien savoir…
+@1B418F	Si personne ne le{n}{n}connaît… Regina{box}n'est peut-être{n}{n}pas ici.
+@1B41B5	…On ne fait que{n}{n}commencer! On{box}essaie une autre{n}{n}ville?
+@1B41E5	…Ça va, {J}?{n}{n}…La fatigue se{box}voit…
+@1B4209	…Hm. Moi, ça va.{n}{n}J'ai moins puisé{box}dans mes réserves{n}{n}que toi.
+@1B4234	…Cela dit, nous{n}{n}n'apprenons{box}presque rien…
+@1B425E	Si nos recherches{n}{n}sont si vaines…{box}Regina n'est pas{n}{n}ici.
+@1B4288	Soit… cherchons{n}{n}dans une autre{box}ville.
+@1B42B9	{J}… ça va?{n}{n}Tu n'es pas un peu{box}à bout?
+@1B42D9	Moi? Je vais bien.{n}{n}Mieux que toi, en{box}tout cas.
+@1B42FF	Mais… personne ne{n}{n}sait rien.{box}Regina n'est{n}{n}peut-être pas là.
+@1B432A	Oui… {J},{n}{n}essayons une{box}autre ville.
+@1B4358	Hé, {J}, ça{n}{n}va? T'as l'air{box}sur les rotules.
+@1B4380	Moi? J'te dis que{n}{n}ça va. J'suis un{box}mec, quand même!
+@1B43A7	Mais… personne{n}{n}sait rien, hein.{box}Regina doit pas{n}{n}être là.
+@1B43D0	…Bah, on fait que{n}{n}commencer. On{box}tente une autre{n}{n}ville!
+@1B4403	{J}~ Ça va,{n}{n}nya? T'as l'air{box}raplapla, nya.
+@1B4423	{P}? {P}{n}{n}pète la forme,{box}nyaaa★
+@1B4441	Mais personne sait{n}{n}rien, nya…{box}Regina est pas{n}{n}là, peut-être.
+@1B4468	Mmh… Ouiii!{n}{n}On va voir une{box}autre ville, nya!
+@1B4499	{J}, ça va?{n}{n}La fatigue semble{box}te gagner.
+@1B44BF	Moi? Ne t'en fais{n}{n}pas. Je suis plus{box}robuste que j'en{n}{n}ai l'air.
+@1B44EB	Mais à ton avis…{n}{n}et s'il n'était{box}pas dans cette{n}{n}ville?
+@1B4512	…Essayons une{n}{n}autre ville. Nous{box}ne faisons que{n}{n}commencer.
+@1B454A	{J}… ça va?{n}{n}T'as une tête de{box}déterré.
+@1B4570	…Hein? Moi, ça va.{n}{n}J'ai pas autant{box}couru que toi.
+@1B459A	Mais bon, personne{n}{n}sait rien.{box}Regina est sans{n}{n}doute pas ici.
+@1B45C4	Si c'est le cas,{n}{n}mieux vaudrait{box}aller voir{n}{n}ailleurs.
+@1B45F8	…Dis, {J}!{n}{n}Ça va?!
+@1B4612	…T'as pas l'air en{n}{n}forme…{box}Hein? Moi? Ça va,{n}{n}t'inquiète!
+@1B4639	Mais… personne ne{n}{n}le connaît.{box}Regina n'est pas{n}{n}ici, tu crois?
+@1B4664	Tridis est grand…{n}{n}il est peut-être{box}dans une autre{n}{n}ville.
+@1B469A	…Ah… ça va?{n}{n}Euh… tu n'as pas{box}l'air en forme…
+@1B46C3	Hein… oui, oui,{n}{n}ça va.{box}…Euh… merci.
+@1B46EA	…Mais personne ne{n}{n}sait rien…{box}Regina n'est{n}{n}pas là, alors?
+@1B4713	…Oui. Essayons{n}{n}une autre ville.
+@1B4741	Pardon… vous{n}{n}permettez?
+@1B477A	Euh… vous êtes?
+@1B4796	Heu… et vous{n}{n}êtes?
+@1B47B1	Hm? …Vous êtes?
+@1B47CD	…Oui? Vous êtes?
+@1B47EA	Hein? Ah… ouais.{n}{n}T'es qui, toi?
+@1B480A	Nyu? C'est qui?
+@1B4824	Tiens… et vous{n}{n}êtes?
+@1B483F	Quoi? Vous êtes{n}{n}qui, vous?
+@1B485D	…Hein? Quoi?
+@1B4878	…Hein? Euh… je…{n}{n}c'est-à-dire…{box}…P… pardon, qui{n}{n}êtes-vous?
+@1B48AB	Allons, allons…{n}{n}Pardonnez mon{box}impolitesse.
+@1B48CA	Je me nomme{n}{n}Sirius. Je suis{box}ménestrelle.
+@1B48EC	Pour vous servir.
+@1B4925	Enchanté, Sirius.{n}{n}Moi, c'est {P}.
+@1B4944	Voilà {J}.{n}{n}Et en prime,{box}{FF07}.
+@1B4970	Enchantée, Sirius!{n}{n}Moi, c'est {P}.
+@1B498E	Voici {J}, et{n}{n}voilà {FF07}.
+@1B49B4	Sirius, donc.{n}{n}Je suis {P}.
+@1B49D3	Voici {J}. Et{n}{n}ça, c'est {FF07}.
+@1B49F8	Sirius… enchantée.{n}{n}Je suis {P}.
+@1B4A17	Voici {J}.{n}{n}Et voici {FF07}.
+@1B4A3F	Hé hé, salut,{n}{n}Sirius! Moi, c'est{box}{P}!
+@1B4A62	Là, t'as {J},{n}{n}et le p'tit truc,{box}c'est {FF07}.
+@1B4A8B	Enchantée, nya★{n}{n}Sirius! Moi, c'est{box}{P}, nya!
+@1B4AAA	Et là, {J}, et{n}{n}la boule de poils,{box}c'est {FF07}, nya.
+@1B4AD4	…Enchanté, Sirius.{box}Je me nomme{n}{n}{P}.
+@1B4AF7	Voici {J},{n}{n}et voici {FF07}.
+@1B4B22	Mouais. Enchantée,{n}{n}Sirius. Moi, c'est{box}{P}.
+@1B4B44	Voilà {J}, et{n}{n}ce petit chou,{box}c'est {FF07}.
+@1B4B6E	Ah, d'accord.{n}{n}Enchanté, Sirius!{box}Moi, c'est {P}.
+@1B4B90	Voici {J}, et{n}{n}voilà {FF07}!
+@1B4BB9	Oh… oui. Ravie…{n}{n}Je suis… {P}…
+@1B4BDE	Et voici… {J}…{n}{n}et puis {FF07}.
+@1B4C0C	Hm hm hm… Ravie de{n}{n}vous rencontrer.
+@1B4C2B	Dites-moi… c'est{n}{n}votre première{box}visite en ville,{n}{n}n'est-ce pas?
+@1B4C4D	Oh, rien de{n}{n}sorcier. Pardon,{box}mais cela se sent.
+@1B4C6E	Et vous semblez{n}{n}chercher quelque{box}chose… Je me{n}{n}trompe?
+@1B4C90	Si ce n'est pas{n}{n}indiscret, puis-je{box}vous donner un{n}{n}conseil?
+@1B4CDB	…Pourquoi nous?
+@1B4CF9	Mais… pourquoi?
+@1B4D14	…Et pourquoi{n}{n}nous aider?
+@1B4D31	…Mais pourquoi?{n}{n}Qu'est-ce qui vous{box}y pousse?

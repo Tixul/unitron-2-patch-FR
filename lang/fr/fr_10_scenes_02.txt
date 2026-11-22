@@ -1,0 +1,1002 @@
+# Biomotor Unitron 2 (Kikou Seiki Unitron) - traduction française. Scènes (script des événements : dialogues, narration, choix).
+# @ADRESSE (fichier, hex) = texte du catalogue à cette adresse (tools/extraire.py) ; voir README.
+@1B4D5C	Ouais, mais…{n}{n}pourquoi nous?
+@1B4D7D	Ouiii★ D'accord,{n}{n}nya!! Mais…{box}pourquoi, nya?
+@1B4DA7	Je n'y vois pas{n}{n}d'objection… mais{box}pourquoi?
+@1B4DD6	Bon, si vous{n}{n}voulez… Mais{box}pourquoi?
+@1B4DFF	D'accord. Mais{n}{n}dites… pourquoi{box}nous?
+@1B4E2A	…Euh… oui… bien{n}{n}sûr… mais…{box}pourquoi?
+@1B4E5B	Hm hm…{n}{n}…Vous tenez à le{box}savoir?
+@1B4E71	Pour la{n}{n}【ronde des astres】{box}et pour les{n}{n}【ailes d'Elel】…
+@1B4E93	Et puis… pour{n}{n}【un unique vœu】…
+@1B4EB1	Disons simplement{n}{n}cela.
+@1B4ED8	…Dans une ruelle,{n}{n}vous trouverez{box}【Chez Solty】.
+@1B4EF8	Dites à qui tient{n}{n}l'endroit que vous{box}venez de la part{n}{n}de Sirius.
+@1B4F1F	Vous y apprendrez{n}{n}peut-être ce que{box}vous cherchez.
+@1B4F40	Mais… ce ne sera{n}{n}pas pour tout de{box}suite.
+@1B4F63	Surtout, pas de{n}{n}précipitation.{box}…Au plaisir de{n}{n}vous revoir.
+@1B4FB4	…Elle est partie.{n}{n}Bizarre, cette{box}dame, hein.
+@1B4FD5	【Chez Solty】,{n}{n}c'est ça?{box}…On y va?
+@1B4FF7	On y trouvera{n}{n}peut-être une{box}piste.
+@1B5027	Ah… elle est{n}{n}partie. Drôle de{box}femme, hein?
+@1B5049	C'était bien{n}{n}【Chez Solty】? On{box}y va… pas vrai?
+@1B506C	On y trouvera{n}{n}peut-être une{box}piste!
+@1B509E	…Elle est partie…{n}{n}Curieuse femme.
+@1B50C2	…【Chez Solty】,{n}{n}c'est cela. Alors?{box}On y va?
+@1B50E8	…Bien. Il s'y{n}{n}trouve peut-être{box}un indice.
+@1B5120	…Elle est partie.{n}{n}…Quelle femme{box}étrange.
+@1B5141	…【Chez Solty】…{n}{n}{J}, on y va?
+@1B5161	…Oui. Il y aura{n}{n}peut-être… une{box}piste, là-bas.
+@1B5197	Ah… elle s'est{n}{n}barrée… Drôle de{box}numéro, hein?
+@1B51BC	Elle a parlé de{n}{n}【Chez Solty】.{box}Alors? On y va?
+@1B51E5	…Ouais, normal.{n}{n}On va jeter un{box}œil.
+@1B5215	Ah… elle est{n}{n}partie, nya.{box}Elle était{n}{n}bizarre, nya.
+@1B5239	C'était{n}{n}【Chez Solty】, nya.{box}{J}, on y va,{n}{n}nya?
+@1B525D	Mmh… ouiii…{n}{n}Y aura peut-être{box}une piste, nya.
+@1B5296	Elle s'en est{n}{n}allée.{box}Quelle curieuse{n}{n}personne.
+@1B52B9	【Chez Solty】,{n}{n}c'est bien cela?{box}Allons-y?
+@1B52DA	Nous y trouverons{n}{n}peut-être une{box}piste.
+@1B530C	Ah… elle est{n}{n}partie. Bizarre,{box}celle-là, hein?
+@1B5330	C'était{n}{n}【Chez Solty】, non?{box}On y va, hein?
+@1B5352	Hi hi! À la bonne{n}{n}heure! Pourvu{box}qu'on trouve une{n}{n}piste.
+@1B538A	…Elle est partie.{n}{n}…Elle était{box}bizarre, hein…
+@1B53AB	【Chez Solty】,{n}{n}c'est ça? {J},{box}on y va?
+@1B53CE	…D'accord. On y{n}{n}trouvera peut-être{box}une piste.
+@1B5404	…………Euh… elle{n}{n}était… bizarre,{box}cette dame…
+@1B5427	C'était bien…{n}{n}【Chez Solty】?{box}…………On y va?
+@1B544C	…Oui… il y aura{n}{n}peut-être une{box}piste…
+@1B54C7	…C'est donc ici{n}{n}que Sirius nous{box}envoyait.
+@1B54E6	Allons demander{n}{n}au comptoir.
+@1B5513	…C'est l'endroit{n}{n}dont parlait{box}Sirius.
+@1B5532	Allons poser des{n}{n}questions au{box}comptoir!
+@1B555F	…Voici donc la{n}{n}taverne dont{box}parlait Sirius.
+@1B5585	Bien… allons{n}{n}nous renseigner{box}au comptoir…
+@1B55B6	C'est sans doute{n}{n}l'endroit dont{box}parlait Sirius.
+@1B55DE	Allons vite nous{n}{n}renseigner au{box}comptoir.
+@1B560E	C'est bien ici,{n}{n}l'endroit dont{box}causait Sirius.
+@1B5630	Allez! On va{n}{n}aux nouvelles!
+@1B565C	C'est bien là que{n}{n}Sirius nous{box}envoie, nya.
+@1B567F	Bon, on va causer{n}{n}à la dame, là-bas,{box}nya★
+@1B56B2	Voici donc{n}{n}l'établissement{box}que mentionnait{n}{n}Sirius.
+@1B56D6	Allons nous{n}{n}renseigner au{box}comptoir.
+@1B5709	Ça doit être la{n}{n}taverne dont{box}parlait Sirius.
+@1B5729	Bon, allons vite{n}{n}demander, alors!
+@1B575B	Oh! C'est ici, la{n}{n}taverne dont{box}parlait Sirius!
+@1B577F	Le comptoir est{n}{n}par là. Allons{box}demander!
+@1B57B4	…C'est la taverne{n}{n}que Sirius nous a{box}indiquée…
+@1B57DB	Euh… on va…{n}{n}demander, hein?
+@1B5804	Bienvenue…{n}{n}…Tiens?{box}Hi hi, quel joli{n}{n}petit couple♥
+@1B5829	Je suis Solty{n}{n}Mule, la patronne{box}de cet{n}{n}établissement.
+@1B5862	………………Je vois.{n}{n}C'est Sirius qui{box}vous envoie.
+@1B5884	En effet… ici, on{n}{n}peut aussi obtenir{box}des informations.
+@1B58A7	Presque tout ce{n}{n}qui se dit à{box}Tridis finit par{n}{n}arriver ici.
+@1B58CD	…Mais pour avoir{n}{n}des informations,{box}il vous faut une{n}{n}【accréditation】.
+@1B58F6	Ici, c'est une{n}{n}【taverne】… mais{box}aussi la 【guilde】{n}{n}des aventuriers.
+@1B5920	Cette 【guilde】{n}{n}propose toutes{box}sortes de travaux,
+@1B5942	et fournit les{n}{n}informations{box}nécessaires…
+@1B5963	…mais seulement à{n}{n}ceux qui ont une{box}【accréditation】.
+@1B5978	………………Hi hi hi.{n}{n}Vous n'avez pas{box}l'air de suivre.
+@1B599A	L'【accréditation】,{n}{n}c'est la preuve{box}qu'on est membre{n}{n}de la 【guilde】.
+@1B59BE	On ne donne pas{n}{n}de travail ni{box}d'infos à{n}{n}n'importe qui.
+@1B59E3	Il faut le niveau{n}{n}requis, et{box}l'【accréditation】{n}{n}en est la preuve.
+@1B5A0E	…Voilà. Il vous{n}{n}faudra obtenir{box}l'【accréditation】.
+@1B5A57	Pour avoir des{n}{n}infos, faut{box}l'【accréditation】,{n}{n}en gros.
+@1B5A7C	{J}… on fait{n}{n}quoi?{box}…Ouais. Question{n}{n}idiote.
+@1B5A9E	Solty, comment on{n}{n}obtient cette{box}【accréditation】?
+@1B5AD1	Pas d'infos sans{n}{n}【accréditation】,{box}c'est ça?
+@1B5AF6	{J}, on fait{n}{n}quoi? …Bah, pas{box}la peine de{n}{n}demander!
+@1B5B16	Solty! Comment on{n}{n}obtient{box}l'【accréditation】?
+@1B5B48	Hm… pour savoir,{n}{n}il faut donc{box}l'【accréditation】…
+@1B5B6E	Que faire, {J}?{n}{n}…Hm. Inutile de{box}demander.
+@1B5B8D	Patronne. Comment{n}{n}obtient-on{box}l'【accréditation】?
+@1B5BBC	Oh… Sans{n}{n}【accréditation】,{box}aucune{n}{n}information…
+@1B5BE2	{J}, que{n}{n}faisons-nous?{box}…Question inutile,{n}{n}n'est-ce pas?
+@1B5C02	Solty, comment{n}{n}obtient-on cette{box}【accréditation】?
+@1B5C3B	J'vois. Pas{n}{n}d'【accréditation】,{box}pas d'infos, quoi!
+@1B5C66	{J}, on fait{n}{n}quoi… Bah, y a{box}qu'une réponse!
+@1B5C87	Solty! Cette{n}{n}【accréditation】,{box}on l'obtient{n}{n}comment?
+@1B5CBE	C'est pas juste,{n}{n}nya! Pas d'infos{box}sans{n}{n}【accréditation】?!
+@1B5CE6	{J}, on fait{n}{n}quoi, nya?{box}…Ah oui, c'est{n}{n}évident, nya!
+@1B5D08	Dis-le vite, nya!{n}{n}Elle est où,{box}l'【accréditation】?
+@1B5D38	Pas d'informations{n}{n}sans{box}【accréditation】,{n}{n}c'est bien cela?
+@1B5D60	Hé hé… inutile de{n}{n}demander, mais…{box}{J}, d'accord?
+@1B5D83	…Solty, comment{n}{n}obtient-on{box}l'【accréditation】?
+@1B5DB8	Sans{n}{n}【accréditation】,{box}pas d'infos.{n}{n}C'est ça, hein?
+@1B5DDF	Alors la réponse{n}{n}est simple.{box}{J}, d'accord?
+@1B5DFF	Solty, comment on{n}{n}l'obtient, cette{box}【accréditation】?
+@1B5E2F	Quoi?! Sans{n}{n}【accréditation】,{box}vous ne dites{n}{n}rien?
+@1B5E50	Pff… pas sympa…{n}{n}{J}, on n'a pas{box}le choix.
+@1B5E6E	Solty, comment on{n}{n}l'obtient,{box}l'【accréditation】?
+@1B5EA0	…Ah… c'est vrai?{n}{n}Il faut une{box}【accréditation】?
+@1B5EC7	…Euh… euh… on fait{n}{n}quoi?{box}…On n'a pas… le{n}{n}choix, hein?
+@1B5EEF	Euh… Solty?{n}{n}…Qu'est-ce qu'il{box}faut faire…?
+@1B5F21	Vous venez de la{n}{n}part de Sirius,{box}j'aimerais bien{n}{n}vous aider, mais…
+@1B5F49	C'est la règle de{n}{n}base. Désolée.
+@1B5F6A	…La preuve de{n}{n}l'【accréditation】…{box}c'est une médaille{n}{n}d'argent.
+@1B5F92	Avec une pleine{n}{n}lune de chaque{box}côté: on l'appelle{n}{n}la 【Pleine-Lune】.
+@1B5FB9	Elle est dans une{n}{n}grotte qu'on{box}appelle le{n}{n}【lac d'Argent】.
+@1B5FE1	Quelque part dans{n}{n}la grotte, au fond{box}de la{n}{n}【mer de la Lune】.
+@1B6004	Même avec un{n}{n}Unitron, c'est{box}très dangereux,{n}{n}vous savez?
+@1B6028	Bien… c'est{n}{n}entendu…{box}…Bon courage.
+@1B6047	Le 【lac d'Argent】{n}{n}est très loin{box}d'ici, au sud.
+@1B606B	Et surtout, prenez{n}{n}soin de vous.
+@1B60AC	…………C'est la{n}{n}【mer de la Lune】{box}au 【lac d'Argent】{n}{n}qu'il faut viser?
+@1B60D2	Bon! On se{n}{n}prépare, et en{box}route!!
+@1B6107	…………La{n}{n}【mer de la Lune】,{box}au 【lac d'Argent】,{n}{n}c'est ça?
+@1B612D	Allez! On se{n}{n}prépare et on{box}y va!!
+@1B6162	La{n}{n}【mer de la Lune】,{box}au 【lac d'Argent】?
+@1B6189	Hm… partons dès{n}{n}que tout sera{box}prêt.
+@1B61C0	…C'était la{n}{n}【mer de la Lune】,{box}au 【lac d'Argent】?
+@1B61E6	…Bien. Une fois{n}{n}les préparatifs{box}finis, en route.
+@1B621E	C'est bien la{n}{n}【mer de la Lune】{box}au 【lac d'Argent】?
+@1B6244	Ouais! On se{n}{n}prépare et on{box}fonce!
+@1B627F	La{n}{n}【mer de la Lune】{box}au 【lac d'Argent】,{n}{n}nya?
+@1B62A5	Nyaaa★ On se{n}{n}prépare et hop,{box}on file, nya!!
+@1B62E1	Hm… La{n}{n}【mer de la Lune】,{box}au 【lac d'Argent】,{n}{n}c'est bien cela?
+@1B6307	Partons dès que{n}{n}nos préparatifs{box}seront terminés.
+@1B633E	Mouais… La{n}{n}【mer de la Lune】,{box}au 【lac d'Argent】,{n}{n}c'est ça?
+@1B6366	Bon! On se{n}{n}prépare, et on{box}file en vitesse!
+@1B63A1	C'est bien la{n}{n}【mer de la Lune】,{box}au 【lac d'Argent】?
+@1B63C9	Préparons-nous{n}{n}vite, et en{box}route!!
+@1B63FE	…Euh… La{n}{n}【mer de la Lune】…{box}au 【lac d'Argent】…{n}{n}c'est ça?
+@1B642A	…Oui… On se{n}{n}prépare… et on{box}y va.
+@1B6463	Ah! Vous revoilà!{n}{n}Oui, oui. Merci{box}pour la course.
+@1B6486	Désolée de vous{n}{n}avoir fait faire{box}mes commissions.
+@1B64A6	Mais le temps{n}{n}passe vite… Déjà{box}combien de mois,{n}{n}depuis…?
+@1B64CE	Depuis votre{n}{n}retour de{box}【Raphias】…
+@1B64EE	Ce jour-là, vous{n}{n}avez mis du temps{box}à revenir, vous{n}{n}vous souvenez?
+@1B6518	Eh bien, Arkis…{n}{n}hi hi… il a{box}pleuré un bon{n}{n}moment. Oui, à{box}cette table-là.
+@1B6544	« Si seulement{n}{n}j'étais arrivé{box}plus tôt… »{box}Ah… mais ça, c'est{n}{n}un secret.
+@1B6596	C'est vrai?{n}{n}…Ben ça… lui,{box}alors…
+@1B65B2	C'est vrai que là,{n}{n}j'ai cru que{box}c'était fichu.
+@1B65D7	Si j'avais pas…{n}{n}Oups! Ça, c'est{box}secret!
+@1B660B	Quoi, c'est vrai?{n}{n}…Hi hi, j'y crois{box}pas.
+@1B662D	Bon… de toute{n}{n}façon, c'était{box}plutôt mal parti.
+@1B6657	Si je n'avais{n}{n}pas… Oh là là!{box}C'est un secret,{n}{n}hein?
+@1B6688	Hm… je vois.{n}{n}C'est inattendu,{box}mais…
+@1B66A9	Cela dit… ce{n}{n}jour-là, j'avais{box}moi-même presque{n}{n}renoncé.
+@1B66CF	Mais mon{n}{n}【éveil】… Hm. J'ai{box}failli trop en{n}{n}dire.
+@1B6704	Oh? Vraiment?{n}{n}…Voilà qui me{box}surprend un peu.
+@1B6727	Il est vrai que{n}{n}ce jour-là, moi{box}aussi… j'avais{n}{n}presque renoncé.
+@1B6748	Si je n'avais{n}{n}pas… Oh là là.{box}J'ai failli{n}{n}trop parler.
+@1B677D	Hé hé!! Ça{n}{n}m'étonne pas!{box}C'est bien lui,{n}{n}ça!
+@1B67A0	Faut dire que là,{n}{n}j'avais déjà{box}fait mes adieux.
+@1B67C2	Mais si j'avais{n}{n}pas… Oups!{box}Ça, c'est secret!!
+@1B67F3	Nyuuu… En fait,{n}{n}c'est un gentil,{box}nya.
+@1B6816	Mais ce jour-là,{n}{n}j'ai vraiment cru{box}que c'était fini,{n}{n}nyaaa…
+@1B6837	Mais grâce à{n}{n}{P}… Nya nya!{box}Faut pas le dire,{n}{n}nya!
+@1B686B	Tiens… vraiment?{n}{n}Hé hé… ça lui{box}ressemble bien.
+@1B688C	Il s'en est passé,{n}{n}du temps, depuis…
+@1B68AA	Ce jour-là, si je{n}{n}n'avais pas…{box}Oh… c'était un{n}{n}secret.
+@1B68DB	Tiens… lui?{n}{n}…Hi hi, c'est{box}trop drôle.
+@1B68FE	Mais ça fait déjà{n}{n}un bail, hein.
+@1B691A	Si ce jour-là, je{n}{n}n'avais pas… Oups!{box}Ça, c'est secret,{n}{n}hein.
+@1B694F	Ah bon?! Ça alors!{n}{n}Je ne m'y{box}attendais pas!
+@1B696E	Moi aussi, je me{n}{n}suis dit:{box}【je vais mourir!】{n}{n}C'était moins une!
+@1B6997	Mais grâce à moi…{n}{n}Oups! C'était{box}secret. Hé hé hé…!
+@1B69CE	Hi hi… c'était{n}{n}donc ça!{box}…C'est… étonnant.
+@1B69F5	Mais… j'en tremble{n}{n}encore. Une force{box}pareille, en{n}{n}moi…
+@1B6A1F	Ah… pardon.{n}{n}C'était un secret,{box}ça.
+@1B6A4E	Enfin bref… vous{n}{n}voilà de retour{box}en un seul{n}{n}morceau!
+@1B6A6D	Et aujourd'hui,{n}{n}vous faites la{box}fierté de ma{n}{n}guilde!
+@1B6A98	Hi hi… Pour de{n}{n}vrai! Ce n'est{box}pas de la{n}{n}flatterie.
+@1B6AB6	…Ah, au fait… ça{n}{n}ne vous concerne{box}pas trop, mais{n}{n}vous savez quoi?
+@1B6AE0	La mer à l'ouest{n}{n}de Tridis… qu'on{box}appelle le{n}{n}【Miroir sacré】…
+@1B6B06	Il s'y passe des{n}{n}choses bizarres,{box}ces temps-ci.
+@1B6B27	Il n'y a pas eu{n}{n}de dégâts, rien de{box}ce genre…
+@1B6B4A	On dit que{n}{n}【la mer frémit】,{box}un truc comme ça.
+@1B6B6C	Ça donne un peu{n}{n}froid dans le dos,{box}non?
+@1B6B86	Oh? Un client.{n}{n}Bon, à plus tard,{box}vous deux!
+@1B6BB7	Ce fut {P} qui{n}{n}découvrit 【cela】.
+@1B6BD2	Alors que {J}{n}{n}contemplait le{box}pendentif serré{n}{n}dans sa main,
+@1B6BF1	{P} demanda{n}{n}soudain à{box}l'emprunter.
+@1B6C10	{P} examina le{n}{n}pendentif avec{box}soin, et…
+@1B6C2D	et finit par{n}{n}découvrir un{box}mécanisme caché{n}{n}derrière la photo.
+@1B6C7E	Tiens? On dirait{n}{n}que ça s'ouvre.{box}Vas-y, {J},{n}{n}ouvre-le!
+@1B6C9E	……?{n}{n}Un… 【anneau】…?
+@1B6CC7	Oh? Regarde, ça{n}{n}s'ouvre, là!{box}Ouvre-le, {J}!
+@1B6CE8	Hein? Mais c'est…{n}{n}ce serait pas un{box}【anneau】?
+@1B6D1B	Hm…? {J}.{n}{n}On dirait un{box}【double fond】.
+@1B6D3D	……C'est…{n}{n}un 【anneau】…………?
+@1B6D67	Regarde, {J}.{n}{n}Il y a quelque{box}chose de caché{n}{n}à l'intérieur.
+@1B6D84	Un 【anneau】…? Ce{n}{n}serait à ton père,{box}{J}…?
+@1B6DB5	Hé! Regarde ça,{n}{n}{J}! On dirait{box}que ça s'ouvre!
+@1B6DD4	Hein? C'est un{n}{n}【anneau】, ça?{box}Qu'est-ce que ça{n}{n}veut dire…?
+@1B6E04	Nya? Le pendentif{n}{n}a l'air de{box}s'ouvrir, là, nya…
+@1B6E27	Un 【anneau】, nya…{n}{n}C'est à qui, nya?
+@1B6E52	…? Ce pendentif…{n}{n}semble pouvoir{box}s'ouvrir, ici.
+@1B6E74	…Un 【anneau】…?{n}{n}Serait-ce celui{box}de ton père…?
+@1B6EA6	Tiens? Dis donc…{n}{n}ça s'ouvre, là,{box}{J}.
+@1B6EC1	Un 【anneau】… ce{n}{n}serait celui de{box}ton père, {J}…?
+@1B6EF0	Oh? On dirait que{n}{n}ça s'ouvre, ici.{box}Allez, j'ouvre!
+@1B6F15	On dirait un{n}{n}【anneau】.{box}Il a l'air très{n}{n}vieux, mais…
+@1B6F49	{J}… on dirait{n}{n}que… ça s'ouvre,{box}ici…
+@1B6F64	…Un joli{n}{n}【anneau】…{box}Mais… qu'est-ce{n}{n}que ça peut être…?
+@1B6F9B	L'【anneau】 était{n}{n}d'une grande{box}sobriété, mais{n}{n}fait d'une matière{box}étrange.
+@1B6FC3	Tandis que tous{n}{n}deux l'examinaient
+@1B6FDE	ils remarquèrent{n}{n}un 【emblème】{box}gravé au dos de{n}{n}l'【anneau】.
+@1B7004	Cet emblème en{n}{n}forme d'【arbre】{box}gigantesque…
+@1B7024	fit resurgir en{n}{n}{P} un lointain{box}【souvenir divin】.
+@1B7077	C'est… si je me{n}{n}souviens bien…{box}l'emblème{n}{n}d'【Yggdrasil】…?
+@1B7098	Ah… non, rien.{n}{n}Ça m'est juste{box}revenu d'un coup.
+@1B70B9	【Yggdrasil】… Ça{n}{n}désignait un truc{box}important, je{n}{n}crois…
+@1B70DF	J'en ai{n}{n}l'impression,{box}mais… non. Ça ne{n}{n}me revient pas…
+@1B7107	…Attends voir.{n}{n}Ce souvenir-là,
+@1B711F	il me vient de{n}{n}l'【esprit divin】{box}de la Lumière{n}{n}que j'étais, non?
+@1B7140	Alors, si on{n}{n}demandait aux{box}autres esprits{n}{n}divins,
+@1B715F	ils sauraient{n}{n}peut-être quelque{box}chose? T'en dis{n}{n}quoi, {J}?
+@1B7181	…Ouais. Pour en{n}{n}avoir le cœur net,{box}faut y aller.
+@1B71A1	Allez, en route{n}{n}pour la{box}【tour du Mirage】!
+@1B71FB	Dis… ça, c'est pas{n}{n}l'emblème{box}d'【Yggdrasil】…?
+@1B7220	Hein? Ah… c'est{n}{n}revenu d'un coup,{box}comme ça.
+@1B7243	【Yggdrasil】…{n}{n}C'était quelque{box}chose d'important,{n}{n}il me semble…
+@1B7264	Non… j'arrive pas{n}{n}à me rappeler la{box}suite…
+@1B7285	…Ah, mais j'y{n}{n}pense! Ce{box}souvenir-là,
+@1B72A3	il me vient de{n}{n}l'【esprit divin】{box}de la Lumière,{n}{n}pas vrai? Donc…
+@1B72CD	les autres esprits{n}{n}divins en savent{box}peut-être plus!
+@1B72F4	On va les voir,{n}{n}{J}?
+@1B7309	Ouais!{n}{n}Ça, c'est parlé!
+@1B731D	C'est parti! Cap{n}{n}sur la{box}【tour du Mirage】!
+@1B7378	Ceci…………{n}{n}【Yggdrasil】…………?
+@1B7394	…………Rien.{n}{n}…Un fragment de{box}souvenir… voilà{n}{n}tout.
+@1B73B0	【Yggdrasil】…………{n}{n}Il y a très{box}longtemps…………
+@1B73D0	Pardon… je ne{n}{n}retrouve rien{box}de plus…
+@1B73F1	…Hm? …Ce souvenir{n}{n}date de l'époque{box}où j'étais{n}{n}【esprit divin】.
+@1B741B	…Autrement dit,{n}{n}les autres esprits{box}divins sauront{n}{n}peut-être…
+@1B7443	Qu'en dis-tu? On{n}{n}y va, {J}?
+@1B745C	Bien… Je n'aime{n}{n}pas laisser les{box}choses en{n}{n}suspens.
+@1B7483	Bon. Rendons-nous{n}{n}sans tarder à la{box}【tour du Mirage】.
+@1B74DE	Attends… c'est…{n}{n}l'emblème{box}d'【Yggdrasil】…?
+@1B7501	Hein… ah…{n}{n}On dirait que{box}des souvenirs me{n}{n}reviennent…
+@1B7521	Mais cette fois,{n}{n}j'ai l'impression{box}que c'est quelque{n}{n}chose d'important…
+@1B7548	Ah… non. Je n'y{n}{n}arrive pas…
+@1B7568	…Au fait… ce{n}{n}souvenir vient de{box}l'【esprit divin】{n}{n}de la Lumière.
+@1B758F	Les autres esprits{n}{n}divins pourraient{box}peut-être nous{n}{n}éclairer.
+@1B75B7	Sur 【Yggdrasil】{n}{n}aussi, peut-être…
+@1B75DB	…Et si on{n}{n}retournait à la{box}【tour du Mirage】?
+@1B75FC	Bien… c'est{n}{n}entendu. Partons{box}tout de suite.
+@1B7656	Quoi… c'est quoi,{n}{n}ce truc? L'emblème{box}d'【Yggdrasil】?
+@1B7679	…C'est quoi, ce{n}{n}délire! Ça me{box}revient encore…!
+@1B769D	Bon sang… et ce{n}{n}coup-ci… ça a{box}l'air d'être du{n}{n}lourd…
+@1B76C7	…Raah! J'arrive{n}{n}pas à retrouver{box}la suite!
+@1B76E7	…Hein? Ah, mais{n}{n}attends! Un truc{box}comme ça,
+@1B7703	les autres esprits{n}{n}divins doivent{box}le savoir, non?
+@1B7728	Hé hé, après tout,{n}{n}c'est un peu des{box}collègues, quoi!
+@1B7747	Allez! On fonce à{n}{n}la{box}【tour du Mirage】!
+@1B779F	Nya? Nyanya?{n}{n}【Yggdra-machin】??
+@1B77BD	Pourquoi cet{n}{n}【anneau】 porte{box}cet emblème, nya…?
+@1B77E2	Mrrr… Rien à{n}{n}faire, nya. Ça ne{box}revient pas, nya.
+@1B7805	Mais j'ai comme{n}{n}l'impression que{box}c'est super{n}{n}important, nya.
+@1B782D	…J'ai trouvé,{n}{n}nya! J'ai une{box}super idée, nya!
+@1B7849	Les anciens amis{n}{n}de {P}, les{box}esprits divins,
+@1B786E	ils savent{n}{n}sûrement un truc,{box}nya! C'est sûr,{n}{n}nya!
+@1B788E	Allez, {J}! On{n}{n}file à la{box}【tour du Mirage】,{n}{n}nya!
+@1B78E8	Mais… mais c'est{n}{n}l'emblème{box}d'【Yggdrasil】!?
+@1B790A	Oui… Un fragment{n}{n}de mon passé m'est{box}revenu… mais…
+@1B792C	…Je ne puis aller{n}{n}plus loin, hélas.{box}Pas encore…
+@1B7955	Cela m'intrigue,{n}{n}pourtant.{box}【Yggdrasil】 et{n}{n}cet 【anneau】…
+@1B797A	…Mais j'y songe:{n}{n}ces souvenirs sont{box}ceux de l'esprit{n}{n}divin que j'étais…
+@1B79A3	Les autres esprits{n}{n}divins en savent{box}sans doute{n}{n}davantage.
+@1B79CA	Si nous allions{n}{n}les voir, {J}?
+@1B7A13	Attends… ça, ce{n}{n}serait pas{box}l'emblème{n}{n}d'【Yggdrasil】!?
+@1B7A3A	Ouais… j'ai des{n}{n}bribes de vieux{box}souvenirs qui me{n}{n}reviennent…
+@1B7A5F	【Yggdrasil】…{n}{n}C'était un truc{box}important, il me{n}{n}semble.
+@1B7A87	…Désolée… Pour{n}{n}l'instant, j'y{box}arrive pas…
+@1B7AAD	Mais ça m'intrigue{n}{n}quand même… Ah,{box}attends un peu!
+@1B7AD1	Mes souvenirs, ils{n}{n}datent de quand{box}j'étais une{n}{n}divinité, non?
+@1B7AF5	…Donc les autres{n}{n}divinités doivent{box}savoir un truc!
+@1B7B1A	Mais oui! {J}!{n}{n}On va à la{box}【tour du Mirage】!
+@1B7B73	…C'est pas{n}{n}l'emblème{box}d'【Yggdrasil】…?
+@1B7B99	Hein? …Oui, je{n}{n}l'ai déjà vu, il y{box}a très, très{n}{n}longtemps.
+@1B7BBB	…Mais je ne me{n}{n}souviens plus de{box}ce que c'était…{n}{n}pardon.
+@1B7BE0	Je crois que{n}{n}c'était quelque{box}chose de très{n}{n}important.
+@1B7C0A	Ah, mais oui! Si{n}{n}c'est un vieux{box}souvenir…
+@1B7C27	on n'a qu'à{n}{n}demander aux{box}autres esprits{n}{n}divins!
+@1B7C47	Eux, ils savent{n}{n}sûrement quelque{box}chose. J'en suis{n}{n}sûr!
+@1B7C6A	Bon, c'est décidé!{n}{n}En route pour la{box}【tour du Mirage】!
+@1B7CC7	【Yggdrasil】…?{n}{n}C'est l'emblème{box}d'【Yggdrasil】?
+@1B7CEB	O… oui. C'est un{n}{n}vieux souvenir,{box}mais je le{n}{n}reconnais…
+@1B7D14	Mais… pour le{n}{n}reste… je ne…{box}pardon…
+@1B7D36	Oui. Ce n'est pas{n}{n}très clair, mais…{box}c'est important,{n}{n}je crois.
+@1B7D5E	Ne pas pouvoir{n}{n}tout se rappeler…{box}c'est dur…{n}{n}pardon…
+@1B7D88	Hein? Demander aux{n}{n}autres esprits{box}divins… c'est ça…?
+@1B7DAC	…Oui. Eux, ils{n}{n}sauront peut-être{box}quelque chose…
+@1B7DD7	Oui, allons-y.{n}{n}À la{box}【tour du Mirage】!
+@1B7E2C	De retour en ville{n}{n}depuis la{box}【tour du Mirage】,{n}{n}le duo
+@1B7E4B	remarqua une{n}{n}étrange agitation{box}chez Solty.
+@1B7E70	À l'intérieur,{n}{n}Solty, affolée,{box}leur faisait{n}{n}signe d'approcher.
+@1B7E97	Ce qu'elle leur{n}{n}apprit les{box}stupéfia.
+@1B7EB6	Une gigantesque{n}{n}【sphère】 d'or{box}étincelante
+@1B7ED1	serait apparue{n}{n}au-dessus du{box}【Miroir sacré】.
+@1B7EF3	Le duo le sentit{n}{n}aussitôt: c'était{box}là 【Yggdrasil】…
+@1B7F17	【Yggdrasil】, le{n}{n}maître de{box}l'【anneau】.
+@1B7F87	Un collier d'or et{n}{n}de platine, serti{box}de cristal noir{n}{n}taillé…
+@1B7FB1	l'【Éclat d'étoile】{n}{n}était le symbole{box}de la famille{n}{n}royale de Raphias.
+@1B7FD3	Son possesseur{n}{n}jouissait de{box}nombreux{n}{n}privilèges.
+@1B7FF8	Notamment celui{n}{n}d'entrer librement{box}au palais royal.
+@1B8018	{J} et {P}{n}{n}montrèrent le{box}collier aux gardes
+@1B8036	et pénétrèrent{n}{n}dans le palais{box}royal d'Albaris.
+@1B8056	Un peu intimidé{n}{n}par l'ambiance, le{box}duo erra dans le{n}{n}château.
+@1B8080	…Et soudain, le{n}{n}duo se retrouva{box}dans un jardin.
+@1B80A2	Dans ce jardin{n}{n}paisible, baigné{box}d'une verdure{n}{n}luxuriante,
+@1B80C8	une dame se tenait{n}{n}là, toute seule…
+@1B80F0	Oh…{n}{n}Bien le bonjouuur.
+@1B8107	Vous aussi, vous{n}{n}faites une petite{box}promenade?
+@1B8126	Quel temps{n}{n}délicieux…{box}Cela met le cœur{n}{n}en fête.
+@1B814C	Une journée comme{n}{n}celle-ci, à{box}batifoler avec{n}{n}les oiseaux…
+@1B816C	…? Mais à qui{n}{n}ai-je l'honneur?
+@1B818B	Vos visages ne me{n}{n}sont guère{box}familiers…
+@1B81AC	Oh… pardonnez-moi.{n}{n}Je ne me suis{box}même pas{n}{n}présentée…
+@1B81CD	Je me nomme Faina{n}{n}Alectu Dis{box}Raphias.
+@1B81F7	Hi hi… Vous pouvez{n}{n}m'appeler Faina,{box}tout simplement.
+@1B8232	{J} et… {P},{n}{n}c'est bien cela?
+@1B824B	Quels jolis noms…{n}{n}Je vous les envie.
+@1B8275	…Dame Faina!{n}{n}Où êtes-vous{box}donc passée?!
+@1B8296	…Ah…{n}{n}Dame Faina!
+@1B82AA	Enfin! Vous étiez{n}{n}donc ici!
+@1B82C9	Venez! Messire{n}{n}Luzas vous attend{box}dans ses{n}{n}appartements.
+@1B82E6	…Hein? Ah… euh…{n}{n}Qui êtes-vous?
+@1B830F	Myun, ce sont{n}{n}des invités.
+@1B832B	{J} et{n}{n}{P}.
+@1B833E	Nos hôtes se{n}{n}promenaient dans{box}ce jardin.
+@1B836A	Ah! Pardon!{n}{n}Je… euh… je{box}suis…
+@1B838E	Myun Porta, pour{n}{n}vous servir!{box}Euh… appelez-moi{n}{n}Myun!
+@1B83BF	…? Qu'avez-vous{n}{n}donc? Vous voilà{box}toute retournée.
+@1B83DF	Ne serait-ce pas…{n}{n}…………Hi hi hi.
+@1B8401	Qu… Princesse!{n}{n}Pourquoi ce rire?
+@1B842C	Myun… serait-ce{n}{n}un coup de foudre?
+@1B846F	…Euh… comment{n}{n}en arrivez-vous{box}là?
+@1B8494	Voyons, vous voilà{n}{n}toute troublée!{box}En pareil cas,{n}{n}c'est évident.
+@1B84BE	N'est-il pas vrai,{n}{n}{J}?
+@1B84DB	Myun, en un{n}{n}instant, s'est vue{box}saisie par un{n}{n}amour fou…
+@1B84FE	et se consume{n}{n}dans ses flammes{box}ardentes!
+@1B8523	Ah! Magnifique!{n}{n}C'est magnifique!
+@1B8567	…………Princesse…{n}{n}vous lisez trop de{box}romans.
+@1B8585	…Voyons, ce{n}{n}n'est absolument{box}pas le cas.
+@1B85A3	Euh… je suis{n}{n}vraiment navrée.{box}…Voyez-vous, dame{n}{n}Faina est…
+@1B85C8	disons… dotée{n}{n}d'une imagination{box}débordante…
+@1B85E9	et elle a tendance{n}{n}à s'emballer un{box}peu vite…
+@1B8618	Myun… que{n}{n}chuchotez-vous{box}donc là?
+@1B8637	…Oh, oh! Ne{n}{n}serait-ce pas…{box}…des confidences{n}{n}amoureuses?
+@1B865A	Non, non!{n}{n}C'est trop tôt!!
+@1B8674	Il faut prendre{n}{n}son temps…{box}apprendre à se{n}{n}connaître…
+@1B8698	…Ah! Mais non!{n}{n}Car alors, le{box}temps qui passe…
+@1B86BA	éteindra la flamme{n}{n}de l'amour!{box}Quelle cruauté!
+@1B86E1	J'ai compris!{n}{n}Oui… j'ai compris!
+@1B86FE	C'est pour cela{n}{n}que vous chérissez{box}l'instant présent!
+@1B8721	Pardonnez-moi…{n}{n}Myun. Allez!{box}Parlez donc!!
+@1B8741	Tant qu'il vous{n}{n}plaira!! Allez!!
+@1B8760	…………{n}{n}…Princesse…
+@1B8776	…Vous avez lu un{n}{n}roman d'amour,{box}n'est-ce pas?
+@1B87A0	Oh? Myun! Vous{n}{n}avez vu juste!
+@1B87BC	Mais… comment{n}{n}l'avez-vous su?
+@1B87D5	Ne seriez-vous{n}{n}pas…{box}…………voyante?
+@1B87F7	Ça suffit!{n}{n}Je ne suis pas{box}voyante!
+@1B881B	Je vous en prie…{n}{n}Messire Luzas va{box}nous gronder.
+@1B883C	Il vous attend{n}{n}depuis un bon{box}moment déjà…
+@1B8862	Luzas? Oh, oh,{n}{n}quel ennui…
+@1B887F	Dans ce cas, il{n}{n}fallait le dire{box}plus tôt.
+@1B889C	Qu'en dites-vous,{n}{n}{J}?
+@1B88C3	…………{n}{n}…Princesse…
+@1B88D9	Je vous en prie!{n}{n}Ne dites plus{box}rien!
+@1B88FC	Et rendez-vous{n}{n}sagement chez{box}messire Luzas!!
+@1B892A	…??{n}{n}Pourquoi vous{box}fâchez-vous?
+@1B8942	Oh, je sais! Si{n}{n}l'on s'énerve,{box}c'est qu'on manque{n}{n}de calcium.
+@1B8969	Demandez donc au{n}{n}cuisinier du lait{box}et du poisson!
+@1B8999	Ah… euh…{n}{n}merci de votre…{box}sollicitude…
+@1B89B9	…Pfiouuu…{n}{n}Allons, Princesse.{box}Venez.
+@1B89D7	{J}, {P},{n}{n}revenez nous voir{box}un de ces jours.
+@1B8A02	Ah, non!{n}{n}Myuuun!!
+@1B8A15	Ne me tirez pas{n}{n}ainsi par la{box}main… vous allez{n}{n}me l'arracher.
+@1B8A79	Eh ben… c'était{n}{n}un sacré duo.
+@1B8A93	Surtout Faina…{n}{n}Elle serait pas un{box}peu 【à l'ouest】?
+@1B8AB4	Bah, peu importe.{n}{n}On repassera.
+@1B8ADF	Pfiou… c'était{n}{n}quoi, ça? Quelle{box}princesse!
+@1B8B03	Myun a l'air{n}{n}d'en baver, la{box}pauvre.
+@1B8B25	Dis! On revient{n}{n}les voir? Je{box}sens qu'on va{n}{n}bien s'entendre!
+@1B8B5E	…………Eh bien.{n}{n}C'est ça, la{box}royauté?
+@1B8B7B	Franchement… quel{n}{n}numéro. Je ne sais{box}qu'en dire.
+@1B8BA0	…Mais elle est{n}{n}amusante, cette{box}princesse. Nous{n}{n}repasserons.
+@1B8BD5	…Elle est un peu{n}{n}déroutante. Et{box}toi, {J}?
+@1B8BF7	Cette Myun n'a pas{n}{n}fini d'avoir du{box}souci, avec elle.
+@1B8C19	Si on a le temps,{n}{n}on repassera?
+@1B8C43	C'est ça… une{n}{n}princesse?{box}Franchement… hein?
+@1B8C64	Et la Myun, là,{n}{n}elle doit pas{box}rigoler tous les{n}{n}jours.
+@1B8C87	Hé hé! Ça a l'air{n}{n}marrant, on{box}reviendra!
+@1B8CBA	Faina, elle est{n}{n}trop drôle, nya!
+@1B8CD5	{P} et elle,{n}{n}ça va être les{box}copines, nya!
+@1B8CF5	Dis, {J}!{n}{n}On reviendra{box}jouer, nyaaa!
+@1B8D22	Ha ha… voilà une{n}{n}princesse fort{box}divertissante.
+@1B8D46	Et cette Myun ne{n}{n}semble pas s'en{box}plaindre.
+@1B8D6A	En effet. Nous{n}{n}reviendrons lui{box}rendre visite.
+@1B8D9A	Non mais c'est{n}{n}quoi, cette{box}princesse? Elle{n}{n}plane à mort!
+@1B8DC0	Elle doit en{n}{n}baver, la Myun.{box}…Franchement.
+@1B8DE0	Ooh? On dirait{n}{n}qu'elle te plaît,{box}{J}.
+@1B8DFB	Hmpf! Très bien!{n}{n}T'as qu'à revenir,{box}alors!
+@1B8E1D	{J}……{n}{n}……………………andouille…
+@1B8E47	Oh, elles sont{n}{n}parties. Dis,{box}{J}!
+@1B8E63	Elle était drôle,{n}{n}la princesse!{box}Et toi, {J}?
+@1B8E85	On reviendra{n}{n}jouer, d'accord?
+@1B8EB0	Euh… {J}…{n}{n}euh… dis…
+@1B8ECA	C'était une{n}{n}princesse… très{box}spéciale…
+@1B8EE6	Non! Euh… je ne{n}{n}dis pas ça{box}méchamment…
+@1B8F07	Oui! J'aimerais{n}{n}bien la revoir…
+@1B8F81	Oh, {J}!{n}{n}Quelle joie!{box}Vous allez bien?
+@1B8F9F	Hi hi! Je lisais{n}{n}à l'instant…
+@1B8FC0	Connaissez-vous{n}{n}le roman{box}【Neige-Blanche】?
+@1B8FE0	Une princesse{n}{n}éveillée par le{box}baiser d'un{n}{n}prince charmant…
+@1B9001	J'aimerais tant{n}{n}vivre la même{box}chose!!
+@1B9023	Et si je mangeais{n}{n}une vingtaine de{box}pommes?
+@1B9044	Qu'en pensez-vous,{n}{n}{J}?
+@1B9068	…? Oh!{n}{n}{J}!
+@1B907C	Bonjour!{n}{n}Vous allez bien?
+@1B9092	Oh, oui! Moi{n}{n}aussi, je vais{box}très bien.
+@1B90AF	Mais… la{n}{n}princesse… est{box}toujours la même…
+@1B90CD	Euh… vous voulez{n}{n}bien m'écouter?
+@1B90E5	L'autre jour… elle{n}{n}a commencé un{box}nouveau livre…
+@1B910D	et elle s'est mise{n}{n}à demander où se{box}trouvait la maison{n}{n}en pain d'épice…
+@1B9135	« Si tout est en{n}{n}bonbons, les{box}fourmis vont la{n}{n}manger! »
+@1B9157	Voilà où elle en{n}{n}est… Moi… je n'en{box}peux plus…
+@1B917B	Il n'y aurait pas{n}{n}un moyen?{box}…Pfiouuu…
+@1B91AA	Oh… mais quelle{n}{n}surprise! Comment{box}allez-vous?
+@1B91C7	Moi? Oh, je me{n}{n}porte à merveille!
+@1B91E3	Il fait vraiment{n}{n}un temps superbe.
+@1B9200	Les nuages{n}{n}blancs…{box}le ciel bleu…
+@1B9216	Comme c'est beau!{n}{n}Mon cœur s'envole!
+@1B923B	Ne trouvez-vous{n}{n}pas, {J}?
+@1B9255	Hi hi!
+@1B926C	Bonjour,{n}{n}{J}, {P}.
+@1B9283	Hein? Oui, oui.{n}{n}La princesse est{box}là aussi.
+@1B92A1	Ce qu'elle fait…{n}{n}en ce moment?{box}Ah… eh bien…
+@1B92BE	Elle a encore lu{n}{n}un nouveau livre…
+@1B92DE	et elle est en{n}{n}train de le{box}mettre en{n}{n}pratique.
+@1B92FA	…Pfiou… vous{n}{n}voulez savoir?{box}Mieux vaudrait{n}{n}ne pas…
+@1B9322	Elle vient de{n}{n}planter une fève{box}dans le jardin…
+@1B9342	et elle attend que{n}{n}la tige pousse…{box}depuis des heures.
+@1B9364	« Je monterai{n}{n}jusqu'au ciel! »{box}…dit-elle…
+@1B9386	Vraiment… quelle{n}{n}princesse…
+@1B93AF	Bien le bonjour!{n}{n}Vous allez bien?
+@1B93CD	Ah, oui! Écoutez{n}{n}un peu!
+@1B93E3	Hier soir, une{n}{n}étoile filante a{box}traversé le ciel…
+@1B9402	Oui! C'est cela!{n}{n}J'ai fait un vœu!
+@1B9421	Et… mon vœu{n}{n}s'est réalisé!
+@1B943C	…?{n}{n}Mon vœu?
+@1B944C	Vous voulez le{n}{n}savoir? Hi hi!{box}Soit, je vais{n}{n}vous le dire.
+@1B946B	« Qu'il fasse beau{n}{n}demain! » Voilà{box}ce que j'ai{n}{n}souhaité.
+@1B948D	Et grâce à lui,{n}{n}il fait un temps{box}magnifique!
+@1B94AC	Quel bonheur!{n}{n}N'est-ce pas,{box}{J}?
+@1B94D2	{J}, {P}…{n}{n}Bonjour.
+@1B94E9	Pardon? Ah… oui.{n}{n}Ça se voit tant{box}que ça?
+@1B9506	La princesse était{n}{n}tellement perdue{box}dans ses rêveries…
+@1B9527	que je lui ai{n}{n}donné un livre{box}d'histoire.
+@1B9540	Et devinez ce{n}{n}qui s'est passé?
+@1B955C	Elle s'est mise à{n}{n}dire qu'elle{box}deviendrait, elle{n}{n}aussi, maître{box}Unitron!
+@1B9584	Elle en était{n}{n}justement au{box}passage sur{n}{n}Unitis…
+@1B95A6	{J}!{n}{n}Vous ne pourriez{box}pas faire quelque{n}{n}chose?
+@1B95BF	Moi… elle ne{n}{n}m'écoute plus{box}du tout…
+@1B95E1	Vraiment… quelle{n}{n}princesse!
+@1B9606	Oh, {J}!{n}{n}Cela faisait{box}longtemps!
+@1B9621	L'autre jour, j'ai{n}{n}emprunté un{box}nouveau livre à{n}{n}Luzas.
+@1B9645	Il s'intitule{n}{n}【Traité de magie】.{box}Un ouvrage fort{n}{n}intéressant.
+@1B966E	On n'y parle pas{n}{n}seulement des{box}【techniques】 des{n}{n}chevaliers-méca…
+@1B968F	mais aussi de la{n}{n}【magie】 ancienne{box}des légendes{n}{n}populaires,
+@1B96B3	le tout illustré{n}{n}d'exemples.{box}Voudriez-vous{n}{n}le lire un jour?
+@1B96F6	Je suis sûre qu'il{n}{n}vous sera utile.
+@1B9722	Ah… {J}!{n}{n}Vous tombez bien!
+@1B973D	La princesse fait{n}{n}de drôles de{box}choses depuis{n}{n}tout à l'heure.
+@1B9760	Elle récite des{n}{n}formules étranges,
+@1B9779	elle agite une{n}{n}baguette faite{box}maison…
+@1B9795	Elle a dû lire ce{n}{n}qu'elle a emprunté{box}chez messire{n}{n}Luzas:
+@1B97B4	le{n}{n}【Traité de magie】,{box}j'en suis sûre!
+@1B97D2	Tout à l'heure,{n}{n}elle m'a même dit:
+@1B97EC	« Myun, je vais{n}{n}vous changer en{box}grenouille! »{n}{n}Vous imaginez?
+@1B9812	Moi, transformée{n}{n}en grenouille?{box}Jamais de la vie!!
+@1B9839	{p}À qui parler?
+@1B984B	Faina
+@1B9855	Myun
+@1B985E	Retour
+@1B986C	{p}Que faire?
+@1B987C	Parler
+@1B9885	Quiz
+@1B988E	Retour
+@1B98D7	{J}, vous êtes{n}{n}maître Unitron,{box}n'est-ce pas?
+@1B98F6	Ah, que je vous{n}{n}envie!!{box}Courir le monde,{n}{n}de quête en quête!
+@1B991F	Depuis ma{n}{n}naissance, je ne{box}suis jamais sortie{n}{n}de ce château.
+@1B9949	Oh, je sais! La{n}{n}prochaine fois que{box}vous partirez,
+@1B9966	emmenez-moi{n}{n}avec vous!!
+@1B9981	Connaissez-vous{n}{n}l'histoire{box}d'Albaris, {J}?
+@1B999D	Il y a 100 ans…{n}{n}Albaris se{box}trouvait là où{n}{n}est Raphias.
+@1B99C4	Mais après la{n}{n}chute de Raphias{box}lors de la{n}{n}tragédie du{box}【Ragnarok】,
+@1B99EB	avec la poignée de{n}{n}survivants qui{box}avaient échappé{n}{n}au désastre,
+@1B9A0D	le dernier roi de{n}{n}Raphias, Albaris{box}Dis Raphias,
+@1B9A37	mit 50 ans à{n}{n}transférer la{box}capitale ici.
+@1B9A5A	Le roi Albaris{n}{n}était mon{box}grand-père.
+@1B9A7C	Je ne l'ai jamais{n}{n}connu moi-même,
+@1B9A9F	mais on m'a dit{n}{n}que c'était un{box}homme admirable.
+@1B9AC3	Hi hi. J'aurais{n}{n}tant aimé le{box}rencontrer.
+@1B9AE4	C'est peu connu,{n}{n}mais…
+@1B9B03	Albaris possède{n}{n}elle aussi un{box}ordre de{n}{n}【chevaliers-méca】.
+@1B9B25	Il se nomme…{n}{n}【Shooting Star】.
+@1B9B42	Cela signifie{n}{n}【étoile filante】.
+@1B9B56	Cela dit, cet{n}{n}ordre n'intervient{box}presque jamais.
+@1B9B7F	Je n'y connais{n}{n}pas grand-chose,{box}mais la plupart{n}{n}des incidents
+@1B9BA1	seraient réglés{n}{n}par les membres{box}de la 【guilde】.
+@1B9BC5	J'aimerais tant{n}{n}rencontrer un jour{box}la personne qui{n}{n}dirige la guilde.
+@1B9BF1	{J}, avez-vous{n}{n}des frères et{box}sœurs?
+@1B9C13	…Vraiment?{n}{n}Hi hi. Je vous{box}envie.
+@1B9C34	Hélas, je n'ai ni{n}{n}frère ni sœur.
+@1B9C5A	Des frères et des{n}{n}sœurs… Qu'est-ce{box}que cela fait{n}{n}donc?
+@1B9C7C	C'est agréable?{n}{n}C'est… chaleureux?
+@1B9C9E	Décidément…………{n}{n}je vous envie!
+@1B9CB9	Mais cela, on a{n}{n}beau le désirer{box}de tout son cœur…
+@1B9CD8	on ne peut pas{n}{n}l'obtenir…{box}n'est-ce pas?
+@1B9CF7	Mais tout va bien.{n}{n}Je suis entourée{box}de tant de gens.
+@1B9D1C	…Myun en fait{n}{n}partie. Hi hi!
+@1B9D3D	Au fait, {J}…{n}{n}le saviez-vous?
+@1B9D5A	On parle d'une{n}{n}【mer】, à l'extrême{box}ouest du continent{n}{n}Tridis.
+@1B9D7E	Une grande mer,{n}{n}creusée en un{box}cercle parfait…
+@1B9D9D	que l'on nomme,{n}{n}paraît-il, le{box}【Miroir sacré】.
+@1B9DBE	Et l'origine de{n}{n}ce nom…
+@1B9DDC	c'est une mer{n}{n}où règne un calme{box}absolu, sans la{n}{n}moindre ride…
+@1B9E05	Une 【mer】 pareille{n}{n}à un 【miroir】,{box}d'où le nom de{n}{n}【Miroir sacré】.
+@1B9E29	D'après ce que{n}{n}m'a raconté Luzas,
+@1B9E45	il y a très{n}{n}longtemps… la{box}cause du{n}{n}【Ragnarok】
+@1B9E63	se serait trouvée{n}{n}dans l'ancien{box}【Miroir sacré】.
+@1B9E85	Puis… il y a 100{n}{n}ans, le 【Ragnarok】{box}survint…
+@1B9EA6	et balaya toute{n}{n}l'énergie des{box}【esprits du Vent】…
+@1B9ECB	…Voilà pourquoi,{n}{n}dit-on, aucune{box}vague ne trouble{n}{n}le 【Miroir sacré】.
+@1B9EEE	…Brr, j'en ai des{n}{n}frissons…
+@1B9F00	Dites-moi, {J},{n}{n}{P} et vous…
+@1B9F15	vous vous{n}{n}entendez si bien!
+@1B9F2E	J'aimerais tant,{n}{n}moi aussi, avoir{box}une vraie amie à{n}{n}qui tout confier…
+@1B9F54	Myun?{n}{n}Eh bien…
+@1B9F68	…Myun, c'est…{n}{n}…un peu à part.
+@1B9F85	Elle est chargée{n}{n}de me surveiller,{box}voyez-vous.
+@1B9FA8	Ce n'est donc pas{n}{n}une vraie amie…{box}Vous ne trouvez{n}{n}pas?
+@1B9FCD	Mais je ne la{n}{n}déteste pas.{box}Je l'aime même{n}{n}bien… je crois.
+@1B9FF3	Sans Myun… je me{n}{n}sentirais… seule.
+@1BA016	…Oui, voilà.{n}{n}Sans être une{box}vraie amie…
+@1BA033	Myun est, pour{n}{n}moi, quelqu'un de{box}très cher!
+@1BA057	{J}, avez-vous{n}{n}déjà vu…
+@1BA073	…la 【porte de Fer】{n}{n}au fond des ruines{box}de 【Raphias】?
+@1BA095	Nous autres, de la{n}{n}famille royale,
+@1BA0B2	nous l'appelons la{n}{n}【porte de la Fin】.
+@1BA0D5	Celui qui scella{n}{n}cette porte fut{box}l'un des héros{n}{n}d'autrefois:
+@1BA0F8	le grand maître{n}{n}Unitron Elmut,{box}dit le{n}{n}【Seigneur Faucon】…
+@1BA11B	…du moins, c'est{n}{n}ce qu'on m'a dit.
+@1BA139	Il aurait posé ce{n}{n}sceau à la demande{box}d'une certaine{n}{n}personne.
+@1BA162	Quant à savoir qui{n}{n}c'était… mystère.
+@1BA185	…Selon une{n}{n}théorie, ce serait{box}le légendaire{n}{n}maître Unitron,
+@1BA1A8	celui qu'on disait{n}{n}【le plus fort】…{box}le grand 【Rod】!
+@1BA1CD	J'en frissonne{n}{n}d'excitation!{box}Pas vous?
+@1BA1F7	{J}, lisez-vous{n}{n}des livres?
+@1BA213	Pas beaucoup?{n}{n}…Quelle hérésie!!
+@1BA232	Les livres nous{n}{n}apportent tant de{box}connaissances!
+@1BA255	Politique,{n}{n}économie, Histoire{box}…et bien plus{n}{n}encore!
+@1BA279	Un 【billet】 pour{n}{n}des mondes rêvés{box}qui font battre{n}{n}le cœur!
+@1BA29B	Une 【porte】 qui{n}{n}entrouvre des{box}mondes inconnus!!
+@1BA2BC	Voilà ce qu'est un{n}{n}livre!!{box}Alors? Vous{n}{n}comprenez?
+@1BA2E3	…Vraiment?!{n}{n}J'en suis ravie!
+@1BA302	Dans ce cas, je{n}{n}me dois de vous{box}aider.
+@1BA321	Je vais vous{n}{n}prêter quelque 500{box}volumes de ma{n}{n}bibliothèque.
+@1BA346	Allons!!{n}{n}Servez-vous!!
+@1BA364	{p}Que faire?
+@1BA374	Parler
+@1BA37D	Infos
+@1BA388	Retour
+@1BA3D1	{J}, vous{n}{n}connaissez les{box}【Mécadémons】?
+@1BA3EC	【Mécadémon】 vient{n}{n}de 【mécanique】 et{box}de 【démon】.
+@1BA40D	Ce sont surtout{n}{n}des Unitrons très{box}anciens devenus{n}{n}des monstres.
+@1BA434	Il paraît qu'ils{n}{n}fusionnent parfois{box}avec d'autres{n}{n}monstres.
+@1BA459	Pour un Unitron,{n}{n}finir comme ça…{box}quelle tristesse.
+@1BA47B	L'autre jour, j'ai{n}{n}trouvé un très{box}vieux grimoire,
+@1BA49C	et il contenait{n}{n}des infos inouïes!
+@1BA4B8	Chez nous autres{n}{n}chercheurs, la{box}cause présumée de{n}{n}【Ragnarok】, c'est
+@1BA4DB	un gigantesque{n}{n}appareil nommé{box}【Yggdrasil】,
+@1BA4FB	et il s'inspire{n}{n}apparemment de la{box}technologie des{n}{n}Unitrons.
+@1BA520	Et en plus… la{n}{n}responsable, c'est{box}【Rena】!!
+@1BA542	L'ancienne{n}{n}partenaire du{box}maître Unitron{n}{n}【Rod】, oui!!
+@1BA56B	Quelle découverte,{n}{n}hein?! Vous ne{box}trouvez pas?
+@1BA590	Vous connaissez{n}{n}【Unitis】, {J}?
+@1BA5AE	Un 【dieu du Mal】{n}{n}terrassé par un{box}héros, il y a{n}{n}400 ans…
+@1BA5D7	Les Unitrons{n}{n}d'antan, dit-on,{box}fonctionnaient{n}{n}grâce au cristal{box}du 【pouvoir】{n}{n}d'Unitis:
+@1BA601	une substance{n}{n}nommée 【Uni-Tron】.
+@1BA625	Alors, quand{n}{n}Unitis est tombé{box}sous les coups{n}{n}du héros,
+@1BA643	tous les Unitrons{n}{n}du monde se sont{box}arrêtés net!
+@1BA666	Et le matériau{n}{n}【Uni-Tron】 qu'on{box}trouve aujourd'hui{n}{n}dans les ruines{box}de 【Raphias】…
+@1BA68F	serait un éclat{n}{n}de l'ancien{box}【noyau】, dit-on.
+@1BA6B2	Et vous savez ce{n}{n}qui fait marcher{box}les Unitrons{n}{n}actuels?
+@1BA6DB	…Alors, voilà:{n}{n}ceux d'aujourd'hui
+@1BA6F7	tournent grâce au{n}{n}générateur{box}【Phlogiston】.
+@1BA720	C'est un appareil{n}{n}qui capte la force{box}des esprits pour{n}{n}en faire de{box}l'énergie.
+@1BA749	Il a été inventé{n}{n}par 【Rena】, une{box}ingénieure de{n}{n}génie!
+@1BA76E	【Rena】, c'était{n}{n}l'ingénieure de{box}【Rod】!
+@1BA790	Quel duo, hein?{n}{n}Rien que d'y{box}penser… je suis{n}{n}tout émue!
+@1BA7BB	Mes liens avec la{n}{n}princesse? Hi hi…{box}Rien de bien{n}{n}extraordinaire.
+@1BA7E5	Je suis assistante{n}{n}de recherche à{box}l'Académie{n}{n}d'Albaris…
+@1BA80B	et le directeur,{n}{n}maître Luzas, est{box}le précepteur de{n}{n}la princesse.
+@1BA834	Le hasard a fait{n}{n}que je l'ai{box}rencontrée…
+@1BA855	et depuis, je{n}{n}l'aide dans ses{box}études.
+@1BA881	La princesse est{n}{n}un peu… spéciale,{box}mais elle est{n}{n}adorable!
+@1BA8AA	Elle est trop pure{n}{n}peut-être… Bref,{box}c'est une âme{n}{n}candide.
+@1BA8D0	Ça ne m'empêche{n}{n}pas de râler de{box}temps en temps.{n}{n}Hi hi!
+@1BA8F8	{J}, vous{n}{n}connaissez Arkis?
+@1BA917	Euh… Arkis, il{n}{n}est un peu… vous{box}voyez, quoi.
+@1BA93A	Il prend les gens{n}{n}de haut, il se{box}moque d'eux…
+@1BA960	Mais… mais{n}{n}attention!{box}Au fond, il n'est{n}{n}pas comme ça!
+@1BA980	Arkis et moi, on{n}{n}se connaît depuis{box}l'enfance…
+@1BA9A6	Arkis, moi… et{n}{n}son petit frère:
+@1BA9CC	on jouait souvent{n}{n}tous les trois.
+@1BA9DC	Son petit frère{n}{n}s'appelait Vein.
+@1BA9FD	Un vrai petit{n}{n}diable!{box}…Il en faisait{n}{n}voir à Arkis.
+@1BAA27	Mais… un jour, il{n}{n}est mort dans un{box}accident.
+@1BAA47	Ce n'était pas la{n}{n}faute d'Arkis,{box}en vérité…
+@1BAA69	mais il s'en est{n}{n}tant voulu…{box}…Ça me brisait le{n}{n}cœur de le voir.
+@1BAA93	Depuis, il ne{n}{n}supporte plus de{box}voir des enfants{n}{n}se mettre en{box}danger.
+@1BAABF	…Et l'Unitron{n}{n}d'Arkis,{box}【Arvein】,
+@1BAAE2	mêle son nom à{n}{n}celui de Vein.
+@1BAB05	Mais chut! Pas un{n}{n}mot à Arkis,{box}d'accord?
+@1BAB2F	Vous deux… vous{n}{n}êtes vraiment{box}complices.
+@1BAB50	Je vous envie un{n}{n}peu…
+@1BAB63	Moi? Oh… euh…{n}{n}c'est que…
+@1BAB7D	Mon 【amoureux】,{n}{n}ce sont… mes{box}【grimoires】.
+@1BAB9C	J'ai encore des{n}{n}montagnes de{box}recherches à{n}{n}mener.
+@1BABC4	Tant que ce ne{n}{n}sera pas fini…{box}rien ne changera.
+@1BABE6	Mais… en vérité…
+@1BABF8	R… rien! Allez,{n}{n}au boulot, boulot!
+@1BAC18	Ah! Pourquoi vous{n}{n}me regardez{box}comme ça?!
+@1BAC36	Quand je fais mes{n}{n}recherches, j'en{box}oublie l'heure.
+@1BAC58	Ça vous arrive{n}{n}aussi, {J}?
+@1BAC73	Moi, parfois, je{n}{n}relève la tête et{box}il fait nuit,
+@1BAC91	et une fois, une{n}{n}journée entière{box}était passée!
+@1BACB6	Quand je me lance{n}{n}dans un truc…{box}plus rien autour{n}{n}n'existe.
+@1BACDE	Hi hi! Ce n'est{n}{n}pas bien, hein…
+@1BACFA	Comme on dit:{n}{n}rien de trop!
+@1BAD76	L'arme du{n}{n}【Chevalier Noir】,{box}【Soul Flare】…{n}{n}Si vous l'aviez,
+@1BAD9B	elle vous serait{n}{n}sûrement utile,{box}{J}.
+@1BADBC	On dit que la{n}{n}【tour du Mirage】{box}servait à parler{n}{n}aux 【dieux】.
+@1BADE7	Et chaque dieu{n}{n}régnait sur un{box}jour différent de{n}{n}la semaine.
+@1BAE11	Mais le contact{n}{n}est rompu depuis{box}bien longtemps.
+@1BAE3C	Certaines pièces{n}{n}ultimes ont besoin{box}d'Uni-Tron pour{n}{n}évoluer.
+@1BAE64	Par exemple, pour{n}{n}faire évoluer{box}【Crusader】 en{n}{n}【Nanatsusaya】.
+@1BAE90	Avant de partir{n}{n}à l'aventure,
+@1BAEAE	mieux vaut aller{n}{n}voir Solty pour{box}les dernières{n}{n}nouvelles.
+@1BAED0	On ne sait jamais{n}{n}ce qui peut{box}arriver.
+@1BAEED	Les performances{n}{n}d'un Unitron{box}varient beaucoup
+@1BAF0A	selon la{n}{n}personnalité de{box}son ingénieur.
+@1BAF29	Un humain donne{n}{n}le type Équilibré,{box}par exemple.
+@1BAF4D	Les donjons sont{n}{n}reliés entre eux{box}par des vortex{n}{n}bleus.
+@1BAF70	Empruntez-les, et{n}{n}l'aventure sera{box}plus facile!
+@1BAF92	Quoique… ils vous{n}{n}mènent parfois{box}dans de beaux{n}{n}pétrins…
+@1BAFB9	Les Elels ont des{n}{n}biorythmes, on{box}dirait.
+@1BAFD7	Bien lunées, elles{n}{n}ont bon appétit,
+@1BAFF2	et mal lunées,{n}{n}elles chipotent.
+@1BB012	Moi, c'est quand{n}{n}je stresse que je{box}me goinfre!
+@1BB03A	Les monstres et{n}{n}les bras ont un{box}élément.
+@1BB057	Selon l'élément,{n}{n}les dégâts{box}changent, alors
+@1BB074	mieux vaut faire{n}{n}des essais.
+@1BB095	Même si c'est…{n}{n}très fastidieux.
+@1BB0B7	Retenez bien: on{n}{n}ne peut développer{box}une pièce que{n}{n}10 fois!
+@1BB0DB	Donc… 9 fois, on{n}{n}la 【renforce】…
+@1BB0F8	et la dernière:{n}{n}【évolution】!{box}C'est la méthode{n}{n}idéale.
+@1BB11F	Pour des pièces{n}{n}ultimes, c'est{box}indispensable!
+@1BB146	Les bras de type{n}{n}arme à feu sont{box}puissants, certes,
+@1BB166	mais on ne peut{n}{n}s'en servir qu'un{box}nombre limité de{n}{n}fois par combat.
+@1BB18B	Sans dire que ça{n}{n}compense, ils{box}consomment peu{n}{n}d'EP.
+@1BB1B6	Le 【Buckler】 peut{n}{n}évoluer de trois{box}façons.
+@1BB1D9	Par exemple, avec{n}{n}【Kite S】 et une{box}Pierre-foudre,{n}{n}on obtient
+@1BB1F8	l'【Edged S】, un{n}{n}bouclier axé sur{box}la défense.
+@1BB21F	【Assault R】 et une{n}{n}Pierre-foudre{box}donnent la{n}{n}【Chaingun】.
+@1BB246	Elle se fabrique{n}{n}avec des matériaux{box}plutôt bon marché,{n}{n}et elle est{box}maniable.
+@1BB270	La forme finale du{n}{n}【Fouet】, le{box}【Fouet-Éclair】,
+@1BB290	est un bras bien{n}{n}pratique qui{box}【paralyse】{n}{n}l'ennemi!
+@1BB364	{J}! Me{n}{n}feriez-vous une{box}faveur?
+@1BB384	Je me passionne{n}{n}pour une chose{box}qu'on appelle{n}{n}le 【quiz】…
+@1BB3A9	Accepteriez-vous{n}{n}de jouer avec moi?
+@1BB3C6	Pas gratuitement,{n}{n}bien entendu!
+@1BB3DF	Si vous répondez{n}{n}juste, je vous{box}ferai un cadeau.
+@1BB400	Il y a 50{n}{n}questions en tout!
+@1BB412	5 bonnes réponses{n}{n}d'affilée, et un{box}cadeau est à vous!
+@1BB439	Allons-y!
+@1BB44F	{J}! Vous{n}{n}rejouez avec moi?
+@1BB46E	Mes questions sont{n}{n}toujours prêtes!
+@1BB48D	Allez!{n}{n}C'est parti!!
+@1BB4A6	Oh? {J}! Vos{n}{n}bagages sont{box}pleins!
+@1BB4CB	Hélas, {J},{n}{n}je n'ai plus rien{box}à vous offrir.
+@1BB4F3	Voyons… Oh! Pas{n}{n}de cadeau, alors!
+@1BB510	Hi hi! À une{n}{n}prochaine fois…
+@1BB567	Voici le cadeau{n}{n}promis!
+@1BB596	Votre cadeau:{n}{n}【Recovery】!!
+@1BB5B6	Tenez!{n}{n}Prenez-le donc!
+@1BB5DE	Votre cadeau: une{n}{n}【Gemme d'esprit】!
+@1BB5FF	Tenez!{n}{n}Prenez-le donc!
+@1BB623	Votre cadeau:{n}{n}【Mercurius】!!
+@1BB644	Tenez!{n}{n}Prenez-le donc!
+@1BB66C	Votre cadeau:{n}{n}【Main du Soleil】!!
+@1BB68D	Tenez!{n}{n}Prenez-le donc!
+@1BB6B5	Votre cadeau:{n}{n}【Orichalque】!!
+@1BB6D6	Tenez!{n}{n}Prenez-le donc!
+@1BB6FE	Votre cadeau:{n}{n}【King Drill】!!
+@1BB71F	Tenez!{n}{n}Prenez-le donc!
+@1BB747	Votre cadeau:{n}{n}【Moon Knight】!!
+@1BB768	Tenez!{n}{n}Prenez-le donc!
+@1BB790	Votre cadeau:{n}{n}【G Hammer】!!
+@1BB7B0	Tenez!{n}{n}Prenez-le donc!
+@1BB7D8	Votre cadeau:{n}{n}【Sunlight】!!
+@1BB7F8	Tenez!{n}{n}Prenez-le donc!
+@1BB815	…Impossible…{n}{n}Est-ce un rêve?
+@1BB830	{J}!! Vous{n}{n}m'avez émue!
+@1BB855	Le cadeau ultime…{n}{n}le voici!!
+@1BB874	Trésor royal de{n}{n}Raphias:{box}【Ray Feather】!!
+@1BB892	Et, de même:{n}{n}【Ars Magna】!!
+@1BB8AC	Oh! Père…{n}{n}pardonnez-moi…
+@1BB8D0	Non, non, ne vous{n}{n}en faites pas:{box}prenez-le!
+@1BB8F1	Mais, j'en suis{n}{n}navrée, je ne peux{box}vous en donner{n}{n}qu'un seul.
+@1BB91A	Sachez que le{n}{n}【Ray Feather】 est{box}une pièce de dos,
+@1BB939	et 【Ars Magna】,{n}{n}un bras de type{box}épée.
+@1BB959	Alors, lequel{n}{n}prenez-vous?
+@1BB96B	Ray F.
+@1BB977	Ars M.
+@1BB985	Oh! Splendide!{n}{n}Excellent choix!!
+@1BB9A8	Tenez!!{n}{n}Il est à vous!
+@1BB9C0	Le trésor royal{n}{n}de Raphias:{box}【Ray Feather】!!
+@1BB9E0	Le 【Ray Feather】{n}{n}est la pièce de{box}dos ultime.
+@1BB9FF	Il surpasse même{n}{n}le célèbre{box}【Righteous】!
+@1BBA23	{J}! Prenez-en{n}{n}grand soin!
+@1BBA3F	Sur ce… bonne{n}{n}chance à vous!
+@1BBA60	Oh! Magnifique!{n}{n}Excellent choix!!
+@1BBA83	Tenez!!{n}{n}Il est à vous!
+@1BBA9B	Le trésor royal{n}{n}de Raphias:{box}【Ars Magna】!!
+@1BBABB	L'【Ars Magna】 est{n}{n}le bras-épée{box}ultime.
+@1BBADA	Sa puissance{n}{n}dépasse celle du{box}【B Launcher】!
+@1BBAFB	{J}! Prenez-en{n}{n}grand soin!
+@1BBB17	Sur ce… bonne{n}{n}chance à vous!
+@1BBB3D	Oh! Bravo,{n}{n}c'est exact!
+@1BBB55	Oh… mince!{n}{n}Hélas…
+@1BBB6F	C'est faux!!
+@1BBBD3	La médaille pour{n}{n}entrer à la guilde{box}est la{n}{n}【Pleine-Lune】.
+@1BBBF8	Oui
+@1BBC00	Non
+@1BBC12	Regina est le{n}{n}petit frère jumeau{box}de {J}.
+@1BBC31	Oui
+@1BBC39	Non
+@1BBC4B	La boutique de{n}{n}Sayaka a 500 ans.
+@1BBC6D	Oui
+@1BBC75	Non
+@1BBC87	Le lot du rang E{n}{n}de l'arène est{box}【Autoréparation】.
+@1BBCAD	Oui
+@1BBCB5	Non
+@1BBCC7	Le nom complet de{n}{n}Solty est{box}【Solty Mule】.
+@1BBCEB	Oui
+@1BBCF3	Non
+@1BBD05	L'Unitron d'Arkis{n}{n}s'appelle 【Vein】.
+@1BBD29	Oui
+@1BBD31	Non
+@1BBD43	On obtient le{n}{n}【Iron B】 en{box}développant le{n}{n}Buckler.
+@1BBD6C	Oui
+@1BBD74	Non
+@1BBD86	On a fait la{n}{n}connaissance de{box}Sirius à la{n}{n}guilde.
+@1BBDA1	Oui
+@1BBDA9	Non
+@1BBDBB	Le Danse-Lame{n}{n}laisse tomber un{box}【Katana】.
+@1BBDD7	Oui
+@1BBDDF	Non
+@1BBDF1	【Aqua Bomb】 est{n}{n}une attaque{box}de l'élément eau.
+@1BBE13	Oui
+@1BBE1B	Non
+@1BBE2D	Le mithril a été{n}{n}créé par{box}l'【atelier Orbit】.
+@1BBE52	Oui
+@1BBE5A	Non
+@1BBE6C	Lanza se terrait{n}{n}dans la{box}【Haie d'Épines】.
+@1BBE90	Oui
+@1BBE98	Non
+@1BBEAA	Le 【lac d'Argent】{n}{n}fut aussi appelé{box}【Galerie d'Azur】.
+@1BBED6	Oui
+@1BBEDE	Non
+@1BBEF0	【Full Vernier】 se{n}{n}fabrique à partir{box}de l'【Aerial】.
+@1BBF12	Oui
+@1BBF1A	Non
+@1BBF2C	L'eau est faible{n}{n}contre le feu.
+@1BBF44	Oui
+@1BBF4C	Non
+@1BBF5E	On a trouvé l'Elel{n}{n}dans les ruines{box}de 【Raphias】.
+@1BBF7D	Oui
+@1BBF85	Non
+@1BBF97	L'arène compte{n}{n}7 rangs en tout.
+@1BBFB6	Oui
+@1BBFBE	Non
+@1BBFD0	【Gordias】 utilise{n}{n}【Dureté 1000】.
+@1BBFF1	Oui
+@1BBFF9	Non
+@1BC00B	Un 【Mécadémon】 est{n}{n}un antique Unitron{box}devenu monstre.
+@1BC033	Oui
+@1BC03B	Non
+@1BC04D	Le développement{n}{n}des armes est{box}limité en nombre.
+@1BC06D	Oui
+@1BC075	Non
+@1BC087	La charge est{n}{n}limitée en nombre{box}d'utilisations.
+@1BC0A4	Oui
+@1BC0AC	Non
+@1BC0BE	On gardait la{n}{n}【clé des Enfers】{box}dans la{n}{n}【tour du Mirage】.
+@1BC0E5	Oui
+@1BC0ED	Non
+@1BC0FF	Le Berserk{n}{n}utilise le{box}【Doigt Radieux】.
+@1BC11C	Oui
+@1BC124	Non
+@1BC136	【Energistar】{n}{n}augmente les EP{box}rendus par la{n}{n}charge.
+@1BC15E	Oui
+@1BC166	Non
+@1BC178	【Seed Mine】 est{n}{n}un objet de combat{box}de l'élément feu.
+@1BC19E	Oui
+@1BC1A6	Non
+@1BC1B8	【Drain】 fait{n}{n}absorber vos HP{box}par l'ennemi.
+@1BC1DE	Oui
+@1BC1E6	Non
+@1BC1F8	【Ragnarok】 a{n}{n}détruit Raphias.
+@1BC219	Oui
+@1BC221	Non
+@1BC233	Galia, le pays{n}{n}natal de {J},{box}est sur le{n}{n}continent Radina.
+@1BC25B	Oui
+@1BC263	Non
+@1BC275	Les ténèbres sont{n}{n}fortes contre tous{box}les éléments sauf{n}{n}la lumière.
+@1BC2A0	Oui
+@1BC2A8	Non
+@1BC2BA	Jadis, on parlait{n}{n}aux dieux par la{box}【tour du Mirage】.
+@1BC2E4	Oui
+@1BC2EC	Non
+@1BC2FE	L'Elel boude{n}{n}tout le temps.
+@1BC314	Oui
+@1BC31C	Non
+@1BC32E	【Fouet-Éclair】 a{n}{n}un effet bonus:{box}la paralysie.
+@1BC34F	Oui
+@1BC357	Non
+@1BC369	【Soin Total】 est{n}{n}une technique qui{box}rend tous les HP.
+@1BC393	Oui
+@1BC39B	Non
+@1BC3AD	【Flare】 est de{n}{n}l'élément feu.
+@1BC3C3	Oui
+@1BC3CB	Non
+@1BC3DD	【Antimatière】 est{n}{n}de l'élément{box}ténèbres.
+@1BC3FA	Oui
+@1BC402	Non
+@1BC414	La spécialité{n}{n}d'Arkis:{box}【Pluie d'Argent】.
+@1BC437	Oui
+@1BC43F	Non
+@1BC451	{P} n'est pas{n}{n}du même sang que{box}Thomas Orbit.
+@1BC474	Oui
+@1BC47C	Non
+@1BC48E	L'aînée des trois{n}{n}sœurs 【Fatae】{box}est 【Clotho】.
+@1BC4B5	Oui
+@1BC4BD	Non
+@1BC4CF	Le corps d'Unitron{n}{n}de {J} compte{box}4 stades au plus.
+@1BC4F4	Oui
+@1BC4FC	Non
+@1BC50E	【Thor】 laisse{n}{n}tomber le{box}【G Hammer】.
+@1BC526	Oui
+@1BC52E	Non
+@1BC540	【Mother Heart】{n}{n}renferme le{box}pouvoir d'Ortania.
+@1BC567	Oui
+@1BC56F	Non
+@1BC581	【Absorbeur】{n}{n}augmente la{box}défense du{n}{n}lanceur.
+@1BC5A5	Oui
+@1BC5AD	Non
+@1BC5BF	【Invocation】 est{n}{n}une technique pour{box}appeler à l'aide.
+@1BC5E3	Oui
+@1BC5EB	Non
+@1BC5FD	Lanza porte un{n}{n}bandeau sur l'œil{box}droit.
+@1BC61A	Oui
+@1BC622	Non
+@1BC634	On obtient la{n}{n}【Lame-Mante】 en{box}développant la{n}{n}hachette.
+@1BC65F	Oui
+@1BC667	Non
+@1BC679	Sol Cannon +{n}{n}Uni-Tron donnent{box}le 【B Launcher】.
+@1BC6A0	Oui
+@1BC6A8	Non
+@1BC6BA	Le bolide de{n}{n}Sayaka s'appelle{box}【Money】.
+@1BC6D7	Oui
+@1BC6DF	Non
+@1BC6F1	Murasame +{n}{n}Sunlight donnent{box}le 【Dôjigiri】.
+@1BC713	Oui
+@1BC71B	Non
+@1BC72D	【Roi des Abîmes】{n}{n}laisse tomber de{box}l'orichalque.
+@1BC74C	Oui
+@1BC754	Non
+@1BC766	Le meilleur{n}{n}bouclier est{box}l'【Écu de fer】.
+@1BC784	Oui
+@1BC78C	Non
+@1BC795	Oh, ça alors!{n}{n}Plus de questions!
+@1BC7B9	Oh! Première{n}{n}erreur!{box}Bien, reprenons…
+@1BC7DF	Raté! C'était{n}{n}tout près!{box}Deuxième erreur!
+@1BC806	Oh… non…{n}{n}Troisième erreur!
+@1BC826	Oh… Je suis{n}{n}désolée.
+@1BC83E	C'est vraiment{n}{n}dommage, mais…
+@1BC858	je ne peux plus{n}{n}vous poser de{box}questions.
+@1BC885	La médaille pour{n}{n}entrer à la guilde{box}est la{n}{n}【Pleine-Lune】.
+@1BC8AA	Oui
+@1BC8B2	Non
+@1BC8C4	Regina est le{n}{n}petit frère jumeau{box}de {J}.
+@1BC8E3	Oui
+@1BC8EB	Non
+@1BC8FD	La boutique de{n}{n}Sayaka a 500 ans.
+@1BC91F	Oui
+@1BC927	Non
+@1BC939	Le lot du rang E{n}{n}de l'arène est{box}【Autoréparation】.
+@1BC95F	Oui
+@1BC967	Non
+@1BC979	Le nom complet de{n}{n}Solty est{box}【Solty Mule】.
+@1BC99D	Oui
+@1BC9A5	Non
+@1BC9B7	L'Unitron d'Arkis{n}{n}s'appelle 【Vein】.
+@1BC9DB	Oui
+@1BC9E3	Non
+@1BC9F5	On obtient le{n}{n}【Iron B】 en{box}développant le{n}{n}Buckler.
+@1BCA1E	Oui
+@1BCA26	Non
+@1BCA38	On a fait la{n}{n}connaissance de{box}Sirius à la{n}{n}guilde.
+@1BCA53	Oui
+@1BCA5B	Non
+@1BCA6D	Le Danse-Lame{n}{n}laisse tomber un{box}【Katana】.
+@1BCA89	Oui
+@1BCA91	Non
+@1BCAA3	【Aqua Bomb】 est{n}{n}une attaque{box}de l'élément eau.
+@1BCAC5	Oui
+@1BCACD	Non
+@1BCADF	Le mithril a été{n}{n}créé par{box}l'【atelier Orbit】.
+@1BCB04	Oui
+@1BCB0C	Non
+@1BCB1E	Lanza se terrait{n}{n}dans la{box}【Haie d'Épines】.
+@1BCB42	Oui
+@1BCB4A	Non
+@1BCB5C	Le 【lac d'Argent】{n}{n}fut aussi appelé{box}【Galerie d'Azur】.
+@1BCB88	Oui
+@1BCB90	Non
+@1BCBA2	【Full Vernier】 se{n}{n}fabrique à partir{box}de l'【Aerial】.
+@1BCBC4	Oui
+@1BCBCC	Non
+@1BCBDE	L'eau est faible{n}{n}contre le feu.
+@1BCBF6	Oui
+@1BCBFE	Non
+@1BCC10	On a trouvé l'Elel{n}{n}dans les ruines{box}de 【Raphias】.
+@1BCC2F	Oui
+@1BCC37	Non
+@1BCC49	L'arène compte{n}{n}7 rangs en tout.
+@1BCC68	Oui
+@1BCC70	Non
+@1BCC82	【Gordias】 utilise{n}{n}【Dureté 1000】.
+@1BCCA3	Oui
+@1BCCAB	Non
+@1BCCBD	Un 【Mécadémon】 est{n}{n}un antique Unitron{box}devenu monstre.
+@1BCCE5	Oui
+@1BCCED	Non
+@1BCCFF	Le développement{n}{n}des armes est{box}limité en nombre.
+@1BCD1F	Oui
+@1BCD27	Non
+@1BCD39	La charge est{n}{n}limitée en nombre{box}d'utilisations.
+@1BCD56	Oui
+@1BCD5E	Non
+@1BCD70	On gardait la{n}{n}【clé des Enfers】{box}dans la{n}{n}【tour du Mirage】.
+@1BCD97	Oui
+@1BCD9F	Non
+@1BCDB1	Le Berserk{n}{n}utilise le{box}【Doigt Radieux】.
+@1BCDCE	Oui
+@1BCDD6	Non
+@1BCDE8	【Energistar】{n}{n}augmente les EP{box}rendus par la{n}{n}charge.
+@1BCE10	Oui
+@1BCE18	Non
+@1BCE2A	【Seed Mine】 est{n}{n}un objet de combat{box}de l'élément feu.
+@1BCE50	Oui
+@1BCE58	Non
+@1BCE6A	【Drain】 fait{n}{n}absorber vos HP{box}par l'ennemi.
+@1BCE90	Oui
+@1BCE98	Non
+@1BCEAA	【Ragnarok】 a{n}{n}détruit Raphias.
+@1BCECB	Oui
+@1BCED3	Non
+@1BCEE5	Galia, le pays{n}{n}natal de {J},{box}est sur le{n}{n}continent Radina.
+@1BCF0D	Oui
+@1BCF15	Non
+@1BCF27	Les ténèbres sont{n}{n}fortes contre tous{box}les éléments sauf{n}{n}la lumière.
+@1BCF52	Oui
+@1BCF5A	Non
+@1BCF6C	Jadis, on parlait{n}{n}aux dieux par la{box}【tour du Mirage】.
+@1BCF96	Oui

@@ -1,0 +1,176 @@
+# Biomotor Unitron 2 (Kikou Seiki Unitron) - traduction française. Personnages et objets du décor (script des acteurs).
+# @ADRESSE (fichier, hex) = texte du catalogue à cette adresse (tools/extraire.py) ; voir README.
+@0D412F	Ah, c'est le truc{n}{n}que les esprits{box}divins appelaient{n}{n}la 【clé】, non?
+@0D4158	【Yggdrasil】 est{n}{n}fermé à clé, donc.
+@0D4175	…Ouais!{n}{n}Bon, on y va?
+@0D4192	…Mais dis…{n}{n}on monte là-haut{box}comment?
+@0D41B0	Lui, il vole…{n}{n}et nous, non.
+@0D41D0	…Tiens? {J}…{n}{n}Ton 【anneau】{box}brille…?
+@0D41F1	…Wah! Waah!!{n}{n}La lumière…{box}Waaaah!!
+@0D4211	…La{n}{n}【clé d'Yggdrasil】.{box}Comme l'ont dit{n}{n}les dieux…
+@0D4239	Cette 【sphère】{n}{n}dans le ciel…{box}c'est{n}{n}【Yggdrasil】…
+@0D425B	…{J}…{n}{n}On y va? Oui…
+@0D4277	…Oui, allons-y!{n}{n}On réfléchira{box}après!
+@0D4298	…Ah… c'est vrai…{n}{n}Lui, il vole…
+@0D42BD	Comment faire…{n}{n}On ne sait pas{box}voler, nous…
+@0D42DD	…Hein? Hein? Ton{n}{n}【anneau】, {J}…{box}il brille… Kya?!
+@0D4303	Soudain, {J}{n}{n}vit son 【anneau】{box}s'illuminer.
+@0D431D	Sans prévenir, la{n}{n}lumière grandit{box}encore et encore.
+@0D433E	Une lumière{n}{n}aveuglante,{box}insoutenable.
+@0D435B	Elle enveloppa{n}{n}leurs corps… puis{box}tout le reste.
+@0D437E	Plus qu'une{n}{n}【lumière】, c'était{box}une tout autre{n}{n}【force】.
+@0D439F	La 【lumière】 qui{n}{n}les enveloppait{box}s'éleva doucement
+@0D43C2	vers 【Yggdrasil】.
+@0D43D4	…Une 【voix】.{n}{n}La 【voix】 d'un{box}【autre monde】.
+@0D43F8	…Descendance du{n}{n}【Déicide】.{box}…Sang du{n}{n}【Héros】.
+@0D441B	…Et…{n}{n}…le 【……】{box}d'【Yggdrasil】.
+@0D444A	…Mode défense…{n}{n}…désactivé…{box}…Changement de{n}{n}mode…
+@0D446B	…Mode n° 0686…{n}{n}…Début du{box}【contrôle usager】
+@0D4490	…Corps n°…00001{n}{n}…Corps prototype
+@0D44B1	…Gardien……{n}{n}……SET UP……
+@0D44CB	…Corps proto…{n}{n}…Contrôle OK
+@0D44E3	…Test n° 2: début{n}{n}…Gardien…SET UP
+@0D4508	…Test n° 3{n}{n}…Programme lancé
+@0D4523	…Gardien en place{n}{n}…SET UP……
+@0D453E	……【Ro……】……{n}{n}……【…na】……
+@0D4555	……【……】……{n}{n}……【Mon Maître】……
+@0D4570	…Test n° 4{n}{n}…Gardien SET UP
+@0D458F	…【Mon Maître】…{n}{n}…【Yggdrasil】…
+@0D45AE	…Mode test{n}{n}…Numéro 5
+@0D45C3	…Gardien SET UP{n}{n}…Lancement
+@0D45DE	À son arrivée,{n}{n}une 【nostalgie】{box}l'envahit.
+@0D45FC	D'où venait cette{n}{n}【nostalgie】? La{box}réponse s'imposa{n}{n}vite.
+@0D4618	Ce sentiment{n}{n}était là depuis{box}l'entrée dans{n}{n}【Yggdrasil】.
+@0D463E	Mais il y avait{n}{n}autre chose…{box}Une sorte{n}{n}d'【atmosphère】.
+@0D4662	Oui… {J} le{n}{n}percevait{box}intensément.
+@0D467D	Sans savoir{n}{n}pourquoi…{box}{J} le savait.
+@0D469A	Soudain, une{n}{n}alarme retentit{box}tout autour.
+@0D46FC	…………{n}{n}AVERTISSEMENT{box}AUX INTRUS.
+@0D4717	AU-DELÀ: ZONE{n}{n}【ULTRA-SECRÈTE】.
+@0D4734	SOUMETTEZ-VOUS AU{n}{n}CONTRÔLE DU{box}NUMÉRO D'UNITÉ{n}{n}SANS DÉLAI.
+@0D4751	Hé… hé…{n}{n}Il sort d'où, ce{box}truc?
+@0D4770	Contrôle du numéro{n}{n}d'unité…? Ça{box}veut dire quoi?
+@0D478C	…Hein?{n}{n}Ses yeux brillent?
+@0D47A4	C… c'est quoi, ce{n}{n}truc…? Il surgit{box}comme ça…
+@0D47C2	Et un contrôle de{n}{n}numéro d'unité,{box}c'est quoi, au{n}{n}juste…?
+@0D47E7	D… dis…{n}{n}ses yeux brillent!
+@0D4801	Un gardien?{n}{n}Un Unitron de{box}défense…?
+@0D481B	Mais que veut{n}{n}dire ce contrôle{box}du numéro d'unité?
+@0D483A	…Hm?{n}{n}Ses yeux{box}s'allument…?
+@0D4853	Un Unitron de{n}{n}garde, chargé de{box}la défense, je{n}{n}suppose.
+@0D4872	Mais ce contrôle{n}{n}du numéro d'unité,{box}qu'est-ce que…?
+@0D4892	Tiens? Ses yeux{n}{n}s'allument?{box}Attention, {J}!
+@0D48B0	Qu… c'est quoi,{n}{n}ce machin…?{box}Il débarque et{n}{n}sort des âneries.
+@0D48D5	Et son contrôle{n}{n}de numéro d'unité,{box}ça rime à quoi…?
+@0D48F7	…Hé, hé! {J}!{n}{n}Ses yeux{box}s'allument!
+@0D4918	Il est bizarre,{n}{n}ce truc, nya…{box}On fait quoi,{n}{n}{J}, nya?
+@0D4938	【Numéro d'unité】,{n}{n}ça veut dire{box}quoi, nya?
+@0D4959	…Nya nya?!{n}{n}Ses yeux{box}s'allument, nya!
+@0D4977	On dirait un{n}{n}programme de{box}sécurité contre{n}{n}les intrus.
+@0D499E	…Mais contrôler{n}{n}un numéro d'unité,{box}pourquoi donc…?
+@0D49C2	…Ah! Regarde!{n}{n}Ses yeux{box}s'allument?!
+@0D49E2	C'est quoi, ça?{n}{n}Surgir comme ça,{box}quel sans-gêne!!
+@0D4A03	Dis, {J}, c'est{n}{n}quoi, ce contrôle{box}de numéro d'unité?
+@0D4A22	…? Qu… quoi?!{n}{n}Il fait briller{box}ses yeux, là!!
+@0D4A42	C'est quoi, ça?{n}{n}Ça a l'air marrant{box}en tout cas…
+@0D4A61	Mais un contrôle{n}{n}de numéro d'unité,{box}ça veut dire{n}{n}quoi?
+@0D4A83	…Ah tiens?{n}{n}Ses yeux{box}s'allument!
+@0D4A9E	C… cet Unitron…{n}{n}contre nous…
+@0D4ABA	Il est fâché parce{n}{n}qu'on a forcé{box}l'entrée…?
+@0D4ADC	…Ah! {J}!{n}{n}Quelque chose{box}s'allume!
+@0D4AFA	【La chose】, qui{n}{n}ressemblait trait{box}pour trait à leur{n}{n}Unitron,
+@0D4B14	semblait{n}{n}réfléchir,{box}immobile.
+@0D4B2F	Puis ses yeux{n}{n}s'éteignirent, et{box}elle recula d'un{n}{n}pas.
+@0D4B4E	VÉRIFICATION DU{n}{n}NUMÉRO D'UNITÉ:{box}TERMINÉE.
+@0D4B68	CONTRÔLE ANNULÉ.
+@0D4B76	DONNÉES DÉTECTÉES:{n}{n}【UNITÉ SPÉCIALE】{box}CONFIRMÉE.
+@0D4B96	…INTRUS RECONNU{n}{n}【AYANT DROIT】.
+@0D4BB6	LANCEMENT DU TEST{n}{n}FINAL D'ACCÈS AU{box}【SYSTÈME AGASTIA】…
+@0D4BDB	【Unité spéciale】?{n}{n}【Ayant droit】?
+@0D4BF5	Ça veut dire quoi?{n}{n}Et 【Agastia】…?
+@0D4C15	…Hein? Ah, {J}!{n}{n}Il a l'air de{box}vouloir se battre!
+@0D4C36	Ça devrait aller,{n}{n}mais reste quand{box}même sur tes{n}{n}gardes!!
+@0D4C56	【Unité spéciale】?{n}{n}【Ayant droit】?
+@0D4C70	Ça veut dire quoi,{n}{n}à la fin?!{box}Et 【Agastia】…?
+@0D4C94	…Ah! {J}!{n}{n}Il veut se battre,{box}on dirait!
+@0D4CB1	J'ai un mauvais{n}{n}pressentiment…{box}Ne perds pas!!
+@0D4CCE	Hm…{n}{n}【Unité spéciale】{box}et 【ayant droit】…
+@0D4CEF	Il semble parler{n}{n}de l'Unitron de{box}{J}…
+@0D4D0C	…Hm? …{J},{n}{n}il veut se battre,{box}on dirait.
+@0D4D2B	C'est ça, le{n}{n}【test】?{box}…Prudence!
+@0D4D45	【Unité spéciale】{n}{n}et 【ayant droit】…
+@0D4D62	Que de mots{n}{n}lourds de sens…
+@0D4D81	…Tiens… {J},{n}{n}on dirait qu'il{box}veut se battre.
+@0D4DA1	On nous teste,{n}{n}on dirait.{box}Tu te sens de{n}{n}taille, {J}?
+@0D4DC3	【Unité spéciale】,{n}{n}【ayant droit】…{box}c'est quoi, ça?
+@0D4DE6	…Il parle de{n}{n}{J}? Et de{box}l'Unitron…?
+@0D4E02	…Hé! Regarde,{n}{n}{J}! Il se met{box}en garde!
+@0D4E20	Il cherche la{n}{n}baston? Vas-y,{box}{J}!
+@0D4E3B	【Ayant droit】,{n}{n}【unité spéciale】,{box}c'est quoi, nya?
+@0D4E5C	Il parle de{n}{n}{J}, nya? J'y{box}comprends rien,{n}{n}nya…
+@0D4E79	…Nya?!{n}{n}Il veut se battre,{box}nya!
+@0D4E96	Puisque c'est ça,{n}{n}on l'écrabouille,{box}nya!!
+@0D4EB5	【Ayant droit】 et{n}{n}【unité spéciale】…
+@0D4ED4	Pardon, mais là,{n}{n}je n'y comprends{box}rien…
+@0D4EF4	…! Il semble{n}{n}décidé à se{box}battre…
+@0D4F14	J'ai un mauvais…{n}{n}pressentiment…{box}Ne perds pas,{n}{n}{J}!
+@0D4F36	Il raconte quoi,{n}{n}lui…? Il parle{box}de toi, {J}?
+@0D4F57	【Ayant droit】,{n}{n}【unité spéciale】…{box}N'importe quoi…
+@0D4F7A	…Hein? Hein?{n}{n}Ah! Il veut se{box}battre?!
+@0D4F95	{J}, courage!{n}{n}Écrase-le, comme{box}d'habitude!
+@0D4FB5	【Ayant droit】,{n}{n}【unité spéciale】…
+@0D4FD4	Qu'est-ce que ça{n}{n}veut dire? Moi,{box}je pige rien.
+@0D4FF0	…Tiens? On dirait{n}{n}qu'il cherche la{box}bagarre!
+@0D500F	OK! Je comprends{n}{n}pas tout, mais{box}fonce, {J}!
+@0D502C	【Unité spéciale】…?{n}{n}【Ayant droit】…?
+@0D504A	…Il parle de{n}{n}{J}? Je ne{box}comprends pas…
+@0D5067	…Hein? Ah… pardon!{n}{n}Il… il veut se{box}battre!
+@0D508E	…{J}… je…{n}{n}j'ai un mauvais{box}pressentiment…
+@0D50B2	Fais attention…{n}{n}…………Il arrive!!
+@0D50CD	【Il】… se nomma.{n}{n}【Son】 nom… était:
+@0D50EB	…【Prototype 0002】{n}{n}…【Rena】
+@0D5105	{P} se souvint{n}{n}alors: sur le{box}corps de l'Unitron{n}{n}de {J}, un nom
+@0D5120	était gravé. Et{n}{n}lui aussi, c'était{box}…………【Rena】.
+@0D5144	TEST FINAL DE{n}{n}L'【AYANT DROIT】:{box}TERMINÉ.
+@0D5163	ACCÈS AU{n}{n}【SYSTÈME AGASTIA】{box}AUTORISÉ.
+@0D5183	CHAMP DE BLOCAGE{n}{n}DU{box}【SYSTÈME AGASTIA】{n}{n}DÉSACTIVÉ.
+@0D51A7	PROTECTION DU{n}{n}【PROJET YGGDRASIL】{box}LEVÉE.
+@0D51DD	BON RETOUR,{n}{n}【ROD】, 【RENA】.
+@0D51FC	Le duo et son{n}{n}Elel, après bien{box}des hésitations,
+@0D5217	pénétrèrent au{n}{n}cœur d'Yggdrasil:{box}la{n}{n}【salle du noyau】.
+@0D523A	Et à cet instant,
+@0D5246	tous les appareils{n}{n}jusque-là éteints{box}se mirent en{n}{n}marche.
+@0D5269	Droit devant: un{n}{n}socle rond, doré.
+@0D5283	Tout autour, les{n}{n}machines reprirent{box}vie.
+@0D52A3	Face à leur{n}{n}stupeur, une{box}【voix】 s'éleva.
+@0D52D8	Système de{n}{n}contrôle temporel{box}【Agastia】: prêt.
+@0D52FE	Démarrage…20 SEC.{n}{n}Démarrage…15 SEC.
+@0D531E	Stabilisateur…{n}{n}activé.{box}Surplus d'énergie…{n}{n}évacué.
+@0D5340	Démarrage…10 SEC.{n}{n}Démarrage……5 SEC.
+@0D5360	Exécutez votre{n}{n}commande dans les{box}30 SEC suivant le{n}{n}démarrage.
+@0D5381	…………………{n}{n}Système… activé.
+@0D539F	Recherche de la{n}{n}commande dans les{box}ondes cérébrales{n}{n}de l'utilisateur.
+@0D53C2	Analyse des{n}{n}pensées en cours…{box}…………………
+@0D53E2	…OK.{n}{n}Commande validée.
+@0D53FB	Commande{n}{n}correspondante:{box}【échange temporel】
+@0D541B	…Exécution du{n}{n}programme.{box}Pendant{n}{n}l'exécution,
+@0D543B	ne vous approchez{n}{n}pas de la{box}【souche d'Agastia】
+@0D545B	Je répète…
+@0D5467	Tiens tiens? Mais{n}{n}c'est {J}!
+@0D547C	Toujours en pleine{n}{n}forme, té! Bon,{box}tant mieux, hein.
+@0D54A2	Au fait! Alors,{n}{n}cette enquête sur{box}【Yggdrasil】?
+@0D54BF	T'as sûrement{n}{n}déniché des{box}trouvailles, non?
+@0D54DE	Tu me les{n}{n}montrerais pas,{box}des fois?
+@0D54F9	…Non? Allez,{n}{n}quoi! Juste pour{box}regarder!
+@0D5513	…Non?{n}{n}…………Quelle{box}tête de mule!
+@0D552E	Je vais te les{n}{n}piquer? Hé! En{box}voilà une façon{n}{n}de parler!
+@0D5551	C'est méchant,{n}{n}ça! Je ferais{box}jamais un truc{n}{n}pareil, moi!
+@0D5575	Je veux juste que{n}{n}tu me les vendes!{box}Et toi… quel{n}{n}cœur de pierre~!
+@0D559E	Snif snif… Hein?{n}{n}Le prix? Mais le{box}【juste prix】,{n}{n}pardi!
+@0D55C1	Je fixe pour{n}{n}chaque objet le{box}prix qu'il mérite!
+@0D55E0	On commence à{n}{n}5 G, disons.{box}Remarque, 5 G pour{n}{n}tout, ça me va!
+@0D560A	…………………{n}{n}…………Ah… ça{box}t'énerve?
+@0D5629	Waaah! Pardon,{n}{n}pardon! Pars pas!!
+@0D5646	…Pff, pff. B… bon,{n}{n}tu m'achètes un{box}petit truc, té?
+@0D5669	…………………{n}{n}…Allez, on{box}repart du bon{n}{n}pied…
+@0D5687	Bien le bonjour!{n}{n}Voici le Bazar{box}ambulant de{n}{n}Sayaka~★

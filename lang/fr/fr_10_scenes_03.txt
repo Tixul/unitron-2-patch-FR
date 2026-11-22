@@ -1,0 +1,213 @@
+# Biomotor Unitron 2 (Kikou Seiki Unitron) - traduction française. Scènes (script des événements : dialogues, narration, choix).
+# @ADRESSE (fichier, hex) = texte du catalogue à cette adresse (tools/extraire.py) ; voir README.
+@1BCF9E	Non
+@1BCFB0	L'Elel boude{n}{n}tout le temps.
+@1BCFC6	Oui
+@1BCFCE	Non
+@1BCFE0	【Fouet-Éclair】 a{n}{n}un effet bonus:{box}la paralysie.
+@1BD001	Oui
+@1BD009	Non
+@1BD01B	【Soin Total】 est{n}{n}une technique qui{box}rend tous les HP.
+@1BD045	Oui
+@1BD04D	Non
+@1BD05F	【Flare】 est de{n}{n}l'élément feu.
+@1BD075	Oui
+@1BD07D	Non
+@1BD08F	【Antimatière】 est{n}{n}de l'élément{box}ténèbres.
+@1BD0AC	Oui
+@1BD0B4	Non
+@1BD0C6	La spécialité{n}{n}d'Arkis:{box}【Pluie d'Argent】.
+@1BD0E9	Oui
+@1BD0F1	Non
+@1BD103	{P} n'est pas{n}{n}du même sang que{box}Thomas Orbit.
+@1BD126	Oui
+@1BD12E	Non
+@1BD140	L'aînée des trois{n}{n}sœurs 【Fatae】{box}est 【Clotho】.
+@1BD167	Oui
+@1BD16F	Non
+@1BD181	Le corps d'Unitron{n}{n}de {J} compte{box}4 stades au plus.
+@1BD1A6	Oui
+@1BD1AE	Non
+@1BD1C0	【Thor】 laisse{n}{n}tomber le{box}【G Hammer】.
+@1BD1D8	Oui
+@1BD1E0	Non
+@1BD1F2	【Mother Heart】{n}{n}renferme le{box}pouvoir d'Ortania.
+@1BD219	Oui
+@1BD221	Non
+@1BD233	【Absorbeur】{n}{n}augmente la{box}défense du{n}{n}lanceur.
+@1BD257	Oui
+@1BD25F	Non
+@1BD271	【Invocation】 est{n}{n}une technique pour{box}appeler à l'aide.
+@1BD295	Oui
+@1BD29D	Non
+@1BD2AF	Lanza porte un{n}{n}bandeau sur l'œil{box}droit.
+@1BD2CC	Oui
+@1BD2D4	Non
+@1BD2E6	On obtient la{n}{n}【Lame-Mante】 en{box}développant la{n}{n}hachette.
+@1BD311	Oui
+@1BD319	Non
+@1BD32B	Sol Cannon +{n}{n}Uni-Tron donnent{box}le 【B Launcher】.
+@1BD352	Oui
+@1BD35A	Non
+@1BD36C	Le bolide de{n}{n}Sayaka s'appelle{box}【Money】.
+@1BD389	Oui
+@1BD391	Non
+@1BD3A3	Murasame +{n}{n}Sunlight donnent{box}le 【Dôjigiri】.
+@1BD3C5	Oui
+@1BD3CD	Non
+@1BD3DF	【Roi des Abîmes】{n}{n}laisse tomber de{box}l'orichalque.
+@1BD3FE	Oui
+@1BD406	Non
+@1BD414	Le meilleur{n}{n}bouclier est{box}l'【Écu de fer】.
+@1BD432	Oui
+@1BD43A	Non
+@1BD44C	La médaille pour{n}{n}entrer à la guilde{box}est la{n}{n}【Pleine-Lune】.
+@1BD471	Oui
+@1BD479	Non
+@1BD48B	Regina est le{n}{n}petit frère jumeau{box}de {J}.
+@1BD4AA	Oui
+@1BD4B2	Non
+@1BD4C4	La boutique de{n}{n}Sayaka a 500 ans.
+@1BD4E6	Oui
+@1BD4EE	Non
+@1BD500	Le lot du rang E{n}{n}de l'arène est{box}【Autoréparation】.
+@1BD526	Oui
+@1BD52E	Non
+@1BD540	Le nom complet de{n}{n}Solty est{box}【Solty Mule】.
+@1BD564	Oui
+@1BD56C	Non
+@1BD57E	L'Unitron d'Arkis{n}{n}s'appelle 【Vein】.
+@1BD5A2	Oui
+@1BD5AA	Non
+@1BD5BC	On obtient le{n}{n}【Iron B】 en{box}développant le{n}{n}Buckler.
+@1BD5E5	Oui
+@1BD5ED	Non
+@1BD5FF	On a fait la{n}{n}connaissance de{box}Sirius à la{n}{n}guilde.
+@1BD61A	Oui
+@1BD622	Non
+@1BD634	Le Danse-Lame{n}{n}laisse tomber un{box}【Katana】.
+@1BD650	Oui
+@1BD658	Non
+@1BD66A	【Aqua Bomb】 est{n}{n}une attaque{box}de l'élément eau.
+@1BD68C	Oui
+@1BD694	Non
+@1BD6A6	Le mithril a été{n}{n}créé par{box}l'【atelier Orbit】.
+@1BD6CB	Oui
+@1BD6D3	Non
+@1BD6E5	Lanza se terrait{n}{n}dans la{box}【Haie d'Épines】.
+@1BD709	Oui
+@1BD711	Non
+@1BD723	Le 【lac d'Argent】{n}{n}fut aussi appelé{box}【Galerie d'Azur】.
+@1BD74F	Oui
+@1BD757	Non
+@1BD769	【Full Vernier】 se{n}{n}fabrique à partir{box}de l'【Aerial】.
+@1BD78B	Oui
+@1BD793	Non
+@1BD7A5	L'eau est faible{n}{n}contre le feu.
+@1BD7BD	Oui
+@1BD7C5	Non
+@1BD7D7	On a trouvé l'Elel{n}{n}dans les ruines{box}de 【Raphias】.
+@1BD7F6	Oui
+@1BD7FE	Non
+@1BD810	L'arène compte{n}{n}7 rangs en tout.
+@1BD82F	Oui
+@1BD837	Non
+@1BD849	【Gordias】 utilise{n}{n}【Dureté 1000】.
+@1BD86A	Oui
+@1BD872	Non
+@1BD884	Un 【Mécadémon】 est{n}{n}un antique Unitron{box}devenu monstre.
+@1BD8AC	Oui
+@1BD8B4	Non
+@1BD8C6	Le développement{n}{n}des armes est{box}limité en nombre.
+@1BD8E6	Oui
+@1BD8EE	Non
+@1BD900	La charge est{n}{n}limitée en nombre{box}d'utilisations.
+@1BD91D	Oui
+@1BD925	Non
+@1BD937	On gardait la{n}{n}【clé des Enfers】{box}dans la{n}{n}【tour du Mirage】.
+@1BD95E	Oui
+@1BD966	Non
+@1BD978	Le Berserk{n}{n}utilise le{box}【Doigt Radieux】.
+@1BD995	Oui
+@1BD99D	Non
+@1BD9AF	【Energistar】{n}{n}augmente les EP{box}rendus par la{n}{n}charge.
+@1BD9D7	Oui
+@1BD9DF	Non
+@1BD9F1	【Seed Mine】 est{n}{n}un objet de combat{box}de l'élément feu.
+@1BDA17	Oui
+@1BDA1F	Non
+@1BDA31	【Drain】 fait{n}{n}absorber vos HP{box}par l'ennemi.
+@1BDA57	Oui
+@1BDA5F	Non
+@1BDA71	【Ragnarok】 a{n}{n}détruit Raphias.
+@1BDA92	Oui
+@1BDA9A	Non
+@1BDAAC	Galia, le pays{n}{n}natal de {J},{box}est sur le{n}{n}continent Radina.
+@1BDAD4	Oui
+@1BDADC	Non
+@1BDAEE	Les ténèbres sont{n}{n}fortes contre tous{box}les éléments sauf{n}{n}la lumière.
+@1BDB19	Oui
+@1BDB21	Non
+@1BDB33	Jadis, on parlait{n}{n}aux dieux par la{box}【tour du Mirage】.
+@1BDB5D	Oui
+@1BDB65	Non
+@1BDB77	L'Elel boude{n}{n}tout le temps.
+@1BDB8D	Oui
+@1BDB95	Non
+@1BDBA7	【Fouet-Éclair】 a{n}{n}un effet bonus:{box}la paralysie.
+@1BDBC8	Oui
+@1BDBD0	Non
+@1BDBE2	【Soin Total】 est{n}{n}une technique qui{box}rend tous les HP.
+@1BDC0C	Oui
+@1BDC14	Non
+@1BDC26	【Flare】 est de{n}{n}l'élément feu.
+@1BDC3C	Oui
+@1BDC44	Non
+@1BDC56	【Antimatière】 est{n}{n}de l'élément{box}ténèbres.
+@1BDC73	Oui
+@1BDC7B	Non
+@1BDC8D	La spécialité{n}{n}d'Arkis:{box}【Pluie d'Argent】.
+@1BDCB0	Oui
+@1BDCB8	Non
+@1BDCCA	{P} n'est pas{n}{n}du même sang que{box}Thomas Orbit.
+@1BDCED	Oui
+@1BDCF5	Non
+@1BDD07	L'aînée des trois{n}{n}sœurs 【Fatae】{box}est 【Clotho】.
+@1BDD2E	Oui
+@1BDD36	Non
+@1BDD48	Le corps d'Unitron{n}{n}de {J} compte{box}4 stades au plus.
+@1BDD6D	Oui
+@1BDD75	Non
+@1BDD87	【Thor】 laisse{n}{n}tomber le{box}【G Hammer】.
+@1BDD9F	Oui
+@1BDDA7	Non
+@1BDDB9	【Mother Heart】{n}{n}renferme le{box}pouvoir d'Ortania.
+@1BDDE0	Oui
+@1BDDE8	Non
+@1BDDFA	【Absorbeur】{n}{n}augmente la{box}défense du{n}{n}lanceur.
+@1BDE1E	Oui
+@1BDE26	Non
+@1BDE34	【Invocation】 est{n}{n}une technique pour{box}appeler à l'aide.
+@1BDE58	Oui
+@1BDE60	Non
+@1BDE72	Lanza porte un{n}{n}bandeau sur l'œil{box}droit.
+@1BDE8F	Oui
+@1BDE97	Non
+@1BDEA9	On obtient la{n}{n}【Lame-Mante】 en{box}développant la{n}{n}hachette.
+@1BDED4	Oui
+@1BDEDC	Non
+@1BDEEE	Sol Cannon +{n}{n}Uni-Tron donnent{box}le 【B Launcher】.
+@1BDF15	Oui
+@1BDF1D	Non
+@1BDF2F	Le bolide de{n}{n}Sayaka s'appelle{box}【Money】.
+@1BDF4C	Oui
+@1BDF54	Non
+@1BDF66	Murasame +{n}{n}Sunlight donnent{box}le 【Dôjigiri】.
+@1BDF88	Oui
+@1BDF90	Non
+@1BDFA2	【Roi des Abîmes】{n}{n}laisse tomber de{box}l'orichalque.
+@1BDFC1	Oui
+@1BDFC9	Non
+@1BDFDB	Le meilleur{n}{n}bouclier est{box}l'【Écu de fer】.
+@1BDFF9	Oui
+@1BE001	Non

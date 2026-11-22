@@ -1,0 +1,686 @@
+# Biomotor Unitron 2 (Kikou Seiki Unitron) - traduction française. Noms : pièces, objets, techniques, ennemis, attaques, éléments (14 caractères au plus).
+# @ADRESSE (fichier, hex) = texte du catalogue à cette adresse (tools/extraire.py) ; voir README.
+@012F8B	Aucun
+@012F90	Feu
+@012F95	Bois
+@012F9A	Vent
+@012F9F	Eau
+@012FA4	Terre
+@012FA9	Lumière
+@012FAE	Ténèbres
+@0E1B32	Salamandre
+@0E1B5A	Dryade
+@0E1B82	Storm Leo
+@0E1BAA	Sirène
+@0E1BD2	Titan
+@0E1BDA	Noyau HU-M
+@0E1BE2	Noyau HU-F
+@0E1BEA	Noyau SY-M
+@0E1BF2	Noyau SY-F
+@0E1BFA	Noyau BE-M
+@0E1C02	Noyau BE-F
+@0E1C0A	Noyau FÉ-M
+@0E1C12	Noyau FÉ-F
+@0E1C1A	Noyau GN-M
+@0E1C22	Noyau GN-F
+@0E1C2A	Soldat
+@0E1C32	Combattant
+@0E1C3A	Chevalier
+@0E1C42	Paladin
+@0E1C4A	Prêtre
+@0E1C52	Derviche
+@0E1C5A	Sorcier
+@0E1C62	Cardinal
+@0E1C6A	Chacal
+@0E1C72	Loup gris
+@0E1C7A	Chien infernal
+@0E1C82	Cerbère
+@0E1C8A	Daphné
+@0E1C92	Lys
+@0E1C9A	Azalée
+@0E1CA2	Freesia
+@0E1CAA	Dinosaure
+@0E1CB2	Guerrier
+@0E1CBA	Battle Rider
+@0E1CC2	Skull Horn
+@0E1CCA	Char léger
+@0E1CD2	Char lourd
+@0E1CDA	Stampede
+@0E1CE2	Slider
+@0E1CEA	Lost #01
+@0E1CF2	Lost #02
+@0E1CFA	Lost #03
+@0E1D02	Autruche
+@0E1D0A	Mailsect
+@0E1D12	Tarantia
+@0E1D1A	Sea Diver
+@0E1D22	Lost #04
+@0E1D3A	Scylla
+@0E1D42	Albatros
+@0E1D4A	Aigle
+@0E1D52	Sky Arrow
+@0E1D5A	Nighthawk
+@0E1D62	Full Vernier
+@0E1D6A	Aerial
+@0E1D72	Blood Eye
+@0E1D8A	Lost #05
+@0E1DB2	Knight's Garb
+@0E1DBA	Robe blanche
+@0E1DC2	Brasier rouge
+@0E1DCA	Voile nocturne
+@0E1DD2	Bug Feather
+@0E1DDA	Titania
+@0E1DE2	Obéron
+@0E1DEA	Familier
+@0E1DF2	Dead Fin
+@0E1DFA	Barbatos
+@0E1E02	Démiurge
+@0E1E0A	Harpie
+@0E1E12	Icare
+@0E1E1A	Séraphin
+@0E1E22	Righteous
+@0E1E2A	Red Arm
+@0E1E32	Shell Arm
+@0E1E3A	Gantelet
+@0E1E42	Giga Spike
+@0E1E4A	Silk Arm
+@0E1E52	Vanisher
+@0E1E5A	Denator
+@0E1E62	God Hand
+@0E1E6A	Slayer
+@0E1E72	Slaughter
+@0E1E7A	Murder
+@0E1E82	Wild Kill
+@0E1E8A	Blue Arm
+@0E1E92	Ice Hand
+@0E1E9A	Mist Orb
+@0E1EA2	Crys Guard
+@0E1EAA	Griffe
+@0E1EB2	Tri-griffe
+@0E1EBA	Géant
+@0E1EC2	Gigantis
+@0E1ECA	Dague
+@0E1ED2	Gladius
+@0E1EDA	Broadsword
+@0E1EE2	Rapière
+@0E1EEA	Bâtarde
+@0E1EF2	Claymore
+@0E1EFA	Gram
+@0E1F02	Laevatein
+@0E1F0A	Demon Bite
+@0E1F12	Crusader
+@0E1F1A	Nanatsu
+@0E1F22	Couteau
+@0E1F2A	Haken
+@0E1F32	Falchion
+@0E1F3A	Shamshir
+@0E1F42	Katana
+@0E1F4A	Zanbatô
+@0E1F52	Zantetsu
+@0E1F5A	Windia
+@0E1F62	Murasame
+@0E1F6A	Ryûgoroshi
+@0E1F72	Dôjigiri
+@0E1F7A	Hachette
+@0E1F82	Francisque
+@0E1F8A	Tomahawk
+@0E1F92	Bi-lame
+@0E1F9A	Faucille
+@0E1FA2	Demi-lune
+@0E1FAA	Saw Blade
+@0E1FB2	Adamantine
+@0E1FBA	Lame-Mante
+@0E1FC2	TerraBreak
+@0E1FCA	Javelot
+@0E1FD2	Épieu
+@0E1FDA	Pique
+@0E1FE2	Trident
+@0E1FEA	Lance
+@0E1FF2	Naginata
+@0E1FFA	Hallebarde
+@0E2002	Gae Bolg
+@0E200A	Faucheuse
+@0E2012	Empyreal
+@0E201A	Fouet
+@0E2022	Fléau
+@0E202A	Chaîne
+@0E2032	Crusher
+@0E203A	Star Mace
+@0E2042	Twins
+@0E204A	Blizzard
+@0E2052	Nine Tails
+@0E205A	Météore
+@0E2062	Fulgur
+@0E206A	Arc court
+@0E2072	Arc long
+@0E207A	Arc mixte
+@0E2082	Arbalète
+@0E208A	Arbalestre
+@0E2092	Baliste
+@0E209A	Repeater
+@0E20A2	Harpon
+@0E20AA	Agni
+@0E20B2	Indra
+@0E20BA	Buckler
+@0E20C2	Iron B
+@0E20CA	Round S
+@0E20D2	Heater S
+@0E20DA	Strike S
+@0E20E2	Madu
+@0E20EA	Kite S
+@0E20F2	Hoplite S
+@0E20FA	Vulcan S
+@0E2102	Edged S
+@0E210A	Revolver
+@0E2112	Blowback
+@0E211A	Shotgun
+@0E2122	Superposé
+@0E212A	Sulfateuse
+@0E2132	Assault R
+@0E213A	Sniper R
+@0E2142	Chaingun
+@0E214A	Grenades
+@0E2152	Brûleur
+@0E215A	Vulcan
+@0E2162	Phalanx
+@0E216A	Bazooka
+@0E2172	Catapulte
+@0E217A	Missiles
+@0E2182	Canon auto
+@0E218A	Bi-canon
+@0E2192	Railgun
+@0E219A	Sol Cannon
+@0E21A2	B Launcher
+@0E21AA	Disqueuse
+@0E21B2	Chainsaw
+@0E21BA	Dague-scie
+@0E21C2	King Drill
+@0E21CA	ShieldGear
+@0E21DA	G Hammer
+@0E21E2	Paume-Sol
+@0E21EA	Écu de fer
+@0E21F2	Masse-ogre
+@0E21FA	Soul Flare
+@0E2202	Flare Coat
+@0E220A	Leaf Coat
+@0E2212	Air Coat
+@0E221A	Ice Coat
+@0E2222	Earth Coat
+@0E222A	Heaven Coat
+@0E2232	Hell Coat
+@0E223A	Void Coat
+@0E2242	Autoréparation
+@0E224A	Energistar
+@0E2252	Assembler
+@0E225A	Resistor
+@0E2262	Lost #06
+@0E226A	Fumigène
+@0E2272	Critical Scope
+@0E227A	EX Training
+@0E2282	Metal Detector
+@0E228A	Treasure Radar
+@0E2292	Céramique
+@0E229A	Tungstène
+@0E22A2	Électrum
+@0E22AA	Adamant
+@0E22B2	Mithril
+@0E22BA	Uni-Tron
+@0E22C2	Pierre de feu
+@0E22CA	Mother Heart
+@0E22D2	Pierre-foudre
+@0E22DA	Ice Crux
+@0E22E2	Earth Roar
+@0E22EA	Mercurius
+@0E22F2	Hihiirokane
+@0E22FA	Orichalque
+@0E2302	Sunlight
+@0E230A	Moon Night
+@0E2312	Outils 1
+@0E231A	Outils 2
+@0E2322	Outils 3
+@0E232A	Outils Meister
+@0E2332	Outils de Rena
+@0E233A	Réparation 1
+@0E2342	Réparation 2
+@0E234A	Réparation 3
+@0E2352	Réparation max
+@0E235A	Énergie 1
+@0E2362	Énergie 2
+@0E236A	Énergie 3
+@0E2372	Énergie max
+@0E237A	Gemme d'esprit
+@0E2382	Antidote
+@0E238A	Antirouille
+@0E2392	Clarté
+@0E239A	Antiparalysie
+@0E23A2	Rustine
+@0E23AA	Vaccin
+@0E23B2	Recovery
+@0E23BA	Power Drive
+@0E23C2	Force Field
+@0E23CA	Leg Turbo
+@0E23D2	Absorbeur
+@0E23DA	Acid Bomb
+@0E23E2	Magnet Floor
+@0E23EA	Napalm
+@0E23F2	Seed Mine
+@0E23FA	Air Cutter
+@0E2402	Aqua Bomb
+@0E240A	Cracker
+@0E2412	Sol Laser
+@0E241A	Dark Flare
+@0E2422	Antimatière
+@0E242A	Pleine-Lune
+@0E24EA	Petite lampe
+@0E24F2	Projecteur
+@0E251A	Noyau ennemi 1
+@0E2522	Noyau ennemi 2
+@0E252A	Noyau ennemi 3
+@0E2532	Noyau ennemi 4
+@0E253A	Noyau ennemi 5
+@0E2542	Noyau ennemi 6
+@0E254A	Léviathan
+@0E2552	Typhon
+@0E255A	Faux Righteous
+@0E2562	Ray F.
+@0E256A	Hécatombe
+@0E257A	Requiem
+@0E2582	Demon Heart
+@0E258A	Tesla Edge
+@0E2592	Ars M.
+@0E259A	Éclat d'étoile
+@0EBF3F	Wild Hunter
+@0EBF49	Fiend
+@0EBF53	Crawler
+@0EBF5D	Ganki
+@0EBF67	Minotaure
+@0EBF71	Sasquatch
+@0EBF7B	Diable-Bouc
+@0EBF85	Rock Folk
+@0EBF8F	Dark Bone
+@0EBF99	Racine tueuse
+@0EBFA3	Chamane
+@0EBFAD	Death Summoner
+@0EBFB7	Darkling
+@0EBFC1	Vermisseau
+@0EBFCB	Ogre
+@0EBFD5	Flamme
+@0EBFDF	Troll
+@0EBFE9	Sandman
+@0EBFF3	Newtodon
+@0EBFFD	Sans-Ailes
+@0EC007	Cyclope
+@0EC011	Donkou
+@0EC01B	Spike
+@0EC025	Duelliste
+@0EC02F	Inferno
+@0EC039	Golem
+@0EC043	Roi Minos
+@0EC04D	Babouin
+@0EC057	Rex
+@0EC061	Draconien
+@0EC06B	Roc maléfique
+@0EC075	Humbaba
+@0EC07F	Loup-garou
+@0EC089	Cauchemar-Bois
+@0EC093	Ankeros
+@0EC09D	Cornu
+@0EC0A7	Deep One
+@0EC0B1	Homme-crapaud
+@0EC0BB	Bras-Épée
+@0EC0C5	Lutin marin
+@0EC0CF	Mollusque
+@0EC0D9	Cristallien
+@0EC0E3	Ombre marine
+@0EC0ED	Serpent
+@0EC0F7	Scylla
+@0EC101	Stucabra
+@0EC10B	Coque d'acier
+@0EC115	Vapeur
+@0EC11F	Murène
+@0EC129	Pallas Head
+@0EC133	Guerrier d'eau
+@0EC13D	Dagos Ray
+@0EC147	Armine
+@0EC151	Hydre
+@0EC15B	Écailleux
+@0EC165	Troll marin
+@0EC16F	Drago-sangsue
+@0EC179	Sailhorn
+@0EC183	Assassin marin
+@0EC18D	Malice
+@0EC197	Dragon marin
+@0EC1A1	Regard glacé
+@0EC1AB	Noyé
+@0EC1B5	Hydrus
+@0EC1BF	Titan marin
+@0EC1C9	Nautilus
+@0EC1D3	Triton
+@0EC1DD	Deep Green
+@0EC1E7	Roi des Abîmes
+@0EC1F1	Clan des mers
+@0EC1FB	Neptune
+@0EC205	Gado Ras
+@0EC20F	Corbeau noir
+@0EC219	Enfer blanc
+@0EC223	Diablotin
+@0EC22D	Zalgar
+@0EC237	Fantôme
+@0EC241	Dualus
+@0EC24B	Wyrm
+@0EC255	Dragon fou
+@0EC25F	Œil dément
+@0EC269	Charognard
+@0EC273	Yatagarasu
+@0EC27D	Highlander
+@0EC287	Écureuil
+@0EC291	Bublis
+@0EC29B	Gargouille
+@0EC2A5	Nuage toxique
+@0EC2AF	Incube
+@0EC2B9	Furie
+@0EC2C3	Scythe
+@0EC2CD	Libellule
+@0EC2D7	Mante
+@0EC2E1	Démon
+@0EC2EB	Vampire
+@0EC2F5	Âme animale
+@0EC2FF	Balrog
+@0EC309	Sire Dragon
+@0EC313	Harpie
+@0EC31D	Winger
+@0EC327	Pazuzu
+@0EC331	Skullbeak
+@0EC33B	Bélial
+@0EC345	Garuda
+@0EC34F	Cauchemar-Ciel
+@0EC359	Tengu
+@0EC363	Raijin
+@0EC36D	Taotie
+@0EC377	Bossu
+@0EC381	Tin Soldier
+@0EC38B	Brass Soldier
+@0EC395	Trooper M
+@0EC39F	Trooper R
+@0EC3A9	Vulcan Gunner
+@0EC3B3	Errant
+@0EC3BD	Dévoreur
+@0EC3C7	Sans-Tête
+@0EC3D1	Dissolveur
+@0EC3DB	Tueur volant
+@0EC3E5	Bicéphale
+@0EC3EF	Essaim
+@0EC3F9	Soldat d'étain
+@0EC403	Trooper Squad
+@0EC40D	Gunner Squad
+@0EC417	Musashibô
+@0EC421	Étoile de sang
+@0EC42B	Orghai
+@0EC435	Gorgone
+@0EC43F	Gordias
+@0EC449	Taupe armée
+@0EC453	Danse-Lame
+@0EC45D	Tête de mort
+@0EC467	Gardien
+@0EC471	Singe mort
+@0EC47B	Carapace bleue
+@0EC485	Pistolero
+@0EC48F	Échidna
+@0EC499	Passeur d'âmes
+@0EC4A3	Berserk
+@0EC4AD	Dard
+@0EC4B7	Hell Diver
+@0EC4C1	Catorpas
+@0EC4CB	Nightmare
+@0EC4D5	Aile du soir
+@0EC4DF	Danse-Flamme
+@0EC4E9	Sleipnir
+@0EC4F3	Nagaraja
+@0EC4FD	Œil trompeur
+@0EC507	Goliath
+@0EC511	Dos-Argenté
+@0EC51B	Thor
+@0EC525	Ele Zar
+@0EC52F	Arvein
+@0EC539	Revatios
+@0EC543	Trefgram
+@0EC54D	Aeriard
+@0EC557	Ortania
+@0EC561	Quoranas
+@0EC56B	Darquess
+@0EC575	Righteous
+@0EC57F	Azraël
+@0EC589	Azraël
+@0EC593	Fatae
+@0EC59D	Fileo
+@0EC5A7	Narkis
+@0EC5B1	Éris
+@0EC5BB	Darnea
+@0EC5C5	Forest
+@0EC5CF	Enoa
+@0EC5D9	Apros
+@0EC5E3	Razas
+@0EC5ED	Renard-Rouge
+@0EC5F7	Calberanran
+@0EC601	Neige-Blanche
+@0EC60B	Moran
+@0EC615	Geza
+@0EC61F	Hoppy Rayly
+@0EC629	Caïn
+@0EC633	Ryune
+@0EC63D	Hanna
+@0EC647	Guiltigas
+@0EC651	Burned Breath
+@0EC65B	Apocalypse
+@0EC665	Triffid
+@0EC66F	Simurgh
+@0EC679	Tiamat
+@0EC683	Catoblépas
+@0EC6BF	【RENA】
+@0EC6C9	Bandit
+@0EC6D3	Chef bandit
+@0EC6DD	Acolyte
+@0EC6E7	Croc
+@0EC6F1	Bec
+@0EC6FB	Croc Venin
+@0EC705	Croc Torpeur
+@0EC70F	Dual Attack
+@0EC719	Griffe
+@0EC723	Griffe Venin
+@0EC72D	Griffe Torpeur
+@0EC737	Taillade
+@0EC741	Coupe rasante
+@0EC74B	Tentacule
+@0EC755	Faux
+@0EC75F	Fouet
+@0EC769	Épée obscure
+@0EC773	Coup de revers
+@0EC77D	Fauchage
+@0EC787	Taille brutale
+@0EC791	Coupe en croix
+@0EC79B	Double Slash
+@0EC7A5	Flare Crush
+@0EC7AF	Hell Geyser
+@0EC7B9	Soul Haunt
+@0EC7C3	Corne
+@0EC7CD	Perforation
+@0EC7D7	Double estoc
+@0EC7E1	Needle Shot
+@0EC7EB	Plongée rapace
+@0EC7F5	Estocs furieux
+@0EC7FF	Dard Venin
+@0EC809	Poison Needle
+@0EC813	Mace Attack
+@0EC81D	Shield Attack
+@0EC827	Twin Hammer
+@0EC831	Blood Rain
+@0EC83B	Hammer Rush
+@0EC845	Blow
+@0EC84F	Mega Blow
+@0EC859	Coup de pied
+@0EC863	Tail Blow
+@0EC86D	Giga Blow
+@0EC877	Tabassage
+@0EC881	Coup de paume
+@0EC88B	Plaquage
+@0EC895	Assaut
+@0EC89F	Coup de tête
+@0EC8A9	Choc frontal
+@0EC8B3	Charge suicide
+@0EC8BD	Spike Break
+@0EC8C7	Piétinement
+@0EC8D1	Flame Charge
+@0EC8DB	Rampage
+@0EC8E5	Doigt radieux
+@0EC8EF	Dead End
+@0EC8F9	Vulcan Shot
+@0EC903	Tir en rafale
+@0EC90D	Iron Rain
+@0EC917	Slide Stop
+@0EC921	Mega Bazooka
+@0EC92B	Mud Ball
+@0EC935	Aqua Shot
+@0EC93F	Flame Bolt
+@0EC949	Dark Bolt
+@0EC953	Acid Shot
+@0EC95D	Wind Cutter
+@0EC967	Rock Shot
+@0EC971	Stone Hail
+@0EC97B	Thunder
+@0EC985	Crack
+@0EC98F	Démon de feu
+@0EC999	Flame Storm
+@0EC9A3	Ice Storm
+@0EC9AD	Thunder Storm
+@0EC9B7	Hurricane
+@0EC9C1	Hail Storm
+@0EC9CB	Dark Storm
+@0EC9D5	Flame Breath
+@0EC9DF	Ice Breath
+@0EC9E9	Aqua Breath
+@0EC9F3	Thunder Breath
+@0EC9FD	Acid Breath
+@0ECA07	Petra Breath
+@0ECA11	Shadow Breath
+@0ECA1B	Dark Breath
+@0ECA25	Demon Breath
+@0ECA2F	Assaut
+@0ECA39	Taille brutale
+@0ECA43	Piétinement
+@0ECA4D	Ground Slam
+@0ECA57	Screw Edge
+@0ECA61	Slash
+@0ECA6B	Thrust
+@0ECA75	Silver Rain
+@0ECA7F	Blue Edge
+@0ECA89	Wind Blast
+@0ECA93	Nega Thunder
+@0ECA9D	Vortex
+@0ECAA7	Fauchage
+@0ECAB1	Accel Hammer
+@0ECABB	Frappe météore
+@0ECAC5	Choc frontal
+@0ECACF	Taille brutale
+@0ECAD9	Rampage
+@0ECAE3	Contre-flamme
+@0ECAED	Brise-casque
+@0ECAF7	Heat Wave
+@0ECB01	Deadly Heat
+@0ECB0B	Flame Edge
+@0ECB15	Flame Pillar
+@0ECB1F	Flame Breath
+@0ECB29	Big Bang
+@0ECB33	Iron Leaf
+@0ECB3D	Root Whip
+@0ECB47	Branch Spear
+@0ECB51	Wind Cutter
+@0ECB5B	Thunder Breath
+@0ECB65	Courant-foudre
+@0ECB6F	Water Spear
+@0ECB79	Hail Storm
+@0ECB83	Ice Breath
+@0ECB8D	Tidal Wave
+@0ECB97	Rock Shot
+@0ECBA1	Stone Hail
+@0ECBAB	Shadow Breath
+@0ECBB5	Earthquake
+@0ECBBF	Death Scythe
+@0ECBC9	Spin Edge
+@0ECBD3	La Lune
+@0ECBDD	Empyreal
+@0ECBE7	Divine Cross
+@0ECBF1	Le Soleil
+@0ECBFB	Soul Flare
+@0ECC05	Piétinement
+@0ECC0F	Soul Charge
+@0ECC19	Épée obscure
+@0ECC23	Dark Cross
+@0ECC2D	Demon Breath
+@0ECC37	Lame lumineuse
+@0ECC41	Arc lumineux
+@0ECC4B	Judgement
+@0ECC55	Catastrophe
+@0ECC5F	Mist
+@0ECC69	Bave toxique
+@0ECC73	Fluide d'ébène
+@0ECC7D	Étreinte
+@0ECC87	Cursed Word
+@0ECC91	Bind Voice
+@0ECC9B	Cauchemar
+@0ECCA5	Confuse Eye
+@0ECCAF	Paralyze Eye
+@0ECCB9	Evil Eye
+@0ECCC3	Vampirisme
+@0ECCCD	Energy Drain
+@0ECCD7	Engloutir
+@0ECCE1	Heart Break
+@0ECCEB	Mind Break
+@0ECCF5	Regenerate
+@0ECCFF	Onde obscure
+@0ECD09	Lifestream
+@0ECD13	Moment de paix
+@0ECD1D	Lueur curative
+@0ECD27	Renaissance
+@0ECD31	Accélération
+@0ECD3B	Repli défensif
+@0ECD45	Dureté 100
+@0ECD4F	Appel à l'aide
+@0ECD59	Summoning
+@0ECD63	Kamikaze
+@0ECD6D	Fuite
+@0ECD77	Attente
+@0ECD81	Main droite
+@0ECD8B	Main gauche
+@0ECD95	Charge
+@0EF755	Heal LV1
+@0EF75D	Heal LV2
+@0EF765	Heal LV3
+@0EF76D	Cure All
+@0EF775	Strength
+@0EF77D	Vitality
+@0EF785	Agility
+@0EF78D	Flare
+@0EF795	Force
+@0EF79D	Nova Flare
+@0EF7A5	Giga Force
+@0EF7AD	Megido Flare
+@0EF7B5	Root Spear
+@0EF7BD	Barrier Leaf
+@0EF7C5	Root Pierce
+@0EF7CD	Yggdrasil
+@0EF7D5	Agastia
+@0EF7DD	Kamaitachi
+@0EF7E5	Garde du vent
+@0EF7ED	Vajra
+@0EF7F5	Égide du vent
+@0EF7FD	Takemikazuchi
+@0EF805	Icicle
+@0EF80D	Mist Maze
+@0EF815	Ice Hail
+@0EF81D	Mirror Loop
+@0EF825	Life Rain
+@0EF82D	Griffe d'acier
+@0EF835	Égide de terre
+@0EF83D	Croc exorciste
+@0EF845	Lame obscure
+@0EF84D	Souffle-Mère

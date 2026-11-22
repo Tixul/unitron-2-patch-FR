@@ -1,0 +1,457 @@
+# Biomotor Unitron 2 (Kikou Seiki Unitron) - traduction française. Menus, écrans système, messages de combat et textes pointés.
+# @ADRESSE (fichier, hex) = texte du catalogue à cette adresse (tools/extraire.py) ; voir README.
+@0F8C8C	{p}…Elemental Core!{n}
+@0F8C9D	{p}…Elemental Core!{n}
+@0F8CAE	{p}Elemental Core!!{n}
+@0F8CBE	{p}Elemental Core,{n}{n}nya!!{n}
+@0F8CD1	{p}Elemental Core…{n}
+@0F8CE3	{p}Elemental Core!!{n}
+@0F8CF3	{p}Elemental Core!!{n}
+@0F8D03	{p}Elemental Core…{n}
+@0F8D36	{p}Aucun objet{n}{n}utilisable!
+@0F8D4E	{p}Hé, attends!{n}{n}Rien à utiliser!
+@0F8D68	{p}Hein?{n}{n}Y a aucun objet!
+@0F8D84	{p}…Hm?{n}{n}Aucun objet utile.
+@0F8D9D	{p}…Reprends-toi.{n}{n}Pas d'objet utile.
+@0F8DBF	{p}Oups!{n}{n}On a que dalle!
+@0F8DDB	{p}Hanya? {J}~{n}{n}Pas d'objet, nya!
+@0F8DF9	{p}Oh? …Hm.{n}{n}Rien d'utilisable.
+@0F8E1A	{p}Tu plaisantes?{n}{n}On n'a plus rien!
+@0F8E3A	{p}Tiens? Le stock{n}{n}d'objets: zéro!
+@0F8E5A	{p}Oui… hein? …Euh?{n}{n}Il n'y a rien…!
+@0F8EA0	{p}Pas encore de{n}{n}technique apprise!
+@0F8EBA	{p}Voyons, {J}!{n}{n}Aucune technique!
+@0F8ED8	{p}Hé! T'as encore{n}{n}aucune technique!
+@0F8EF8	{p}…Tu divagues?{n}{n}Aucune technique.
+@0F8F1D	{p}Allons, voyons…{n}{n}Pas de technique.
+@0F8F42	{p}Hé! Ça va pas?{n}{n}Zéro technique!
+@0F8F69	{p}Funya? {J}~{n}{n}Rien appris, nya!
+@0F8F8A	{p}{J}… Hélas.{n}{n}Aucune technique.
+@0F8FAA	{p}…Hein? Tu rêves!{n}{n}Pas de technique!
+@0F8FCE	{p}Dis… on a appris{n}{n}une technique?
+@0F8FF2	{p}Ah… euh… {J}…{n}{n}Aucune technique…
+@0F9039	{p}{FE20}{n}{n}manque d'EP!!
+@0F904D	{p}{FE20}{n}{n}manque d'EP! Héhé!
+@0F9067	{p}{FE20}{n}{n}manque d'EP! Na!
+@0F9083	{p}Hm… {FE20}{n}{n}manque d'EP.
+@0F909C	{p}Oh, {FE20}{n}{n}manque d'EP.
+@0F90B8	{p}{FE20}{n}{n}manque d'EP! Naze!
+@0F90D7	{p}{FE20}{n}{n}manque d'EP, nya!
+@0F90F3	{p}Oh? {FE20}{n}{n}manquerait d'EP.
+@0F9111	{p}{FE20}{n}{n}manque d'EP! Nul!
+@0F9131	{p}Ah! {FE20}{n}{n}manque d'EP!
+@0F914E	{p}Oh… {FE20}{n}{n}manque d'EP…!
+@0F918E	{FE01} EXP gagnés!!{n}
+@0F919E	{FE01} EXP en poche!{n}
+@0F91AD	{FE01} EXP en poche!{n}
+@0F91BC	{FE01} EXP acquis.{n}
+@0F91CA	On gagne {FE01} EXP.{n}
+@0F91D9	{FE01} EXP en poche!{n}
+@0F91E8	{FE01} EXP, nya!{n}
+@0F91F9	{FE01} EXP obtenus.{n}
+@0F9209	Voilà {FE01} EXP.{n}
+@0F9218	{FE01} EXP gagnés!{n}
+@0F9228	{FE01} EXP… gagnés!{n}
+@0F925A	{FE01} GUA gagnés!!{n}
+@0F926C	{FE01} GUA en poche!{n}
+@0F927B	{FE01} GUA en poche!{n}
+@0F928A	{FE01} GUA acquis.{n}
+@0F9298	On gagne {FE01} GUA.{n}
+@0F92A7	{FE01} GUA en poche!{n}
+@0F92B6	{FE01} GUA, nya!{n}
+@0F92C7	{FE01} GUA obtenus.{n}
+@0F92D7	Voilà {FE01} GUA.{n}
+@0F92E6	{FE01} GUA gagnés!{n}
+@0F92F6	{FE01} GUA… gagnés!{n}
+@0F9328	Objet obtenu:{n}{n}{FE11}!!{n}
+@0F9336	On a récupéré{n}{n}{FE11}!{n}
+@0F9345	Youpi, on a eu{n}{n}{FE11}★{n}
+@0F9354	Récupéré:{n}{n}{FE11}.{n}
+@0F9362	On a obtenu{n}{n}{FE11}.{n}
+@0F9370	Et hop, on chope{n}{n}{FE11}!!{n}
+@0F9380	Nya★ On a eu{n}{n}{FE11}!{n}
+@0F9390	Nous avons obtenu{n}{n}{FE11}.{n}
+@0F939F	Pas mal! On a{n}{n}{FE11}.{n}
+@0F93AE	Super! On a{n}{n}{FE11}!!{n}
+@0F93BE	On a… obtenu{n}{n}{FE11}!{n}
+@0F93EF	{p}Nouvelle technique{n}{n}pour {J}!{n}
+@0F940B	{p}{J}!!{n}{n}Bien joué!!
+@0F941D	{p}Youpi! {J}!{n}{n}Un nouveau coup★
+@0F943E	{p}Hm… Pas mal.{n}{n}Un nouveau coup.
+@0F945F	{p}…Oh?{n}{n}Bravo, {J}.
+@0F9476	{p}Ouais!! {J}!{n}{n}Coup inédit chopé!
+@0F9496	{p}{J}! Nyaaah!{n}{n}Nouveau coup, nya★
+@0F94B4	{p}{J}… bien joué.{n}{n}Un coup inédit.
+@0F94D0	{p}Pas mal! {J}★{n}{n}Technique inédite!
+@0F94F5	{p}{J}! Trop fort!{n}{n}Un coup de plus!
+@0F9516	{p}Ah… {J}!{n}{n}Un c-coup de plus!
+@0F955A	{p}Technique apprise:{n}{n}{FE11}!!
+@0F9575	{p}Technique inédite:{n}{n}{FE11}!
+@0F9594	{p}Ton nouveau coup:{n}{n}{FE11}!!
+@0F95AA	{p}Son nom:{n}{n}{FE11}.
+@0F95C3	{p}Tu maîtrises donc{n}{n}{FE11}.
+@0F95E3	{p}Ton nouveau truc:{n}{n}{FE11}!!
+@0F95FE	{p}Nouveau truc, nya!{n}{n}{FE11}!!
+@0F961D	{p}Le coup se nomme{n}{n}{FE11}.
+@0F963C	{p}Et son nom est…{n}{n}{FE11}!
+@0F9656	{p}Ça s'appelle…{n}{n}{FE11}!!
+@0F9670	{p}{FE11}!{n}{n}C'est génial!!
+@0F96AF	{p}Munitions à sec:{n}{n}pas d'attaque!!
+@0F96C3	{p}{J}!{n}{n}Plus de munitions!
+@0F96D9	{p}Oups!{n}{n}Plus de balles!
+@0F96EF	{p}…Attends!{n}{n}Plus de munitions.
+@0F9709	{p}…Oh?{n}{n}Chargeur vide.
+@0F9722	{p}…Tch!!{n}{n}Plus une balle!!
+@0F973B	{p}Hanya?{n}{n}Pan-pan vide, nya!
+@0F9752	{p}…Tiens?{n}{n}Arme à sec, hélas.
+@0F976E	{p}Mais enfin!{n}{n}C'est à sec, là!
+@0F978D	{p}Hein? {J}!{n}{n}Munitions: zéro!
+@0F97AA	{p}Ah… euh…{n}{n}Munitions: zéro…
+@0F97EB	{p}{FE20} est{n}{n}à court de balles!
+@0F9806	{p}{FE20}{n}{n}est à sec! Héhé!
+@0F9823	{p}Oh! {FE20}{n}{n}a l'air à sec!
+@0F9840	{p}Hm… {FE20}{n}{n}…est à sec.
+@0F985B	{p}Oh, {FE20}{n}{n}…manque de balles.
+@0F9879	{p}{FE20}{n}{n}est à sec! Ha ha!
+@0F9893	{p}{FE20}{n}{n}pan-pan vide, nya★
+@0F98AF	{p}Oh? {FE20}{n}{n}semble à sec.
+@0F98C9	{p}Hé! {FE20}{n}{n}est à sec, tiens!
+@0F98E4	{p}Oh? {FE20}{n}{n}a vidé son stock!
+@0F9902	{p}Ah… {FE20}{n}{n}semble à sec…!
+@0F9941	{p}Le corps passe au{n}{n}grade supérieur!{n}{n}
+@0F9958	{p}Génial!{n}{n}Corps amélioré!
+@0F9974	{p}Youpi!!{n}{n}Corps amélioré★
+@0F9992	{p}…Hm.{n}{n}Corps amélioré.
+@0F99AD	{p}Oh…?{n}{n}Corps amélioré.
+@0F99C9	{p}Ouais!!{n}{n}Corps amélioré!
+@0F99E7	{p}Hanya?{n}{n}Corps boosté, nya!
+@0F9A04	{p}…Tiens donc.{n}{n}Corps amélioré.
+@0F9A23	{p}{J}! Super!{n}{n}Corps amélioré!
+@0F9A45	{p}Hourra!!{n}{n}Grade du corps +1!
+@0F9A61	{p}Ah… {J}!{n}{n}C-corps amélioré!
+@0F9AA4	{p}Le corps devient{n}{n}{FE11}!{n}{n}
+@0F9AB8	{p}Nouveau corps:{n}{n}{FE11}!
+@0F9ACD	{p}Le nouveau corps:{n}{n}{FE11}!
+@0F9AE3	{p}Nouveau corps:{n}{n}{FE11}.
+@0F9AF7	{p}Le nouveau corps,{n}{n}{FE11}.
+@0F9B0B	{p}Corps tout neuf:{n}{n}{FE11}!
+@0F9B21	{p}Corps neuf, nya:{n}{n}{FE11}!
+@0F9B38	{p}Le nouveau corps…{n}{n}…{FE11}.
+@0F9B4F	{p}Et le corps neuf:{n}{n}{FE11}!
+@0F9B64	{p}Le corps neuf:{n}{n}{FE11}!!
+@0F9B79	{p}Euh… le corps…{n}{n}…{FE11}!!
+@0F9BB9	{p}{FE20}:{n}{n}{FE11}!!
+@0F9BC8	{p}{FE20}:{n}{n}{FE11}!!
+@0F9BDC	{p}{FE20}:{n}{n}{FE11}!!
+@0F9BF0	{p}…{FE20}:{n}{n}{FE11}…!
+@0F9C06	{p}{FE20}:{n}{n}{FE11}.
+@0F9C17	{p}{FE20}:{n}{n}{FE11}!!
+@0F9C2C	{p}{FE20}:{n}{n}{FE11}!!
+@0F9C43	{p}{FE20}:{n}{n}{FE11}.
+@0F9C58	{p}{FE20}:{n}{n}{FE11}!!
+@0F9C6C	{p}{FE20}:{n}{n}{FE11}!!
+@0F9C81	{p}{FE20}:{n}{n}…{FE11}…!!
+@0F9CBB	{p}{FE20}{n}{n}déclare forfait…
+@0F9CD4	{p}{FE20}{n}{n}abandonne! Ouais!!
+@0F9CED	{p}Oh? {FE20}{n}{n}se rend!
+@0F9D05	{p}Hm… {FE20}{n}{n}capitule.
+@0F9D1F	{p}Oh, {FE20}{n}{n}semble abandonner.
+@0F9D3B	{p}{FE20}{n}{n}se dégonfle! Pff!
+@0F9D59	{p}{FE20}{n}{n}se rend! Nyaaa★
+@0F9D79	{p}Hm… {FE20}{n}{n}semble se rendre.
+@0F9D94	{p}{FE20}{n}{n}se rend. Mouais.
+@0F9DAF	{p}{FE20}{n}{n}se rend? Trop nul!
+@0F9DD1	{p}Ah… {FE20}{n}{n}se rend, je crois…
+@0F9E13	{p}{J} remporte{n}{n}le combat!!
+@0F9E2B	{p}Ouais! {J}!{n}{n}On a gagné!!
+@0F9E46	{p}Youpi!{n}{n}Gagné, {J}!!
+@0F9E5D	{p}…Hm. {J}.{n}{n}Fidèle à toi-même.
+@0F9E78	{p}Bien joué, {J}.{n}{n}Nous avons gagné.
+@0F9E93	{p}{J}! Ouais!!{n}{n}Du gâteau, ça!
+@0F9EB1	{p}Hanyaan! {J}!{n}{n}On a gagné, nya!!
+@0F9ECF	{p}Hé hé hé… {J}.{n}{n}Victoire acquise.
+@0F9EEE	{p}Pas mal! {J}!{n}{n}Trop classe, là!
+@0F9F0B	{p}Ouaiiis! {J}!{n}{n}On a gagnéééé!
+@0F9F26	{p}{J}! Trop fort!{n}{n}On a… on a gagné!
+@0F9F6D	{p}{FE20}{n}{n}gagne en attaque!
+@0F9F87	{p}{FE20}{n}{n}se muscle! Zut!
+@0F9FA7	{p}Ah! {FE20}{n}{n}gagne en attaque!
+@0F9FC7	{p}…{FE20}{n}{n}gagne en attaque.
+@0F9FE3	{p}Oh? {FE20}{n}{n}gagne en attaque.
+@0FA001	{p}{FE20}{n}{n}se muscle! Tss!
+@0FA022	{p}{FE20}{n}{n}se muscle, nya!
+@0FA043	{p}Hm… {FE20}{n}{n}gagne en attaque!
+@0FA063	{p}{FE20}{n}{n}se muscle?! Grr!
+@0FA085	{p}{FE20}{n}{n}se muscle! Ouille!
+@0FA0A5	{p}Ah… {FE20}{n}{n}…gagne en attaque!
+@0FA0EA	{p}{FE20}{n}{n}gagne en défense!
+@0FA104	{p}{FE20}{n}{n}se blinde! Zut!
+@0FA124	{p}Ah! {FE20}{n}{n}gagne en défense!
+@0FA144	{p}…{FE20}{n}{n}gagne en défense.
+@0FA160	{p}Oh? {FE20}{n}{n}gagne en défense.
+@0FA17E	{p}{FE20}{n}{n}se blinde! Tss!
+@0FA19F	{p}{FE20}{n}{n}se blinde, nya!
+@0FA1C0	{p}Hm… {FE20}{n}{n}gagne en défense!
+@0FA1E0	{p}{FE20}{n}{n}se blinde?! Grr!
+@0FA202	{p}{FE20}{n}{n}se blinde! Ouille!
+@0FA222	{p}Ah… {FE20}{n}{n}…gagne en défense!
+@0FA267	{p}{FE20}{n}{n}gagne en vitesse!
+@0FA27E	{p}{FE20}{n}{n}accélère! Zut!
+@0FA29B	{p}Ah! {FE20}{n}{n}gagne en vitesse!
+@0FA2B8	{p}…{FE20}{n}{n}gagne en vitesse.
+@0FA2D1	{p}Oh? {FE20}{n}{n}gagne en vitesse.
+@0FA2EC	{p}{FE20}{n}{n}accélère! Tss!
+@0FA30A	{p}{FE20}{n}{n}accélère, nya!
+@0FA328	{p}Hm… {FE20}{n}{n}gagne en vitesse!
+@0FA345	{p}{FE20}{n}{n}accélère?! Grr!
+@0FA364	{p}{FE20}{n}{n}accélère! Ouille!
+@0FA381	{p}Ah… {FE20}{n}{n}…gagne en vitesse!
+@0FA3C3	{p}Fuite d'énergie!{n}{n}EP tombés à 0!!
+@0FA3E2	{p}Quoi?! Non!{n}{n}Plus aucun EP!!
+@0FA3FF	{p}Non! Plus de jus?!{n}{n}On n'a plus d'EP!
+@0FA423	{p}Qu'est-ce que…?!{n}{n}Les EP… à zéro…!!
+@0FA443	{p}Non… l'énergie…?!{n}{n}EP tombés à 0!
+@0FA465	{p}Hé! C'est quoi?!{n}{n}Zéro EP, bon sang!
+@0FA48C	{p}Hanya?! Quoi, nya?{n}{n}Plus d'EP, nya!
+@0FA4B5	{p}Drain d'énergie…?!{n}{n}…EP réduits à 0!!
+@0FA4D9	{p}C'est quoi, ça?!!{n}{n}Les EP sont à 0!!
+@0FA4FA	{p}Waah! Quoi, quoi?!{n}{n}EP tombés à 0!!
+@0FA51B	{p}…Hein! Non… non…{n}{n}Plus du tout d'EP!
+@0FA561	{p}{FE20}{n}{n}perd en attaque!
+@0FA57B	{p}OK! {FE20}{n}{n}perd en attaque!
+@0FA59A	{p}{FE20}{n}{n}tape moins! Hi hi!
+@0FA5BA	{p}Hm… {FE20}{n}{n}perd en attaque.
+@0FA5D9	{p}Oh, {FE20}{n}{n}perd en attaque.
+@0FA5FA	{p}{FE20}{n}{n}cogne moins! Bien!
+@0FA61B	{p}{FE20}{n}{n}tape moins, nya★
+@0FA63D	{p}Hm. {FE20}{n}{n}perd en attaque.
+@0FA65D	{p}{FE20}{n}{n}mollit! Bien fait!
+@0FA680	{p}Ha! {FE20}{n}{n}perd en attaque!
+@0FA6A1	{p}Oh! {FE20}{n}{n}p-perd en attaque!
+@0FA6E6	{p}{FE20}{n}{n}perd en défense!
+@0FA700	{p}OK! {FE20}{n}{n}perd en défense!
+@0FA71F	{p}{FE20}{n}{n}ramollit! Hi hi!
+@0FA73F	{p}Hm… {FE20}{n}{n}perd en défense.
+@0FA75E	{p}Oh… {FE20}{n}{n}perd en défense.
+@0FA77F	{p}Ha! {FE20}{n}{n}baisse sa garde!
+@0FA7A0	{p}{FE20}{n}{n}est tout mou, nya★
+@0FA7C2	{p}Hm. {FE20}{n}{n}perd en défense.
+@0FA7E2	{p}{FE20}{n}{n}se fragilise! Toc!
+@0FA805	{p}Ha! {FE20}{n}{n}perd en défense!
+@0FA826	{p}Oh! {FE20}{n}{n}p-perd en défense!
+@0FA86B	{p}{FE20}{n}{n}perd en vitesse!
+@0FA882	{p}OK! {FE20}{n}{n}perd en vitesse!
+@0FA89E	{p}{FE20}{n}{n}se traîne! Hi hi!
+@0FA8BB	{p}Hm… {FE20}{n}{n}perd en vitesse.
+@0FA8D7	{p}Oh… {FE20}{n}{n}perd en vitesse.
+@0FA8F5	{p}Ha! {FE20}{n}{n}se traîne, ouais!
+@0FA913	{p}{FE20}{n}{n}ralentit, nyaha★
+@0FA932	{p}Hm. {FE20}{n}{n}perd en vitesse.
+@0FA94F	{p}{FE20}{n}{n}ralentit! Et toc!
+@0FA96F	{p}Ha! {FE20}{n}{n}perd en vitesse!
+@0FA98D	{p}Oh! {FE20}{n}{n}p-perd en vitesse!
+@0FA9CF	{p}Taux critique{n}{n}accru pour {J}!
+@0FA9EA	{p}{J}, super!{n}{n}Critique accru!
+@0FAA07	{p}Allez, {J}!{n}{n}Critique accru!
+@0FAA24	{p}…Bien, {J}.{n}{n}Critique accru.
+@0FAA44	{p}Voilà qui suffira.{n}{n}Critique accru.
+@0FAA65	{p}Ouais, {J}!{n}{n}Critiques à gogo!
+@0FAA87	{p}{J}! OK, nya!{n}{n}Critique accru!
+@0FAAAA	{p}Très bien, {J}!{n}{n}Critique accru.
+@0FAACD	{p}C'est bon, {J}!{n}{n}Critique accru!
+@0FAAEE	{p}Ouais! {J}!{n}{n}Critique accru!!
+@0FAB11	{p}…E-euh… {J}!{n}{n}Critique accru!
+@0FAB58	{p}{FE20}{n}{n}gagne en critique!
+@0FAB73	{p}Ah! {FE20}{n}{n}gagne en critique!
+@0FAB95	{p}Hé! {FE20}{n}{n}gagne en critique!
+@0FABB6	{p}Hm… {FE20}{n}{n}gagne en critique.
+@0FABD9	{p}Oh… {FE20}{n}{n}gagne en critique.
+@0FABFB	{p}{FE20}{n}{n}vise mieux! Tss!
+@0FAC20	{p}{FE20}{n}{n}vise mieux, nyaaa!
+@0FAC43	{p}Ah, {FE20}{n}{n}gagne en critique!
+@0FAC67	{p}Pf! {FE20}{n}{n}gagne en critique!
+@0FAC8B	{p}Oh! {FE20}{n}{n}gagne en critique!
+@0FACB1	{p}Ah… {FE20}{n}{n}gagne en critique…
+@0FACF6	{p}Regain d'EP accru{n}{n}pour {J}!
+@0FAD11	{p}{J}, super!{n}{n}Regain d'EP accru!
+@0FAD2E	{p}Allez, {J}!{n}{n}Regain d'EP accru!
+@0FAD4B	{p}…Bien, {J}.{n}{n}Regain d'EP accru.
+@0FAD6B	{p}Voilà qui suffira.{n}{n}Regain d'EP accru.
+@0FAD8C	{p}Ouais, {J}!{n}{n}Recharge EP turbo!
+@0FADAE	{p}{J}! OK, nya!{n}{n}Regain d'EP accru!
+@0FADD1	{p}Très bien, {J}!{n}{n}Regain d'EP accru.
+@0FADF4	{p}C'est bon, {J}!{n}{n}Regain d'EP accru!
+@0FAE15	{p}Ouais! {J}!{n}{n}Regain d'EP accru!
+@0FAE36	{p}…E-euh… {J}!{n}{n}Regain d'EP accru!
+@0FAE7D	{p}{FE20}{n}{n}se recharge mieux!
+@0FAE98	{p}Ah! {FE20}{n}{n}se recharge mieux!
+@0FAEBA	{p}Hé! {FE20}{n}{n}se recharge mieux!
+@0FAEDB	{p}Hm… {FE20}{n}{n}se recharge mieux.
+@0FAEFE	{p}Oh… {FE20}{n}{n}se recharge mieux.
+@0FAF20	{p}{FE20}{n}{n}se requinque! Tss!
+@0FAF45	{p}{FE20}{n}{n}se recharge, nya!!
+@0FAF68	{p}Ah, {FE20}{n}{n}se recharge mieux!
+@0FAF8C	{p}Pf! {FE20}{n}{n}se recharge mieux!
+@0FAFB0	{p}Oh! {FE20}{n}{n}se recharge mieux!
+@0FAFD6	{p}Ah… {FE20}{n}{n}se recharge mieux…
+@0FB01B	{p}Le temps paralyse{n}{n}{FE20}!!
+@0FB039	{p}OK! Le temps gèle{n}{n}{FE20}!
+@0FB059	{p}Hop! Le temps fige{n}{n}{FE20}!
+@0FB074	{p}…Temps figé. Fini,{n}{n}{FE20}…
+@0FB095	{p}Agastia te fige,{n}{n}n'est-ce pas?
+@0FB0B8	{p}Hé hé! Ça te gèle,{n}{n}{FE20}!
+@0FB0D5	{p}Nya! Le temps gèle{n}{n}{FE20}!
+@0FB0F5	{p}Le temps a figé{n}{n}{FE20}…
+@0FB114	{p}Même le temps fige{n}{n}{FE20}!
+@0FB135	{p}Oh! Le temps fige{n}{n}{FE20}!
+@0FB152	{p}Le… le temps fige{n}{n}{FE20}!
+@0FB196	{p}Le temps s'arrête{n}{n}pour {J}!!
+@0FB1B5	{p}{J}! Le temps{n}{n}se… fige…
+@0FB1CC	{p}{J}~~!{n}{n}Le temps… se fi…
+@0FB1E6	{p}Tch… Agastia!{n}{n}{J}… atten…tion
+@0FB208	{p}Serait-ce Agastia?{n}{n}{J}… pru…dence
+@0FB22B	{p}C'est quoi, ça?!{n}{n}{J}! Ça coince…
+@0FB248	{p}Nyah! Quoi, nya?{n}{n}{J}… ça bloque…
+@0FB267	{p}…!! Cette force…!{n}{n}{J}! Vi…te…
+@0FB288	{p}Le temps… gèle?!{n}{n}Non… {J}…
+@0FB2A5	{p}Arrêt du temps?!{n}{n}{J}! Trop fort…
+@0FB2C5	{p}…! {J}!{n}{n}Il… faut… fu…ir…
+@0FB304	{p}Bouclier de vent!{n}{n}Dégâts renvoyés!!
+@0FB326	{p}Bouclier de vent!{n}{n}On renvoie tout!
+@0FB344	{p}C'est parti!{n}{n}Dégâts renvoyés!
+@0FB35F	{p}Hm… Désormais,{n}{n}on renvoie tout.
+@0FB37B	{p}…C'est prêt.{n}{n}Dégâts renvoyés.
+@0FB397	{p}Vent! Tourbillon!{n}{n}Renvoie les coups!
+@0FB3B8	{p}C'est prêt, nya!!{n}{n}Ça rebondit, nya!!
+@0FB3D8	{p}Bouclier de vent.{n}{n}Dégâts renvoyés.
+@0FB400	{p}Bouclier de vent!{n}{n}Ça leur reviendra!
+@0FB428	{p}Cool, un bouclier!{n}{n}Renvoi des dégâts!
+@0FB44B	{p}Le vent… se fait…{n}{n}bouclier! Renvoi!
+@0FB494	{p}Un vent protecteur{n}{n}renvoie les coups!
+@0FB4B9	{p}Un… bouclier?{n}{n}{J}! Attention!
+@0FB4D3	{p}Un mur de vent?{n}{n}{J}! Attention!
+@0FB4EF	{p}…Quoi? Qu'est-ce…{n}{n}{J}, méfie-toi!
+@0FB50E	{p}Le vent… s'amasse…{n}{n}Prudence… {J}.
+@0FB530	{p}Vas-y mollo, hein!{n}{n}Ça va te revenir!
+@0FB556	{p}Tape pas, nya!{n}{n}Ça rebondit, nya!
+@0FB57C	{p}Hm…! Un bouclier?{n}{n}…Mauvais présage.
+@0FB59C	{p}C'est quoi, ça?!{n}{n}{J}! Gaffe!
+@0FB5BE	{p}Le vent s'amasse!{n}{n}Ça va faire quoi?
+@0FB5DD	{p}Hein… quoi? Quoi?{n}{n}{J}! Attention!
+@0FB621	{p}Goutte de vie!{n}{n}Une vie de plus!!
+@0FB644	{p}Une goutte de vie!{n}{n}On revit une fois!
+@0FB665	{p}La goutte de vie…{n}{n}Une vie en plus!
+@0FB68A	{p}…La goutte de vie…{n}{n}Hm… Un sursis.
+@0FB6AE	{p}Jolie… goutte…{n}{n}On pourra revivre.
+@0FB6CC	{p}V'là la goutte…{n}{n}Ouais! Vie bonus!
+@0FB6F4	{p}Nyaa~! Joli~!{n}{n}Vie bonus, nya!
+@0FB716	{p}La source de vie…{n}{n}Hé hé, on revivra.
+@0FB742	{p}Goutte de vie! Et{n}{n}une vie en rab!
+@0FB767	{p}Jolie, la goutte!{n}{n}…Ouais! On revit!
+@0FB78B	{p}…C'est… joli…{n}{n}…Une vie… de plus!
+@0FB7D1	{p}Goutte de vie!{n}{n}Sa force déborde!!
+@0FB7F4	{p}C'est… une goutte{n}{n}des esprits…?
+@0FB80C	{p}C'est… quoi, ça?{n}{n}Je sens une force…
+@0FB82B	{p}…? Aucune idée.{n}{n}{J}, méfie-toi.
+@0FB84A	{p}Qu'est-ce donc…?{n}{n}…{J}, prudence.
+@0FB86A	{p}Oh là… c'est quoi?{n}{n}{J}, gaffe!
+@0FB88A	{p}Il pleut, nya★{n}{n}Ça fait quoi, nya?
+@0FB8A7	{p}{J}, la goutte…{n}{n}Ça va être long!
+@0FB8CC	{p}Pff! Pas mal joué!{n}{n}Ça va s'éterniser…
+@0FB8ED	{p}…? C'est quoi?{n}{n}Ça fait un truc?
+@0FB909	{p}…Une goutte…?{n}{n}…Mais… c'est quoi…
+@0FB94C	{p}Goutte déjà reçue!{n}{n}Aucun effet!
+@0FB96C	{p}{J}!{n}{n}Ça sert à rien!
+@0FB97F	{p}Oh! {J}!{n}{n}C'était inutile!
+@0FB997	{p}…Que fais-tu?!{n}{n}Évite l'inutile.
+@0FB9B5	{p}…Oh là là, voyons.{n}{n}Ça ne sert à rien.
+@0FB9D9	{p}Tu fais quoi, là?!{n}{n}Arrête de gâcher!
+@0FB9F4	{p}Nya? Rien, nya…{n}{n}…C'est pour rien?
+@0FBA15	{p}…Que fais-tu donc?{n}{n}C'est déjà fait.
+@0FBA37	{p}…C'est déjà fait!{n}{n}Pff… quelle buse!
+@0FBA5A	{p}Euh, dis-moi…{n}{n}tu l'as pas… déjà?
+@0FBA79	{p}…Euh… {J}…{n}{n}c'est… déjà fait…
+@0FBABC	{p}…Sans aucun effet!
+@0FBAD0	{p}…? Tu fais quoi?{n}{n}C'est déjà lancé!
+@0FBAF3	{p}Ben? Tu fais quoi?{n}{n}Ça n'a rien fait…
+@0FBB1A	{p}Hm… Stupide.{n}{n}Geste inutile.
+@0FBB37	{p}…Oh là là.{n}{n}C'est inutile.
+@0FBB52	{p}Hé? Tu fais quoi?{n}{n}…Y s'passe rien!
+@0FBB75	{p}Nyu? Rien, nya!{n}{n}EP gâchés, nya!
+@0FBB97	{p}…Peine perdue.{n}{n}C'est déjà actif.
+@0FBBBD	{p}Pff! Faut suivre!{n}{n}C'était déjà fait!
+@0FBBDF	{p}…Tiens? Y a rien.{n}{n}C'était quoi, ça?
+@0FBC00	{p}Ah… euh? {J}…{n}{n}Il… se passe rien…
+@0FBC42	{p}Le temps retient{n}{n}{FE20}!
+@0FBC5F	{p}Ha! {FE20}{n}{n}est toujours figé!
+@0FBC7D	{p}{FE20}{n}{n}figé! Go, {J}!!
+@0FBC9A	{p}…Hm. C'est vain…{n}{n}Prépare-toi.
+@0FBCB6	{p}Inutile, tu vois?{n}{n}…Prépare-toi.
+@0FBCD5	{p}Le temps est figé!{n}{n}T'es coincé, hein!
+@0FBCF3	{p}Inutile, nya~★{n}{n}Temps figé, nya!
+@0FBD10	{p}Navré, mais…{n}{n}le temps est figé.
+@0FBD2E	{p}Oh~ dommage!{n}{n}Reste planté là!
+@0FBD4D	{p}{FE20}{n}{n}bouge plus! Super!
+@0FBD6C	{p}Euh… pardon!{n}{n}Le temps est figé…
+@0FBDAF	{p}Le temps est figé{n}{n}pour {J}!
+@0FBDCF	{p}…【Temps arrêté!】…{n}{n}…【Aucune action!】…
+@0FBE1C	{p}{J} est dans{n}{n}le noir total!
+@0FBE34	{p}{J}! Attention!{n}{n}Plus de caméra!
+@0FBE54	{p}Attention, {J}!{n}{n}La caméra bugue!
+@0FBE77	{p}Tch… {J}.{n}{n}Caméra encore HS…
+@0FBE94	{p}{J}, prudence.{n}{n}La caméra est HS.
+@0FBEB4	{p}{J}! Gaffe!{n}{n}La caméra déconne!
+@0FBED9	{p}Funya~ {J}~!{n}{n}Tout noir, nya~!
+@0FBEF5	{p}Hm… {J}!{n}{n}La caméra est HS!
+@0FBF11	{p}Vite, réagis!{n}{n}Caméra morte, là!
+@0FBF35	{p}{J}~! La caméra{n}{n}est toujours HS!
+@0FBF52	{p}{J}… euh…{n}{n}La caméra… HS…!
+@0FBF94	{p}{FE20}{n}{n}est dans le noir!
+@0FBFAC	{p}OK! {FE20}{n}{n}reste aveugle!
+@0FBFCE	{p}{FE20}{n}{n}reste aveugle! Na!
+@0FBFEF	{p}Hm. {FE20}{n}{n}erre dans le noir…
+@0FC00B	{p}Oh… {FE20}{n}{n}est dans le noir.
+@0FC028	{p}Hé! {FE20}{n}{n}y voit que dalle!
+@0FC048	{p}{FE20}{n}{n}noir-noir, nyaaa~!
+@0FC065	{p}Ho… {FE20}{n}{n}reste aveugle.
+@0FC085	{p}{FE20}{n}{n}y voit rien! Toc!
+@0FC0A8	{p}Ah! {FE20}{n}{n}y voit pas encore!
+@0FC0C8	{p}Ah… {FE20}{n}{n}reste… aveugle!
+@0FC10B	{p}Les EP ne{n}{n}remontent plus!!
+@0FC11C	{p}Zut… {J}!{n}{n}EP bloqués!!
+@0FC13B	{p}…{J}!!{n}{n}EP au point mort!!
+@0FC159	{p}…Tch… {J}!{n}{n}Les EP… bloqués!!
+@0FC179	{p}…………{J}……{n}{n}Les EP sont figés…
+@0FC198	{p}Bon sang!!{n}{n}EP en rade!!
+@0FC1B6	{p}Funyaaah!{n}{n}EP bloqués, nya!!
+@0FC1D5	{p}Hm… que faire?{n}{n}Aucun regain d'EP!
+@0FC1F3	{p}Y a pas moyen?!{n}{n}EP bloqués!!
+@0FC216	{p}Ça craint…{n}{n}EP bloqués!!
+@0FC235	{p}Snif… {J}…{n}{n}EP… bloqués…!
+@0FC279	{p}{J} se relève!{n}{n}Les HP remontent!!
+@0FC298	{p}Autoréparation!{n}{n}Les HP remontent!!
+@0FC2BC	{p}Autoréparation!!{n}{n}Les HP reviennent!
+@0FC2DD	{p}…Autoréparation?{n}{n}Hm. HP en hausse!
+@0FC2FD	{p}…{J}, tes HP{n}{n}remontent seuls…!
+@0FC31F	{p}Autoréparation!!{n}{n}Les HP grimpent!!
+@0FC33F	{p}Nyaha★ Autorépa!{n}{n}HP en hausse, nya!
+@0FC364	{p}La prudence paie…{n}{n}HP restaurés!
+@0FC38A	{p}Pas si vite!{n}{n}Les HP remontent!!
+@0FC3AC	{p}Réparation auto!{n}{n}Les HP remontent!
+@0FC3CE	{p}Euh… réparation…{n}{n}…Les HP remontent!
+@0FC414	{p}{FE20}{n}{n}revient à la vie!!
+@0FC433	{p}{J}! Revoilà{n}{n}{FE20}!!
+@0FC450	{p}{J}! Il revit!{n}{n}{FE20}!!
+@0FC46F	{p}…{J}. Revoici{n}{n}{FE20}…
+@0FC48B	{p}{J}… Revoilà{n}{n}{FE20}.
+@0FC4A6	{p}Hein?! Il revient,{n}{n}{FE20}?!
+@0FC4C2	{p}Nyanya?! Il revit,{n}{n}{FE20}!
+@0FC4E1	{p}…Je vois. Revoici{n}{n}{FE20}!
+@0FC500	{p}Triche! Il revit,{n}{n}{FE20}!!
+@0FC520	{p}Wouah! Il revit,{n}{n}{FE20}!
+@0FC53D	{p}{J}… il… revit…{n}{n}{FE20}…!
+@1BB2DA	{09} Feu: ruines{n}{n}de 【Raphias】
+@1BB2F9	{09} Foudre:{n}{n}【tour du Mirage】…
+@1BE008	{p}Corps{n}{n}Bras{n}{n}Jambes{n}{n}Dos{n}{n}Accessoire{n}{n}Fin
+@1BE037	Fait:   /   「   {CF}」{n}{n}Tout:   /   「   {CF}」
+@1BE061	Attaque{n}      /{n}Défense{n}      /{n}Vitesse{n}      /{n}{n}HP    /{n}EP    /

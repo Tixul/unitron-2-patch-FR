@@ -1,0 +1,1002 @@
+# Biomotor Unitron 2 (Kikou Seiki Unitron) - traduction française. Menus, écrans système, messages de combat et textes pointés.
+# @ADRESSE (fichier, hex) = texte du catalogue à cette adresse (tools/extraire.py) ; voir README.
+@00BE87	{p}<L'autre choisit…>
+@00C15B	{p}Limite:  libre{n}{n}Élém:        EP:
+@013702	{C4}{B8}{05}Guilde
+@01370A	{00}{00}{00}{00}{00}{A8}{E0}{06}Arène
+@013718	{00}{00}{00}{00}{00}{A8}{09}Pièces
+@013728	{00}{90}{A8}{06}QG
+@013732	{00}{00}{00}{00}{BC}{A0}{07}Donjon
+@013740	{00}{00}{00}{00}{E0}{0A}Palais
+@014630	Quelle partie?{n}     <Vide>
+@01469E	Charger la partie?{n}{n}         Oui Non
+@0146C3	Effacer la partie?{n}{n}         Oui Non
+@0146E8	Jouer celle-ci?{n}{n}         Oui Non
+@01470A	Les données seront{n}effacées. Écraser?{n}         Oui Non
+@014774	 Partie chargée 
+@014786	 Partie effacée 
+@014798	 Partie sauvée  
+@014A65	{p}Menu
+@014A71	{p} Nouveau{n}{n} Charger{n}{n} Câble{n}{n} Options{n}{n} Aide{n}{n} Pièces
+@014CA5	{p}Options
+@014CB1	{p}Vitesse du texte{n}       Vite Lent
+@014CCE	{p}Combats animés{n}       ON   OFF
+@014CEA	{p}Textes de combat{n}       Vif  Sec
+@014D09	{p}Effacer données{n} ★Tout effacer!★
+@014DCC	{p}Effacer données{n}      Toutes Une
+@014ECE	{p}Effacer données{n}Effacer? Oui Non
+@014EEE	{p}Effacer données{n}Effacement……
+@014F0C	{p}Effacer données{n}Tout est effacé.
+@0152AA	{p}<Connexion…>
+@0152B7	{p}<Connexion…>{n}{n}【B pour annuler】
+@0152D4	{p}L'autre choisit…{n}{n}【B pour annuler】
+@0159C3	{p}Connexion…{n}{n}【B pour annuler】
+@0159DE	{p}<Confirmation…>
+@015B69	{p}Vérif. connexion…{n}{n}【B pour annuler】
+@015FA9	{p}Vous{n}{FE11}{n}{n}Adversaire{n}------
+@015FC3	{p}Vous{n}{FE11}{n}{n}Adversaire{n}{FE13}
+@016EA1	{40}{A1}{6E}{21}{00}{BE}{08}{60}{8E}{0C}{3F}{00}{B0}{FE1D}{C1}{8C}{20}{0E}{0E}{p}{J}, que faire?
+@016EC2	{p}Retour.
+@016ECB	{p}Bon, voici la{n}{n}liste des objets.
+@016EDF	{p}Pièces ou objets?
+@016EF2	{p}Choisis le type.
+@016F02	{p}C'est bon, ça?
+@016F1E	{p}Et cet objet?
+@016F30	Utiliser Jeter
+@016F3A	 utilisé
+@016F44	{p}Inutilisable!
+@016F57	 jeté
+@016F5F	{p}Objet à garder!
+@016F72	{p}Grand Mother!
+@016F85	{p}Que faire?
+@016F91	{p}Quelles stats?
+@016FA6	{p}Stats Unitron
+@016FB7	{p}Stats pilote
+@016FC8	{p}Ingénieur
+@016FD9	{p}Stats Elel
+@016FE8	{p}Équiper quoi?
+@016FFA	{p}Sauvegarder?
+@01700C	{p}Démo: pas de{n}sauvegarde.
+@01702D	Sauvegardé
+@017039	{p}On s'arrête là?
+@01704C	{p}On sort d'ici!
+@01705E	{p}Quelle pièce?
+@017071	{p}Quel matériau?
+@017084	{p}Un outil?
+@017093	{p}Quel outil?
+@0170A4	{p}Développer?
+@0170B4	{p}Développement…!
+@0170C7	{p}C'est réussi!
+@0170D9	{p}Évolution!!
+@0170EC	{p}C'est raté……
+@0170FF	{p}Continuer?
+@01710F	{p}Nourrir?
+@01711D	{p}Quel matériau?
+@017130	{p}Ce matériau?
+@017142	{p}Lululun!!{n}« Pleine forme! »{n}【B pour revenir】
+@017168	{p}Lyulyulyu!★{n}« Pleine forme! »{n}【B pour revenir】
+@017190	{p}Lulu~Lululun!{n}« Toute joyeuse »{n}【B pour revenir】
+@0171BF	{p}Lyu-lyulyun!{n}« Toute joyeuse »{n}【B pour revenir】
+@0171EE	{p}Lulu~lululuuu★{n}« Elle gambade! »{n}【B pour revenir】
+@017219	{p}Lyu~lyulyulyun!{n}« Elle gambade! »{n}【B pour revenir】
+@017247	{p}Lululu~★{n}« Bonne humeur »{n}【B pour revenir】
+@01726D	{p}Lyulyuu~★{n}« Bonne humeur »{n}【B pour revenir】
+@017295	{p}Lun lunlun!{n}« En forme »{n}【B pour revenir】
+@0172C2	{p}Lyulyulyuu!{n}« En forme »{n}【B pour revenir】
+@0172EE	{p}Lululu! Lu★{n}« Tout sourire »{n}【B pour revenir】
+@01731A	{p}Lyulyu! Lyu★{n}« Tout sourire »{n}【B pour revenir】
+@017348	{p}Lululu……{n}« Comme d'hab »{n}【B pour revenir】
+@017372	{p}Lyulyu~{n}« Comme d'hab »{n}【B pour revenir】
+@01739C	{p}Lulululu{n}« Rien de neuf »{n}【B pour revenir】
+@0173C4	{p}Lyulyun{n}« Rien de neuf »{n}【B pour revenir】
+@0173EC	{p}Lululun{n}« Ni bien ni mal »{n}【B pour revenir】
+@017410	{p}Lyulyuuu{n}« Ni bien ni mal »{n}【B pour revenir】
+@017436	{p}Luluuu……{n}« Toute triste »{n}【B pour revenir】
+@01745B	{p}Lyuuuuun……{n}« Toute triste »{n}【B pour revenir】
+@017483	{p}Lulu!!{n}« Mal lunée? »{n}【B pour revenir】
+@0174AB	{p}Lyu!!{n}« Mal lunée? »{n}【B pour revenir】
+@0174D2	{p}Luuu… mmmh……{n}« Pas en forme »{n}【B pour revenir】
+@0174FE	{p}Lyuuu… mmh mmh……{n}« Pas en forme »{n}【B pour revenir】
+@01752C	{p}………………{n}« Très fâchée! »{n}【B pour revenir】
+@017557	{p}………………{n}« Très fâchée! »{n}【B pour revenir】
+@017582	{p}…………Luuu{n}« Bien abattue »{n}【B pour revenir】
+@0175AD	{p}…………Lyuuu{n}« Bien abattue »{n}【B pour revenir】
+@0175D9	{p}Lu……luu……flop{n}« Toute molle »{n}【B pour revenir】
+@017603	{p}Lyu……lyuu……mmh{n}« Toute molle »{n}【B pour revenir】
+@01762F	{p}Lu~ Lulu~……{n}« Bien endormie »{n}【B pour revenir】
+@01765B	{p}Lyu~ Lyulyu~……{n}« Douce sieste »{n}【B pour revenir】
+@01768E	{p}Lulu~… miam miam{n}« Aux anges! »
+@0176B5	{p}Lyulyun★ croc croc{n}« Elle jubile! »
+@0176DE	{p}Lululun! miam miam{n}« Assez contente »
+@017704	{p}Crac…Lyulyu…croc{n}« Elle savoure »
+@01772A	{p}Lululu… miam……{n}« Indifférente »
+@01774F	{p}Lyulyu… croc croc…{n}« Pas emballée »
+@017777	{p}Luluu…… ptui ptui{n}« Fait la moue »
+@01779D	{p}Lyu…lyu…… …hop{n}« Pas son truc? »
+@0177BE	{p}Lu…luu…hiii……plof{n}« …Écœurée?! »
+@0177E4	{p}Lyulyu!! Hop! Paf!{n}« Jeté, piétiné! »
+@01780D	{p}Lu★ Lululu!!{n}« En redemande! »
+@01782E	{p}Lyu★ Lyulyu!!{n}« En redemande! »
+@017851	{p}Lululuuu… ptui……{n}« Pas tout mangé »
+@017874	{p}……Lyuuuu~~ …ptui{n}« Pas tout mangé »
+@017897	{p}De retour, {J}!{n}{n}Tout est prêt!
+@0178B1	{p}Gare aux monstres…{n}{n}Je me dépêche!
+@0178E7	{p}Voilà la liste!
+@0178F8	{p}Quelle catégorie?
+@017909	{p}Quelle catégorie?
+@01791A	{p}C'est bon, ça?
+@017936	{p}Tu en fais quoi,{n}{n}de cet objet?
+@017948	Utiliser Jeter
+@0179BB	{p}On fait quoi?
+@0179C7	{p}Quelles stats{n}{n}tu veux voir?
+@0179D9	{p}Les stats de{n}{n}l'Unitron.
+@0179EA	{p}Tes stats, {J}.
+@0179F8	{p}Mes stats à moi.
+@017A06	{p}Les stats de{n}{n}{FF07}.
+@017A14	{p}Quelle pièce tu{n}{n}veux équiper?
+@017A28	{p}Je sauvegarde?
+@017A47	{p}On sort du{n}{n}donjon?
+@017AB3	{p}Tu utilises{n}{n}un outil?
+@017AD4	{p}Je lance le{n}{n}développement, OK?
+@017AE9	{p}Développement…!
+@017B53	{p}On continue le{n}{n}développement?
+@017B64	{p}On lui donne à{n}{n}manger?
+@017B84	{p}Tu prends ce{n}{n}matériau?
+@017BBA	{p}Te voilà, {J}!{n}{n}On peut y aller!
+@017BDD	{p}Vite, avant qu'un{n}{n}monstre déboule!
+@017C14	{p}Voilà la liste!
+@017C25	{p}Tu prends quelle{n}{n}catégorie?
+@017C35	{p}Tu prends quelle{n}{n}catégorie?
+@017C45	{p}C'est bon?
+@017C5F	{p}Et cet objet,{n}{n}on en fait quoi?
+@017C70	Utiliser Jeter
+@017CE6	{p}Hmm, on fait quoi?
+@017CF1	{p}Tu veux voir{n}{n}quelles stats?
+@017D02	{p}Voilà les stats{n}{n}de l'Unitron.
+@017D14	{p}Tes stats, {J}!
+@017D23	{p}Mes stats à moi★
+@017D33	{p}Voilà les stats{n}{n}de {FF07}.
+@017D42	{p}Tu équipes{n}{n}quelle pièce?
+@017D54	{p}Je sauvegarde,{n}{n}d'accord?
+@017D76	{p}On quitte le{n}{n}donjon?
+@017DE4	{p}Tu prends un{n}{n}outil?
+@017E04	{p}Je lance le{n}{n}développement?
+@017E16	{p}Développement…!
+@017E8A	{p}On poursuit le{n}{n}développement?
+@017E9A	{p}On la nourrit?
+@017EB9	{p}Tu choisis ce{n}{n}matériau?
+@017EEC	{p}Hm? …Ah, {J}.{n}{n}Tout est prêt.
+@017F11	{p}…Pas de monstre…{n}{n}…Préparons-nous.
+@017F38	{p}…Salut, {J}.
+@017F47	{p}…La liste.
+@017F55	{p}…Catégorie?
+@017F67	{p}…Catégorie?
+@017F79	{p}Ça ira?
+@017F94	{p}Et cet objet?
+@017FA4	Utiliser Jeter
+@01801A	{p}Ton choix?
+@018027	{p}Quelles stats?
+@01803A	{p}Les stats de{n}{n}l'Unitron.
+@01804B	{p}Tes stats, {J}.
+@018059	{p}Mes stats.
+@018068	{p}Les stats de{n}{n}{FF07}.
+@018076	{p}Quelle pièce{n}{n}équiper?
+@018087	{p}On sauvegarde?
+@0180A9	{p}Quitter le donjon?
+@018112	{p}Un outil?
+@018133	{p}On lance le{n}{n}développement?
+@018145	{p}Développement…!
+@0181BE	{p}On continue?
+@0181CF	{p}Tu la nourris?
+@0181F0	{p}Ce matériau.{n}{n}Ça te va?
+@018229	{p}Bienvenue, {J}.{n}{n}Tout est prêt.
+@018249	{p}Pas de monstre en{n}{n}vue. …Je m'y mets.
+@018280	{p}D'accord…… voici{n}{n}la liste.
+@018292	{p}Quelle catégorie{n}{n}veux-tu voir?
+@0182A6	{p}Quelle catégorie{n}{n}veux-tu voir?
+@0182BA	{p}Cela te convient?
+@0182D7	{p}Que veux-tu faire{n}{n}de cet objet?
+@0182ED	Utiliser Jeter
+@018360	{p}Que veux-tu faire?
+@01836F	{p}Quelles stats{n}{n}veux-tu voir?
+@018383	{p}Voici les stats{n}{n}de l'Unitron.
+@018394	{p}Tes stats, {J}.
+@0183A2	{p}Voici mes stats.
+@0183B1	{p}Voici les stats{n}{n}de {FF07}.
+@0183BF	{p}Quelle pièce{n}{n}veux-tu équiper?
+@0183D4	{p}Je sauvegarde la{n}{n}partie. D'accord?
+@0183F5	{p}On quitte le{n}{n}donjon?
+@018463	{p}Faut-il utiliser{n}{n}un outil?
+@01848D	{p}Puis-je lancer le{n}{n}développement?
+@0184A2	{p}Développement…!
+@018513	{p}On poursuit le{n}{n}développement?
+@018526	{p}Tu veux nourrir{n}{n}la petite?
+@01854A	{p}Ce matériau te{n}{n}convient-il?
+@018585	{p}Hé! {J}!{n}{n}Tout est paré!
+@0185A1	{p}Ouais, la voie est{n}{n}libre. Bouge pas!
+@0185DD	{p}Ouais! Voilà la{n}{n}liste!
+@0185ED	{p}Bon, tu prends{n}{n}quelle catégorie?
+@018602	{p}Bon, tu prends{n}{n}quelle catégorie?
+@018617	{p}Ça te va, ça?
+@018633	{p}Bon. On fait quoi{n}{n}de cet objet?
+@018647	Utiliser Jeter
+@0186BF	{p}On fait quoi, là?
+@0186C9	{p}Tu veux voir{n}{n}quelles stats?
+@0186DB	{p}Les stats de{n}{n}l'Unitron, tiens.
+@0186ED	{p}Tes stats à toi,{n}{n}{J}.
+@0186FC	{p}Mes stats à moi!
+@01870B	{p}Les stats de{n}{n}{FF07}, tiens.
+@01871A	{p}Tu équipes quelle{n}{n}pièce?
+@01872D	{p}On sauvegarde,{n}{n}hein?
+@01874C	{p}Quitter le donjon?
+@0187B6	{p}Tu prends un{n}{n}outil?
+@0187D7	{p}C'est parti pour{n}{n}le développement!
+@0187E7	{p}Développement…!
+@01885A	{p}On continue le{n}{n}développement?
+@01886A	{p}On file à bouffer{n}{n}à la petite?
+@01888B	{p}Tu prends ce{n}{n}matériau, alors?
+@0188C6	{p}Revoilà {J}~!{n}{n}C'est prêt, nya★
+@0188E7	{p}Pas de monstre en{n}{n}vue, nya! Attends!
+@018921	{p}Oui, nya★ Voilà{n}{n}la liste, nya!
+@018934	{p}Nyuuh~. Quelle{n}{n}catégorie, nya?
+@018948	{p}Nyuuh~. Quelle{n}{n}catégorie, nya?
+@01895C	{p}Ça va comme ça,{n}{n}nya?
+@018978	{p}On fait quoi de{n}{n}cet objet, nya?
+@01898B	Utiliser Jeter
+@018A08	{p}On fait quoi,{n}{n}nya?
+@018A13	{p}Quelles stats tu{n}{n}veux voir, nya?
+@018A24	{p}Les stats de{n}{n}l'Unitro, nya.
+@018A35	{p}Les stats de{n}{n}{J}, nya.
+@018A44	{p}Les stats de{n}{n}{P}, nya★
+@018A53	{p}Les stats de{n}{n}{FF07}, nya!
+@018A62	{p}On colle quelle{n}{n}pièce, nya?
+@018A75	{p}On sauvegaaarde,{n}{n}nya?
+@018A97	{p}On sort du donjon,{n}{n}nya?
+@018B00	{p}J'peux prendre un{n}{n}outil, nya?
+@018B24	{p}On développe,{n}{n}nya?
+@018B37	{p}Développement…!
+@018BA7	{p}On continue de{n}{n}développer, nya?
+@018BB8	{p}On donne à manger{n}{n}à la petite, nya?
+@018BDB	{p}On prend ce{n}{n}matériau, nya?
+@018C12	{p}Ah, {J}.{n}{n}J'ai tout préparé.
+@018C34	{p}Aucun danger.{n}{n}Bien, préparons.
+@018C73	{p}Entendu. Voici{n}{n}la liste.
+@018C88	{p}Bien. Quelle{n}{n}catégorie veux-tu?
+@018C9E	{p}Bien. Quelle{n}{n}catégorie veux-tu?
+@018CB4	{p}Est-ce bien cela?
+@018CD2	{p}Et cet objet?
+@018CE4	Utiliser Jeter
+@018D62	{p}Que faisons-nous?
+@018D70	{p}Quelles stats{n}{n}consultons-nous?
+@018D83	{p}Les stats de{n}{n}l'Unitron, donc.
+@018D96	{p}Tes stats, donc,{n}{n}{J}.
+@018DA6	{p}Mes stats, donc.
+@018DB7	{p}Voici les stats{n}{n}de {FF07}.
+@018DC7	{p}Quelle pièce{n}{n}équipons-nous?
+@018DDC	{p}Je sauvegarde la{n}{n}partie, d'accord?
+@018DFF	{p}Quittons-nous le{n}{n}donjon?
+@018E70	{p}Utilisons-nous{n}{n}un outil?
+@018E97	{p}Je lance le{n}{n}développement?
+@018EA8	{p}Développement…!
+@018F1D	{p}Poursuivons-nous{n}{n}le développement?
+@018F30	{p}Nourrissons-nous{n}{n}la petite?
+@018F54	{p}Ce matériau{n}{n}convient-il?
+@018F8E	{p}Tiens? Te revoilà,{n}{n}{J}. J'ai fini.
+@018FB4	{p}Bon…… ça m'a l'air{n}{n}sûr. Je m'y mets.
+@018FED	{p}Je sors la liste,{n}{n}c'est ça?
+@018FFD	{p}Alors, quelle{n}{n}catégorie?
+@01900E	{p}Alors, quelle{n}{n}catégorie?
+@01901F	{p}C'est bon, là?
+@01903A	{p}Et cet objet, tu{n}{n}en fais quoi?
+@019050	Utiliser Jeter
+@0190CD	{p}Tu veux faire{n}{n}quoi?
+@0190DA	{p}Bon, quelles stats{n}{n}tu veux voir?
+@0190EB	{p}Les stats de{n}{n}l'Unitron.
+@0190FC	{p}Tes stats, {J}.
+@01910A	{p}Mes stats à moi.
+@019119	{p}Les stats de{n}{n}{FF07}.
+@019127	{p}Tu équipes quelle{n}{n}pièce, alors?
+@01913A	{p}Bon, je{n}{n}sauvegarde, hein?
+@019165	{p}On quitte le{n}{n}donjon, c'est ça?
+@0191D1	{p}Tu prends un{n}{n}outil?
+@0191F1	{p}Je commence à{n}{n}développer, hein?
+@019202	{p}Développement…!
+@019276	{p}On poursuit le{n}{n}développement?
+@019286	{p}Tu la nourris?
+@0192A6	{p}Tu choisis ce{n}{n}matériau?
+@0192D6	{p}Coucou, {J}!{n}{n}Tout est OK!
+@0192F9	{p}Pas de monstre?{n}{n}Vite, je m'y mets!
+@019330	{p}La liste? Pas{n}{n}de souci!
+@019342	{p}Quelle catégorie,{n}{n}alors?
+@019353	{p}Quelle catégorie,{n}{n}alors?
+@019364	{p}Ça ira comme ça?
+@019380	{p}On fait quoi de{n}{n}cet objet?
+@019392	Utiliser Jeter
+@01940C	{p}On fait quoi au{n}{n}hangar?
+@01941D	{p}Tu veux voir{n}{n}quelles stats?
+@01942E	{p}Les stats de{n}{n}l'Unitron!
+@019440	{p}Tes stats, {J}!
+@01944F	{p}Voilà mes stats!
+@01945E	{p}Les stats de{n}{n}{FF07}!
+@01946D	{p}Tu équipes quelle{n}{n}pièce?
+@019480	{p}Je sauvegarde, ça{n}{n}te va?
+@0194A1	{p}On quitte le{n}{n}donjon?
+@01950A	{p}Je peux prendre{n}{n}un outil?
+@01952D	{p}On lance le{n}{n}développement?
+@01953E	{p}Développement…!
+@0195AF	{p}On continue de{n}{n}développer?
+@0195C0	{p}On nourrit la{n}{n}petite?
+@0195E0	{p}Je prends ce{n}{n}matériau?
+@019614	{p}Euh… bon retour.{n}{n}C'est… prêt……
+@01963B	{p}Euh…… ça ira?{n}{n}Ah… je m'y mets……
+@019679	{p}Ah…… oui! La{n}{n}liste……
+@01968B	{p}Euh…… quelle{n}{n}catégorie……?
+@0196A0	{p}Euh…… quelle{n}{n}catégorie……?
+@0196B5	{p}Euh…… ça te va{n}{n}comme ça?
+@0196D8	{p}Que faire de cet{n}{n}objet……?
+@0196EC	Utiliser Jeter
+@019770	{p}Euh…… on fait{n}{n}quoi?
+@019781	{p}Quelles stats tu{n}{n}veux voir?
+@019792	{p}Voilà les stats{n}{n}de l'Unitron~
+@0197A5	{p}Tes stats, {J}~
+@0197B7	{p}Voilà les stats{n}{n}de {P}~
+@0197C7	{p}Les stats de la{n}{n}petite {FF07}~
+@0197DE	{p}Quelle pièce tu{n}{n}veux équiper?
+@0197F1	{p}Euh…… je peux{n}{n}sauvegarder?
+@01981C	{p}Ah… euh…… on{n}{n}quitte le donjon?
+@01988A	{p}Je peux utiliser{n}{n}un outil?
+@0198B4	{p}Je peux commencer{n}{n}le développement?
+@0198C9	{p}Développement…!
+@01994E	{p}On continue de{n}{n}développer?
+@01995F	{p}Je peux nourrir{n}{n}la petite……?
+@019987	{p}Ce matériau, ça{n}{n}te va……?
+@01AE71	{B1}{00}{B6}{00}{AF}{00}{B4}{00}{B0}{00}{B5}{00}{B1}{00}{B6}{00}{B2}{00}{B7}{00}{B3}{00}{B8}{00}{C1}{12}{62}{21}{C9}{EE}{02}{43}{A4}{AE}{21}{00}{E3}{03}{EC}{E0}{23}{C1}{13}{62}{21}{C3}{03}{EC}{E0}{21}{0E}{AC}{AE}{21}{00}{B1}{AE}{21}{00}{05}{03}{04}{07}{06}{09}{0A}{08}{0C}Hangar
+@01AEBB	Sac
+@01AEC1	Sauver
+@01AEC6	Sortir
+@01AECD	Retour
+@01AF67	{03}{84}{AF}{21}{00}{97}{AF}{21}{00}{9D}{AF}{21}{00}Pièces
+@01AF79	Objets
+@01AF7F	Retour
+@01AFB4	{06}{E7}{AF}{21}{00}{0C}{B0}{21}{00}{18}{B0}{21}{00}Bras
+@01AFC6	Jambes
+@01AFCB	Dos
+@01AFD3	Matériaux
+@01AFDA	Acces.
+@01AFE2	Retour
+@01B032	{04}{55}{B0}{21}{00}{6E}{B0}{21}{00}{76}{B0}{21}{00}Soin
+@01B045	Combat
+@01B04B	Outils
+@01B050	Retour
+@01B08E	{05}{B6}{B0}{21}{00}{D5}{B0}{21}{00}{DF}{B0}{21}{00}Équiper
+@01B0A0	Dév.
+@01B0A6	Élever
+@01B0AC	Stats
+@01B0B1	Retour
+@01B0F8	{05}{24}{B1}{21}{00}{43}{B1}{21}{00}{4D}{B1}{21}{00}Unitron
+@01B10C	Pilote
+@01B113	Ingénieur
+@01B11A	Elel
+@01B11F	Fin
+@01B166	{06}{99}{B1}{21}{00}{BE}{B1}{21}{00}{CA}{B1}{21}{00}Bras D
+@01B179	Bras G
+@01B17F	Jambes
+@01B184	Dos
+@01B18C	Acces.
+@01B194	Fin
+@01B2AF	<Ôter>
+@01B5CF	Sac
+@01B5D4	Sac
+@01B600	  (Équipé)
+@01BA68	Déséquiper.
+@01BB65	Dév. max:  /
+@01BB75	Attaques:  /
+@01BB85	Élém:
+@01BB8F	Neutre
+@01BB94	Feu
+@01BB99	Bois
+@01BB9E	Vent
+@01BBA3	Eau
+@01BBA8	Terre
+@01BBAD	Lumière
+@01BBB2	Ténèbres
+@01BBB7	Coût EP
+@01BF35	Base
+@01BF3D	Matériaux
+@01BF44	Succès
+@01C391	Att.
+@01C397	Déf.
+@01C39D	Vit.
+@01C543	Nom:
+@01C549	Pilote
+@01C554	Niv:
+@01C55A	Rang:
+@01C56C	Emblème:
+@01C5D5	Légende
+@01C5DC	M·D·M
+@01C5E3	Grand Maître
+@01C5EB	Seigneur
+@01C5F0	Duc
+@01C5F6	Marquis
+@01C5FC	Vicomte
+@01C604	Novice
+@01C79D	Nom:
+@01C7A3	Ingénieur
+@01C7AE	Niv:
+@01C7C6	Emblème:
+@01C9AA	Nom:
+@01C9B0	???
+@01C9BF	Att.
+@01C9C5	Déf.
+@01C9CB	Vit.
+@01CC50	Att.
+@01CC56	Déf.
+@01CC5C	Vit.
+@01CE84	{p}Pièce/objet?
+@01CE97	{p}Quel type?
+@01CEA7	{p}Ça te va?
+@01CEC3	{p}Merci bien!
+@01CED1	{p}Tant pis.
+@01CEDE	{p}Sac plein!
+@01CEF5	{p}Trop peu d'or!
+@01CF07	{p}Rien à vendre?
+@01CF16	{p}Invendable.
+@01CF24	{p}Merci!
+@01CF48	{p}Pièces ou objets?{n}{n}Tu prends quoi?
+@01CF63	{p}Parfait!{n}{n}Choisis le type.
+@01CF7B	{p}C'est bon, ça?
+@01D035	{p}Merci bien!{n}{n}Reviens nous voir!
+@01D072	{p}Té, pièces ou{n}{n}objets, alors?
+@01D091	{p}Ça roule★{n}{n}Choisis le type~
+@01D0AE	{p}C'est ça qu'il te{n}{n}faut?
+@01D70C	{14}{D7}{21}{00}{19}{D7}{21}{00}{05}{03}{04}{07}{06}{09}{0A}{08}{0C}{03}{3F}{D7}{21}{00}{52}{D7}{21}{00}{58}{D7}{21}{00}Achat
+@01D72A	Achat
+@01D731	Vente
+@01D738	Partir
+@01D76F	{03}{8C}{D7}{21}{00}{9F}{D7}{21}{00}{A5}{D7}{21}{00}Pièces
+@01D781	Objets
+@01D787	Retour
+@01D7BC	{06}{EF}{D7}{21}{00}{14}{D8}{21}{00}{20}{D8}{21}{00}Bras
+@01D7CE	Jambes
+@01D7D3	Dos
+@01D7DB	Matériaux
+@01D7E2	Acces.
+@01D7EA	Retour
+@01D83A	{04}{5D}{D8}{21}{00}{76}{D8}{21}{00}{7E}{D8}{21}{00}Soin
+@01D84D	Combat
+@01D853	Outils
+@01D858	Retour
+@01DB17	Prix
+@01DB1E	Sac
+@01DB23	Sac
+@01DB53	  (Équipé)
+@01DD71	Att.
+@01DD77	Déf.
+@01DD7D	Vit.
+@01E8D3	Oui   Non
+@01FCFA	{p}Retour.
+@01FD03	{p}Bon, voici la{n}{n}liste des objets.
+@01FD17	{p}Pièces ou objets?
+@01FD2A	{p}Choisis le type.
+@01FD3A	{p}C'est bon, ça?
+@01FD56	{p}Et cet objet?
+@01FD68	Utiliser Jeter
+@01FD72	 utilisé
+@01FD7C	{p}Inutilisable!
+@01FD8F	 jeté
+@01FD97	{p}Objet à garder!
+@01FDAA	{p}Grand Mother!
+@01FDBD	{p}Que faire?
+@01FDC9	{p}Quelles stats?
+@01FDDE	{p}Stats Unitron
+@01FDEF	{p}Stats pilote
+@01FE00	{p}Ingénieur
+@01FE11	{p}Stats Elel
+@01FE20	{p}Équiper quoi?
+@01FE32	{p}Sauvegarder?
+@01FE44	{p}Démo: pas de{n}sauvegarde.
+@01FE65	Sauvegardé
+@01FE71	{p}On s'arrête là?
+@01FE84	{p}On sort d'ici!
+@01FE96	{p}Quelle pièce?
+@01FEA9	{p}Quel matériau?
+@01FEBC	{p}Un outil?
+@01FECB	{p}Quel outil?
+@01FEDC	{p}Développer?
+@01FEEC	{p}Développement…!
+@01FEFF	{p}C'est réussi!
+@01FF11	{p}Évolution!!
+@01FF24	{p}C'est raté……
+@01FF37	{p}Continuer?
+@01FF47	{p}Nourrir?
+@01FF55	{p}Quel matériau?
+@01FF68	{p}Ce matériau?
+@01FF7A	{p}Lululun!!{n}« Pleine forme! »{n}【B pour revenir】
+@01FFA0	{p}Lyulyulyu!★{n}« Pleine forme! »{n}【B pour revenir】
+@01FFC8	{p}Lulu~Lululun!{n}« Toute joyeuse »{n}【B pour revenir】
+@01FFF7	{p}Lyu-lyulyun!{n}« Toute joyeuse »{n}【B pour revenir】
+@020026	{p}Lulu~lululuuu★{n}« Elle gambade! »{n}【B pour revenir】
+@020051	{p}Lyu~lyulyulyun!{n}« Elle gambade! »{n}【B pour revenir】
+@02007F	{p}Lululu~★{n}« Bonne humeur »{n}【B pour revenir】
+@0200A5	{p}Lyulyuu~★{n}« Bonne humeur »{n}【B pour revenir】
+@0200CD	{p}Lun lunlun!{n}« En forme »{n}【B pour revenir】
+@0200FA	{p}Lyulyulyuu!{n}« En forme »{n}【B pour revenir】
+@020126	{p}Lululu! Lu★{n}« Tout sourire »{n}【B pour revenir】
+@020152	{p}Lyulyu! Lyu★{n}« Tout sourire »{n}【B pour revenir】
+@020180	{p}Lululu……{n}« Comme d'hab »{n}【B pour revenir】
+@0201AA	{p}Lyulyu~{n}« Comme d'hab »{n}【B pour revenir】
+@0201D4	{p}Lulululu{n}« Rien de neuf »{n}【B pour revenir】
+@0201FC	{p}Lyulyun{n}« Rien de neuf »{n}【B pour revenir】
+@020224	{p}Lululun{n}« Ni bien ni mal »{n}【B pour revenir】
+@020248	{p}Lyulyuuu{n}« Ni bien ni mal »{n}【B pour revenir】
+@02026E	{p}Luluuu……{n}« Toute triste »{n}【B pour revenir】
+@020293	{p}Lyuuuuun……{n}« Toute triste »{n}【B pour revenir】
+@0202BB	{p}Lulu!!{n}« Mal lunée? »{n}【B pour revenir】
+@0202E3	{p}Lyu!!{n}« Mal lunée? »{n}【B pour revenir】
+@02030A	{p}Luuu… mmmh……{n}« Pas en forme »{n}【B pour revenir】
+@020336	{p}Lyuuu… mmh mmh……{n}« Pas en forme »{n}【B pour revenir】
+@020364	{p}………………{n}« Très fâchée! »{n}【B pour revenir】
+@02038F	{p}………………{n}« Très fâchée! »{n}【B pour revenir】
+@0203BA	{p}…………Luuu{n}« Bien abattue »{n}【B pour revenir】
+@0203E5	{p}…………Lyuuu{n}« Bien abattue »{n}【B pour revenir】
+@020411	{p}Lu……luu……flop{n}« Toute molle »{n}【B pour revenir】
+@02043B	{p}Lyu……lyuu……mmh{n}« Toute molle »{n}【B pour revenir】
+@020467	{p}Lu~ Lulu~……{n}« Bien endormie »{n}【B pour revenir】
+@020493	{p}Lyu~ Lyulyu~……{n}« Douce sieste »{n}【B pour revenir】
+@0204C6	{p}Lulu~… miam miam{n}« Aux anges! »
+@0204ED	{p}Lyulyun★ croc croc{n}« Elle jubile! »
+@020516	{p}Lululun! miam miam{n}« Assez contente »
+@02053C	{p}Crac…Lyulyu…croc{n}« Elle savoure »
+@020562	{p}Lululu… miam……{n}« Indifférente »
+@020587	{p}Lyulyu… croc croc…{n}« Pas emballée »
+@0205AF	{p}Luluu…… ptui ptui{n}« Fait la moue »
+@0205D5	{p}Lyu…lyu…… …hop{n}« Pas son truc? »
+@0205F6	{p}Lu…luu…hiii……plof{n}« …Écœurée?! »
+@02061C	{p}Lyulyu!! Hop! Paf!{n}« Jeté, piétiné! »
+@020645	{p}Lu★ Lululu!!{n}« En redemande! »
+@020666	{p}Lyu★ Lyulyu!!{n}« En redemande! »
+@020689	{p}Lululuuu… ptui……{n}« Pas tout mangé »
+@0206AC	{p}……Lyuuuu~~ …ptui{n}« Pas tout mangé »
+@020786	Choix: pilote{n}{n}       ◀▶:Choisir
+@02086C	Choix: partenaire{n}{n}       ◀▶:Choisir
+@02095C	C'est bien ça?{n}{n}     Oui   Non
+@020A2C	Pilote
+@020A33	Binôme
+@020ACD	Choix: Elel{n}{n}       ◀▶:Choisir
+@020B93	C'est bien ça?{n}{n}     Oui   Non
+@020C0E	Elel
+@020CCF	Jess
+@020CD4	Nina
+@020D13	Axel
+@020D19	Lumia
+@020D1E	Weitz
+@020D24	Sera
+@020D28	Gavi
+@020D2D	Yuna
+@020D32	Luca
+@020D37	Fal
+@020D3C	Lloyd
+@020D41	Marie
+@020D5C	Elulu
+@020D61	Ellie
+@020DF5	Nommez votre{n}pilote
+@020E0A	Nommez votre{n}partenaire
+@020E1F	Nommez votre{n}Elel
+@0213B9	abc
+@0213BF	ABC
+@0213C5	Eff.
+@0213CA	OK
+@021572	Jadis……{n}{n}régnait un royaume{n}{n}appelé Raphias.{n}{n}{n}Au cœur de Tridis,{n}{n}le plus grand{n}{n}continent de la{n}{n}planète Elsia,{n}{n}il prospérait.{n}{n}Raphias dominait{n}{n}Tridis depuis{n}{n}500 longues années{n}{n}grâce à des armes{n}{n}robotisées: les{n}{n}Unitrons.{n}{n}{n}Sous son égide,{n}{n}Tridis atteignit{n}{n}l'apogée de sa{n}{n}prospérité.{n}
+@021643	Grisé par une{n}{n}prospérité proche{n}{n}de l'arrogance,{n}{n}Raphias lança le{n}{n}développement{n}{n}d'une machine.{n}{n}{n}{n}Cette machine,{n}{n}【Yggdrasil】,{n}{n}captait la force{n}{n}des esprits dont{n}{n}l'air débordait{n}{n}pour alimenter le{n}{n}monde entier en{n}{n}énergie. Un pur{n}{n}joyau de science.{n}{n}{n}{n}Contemplant{n}{n}【Yggdrasil】 qui{n}{n}brillait d'or,{n}{n}le peuple croyait{n}{n}cette prospérité{n}{n}éternelle.{n}
+@021728	……La cause, nul{n}{n}ne la connaîtra{n}{n}jamais.{n}{n}{n}【Yggdrasil】, qui{n}{n}accumulait une{n}{n}énergie immense……{n}{n}{n}Le symbole de{n}{n}Raphias vola en{n}{n}éclats, aussi{n}{n}aisément que du{n}{n}cristal.{n}{n}{n}{n}Libérée d'un coup,{n}{n}l'énergie anéantit{n}{n}en un instant{n}{n}【Yggdrasil】 et{n}{n}tout, à 600 daïdo{n}{n}à la ronde.{n}{n}Et le désastre ne{n}{n}s'arrêta pas là.{n}{n}{n}Volcans déchaînés…{n}{n}séismes… croûte{n}{n}terrestre brisée.{n}{n}Une catastrophe{n}{n}qui aurait pu{n}{n}raser Tridis tout{n}{n}entier, et plus{n}{n}encore.{n}{n}{n}Ce cataclysme,{n}{n}plus tard nommé{n}{n}【Ragnarok】,{n}{n}coûta à Raphias…{n}{n}à Elsia, bien des{n}{n}vies, et toute sa{n}{n}civilisation.{n}{n}{n}{n}{n}{n}……Et bientôt,{n}{n}100 ans allaient{n}{n}s'écouler.{n}
+@0218E2	Le Ragnarok avait{n}{n}tout pris aux{n}{n}hommes……{n}{n}{n}Leurs descendants{n}{n}exhument des{n}{n}ruines éparses{n}{n}mille outils,{n}{n}vestiges de{n}{n}l'ancienne{n}{n}civilisation, et{n}{n}survivent à peine.{n}{n}{n}{n}Parmi ces{n}{n}trouvailles, les{n}{n}Unitrons, très{n}{n}rares, sont plus{n}{n}précieux que tout.{n}{n}{n}Monstres, bandits…{n}{n}et 【Mécadémons】:{n}{n}ces Unitrons{n}{n}abandonnés devenus{n}{n}incontrôlables……{n}{n}{n}Car pour protéger{n}{n}les siens de ces{n}{n}fléaux, il faut{n}{n}des 【armes】{n}{n}plus puissantes.{n}{n}{n}{n}Chaque pays a son{n}{n}armée d'Unitrons,{n}{n}que le peuple{n}{n}nomme{n}{n}{n}……l'ordre des{n}{n}【chevaliers-méca】.{n}
+@021A5B	À l'est de Tridis{n}{n}s'étend le{n}{n}continent Radina.{n}{n}{n}{n}À son extrémité{n}{n}orientale se{n}{n}trouvait Galia.{n}{n}Cœur de l'Alliance{n}{n}de l'Est, ce{n}{n}royaume possédait{n}{n}le plus puissant{n}{n}ordre de{n}{n}【chevaliers-méca】{n}{n}du continent.{n}{n}{n}Au sein des{n}{n}redoutables{n}{n}【chevaliers-méca】{n}{n}de Galia, un{n}{n}chevalier brillait{n}{n}entre tous:{n}{n}Kiel Zeimer.{n}
+@021B2C	Kiel eut enfin{n}{n}l'enfant tant{n}{n}espéré… ou plutôt{n}{n}des jumeaux, chose{n}{n}rare à l'époque.{n}{n}{n}Kiel les nomma{n}{n}Regina et {J},{n}{n}et savoura ce{n}{n}bonheur avec son{n}{n}épouse adorée,{n}{n}Ailin.{n}{n}{n}{n}Regina et {J}{n}{n}grandirent,{n}{n}enveloppés de{n}{n}l'amour profond{n}{n}de Kiel et Ailin.{n}{n}{n}Des deux, {J}{n}{n}débordait{n}{n}d'énergie. Son{n}{n}rêve: piloter un{n}{n}Unitron, comme{n}{n}Kiel.{n}{n}{n}Mais l'aîné,{n}{n}Regina, était un{n}{n}garçon doux et{n}{n}calme, qui{n}{n}détestait les{n}{n}conflits.{n}{n}C'est sans doute{n}{n}pourquoi il{n}{n}s'attachait plutôt{n}{n}à Ailin.{n}
+@021C90	Mais la paix ne{n}{n}dura pas.{n}{n}{n}Les jumeaux{n}{n}avaient six ans{n}{n}quand tout{n}{n}bascula.{n}{n}{n}La guerre éclata.{n}{n}{n}Le cœur serré de{n}{n}laisser derrière{n}{n}lui ses enfants{n}{n}encore si petits,{n}{n}Kiel partit{n}{n}au combat.{n}{n}……Pour protéger{n}{n}sa famille……{n}{n}ses compagnons……{n}{n}{n}{n}Mais la guerre{n}{n}s'éternisait, et{n}{n}l'angoisse du{n}{n}peuple grandissait{n}{n}de jour en jour.{n}{n}Émeutes, pillages,{n}{n}trahisons……{n}{n}Même à Galia, des{n}{n}luttes sordides{n}{n}éclataient pour{n}{n}les maigres vivres{n}{n}restants.{n}{n}{n}{n}{n}{n}……Trois ans plus{n}{n}tard, la guerre{n}{n}s'acheva enfin.{n}{n}Rentré chez lui,{n}{n}Kiel avait payé la{n}{n}victoire de sa{n}{n}patrie d'un prix{n}{n}inestimable.{n}
+@021E24	Regina darda sur{n}{n}Kiel, son père,{n}{n}un regard plein{n}{n}de haine.{n}{n}Derrière lui,{n}{n}{J} sanglotait.{n}{n}{n}Et auprès des{n}{n}enfants amaigris,{n}{n}nulle trace{n}{n}d'Ailin.{n}{n}{n}{n}Ailin avait péri{n}{n}en défendant ses{n}{n}enfants contre des{n}{n}pillards venus{n}{n}voler les vivres.{n}{n}{n}{n}Des luttes{n}{n}sordides, des{n}{n}cœurs dévoyés.{n}{n}Et le père qui{n}{n}devait protéger sa{n}{n}famille était{n}{n}parti en guerre.{n}{n}Regina hurla.{n}{n}{n}{n}Si tu n'étais pas{n}{n}parti à la guerre,{n}{n}maman ne serait{n}{n}pas morte.{n}{n}Elle est morte à{n}{n}cause des voleurs{n}{n}de nourriture.{n}{n}Mais ses vrais{n}{n}assassins, ce sont{n}{n}ceux qui ont{n}{n}déclenché la{n}{n}guerre… et ceux{n}{n}qui l'ont faite……!{n}{n}{n}{n}Les cris de{n}{n}Regina, les{n}{n}pleurs de {J}{n}{n}accablaient Kiel.{n}{n}Repoussant la main{n}{n}de son père,{n}{n}Regina s'enfuit{n}{n}de la pièce.{n}
+@022001	Trois ans avaient{n}{n}passé depuis la{n}{n}guerre. Les{n}{n}jumeaux avaient{n}{n}douze ans.{n}{n}{n}{n}Kiel avait quitté{n}{n}l'ordre, regretté{n}{n}de tous.{n}{n}Était-ce pour{n}{n}expier sa faute{n}{n}envers Ailin et{n}{n}leurs enfants?{n}{n}{n}{n}Au fil des mois,{n}{n}{J} retrouvait{n}{n}peu à peu le{n}{n}sourire et suivait{n}{n}avec Kiel{n}{n}l'entraînement{n}{n}des chevaliers.{n}{n}Kiel comptait{n}{n}exaucer tous les{n}{n}souhaits de ses{n}{n}enfants……{n}{n}……même s'il{n}{n}s'agissait d'arts{n}{n}de combat.{n}{n}{n}{n}Mais…… pas Regina.{n}{n}Il haïssait{n}{n}toujours Kiel.{n}{n}Il ne lui parlait{n}{n}jamais, et ne{n}{n}souriait plus.{n}{n}Sa mère ne{n}{n}quittait pas ses{n}{n}pensées.{n}
+@02216C	Ce jour-là, Regina{n}{n}se tenait au bord{n}{n}de la source.{n}{n}{n}{n}Une belle source,{n}{n}au plus profond{n}{n}de la forêt.{n}{n}Un lieu plein de{n}{n}souvenirs de sa{n}{n}mère.{n}{n}{n}Quand Kiel était{n}{n}absent, Ailin y{n}{n}emmenait souvent{n}{n}les enfants.{n}{n}{n}{n}……Papa se bat{n}{n}pour nous.{n}{n}Pour que chacun{n}{n}vive en paix.{n}{n}Alors…… on va{n}{n}l'attendre, hein.{n}{n}{n}{n}Elle le répétait{n}{n}sans cesse.{n}{n}Les larmes{n}{n}montèrent aux yeux{n}{n}de Regina.{n}{n}Qu'est-ce que je{n}{n}dois faire……?{n}{n}Regina parlait à{n}{n}sa mère, là-haut{n}{n}au paradis.{n}{n}{n}{n}{n}{n}……C'est alors que{n}{n}……le ciel{n}{n}s'embrasa d'un{n}{n}éclat blanc……{n}
+@0222F3	……C'était juste{n}{n}après une course{n}{n}pour Kiel: {J}{n}{n}leva les yeux{n}{n}vers le ciel.{n}{n}{n}Soudain, un éclat{n}{n}blanc captiva son{n}{n}regard.{n}{n}{n}Quelque chose{n}{n}de familier.{n}{n}Une lumière{n}{n}pleine de chaleur.{n}{n}{n}Elle disparut{n}{n}aussitôt, mais{n}{n}{J} ne pouvait{n}{n}savoir que cet{n}{n}éclair marquait le{n}{n}début de tout.{n}{n}{n}Sur le chemin du{n}{n}retour, {J}{n}{n}apprit une{n}{n}nouvelle terrible.{n}{n}{n}La maison……{n}{n}brûle!?{n}{n}{n}L'instant d'après,{n}{n}{J} courait à{n}{n}perdre haleine.{n}
+@022423	Les gens disaient{n}{n}vrai.{n}{n}{n}Une foule s'était{n}{n}déjà massée autour{n}{n}de la maison pour{n}{n}tenter d'éteindre{n}{n}le feu.{n}{n}{n}Mais l'incendie{n}{n}faisait rage, et{n}{n}rien n'y faisait.{n}{n}Au milieu de la{n}{n}panique, {J}{n}{n}se jeta sans{n}{n}hésiter dans le{n}{n}brasier écarlate.{n}{n}{n}Car au cœur des{n}{n}flammes se{n}{n}dessinait la{n}{n}silhouette de{n}{n}Kiel, son père.{n}{n}{n}{n}Des flammes{n}{n}pourpres.{n}{n}Au centre de ce{n}{n}voile maudit,{n}{n}son père gisait.{n}
+@022530	 {J}…………{n}{n}{n}{n}Ses lèvres{n}{n}remuèrent à peine.{n}{n}Une voix faible,{n}{n}à bout de souffle.{n}{n}{J} vit alors{n}{n}la tache rouge vif{n}{n}qui s'étendait sur{n}{n}sa poitrine.{n}{n}{n}{n} ……Ce qui m'arrive{n}{n} ……ne pouvait{n}{n} être évité.{n}{n} Il faut…… expier{n}{n} ses fautes……{n}{n}{n}{n}Expier?{n}{n}Quelles fautes?{n}{n}Que veut-il dire?{n}{n}{J} ne comprit{n}{n}pas. La main de{n}{n}son père, serrée{n}{n}dans la sienne,{n}{n}se glaçait peu à{n}{n}peu.{n}{n}{n}{n} {J}………… j'ai{n}{n} un service à te{n}{n} demander.{n}{n} ………… Tu{n}{n} m'écoutes?{n}{n}{n}{n}D'une main{n}{n}tremblante, il{n}{n}confia à {J}{n}{n}un pendentif doré{n}{n}et une clé{n}{n}argentée.{n}{n}{n}{n} Le pendentif……{n}{n} donne-le à{n}{n} Regina……{n}{n} Ce pendentif……{n}{n} devrait le{n}{n} sauver……{n}{n} La clé…… elle est{n}{n} pour toi……{n}{n} Tu en auras……{n}{n} besoin.{n}{n} Soyez…… unis……{n}{n} tous les deux……{n}{n}{n}{n}Toute force quitta{n}{n}la grande main{n}{n}de son père.{n}{n}{n}{n}Le feu grondait,{n}{n}{J} hurlait,{n}{n}l'air tremblait……{n}
+@022768	Regina avait{n}{n}disparu.{n}{n}Où était-il allé?{n}{n}Nul ne le savait.{n}{n}{n}{n}Dans le soleil{n}{n}couchant, {J}{n}{n}contemplait la clé{n}{n}argentée.{n}{n}……Une vieille clé{n}{n}d'argent.{n}{n}{n}{n}L'unique souhait{n}{n}que son père lui{n}{n}avait confié.{n}{n}Et la clé de{n}{n}l'Unitron qui{n}{n}avait parcouru{n}{n}tant de champs de{n}{n}bataille avec lui.{n}{n}{n}{n}{n}{n}Et aujourd'hui,{n}{n}{J}{n}{n}part à l'aventure{n}{n}avec l'Unitron.{n}{n}{n}Pour l'unique vœu{n}{n}confié par son{n}{n}père……{n}
+@022886	Le dernier éclat{n}{n}lancé par 【Fatae】{n}{n}baigna tout de{n}{n}blanc.{n}{n}{n}Dans la lumière,{n}{n}murs et sol{n}{n}s'effondraient.{n}{n}Dans la lumière,{n}{n}tout s'écroulait.{n}{n}{n}Une pluie de{n}{n}débris s'abattait.{n}{n}Un bloc énorme{n}{n}allait écraser le{n}{n}duo, quand……{n}{n}{n}À cet instant,{n}{n}{J} vit {P}{n}{n}sourire avec{n}{n}douceur. Un doux{n}{n}sourire, pourtant{n}{n}si triste.{n}{n}{n}Un éclat plus fort{n}{n}que la lumière de{n}{n}【Fatae】 engloutit{n}{n}tout, et {J}{n}{n}perdit{n}{n}connaissance.{n}
+@022C3C	{P} baissait la{n}{n}tête. {J} posa{n}{n}la main sur son{n}{n}épaule. {J} lui{n}{n}sourit en silence,{n}{n}puis {J} dit:{n}{n}{n}Rentrons en ville.{n}{n}Il y a tant à{n}{n}faire. Nous avons{n}{n}encore une tâche{n}{n}à accomplir.{n}{n}{n}À ces mots, {P}{n}{n}acquiesça{n}{n}vivement.{n}{n}{n}Oui.{n}{n}Il n'y a pas que{n}{n}la tristesse.{n}{n}Les peines……{n}{n}les joies……{n}{n}tout arrive en{n}{n}même temps.{n}{n}Voilà pourquoi{n}{n}ils vivent.{n}{n}Parce qu'il y a{n}{n}un lendemain.{n}{n}Parce que demain{n}{n}viendra.{n}{n}Et ainsi, ils{n}{n}vont de l'avant.{n}{n}{n}Dans le ciel{n}{n}brillent deux{n}{n}lunes pâlissantes{n}{n}qui peu à peu{n}{n}s'effacent dans{n}{n}l'aube.{n}{n}{n}{J} observe le{n}{n}ciel.{n}{n}Demain sera-t-il{n}{n}un beau jour?{n}{n}……Non.{n}{n}Ça ne dépend que{n}{n}de nous.{n}{n}Demain sera un{n}{n}beau jour, à coup{n}{n}sûr.{n}{n}{J} en a la{n}{n}certitude.{n}{n}{n}{n}【Raison de vivre】{n}
+@022E22	{J} et {P}{n}{n}l'entendirent{n}{n}clairement: la{n}{n}voix de la{n}{n}ménestrelle qui{n}{n}avait été leur{n}{n}soutien.{n}{n}{n}Qu'un beau{n}{n}lendemain vous{n}{n}attende.{n}{n}Que le bonheur{n}{n}vous sourie.{n}{n}Je prie pour vous.{n}{n}Je suis une{n}{n}ménestrelle.{n}{n}Celle qui porte{n}{n}la musique et{n}{n}conte l'histoire.{n}{n}Et celle qui n'a{n}{n}pu sauver ses deux{n}{n}sœurs égarées.{n}{n}Mon nom est{n}{n}【Clotho】……{n}
+@022F11	Elle avait{n}{n}disparu, comme si{n}{n}elle n'avait été{n}{n}qu'un mirage.{n}{n}{n}……Tous deux le{n}{n}pressentent.{n}{n}{n}【Elle】, on ne la{n}{n}reverra plus……{n}{n}{n}Dans le ciel{n}{n}inondé de lumière,{n}{n}résonna le{n}{n}vrombissement d'un{n}{n}moteur.{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}{n}
+@022FCA	La salle entière{n}{n}se mit à gronder{n}{n}sourdement.{n}{n}{n}Puis, sur les{n}{n}innombrables{n}{n}câbles qui{n}{n}tapissaient le sol{n}{n}comme des racines,{n}{n}des étincelles{n}{n}bleues jaillirent.{n}{n}{n}L'immense énergie{n}{n}enfouie dans{n}{n}Yggdrasil{n}{n}convergeait{n}{n}désormais vers un{n}{n}point unique: la{n}{n}【souche d'Agastia】{n}{n}cœur même{n}{n}d'【Agastia】.{n}{n}{n}Le grondement{n}{n}ébranlait l'air,{n}{n}les étincelles le{n}{n}déchiraient.{n}{n}Et sur la{n}{n}【souche d'Agastia】{n}{n}une lumière dorée{n}{n}commença à{n}{n}s'amasser.{n}{n}{n}Sous les yeux de{n}{n}{J} et {P},{n}{n}qui retenaient{n}{n}leur souffle,{n}{n}la lumière prit{n}{n}une autre forme:{n}{n}un superbe pilier{n}{n}d'or. C'était le{n}{n}【tronc d'Agastia】.{n}
+@023223	Tout s'accomplit.{n}{n}L'énergie{n}{n}d'Yggdrasil fit{n}{n}trembler Agastia{n}{n}et distordit le{n}{n}temps.{n}{n}{n}Et à présent,{n}{n}le vœu allait{n}{n}s'exaucer.{n}{n}Une silhouette{n}{n}familière apparut.{n}{n}{n}Dans la lumière{n}{n}dorée, il ouvrit{n}{n}lentement les yeux{n}{n}et fixa {J},{n}{n}l'air stupéfait,{n}{n}incrédule.{n}{n}{n} Toi…… {J}?{n}{n} Qu'est-ce que je{n}{n} fais là?{n}{n} Je…… je ne suis{n}{n} pas mort?{n}{n}{n}À ces mots,{n}{n}{J} répondit{n}{n}par un sourire.{n}{n}{n} Parce que……{n}{n} grand frère, tu{n}{n} n'as pas salué{n}{n} papa et maman……{n}{n}{n}Face à {J},{n}{n}il baissa un{n}{n}moment la tête,{n}{n}puis la releva.{n}{n}{n} ……T'as raison.{n}{n} Maman…… et papa,{n}{n} faut que j'aille{n}{n} les saluer.{n}
+@0233D2	Regina saisit{n}{n}lentement la main{n}{n}que {J} lui{n}{n}tendait. Les yeux{n}{n}de {J} se{n}{n}mouillèrent; ses{n}{n}larmes brillaient{n}{n}dans la lumière.{n}{n}{n} Allons les voir……{n}{n} papa et maman.{n}{n} ……Oui.{n}{n} Ils t'ont tant{n}{n} attendu……{n}{n}{n}Dans la lumière{n}{n}dorée, les corps{n}{n}des jumeaux{n}{n}ne firent plus{n}{n}qu'un.{n}{n}{n} {J}……{n}{n} Moi…… non……{n}{n} Qu'est-ce que{n}{n} j'ai fait……?{n}{n} Un long…… et{n}{n} sombre chemin.{n}{n} Je cherchais une{n}{n} seule lumière,{n}{n} perdu dans le{n}{n} noir.{n}{n} Mais……{n}{n} ……Ha ha.{n}{n} J'ai compris.{n}{n} Rentrons chez{n}{n} nous. Là où papa{n}{n} et maman nous{n}{n} attendent.{n}{n}{n}Contemplant{n}{n}l'étreinte des{n}{n}jumeaux, {P}{n}{n}luttait contre{n}{n}ses larmes……{n}
+@023573	…………{n}{n}Quelques mois ont{n}{n}passé.{n}{n}{n}{J} et sa bande{n}{n}sont à Tridis.{n}{n}Depuis Albaris,{n}{n}ils sillonnent{n}{n}toujours le{n}{n}continent.{n}{n}{n}Il leur arrive{n}{n}d'accepter les{n}{n}requêtes de Solty,{n}{n}mais leur but{n}{n}premier reste{n}{n}l'exploration des{n}{n}donjons.{n}{n}{n}{P} confie{n}{n}que {J} déborde{n}{n}d'énergie, et que{n}{n}c'est épuisant.{n}{n}Leur relation?{n}{n}C'est leur secret.{n}{n}{FF07} sert{n}{n}toujours{n}{n}d'énergie à{n}{n}l'Unitron, dit-on.{n}{n}{n}Et…… Regina……{n}
+@02369A	Au fond d'une{n}{n}épaisse forêt,{n}{n}une source{n}{n}paisible faisait{n}{n}miroiter ses eaux{n}{n}bleues.{n}{n}{n}Sur sa rive, deux{n}{n}silhouettes, comme{n}{n}blotties l'une{n}{n}contre l'autre.{n}{n}L'une, une épée.{n}{n}L'autre, une{n}{n}croix.{n}{n}{n}Et à l'épée{n}{n}pendait un{n}{n}pendentif doré.{n}{n}{n}Une croix d'un{n}{n}blanc pur, une{n}{n}épée d'argent{n}{n}étincelante.{n}{n}C'était une tombe.{n}{n}{n}Soudain, un{n}{n}bruissement.{n}{n}{n}Un jeune homme{n}{n}approchait.{n}{n}Il déposa sur la{n}{n}tombe les fleurs{n}{n}qu'il tenait, puis{n}{n}murmura, timide:{n}{n}{n}{n}{n}{n}{n}{n} ……Me revoilà.{n}{n} Papa……{n}{n} Maman……{n}{n}{n}{n}{n}{n}{n}{n}
+@02BE55	Passer l'intro?{n}           Oui Non
+@02ED41	{01}{01}
+@02FADD	{01}{01}
+@033834	{33}{31}{00}{13}{7D}{33}{5C}{00}{33}{30}{00}{13}{02}{C4}{0F}{C6}{D6}{05}{11}{33}{D8}{00}{62}{0F}{D5}{02}{11}{33}{77}{10}{01}{13}
+@047FFA	{63}{30}{16}{06}{91}{00}{77}{32}{23}{12}{6A}{11}{31}{33}{23}
+@05D441	{p}★Stats d'Unitron★{n}{n}Attaque{n}   D…bras droit{n}   G…bras gauche{n}{n}Défense{n}   D…bras droit{n}   G…bras gauche{n}{n}Vitesse…initiative{n}{n}HP  …résistance{n}EP  …énergie{n}{n}AT  …élément{n}             01/17
+@05D507	{p}★Éléments 1★{n}{n}Chaque Unitron et{n}monstre a un{n}【élément】.{n}{n}Celui d'un Unitron{n}dépend de sa race:{n}{n} Humain  …【火】{n} Sylvain …【木】{n} Bestien …【風】{n} Fée     …【水】{n} Gnome   …【土】{n}{n}             02/17
+@05D5BE	{p}★Éléments 2★{n}{n}火 …【feu】{n}風 …【vent】{n}木 …【bois】{n}水 …【eau】{n}土 …【terre】{n}闇 …【ténèbres】{n}光 …【lumière】{n}Neutre…élément nul{n}{n}Sans élément, pas{n}de malus, mais pas{n}de bonus non plus.{n}{n}{n}             03/17
+@05D6A8	{p}★Éléments 3★{n}{n}火…bat 木, craint 水{n}風…bat 水, craint 土{n}木…bat 土, craint 火{n}水…bat 火, craint 風{n}土…bat 風, craint 木{n}光…normal partout{n}闇…bat tout sauf 光{n}{n}Les dégâts varient{n}selon l'affinité.{n}{n}Repérer l'élément{n}ennemi aide à{n}vaincre.{n}             04/17
+@05D788	{p}★Les donjons★{n}{n}【forêt verdoyante】{n} Donjon de forêt.{n} Monstres de terre{n}【lac d'Argent】{n} Donjon souterrain{n} Monstres marins{n}【tour du Mirage】{n} Ruines antiques{n} Monstres volants{n}Ruines de Raphias{n} Cité en ruines{n} Unitrons-monstres{n} 「Mécadémons」{n}{n}             05/17
+@05D86A	{p}★Donjon: objets 1★{n}{n}【Source】{n} Eau bleue qui{n} s'active avec A.{n} Rend des HP/EP,{n} mais peut nuire.{n}{n}【Monolithe】{n} Stèle noire qui{n} s'active avec A.{n} Hausse les stats,{n} voire les baisse…{n}{n}{n}{n}             06/17
+@05D938	{p}★Donjon: objets 2★{n}{n}【Trou de ver】{n} Tourbillon bleu.{n} Téléporte vers{n} un autre donjon.{n} La stèle voisine{n} indique où.{n}{n}【Téléporteur】{n} Cercle magique.{n} Téléporte dans{n} le même donjon.{n} Liés par couleur.{n}{n}{n}             07/17
+@05DA14	{p}★Combat 1★{n}{n}【Attaque】{n} Coup du bras D/G.{n} L'autre bras{n} sert à défendre.{n}【Technique】{n} Lance une{n} technique connue.{n}【Objets】{n} Utilise un objet.{n}【Charge】{n} Rend 30% des EP.{n}【Fuite】{n} Fuit le combat.{n}{n}             08/17
+@05DAE1	{p}★Combat 2★{n}{n}Récupérer des HP:{n} 【Réparation】 ou{n} une technique.{n} Ou bien rentrer{n} en ville.{n}{n}Récupérer des EP:{n} 【Énergie】 ou la{n} 【Charge】 rendent{n} les EP perdus.{n}{n}{n}{n}{n}             09/17
+@05DBDE	{p}★Combat 3★{n}{n}Attaques limitées{n} Certains bras ont{n} un nombre limité{n} d'attaques par{n} combat. À zéro,{n} ils deviennent{n} inutilisables.{n} Le compteur se{n} recharge à la fin{n} du combat.{n}{n}{n}{n}{n}             10/17
+@05DC9A	{p}★Les maux★{n}{n}【Poison】{n} …Dégâts aux HP{n}【Drain】{n} …Dégâts aux EP{n}【Rouille】{n} …Dégâts HP et EP{n}【Paralysie】{n} …Pas d'attaque{n}【Virus】{n} …Pas de technique{n}【Cécité】{n} …Vitesse / 2{n}{n}{n}             11/17
+@05DD57	{p}★Développement 1★{n}{n}On développe bras,{n}jambes et dos en{n}y mettant des{n}matériaux.{n}{n} ★Étapes★{n} 1 Choix: pièce{n} 2 Choix: matériau{n} 3 Outil ou non{n} 4 Développer!{n}{n}Succès: stats en{n}hausse, et parfois{n}la pièce 【évolue】!{n}             12/17
+@05DE4A	{p}★Développement 2★{n}{n} ★Astuce★{n}10 développements{n}max par pièce.{n}{n}Renforcez 9 fois,{n}faites 【évoluer】 à{n}la 10e. Imparable!{n} ★Combinaisons★{n}【Rapière】+{n}【Mother Heart】…?{n}【Chevalier】+{n}【Pierre de feu】…?{n}【Dead Fin】+{n}【Ice Crux】…?{n}             13/17
+@05DF39	{p}★Élevage 1★{n}{n}Pas de niveaux: on{n}progresse en{n}【élevant】 l'Elel.{n}{n}Les 【EP】 dépendent{n}de l'Elel seule:{n}sans 【élevage】,{n}ils stagnent.{n}{n}Pour cela, prenez{n}【Élever】 dans le{n}menu Hangar du{n}transporteur.{n}{n}             14/17
+@05E00F	{p}★Élevage 2★{n}{n}Selon la race du{n}partenaire, l'Elel{n}a ses 【matériaux】{n}favoris.{n}{n}Un matériau aimé{n}booste ses stats,{n}un matériau honni{n}les fait chuter.{n}{n}Étudiez ses goûts{n}pour l'élever{n}efficacement.{n}{n}             15/17
+@05E0EB	{p}★Astuces 1★{n}{n}【Je perds!!】{n}Hélas, monter de{n}niveau ne renforce{n}pas l'Unitron.{n}Pour y parvenir……{n}{n} 1 Équiper mieux.{n} 2 【Renforcer】.{n} 3 Élever l'Elel.{n}{n}Essayez donc!{n}★Et pour les EP,{n} une seule voie:{n} 【élever】 l'Elel!{n}             16/17
+@05E1D9	{p}★Astuces 2★{n}{n}【Quels bras?】{n}Type épée{n} Att./Déf. élevées{n}Type hache{n} Att./HP élevés.{n}Type lance, fouet{n} Tout est moyen.{n}Type bouclier{n} Défense seulement{n}Type arc{n} Attaque seulement{n}Type fusil{n} Munitions, 0 EP.{n}{n}             17/17
+@05E353	{00}{00}{00}{00}{00}{01}{00}Ville
+@05E360	Forêt verdoyante
+@05E36A	Tour du Mirage
+@05E374	Lac d'Argent
+@05E37F	Ruines de Raphias
+@05E389	Porte d'Yggdrasil
+@05E3B9	{07}Sanctuaire sylvain{n}{n}béni des esprits,{n}{n}qui aurait bravé{n}{n}le Ragnarok.{n}
+@05E40D	{07}Ele Zar, bande de{n}{n}pillards armés,{n}{n}se terrerait ici,{n}{n}au temple du fond…{n}
+@05E45D	{07}Forêt des Sylvains{n}{n}bénie des esprits.{n}{n}En son cœur dort{n}{n}un temple caché.{n}
+@05E4AD	{07}Sœur des ruines du{n}{n}Vent, détruites au{n}{n}Ragnarok. Leur{n}{n}magie la cachait.{n}
+@05E4FA	{07}Ruines antiques où{n}{n}serait la clé des{n}{n}Enfers. Au sommet,{n}{n}un autel divin.{n}
+@05E540	{07}Bâti jadis pour{n}{n}communier avec les{n}{n}esprits. Au sommet{n}{n}trône leur autel.{n}
+@05E588	{07}Sanctuaire des{n}{n}Ondins disparus,{n}{n}jailli des flots{n}{n}au Ragnarok.{n}
+@05E5DF	{07}Épreuve de Solty{n}{n}pour la guilde:{n}{n}retrouver ici la{n}{n}médaille cachée.{n}
+@05E62D	{07}Sanctuaire ondin{n}{n}jadis appelé{n}{n}【Galerie d'Azur】.{n}{n}Un temple au fond.{n}
+@05E679	{07}Capitale du jadis{n}{n}glorieux Raphias,{n}{n}que le Ragnarok a{n}{n}réduite en ruines.{n}
+@05E6C1	{07}Un mystérieux{n}{n}chevalier noir y{n}{n}rôde. Sous terre:{n}{n}porte de Fer close{n}
+@05E70A	{07}Regina, voleur de{n}{n}la clé des Enfers,{n}{n}serait venu ici.{n}{n}Il faut la ravoir!{n}
+@05E750	{05}Dessous se cache{n}{n}l'origine du mal.{n}{n}L'ultime combat{n}{n}approche……{n}
+@05E787	{03}…………………{n}{n}Où Regina périt……{n}
+@05E7AB	{07}Ruines flottantes{n}{n}surgies en mer.{n}{n}L'espace distordu{n}{n}repousse l'intrus.{n}
+@05E7F8	{07}La cause même du{n}{n}Ragnarok.{n}{n}Où tout commença,{n}{n}où tout finira……{n}
+@05E842	Entrer?  Oui Non
+@05E854	{04}{0A}{29}{00}{5A}{E3}{25}{00}{08}{0A}{2A}{00}{60}{E3}{25}{00}{08}{01}{26}{00}{6A}{E3}{25}{00}{09}{07}{2C}{00}{74}{E3}{25}{00}{08}{05}{2A}{00}{7F}{E3}{25}{00}{00}{00}{00}{00}{00}{00}{00}{00}{09}{01}{2C}{00}{89}{E3}{25}{00}Carte de départ?{n}{n}
+@05E8A0	  Galerie Verte{n}
+@05E8AE	  Rivière-Feuille{n}
+@05E8BB	  Haie d'Épines{n}
+@05E8C9	  Galerie du Vent{n}
+@05E8D6	  Tribunal{n}
+@05E8E1	  Voie des Dieux{n}
+@05E8EF	  Galerie d'Azur{n}
+@05E8FC	  Mer de la Lune{n}
+@05E909	  Fleuve Blanc{n}
+@05E915	  Grand-Rue{n}
+@05E923	  Parc des Sources{n}
+@05E931	  Ville royale{n}
+@05E93D	  Du début{n}
+@05F4DE	{n}{J} s'écroule……{FF03}
+@0B7A87	Ouvrir le coffre?{n}{n}  Oui Non
+@0B7AA2	{n}Coffre vide…
+@0B7AB3	 dedans!{n}
+@0B7ABD	{J} obtient{n}
+@0B7AC4	!
+@0B7ACD	{n}Hélas, sac plein…
+@0B7ADF	Des pièces d'or!{n}
+@0B7AEC	G gagnés!
+@0B7AF5	…Piège déclenché!!{n}Un dard au doigt!{n}Poison injecté!!
+@0B7B29	…Piège déclenché!!{n}Un écran de fumée!{n}Tout est noir!!
+@0B7B5B	…Piège déclenché!!{n}Une explosion!{n}HP perdus:
+@0B7B80	…Piège déclenché!!{n}Énergie aspirée!{n}EP perdus:
+@0B7BA6	!!
+@0B7BAF	…Piège déclenché!!{n}Tout se déforme!{n}{J} disparaît!!
+@0B7BDE	Une source claire.{n}Aucune force ici…{n}
+@0B7C02	Une source claire.{n}Une douce chaleur…{n}
+@0B7C24	Une source claire.{n}Une force intense…{n}
+@0B7C44	Une source brille.{n}Force des esprits…{n}
+@0B7C67	Une source claire.{n}Une force glacée…{n}
+@0B7C88	Toucher?  Oui Non
+@0B7C9B	Aucun effet…
+@0B7CAC	La chaleur afflue!{n}HP au maximum!
+@0B7CCD	La force afflue!{n}EP au maximum!
+@0B7CEC	Force des esprits!{n}Tout est réparé!
+@0B7D12	Un froid mordant!!{n}HP perdus:
+@0B7D29	!!
+@0B7D5E	Feu
+@0B7D63	Bois
+@0B7D67	Vent
+@0B7D6B	Eau
+@0B7D6F	Terre
+@0B7D73	: un emblème{n}
+@0B7D86	Une force ténue…{n}
+@0B7D98	Aucune force ici…{n}
+@0B7DD5	La force afflue!{n}
+@0B7DE5	Force absorbée!{n}
+@0B7DFA	Sans effet…
+@0B7E07	Attaque
+@0B7E11	EP
+@0B7E16	Vitesse
+@0B7E1D	HP
+@0B7E22	Défense{n}
+@0B7E2E	monte!!
+@0B7E37	baisse…
+@0B7E40	{D5}{7D}{2B}{00}{07}{7E}{2B}{00}{2E}{7E}{2B}{00}{59}{AC}{20}{00}{03}{00}{D5}{7D}{2B}{00}{11}{7E}{2B}{00}{2E}{7E}{2B}{00}{65}{AD}{20}{00}{03}{00}{D5}{7D}{2B}{00}{16}{7E}{2B}{00}{2E}{7E}{2B}{00}{DF}{AC}{20}{00}{03}{00}{D5}{7D}{2B}{00}{1D}{7E}{2B}{00}{2E}{7E}{2B}{00}{22}{AD}{20}{00}{03}{00}{D5}{7D}{2B}{00}{22}{7E}{2B}{00}{2E}{7E}{2B}{00}{9C}{AC}{20}{00}{03}{00}{E5}{7D}{2B}{00}{07}{7E}{2B}{00}{37}{7E}{2B}{00}{59}{AC}{20}{00}{03}{01}{E5}{7D}{2B}{00}{11}{7E}{2B}{00}{37}{7E}{2B}{00}{65}{AD}{20}{00}{03}{01}{E5}{7D}{2B}{00}{16}{7E}{2B}{00}{37}{7E}{2B}{00}{DF}{AC}{20}{00}{03}{01}{E5}{7D}{2B}{00}{1D}{7E}{2B}{00}{37}{7E}{2B}{00}{22}{AD}{20}{00}{03}{01}{E5}{7D}{2B}{00}{22}{7E}{2B}{00}{37}{7E}{2B}{00}{9C}{AC}{20}{00}{03}{01}……Trappe!!{n}
+@0B7F02	HP:
+@0B7F07	 perdus!
+@0B7F13	On dégringole!
+@0B7F23	Téléporteur!!
+@0B7F32	【Vers la forêt
+@0B7F3D	【Vers la tour
+@0B7F48	【Vers le lac
+@0B7F54	【Vers les ruines
+@0B7F8F	】{n}dit un panneau…
+@0B7FA7	Zone 0
+@0B7FAD	Zone 1
+@0B7FB3	Zone 2
+@0B7FB9	Zone 3
+@0B7FBF	Zone 4
+@0B7FC5	Zone 5
+@0B7FCB	Zone 6
+@0B7FD1	Zone 7
+@0B7FD7	Zone 8
+@0B7FDD	Zone 9
+@0B7FE3	Zone 10
+@0B7FEA	Zone 11
+@0B7FF1	Zone 12
+@0B7FF8	Zone 13
+@0B7FFF	Zone 14
+@0B8006	Zone 15
+@0B800D	Zone 16
+@0B8014	Zone 17
+@0B801B	Zone 18
+@0B8022	Zone 19
+@0B8029	Zone 20
+@0B8030	Zone 21
+@0B8037	Zone 22
+@0B803E	Zone 23
+@0B8045	Zone 24
+@0B804C	Zone 25
+@0B8053	Zone 26
+@0B805A	Zone 27
+@0B8061	Zone 28
+@0B8068	Zone 29
+@0B806F	Zone 30
+@0B80F2	Galerie Verte
+@0B80FC	Rivière-Feuille
+@0B8105	Haie d'Épines
+@0B810F	Domaine Vert
+@0B8119	Galerie du Vent
+@0B8122	Tribunal
+@0B8129	Voie des Dieux
+@0B8133	Autel des âmes
+@0B813D	Galerie d'Azur
+@0B8146	Mer de la Lune
+@0B814F	Fleuve Blanc
+@0B8157	Domaine des Eaux
+@0B8160	Grand-Rue
+@0B816A	Parc des Sources
+@0B8174	Ville royale
+@0B817C	Arène
+@0B820D	Forêt verdoyante{n}
+@0B8219	Tour du Mirage{n}
+@0B8225	Lac d'Argent{n}
+@0B8232	Ruines de Raphias{n}
+@0B823E	Nef céleste déchue{n}
+@0B824A	Porte d'Yggdrasil{n}
+@0B826F	Sanct. des esprits{n}
+@0B828E	Rou:
+@0B829C	    Normal
+@0B82C0	    Cécité
+@0B82CC	     Drain
+@0B82D8	   Poi Rou
+@0B82E4	   Rou Céc
+@0B82F0	   Poi Céc
+@0B82FC	Poi Rou Céc
+@0B8308	   Poi Dra
+@0B8314	   Rou Dra
+@0B8320	Poi Rou Dra
+@0B832C	   Dra Céc
+@0B8338	   Poi Dra
+@0B8344	   Rou Dra
+@0B8350	Poi Rou Dra
+@0BAAA6	Vêtu de 【lumière】,{n}{n}j'en suis l'éclat.
+@0BAACB	Toute 【lumière】{n}{n}m'appartient.
+@0BAAE4	Voulez-vous passer{n}{n}mon 【épreuve】?
+@0BAB03	Réponds.
+@0BAB0F	Je suis l'esprit{n}{n}divin 【Righteous】.
+@0BAB2E	Je vous le redis:{n}{n}mon 【épreuve】?
+@0BAB4F	Répondez.
+@0BAC69	Bienvenue à vous.{n}{n}Je suis 【Darquess】
+@0BAC88	Les 【ténèbres】 qui{n}{n}tuent et bercent.
+@0BACAB	【Mort】 et 【repos】:{n}{n}je donne les deux.
+@0BACCA	Accepterez-vous{n}{n}mon 【épreuve】?
+@0BACED	Répondez.
+@0BACF7	Je suis l'esprit{n}{n}divin 【Darquess】.
+@0BAD17	Mon 【épreuve】, la{n}{n}subirez-vous?
+@0BAD3A	Répondez.
+@0BAE5C	Ha! Vous voilà!{n}{n}Moi, 【Revatios】!
+@0BAE7A	La 【flamme】 qui{n}{n}détruit et recrée!
+@0BAE9D	【Feux】 contraires,{n}{n}je garde le monde!
+@0BAEBF	Vous venez pour{n}{n}mon 【épreuve】?
+@0BAEDD	Envie de force?
+@0BAEE9	Moi, l'esprit{n}{n}divin 【Revatios】!
+@0BAF09	Dites-moi, vous{n}{n}osez l'【épreuve】?
+@0BAF29	Répondez!
+@0BB069	…Bienvenue.{n}{n}Je suis 【Ortania】.
+@0BB083	L'【eau】 si douce,{n}{n}l'【eau】 qui rugit.
+@0BB0A4	Reine des 【eaux】{n}{n}qui donnent vie.
+@0BB0C6	Tenterez-vous mon{n}{n}【épreuve】?
+@0BB0E6	Votre… réponse?
+@0BB0F5	Je suis l'esprit{n}{n}divin 【Ortania】.
+@0BB112	Acceptez-vous donc{n}{n}mon 【épreuve】?
+@0BB136	Réponse?
+@0BB272	Ho ho! Bienvenue!{n}{n}Je suis 【Trefgram】
+@0BB295	Gardien des 【bois】{n}{n}et de l'【harmonie】
+@0BB2BE	Les 【bois】 se{n}{n}taisent… pas moi!
+@0BB2E7	Alors, jeunesse:{n}{n}c'est l'【épreuve】?
+@0BB30E	Alors?
+@0BB315	Je suis l'esprit{n}{n}divin 【Trefgram】.
+@0BB333	L'【épreuve】, vous{n}{n}la tentez, hein?
+@0BB353	Répondez.
+@0BB499	Belle ascension.{n}{n}Je suis 【Aeriard】.
+@0BB4BD	Vêtu de 【vent】,{n}{n}dansant au 【vent】.
+@0BB4D8	【Tempête】 furieuse{n}{n}et douce 【brise】.
+@0BB4F9	Que voulez-vous?{n}{n}L'【épreuve】, donc?
+@0BB522	Répondez.
+@0BB529	Je suis l'esprit{n}{n}divin 【Aeriard】.
+@0BB549	Je vous interroge:{n}{n}mon 【épreuve】?
+@0BB567	Réponse?
+@0BB68B	Vous voici donc.{n}{n}Je suis 【Quoranas】
+@0BB6A8	Je garde l'immense{n}{n}【terre】 maternelle
+@0BB6C7	Ma clémence crée,{n}{n}mon ire détruit.
+@0BB6ED	L'【épreuve】, pour{n}{n}gagner ma grâce?
+@0BB717	Répondez.
+@0BB724	Je suis l'esprit{n}{n}divin 【Quoranas】.
+@0BB742	Répondez-moi donc:{n}{n}mon 【épreuve】?
+@0BB762	Répondez.
+@0BB898	Ton choix?
+@0BB967	Lequel choisir?
+@0BBA1C	Et vous{n}{n}l'obtiendrez.
+@0BBA66	Choisissez!
+@0BBB41	Votre choix?
+@0BBBEE	Et vous l'aurez.
+@0BBC26	Lequel, hein?
+@0BBD08	Quel pouvoir?
+@0BBDDF	Quel pouvoir?
+@0BBEBA	Grâce{n}{n}
+@0BBEC5	Corps{n}{n}
+@0BBED1	Arme{n}{n}
+@0BBEDC	Preuve{n}{n}
+@0BBEE8	Fin
+@0BC16C	{P} appelle.
+@0BC179	Mais
+@0BC17E	dans un flou rouge
+@0BC190	le monde fond.
+@0BC19C	Tout s'empourpre,
+@0BC1AA	tout s'efface.
+@0BC1BB	{P} s'éloigne.
+@0BC1CA	Puis
+@0BC1CF	plus un bruit.
+@0BC1DC	Rien…………
+@0BC1F6	Froid…
+@0BC1FE	pensa {J}.
+@0BC208	Un froid mordant
+@0BC218	lui gèle le corps.
+@0BC228	Plus de douleur.
+@0BC235	Rien que le froid.
+@0BC245	Froid…
+@0BC24D	Dans la brume,
+@0BC25E	quelqu'un crie.
+@0BC26C	Qui était-ce?
+@0BC27C	Un voile immaculé
+@0BC28D	recouvrit tout.
+@0BC2AB	Ce qui ruisselle,
+@0BC2B9	…qu'est-ce donc?
+@0BC2C8	Jaillies du corps,
+@0BC2D4	ces perles rouges…
+@0BC2E1	…qu'est-ce donc?
+@0BC2F0	…Bien sûr.
+@0BC2F8	C'est… la 【vie】.
+@0BC306	La 【vie】 qui fuit.
+@0BC317	Quand tout a fui,
+@0BC327	la 【vie】 envolée,
+@0BC336	ce qui attend………
+@0BC344	Le noir absolu.
+@0BC362	Le sang jaillit.
+@0BC371	Douleur atroce.
+@0BC383	{J} hurla,
+@0BC390	mais sans un son.
+@0BC39C	La voix de {P}
+@0BC3A4	parvint, hachée,
+@0BC3B4	un bref instant.
+@0BC3C6	L'esprit s'enfuit.
+@0BC3D5	Tout s'estompe.
+@0BC3E7	…Grand frère…
+@0BC3F4	Un murmure.
+@0BC3FF	Un mot inconscient
+@0BC411	et le dernier.
+@0BC42F	Le silence.
+@0BC43B	Autour, le noir.
+@0BC44A	Et dans ce noir,
+@0BC456	filent des lueurs.
+@0BC469	Éclats de mémoire.
+@0BC47C	Papa est là.
+@0BC486	Maman est là.
+@0BC490	Grand frère aussi.
+@0BC49A	Tous sourient.
+@0BC4A8	L'air si heureux.
+@0BC4B6	Et {J} sourit,
+@0BC4C1	devenant lumière.
+@0C571D	On fonce!{n}{n}Hein, {J}!
+@0C7E1B	Hmm……
+@0CDD64	Non? Oh que si.{n}{n}Écoute-moi.
+@0D12D5	Force retrouvée
+@0D46B9	Surgit alors{n}{n}un Unitron.
+@0D46D7	Il semblait sorti{n}{n}d'un miroir.
+@0D56AD	Arène Unitron:{n}combats en cours.{n}
+@0D56CE	Participer?
+@0D56E8	Choisissez le{n}grade voulu.{n}
+@0D5702	Grade E{n}
+@0D570B	Grade D{n}
+@0D5714	Grade C{n}
+@0D571D	Grade B{n}
+@0D5726	Grade A{n}
+@0D572F	Grade S{n}
+@0D5738	Grade X{n}
+@0D5741	Fin
+@0D5762	Le baptême du feu!{n}        Coût  500G{n}
+@0D578C	Le vrai tournoi!{n}       Coût  1000G{n}
+@0D57B6	Ici, on passe pro!{n}       Coût  2000G{n}
+@0D57E0	Combats acharnés!{n}       Coût  4500G{n}
+@0D5809	L'arène des as!{n}       Coût 10000G{n}
+@0D5833	Le grade suprême!!{n}     Coût   15000G{n}
+@0D585D	Grade final: M·D·M{n}        Coût    0G{n}
+@0D5887	Ce grade vous va?
+@0D5896	Pas assez de G!!
+@0D58A5	Combat 1{n}
+@0D58AF	Combat 2{n}
+@0D58B9	Combat 3{n}
+@0D58C3	Combat 4{n}
+@0D58CD	Combat 5{n}
+@0D58D7	Combat 6{n}
+@0D5911	…Bouton A: passer.
+@0D5924	Lancer le combat?
+@0D5937	Combat perdu……
+@0D5948	Victoire!!
+@0D5957	Gain: 【2500G】 et{n}【Autoréparation】!!{n}
+@0D597C	Titre obtenu:{n}【Vicomte】!!{n}
+@0D5998	【Grade D】{n}désormais ouvert!{n}
+@0D59B5	Gain: 【5000G】 et{n}【Gemme d'esprit】!!{n}
+@0D59DA	Titre obtenu:{n}【Marquis】!!{n}
+@0D59F4	【Grade C】{n}désormais ouvert!{n}
+@0D5A11	Gain: 【10000G】 et{n}【Treasure Radar】!!{n}
+@0D5A36	Titre obtenu:{n}【Duc】!!{n}
+@0D5A50	【Grade B】{n}désormais ouvert!{n}
+@0D5A6D	Gain: 【25000G】 et{n}【Void Coat】!!{n}
+@0D5A93	Titre obtenu:{n}【Seigneur】!!{n}
+@0D5AAC	【Grade A】{n}désormais ouvert!{n}
+@0D5AC9	Gain: 【50000G】 et{n}【Orichalque】!!{n}
+@0D5AEF	Titre obtenu:{n}【Grand Maître】!!{n}
+@0D5B0B	【Grade S】{n}désormais ouvert!{n}
+@0D5B28	Gain: 【100000G】 et{n}【Outils de Rena】!!{n}
+@0D5B4F	Titre: 【Maître des{n}Maîtres】 obtenu!!{n}
+@0D5B71	Gain: 【250000G】 et{n}【Sunlight】!!{n}
+@0D5B97	Titre obtenu:{n}【Légende】!!{n}
+@0DB7BC	{00}{01}{02}{03}{04}{05}{06}{07}{08}{08}{08}{09}{00}{01}{02}{03}{04}{05}{06}{07}{08}{0B}{00}{03}{0F}{3F}
+@0DB7D2	{00}{03}{0F}{3F}
+@0DD4B5	   À SUIVRE…{n}{n}   REPRENEZ ICI
+@0E2998	Corps Humain 1
+@0E29A9	Corps Humain 2
+@0E29BB	Corps Humain 3
+@0E29CD	Corps Humain 4
+@0E29DF	Don de Revatios,{n}{n}imprégné de feu.
+@0E2A05	Corps Sylvain 1
+@0E2A17	Corps Sylvain 2
+@0E2A2A	Corps Sylvain 3
+@0E2A3D	Corps Sylvain 4
+@0E2A50	Don de Trefgram,{n}{n}imprégné des bois.
+@0E2A74	Corps Bestien 1
+@0E2A87	Corps Bestien 2
+@0E2A9B	Corps Bestien 3
+@0E2AAF	Corps Bestien 4
+@0E2AC3	Don d'Aeriard,{n}{n}imprégné de vent.
+@0E2AE7	Corps de Fée 1
+@0E2AF8	Corps de Fée 2
+@0E2B0A	Corps de Fée 3
+@0E2B1C	Corps de Fée 4
+@0E2B2E	Don d'Ortania,{n}{n}imprégné d'eau.
+@0E2B51	Corps Gnome 1
+@0E2B60	Corps Gnome 2

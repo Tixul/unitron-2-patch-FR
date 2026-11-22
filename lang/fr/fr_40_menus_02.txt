@@ -1,0 +1,1002 @@
+# Biomotor Unitron 2 (Kikou Seiki Unitron) - traduction française. Menus, écrans système, messages de combat et textes pointés.
+# @ADRESSE (fichier, hex) = texte du catalogue à cette adresse (tools/extraire.py) ; voir README.
+@0F1657	{p}…Tiens?{n}{n}Un drain, hélas.
+@0F1670	{p}{J}! Ça craint!{n}{n}Drain, bon sang!
+@0F1692	{p}…Nya?{n}{n}Ça fuit-fuit, nya!
+@0F16AF	{p}{J}…! Fâcheux.{n}{n}C'est un drain.
+@0F16D3	{p}{J}! L'écran!{n}{n}Drain détecté!
+@0F16F6	{p}Oh non, {J}!{n}{n}Ça nous draine!
+@0F171A	{p}Euh… c'est grave!{n}{n}Un drain…!
+@0F1760	{p}Énergie drainée!{n}{n}{FE01} EP en moins!
+@0F1783	{p}L'énergie fuit!{n}{n}{FE01} EP en moins!
+@0F17A9	{p}L'énergie s'en va!{n}{n}{FE01} EP en moins!
+@0F17CF	{p}L'énergie fuit…{n}{n}{FE01} EP en moins.
+@0F17F4	{p}L'énergie se vide.{n}{n}{FE01} EP en moins.
+@0F1818	{p}L'énergie fuit!{n}{n}{FE01} EP en moins!
+@0F183E	{p}Ça se vide, nya!{n}{n}{FE01} EP en moins!
+@0F1862	{p}L'énergie décline.{n}{n}{FE01} EP en moins.
+@0F1889	{p}L'énergie fuit!!{n}{n}{FE01} EP en moins!
+@0F18B0	{p}Drain d'énergie!!{n}{n}{FE01} EP en moins!
+@0F18D2	{p}L'énergie… fuit…!{n}{n}{FE01} EP en moins!
+@0F1919	{p}{J} subit{n}{n}la rouille!!
+@0F192C	{p}{J}! Pas bon!{n}{n}C'est la rouille!
+@0F1948	{p}{J}! Aïe aïe!{n}{n}Rouille, je crois!
+@0F1964	{p}…{J}…!{n}{n}De la rouille.
+@0F197D	{p}…Tiens?{n}{n}La rouille, hélas.
+@0F1994	{p}{J}! Ça craint!{n}{n}Rouille, bon sang!
+@0F19B4	{p}…Nya?{n}{n}Rourouille, nya!
+@0F19CE	{p}{J}…! Fâcheux.{n}{n}C'est la rouille.
+@0F19F0	{p}{J}! L'écran!{n}{n}Rouille détectée!
+@0F1A11	{p}Oh non, {J}!{n}{n}On rouille!
+@0F1A33	{p}Euh… c'est grave!{n}{n}De la rouille…!
+@0F1A77	{p}La rouille ronge!
+@0F1A85	{p}La rouille gagne!
+@0F1A95	{p}Ça rouille, là!
+@0F1AA6	{p}La rouille ronge…
+@0F1AB5	{p}La rouille gagne…
+@0F1AC6	{p}Foutue rouille!
+@0F1AD5	{p}Rourouille, nyaaa!
+@0F1AE9	{p}La rouille avance.
+@0F1AFA	{p}La rouille ronge!!
+@0F1B0C	{p}On rouille encore!
+@0F1B1F	{p}La rouille… gagne…
+@0F1B54	{p}{FE01} HP en moins!{n}{n}{FE02} EP en moins!
+@0F1B74	{p}{FE01} HP en moins!{n}{n}{FE02} EP en moins!
+@0F1B94	{p}{FE01} HP en moins!{n}{n}{FE02} EP en moins!
+@0F1BB4	{p}{FE01} HP en moins{n}{n}{FE02} EP en moins
+@0F1BD2	{p}{FE01} HP en moins.{n}{n}{FE02} EP en moins.
+@0F1BF1	{p}{FE01} HP en moins!{n}{n}{FE02} EP en moins!
+@0F1C12	{p}HP -{FE01}, nya!{n}{n}EP -{FE02}, nya!
+@0F1C36	{p}{FE01} HP en moins.{n}{n}{FE02} EP en moins!
+@0F1C58	{p}{FE01} HP en moins!{n}{n}{FE02} EP en moins!
+@0F1C7B	{p}{FE01} HP en moins!{n}{n}{FE02} EP en moins!
+@0F1C9D	{p}{FE01} HP en moins…{n}{n}{FE02} EP en moins!
+@0F1CE2	{p}{J} ne voit{n}{n}plus rien!!
+@0F1CF7	{p}{J}! Pas bon!{n}{n}Panne de caméra!
+@0F1D16	{p}{J}! Aïe aïe!{n}{n}Souci de caméra!
+@0F1D38	{p}…{J}…!{n}{n}Caméra en panne.
+@0F1D54	{p}…Tiens?{n}{n}Caméra perturbée.
+@0F1D72	{p}{J}! Ça craint!{n}{n}La caméra a lâché!
+@0F1D97	{p}…Nya?{n}{n}Tout noir, nya!
+@0F1DB3	{p}{J}…! Fâcheux.{n}{n}La caméra flanche.
+@0F1DD9	{p}{J}! L'écran!{n}{n}Caméra en rade!!
+@0F1DFC	{p}Oh non, {J}!{n}{n}Caméra cassée!
+@0F1E22	{p}Euh… c'est grave!{n}{n}Caméra… en panne…!
+@0F1E69	{p}{J} subit{n}{n}la paralysie!!
+@0F1E7C	{p}{J}! Pas bon!{n}{n}Une paralysie!
+@0F1E98	{p}{J}! Aïe aïe!{n}{n}Paralysie? Oh non!
+@0F1EB4	{p}…{J}…!{n}{n}Paralysie.
+@0F1ECD	{p}…Tiens?{n}{n}Paralysie, hélas.
+@0F1EE4	{p}{J}! Ça craint!{n}{n}Ça paralyse tout!
+@0F1F04	{p}…Nya?{n}{n}Bzz-bzz, nya!
+@0F1F20	{p}{J}…! Fâcheux.{n}{n}Une paralysie.
+@0F1F42	{p}{J}! L'écran!{n}{n}Système paralysé!
+@0F1F63	{p}Oh non, {J}!{n}{n}On est paralysés!
+@0F1F85	{p}Euh… c'est grave!{n}{n}Une paralysie…!
+@0F1FC9	{p}Paralysie! {J}{n}{n}ne peut attaquer!!
+@0F1FE2	{p}{J}! Paralysie!{n}{n}Attaque bloquée!
+@0F2000	{p}{J}! Paralysie!{n}{n}On n'attaque plus!
+@0F201F	{p}{J}… Paralysie.{n}{n}Pas d'attaque.
+@0F203D	{p}{J}, paralysie…{n}{n}Attaque bloquée…
+@0F205D	{p}Fichue paralysie…!{n}{n}Plus moyen d'agir!
+@0F207E	{p}…Bzz-bzz, {J}!{n}{n}Ça bloque, nya!
+@0F20A2	{p}Cette paralysie…!{n}{n}Impossible d'agir.
+@0F20C6	{p}Ngh… {J}!{n}{n}Tout est bloqué!!
+@0F20E8	{p}…Rien ici… ni là…{n}{n}Ça n'attaque plus!
+@0F2111	{p}Ah… n'insiste pas…{n}{n}Pas d'attaque…!
+@0F215A	{p}{J} attrape{n}{n}un virus!!
+@0F216F	{p}{J}! Pas bon!{n}{n}C'est un virus!
+@0F218D	{p}{J}! Aïe aïe!{n}{n}Virus, je crois!
+@0F21AB	{p}…{J}…!{n}{n}Un virus.
+@0F21C6	{p}…Tiens?{n}{n}Un virus, hélas.
+@0F21DF	{p}{J}! Ça craint!{n}{n}Virus, bon sang!
+@0F2201	{p}…Nya?{n}{n}Viruvirus, nya!
+@0F221B	{p}Fâcheux, {J}…{n}{n}Infection virale!
+@0F223F	{p}{J}! L'écran!{n}{n}On a un virus, là!
+@0F2262	{p}Oh là là, {J}!{n}{n}On a un virus!
+@0F2286	{p}A-ah… c'est grave!{n}{n}C'est un virus…!
+@0F22CC	{p}Virus! {J} perd{n}{n}ses techniques!!
+@0F22E8	{p}Le virus, {J}!{n}{n}Plus de technique!
+@0F2309	{p}{J}! Ce virus!{n}{n}Techniques gelées!
+@0F232B	{p}{J}… Le virus.{n}{n}Plus de technique.
+@0F234C	{p}…Le virus, {J}.{n}{n}Pas de technique.
+@0F236E	{p}Saleté de virus!{n}{n}Plus de technique!
+@0F2392	{p}{J}~! Virus…{n}{n}Technique KO, nya!
+@0F23B4	{p}Hum… Virus oblige,{n}{n}pas de technique!
+@0F23DA	{p}{J}! Un virus!{n}{n}Plus de technique!
+@0F23FB	{p}{J}! …Le virus…{n}{n}Plus de technique!
+@0F241D	{p}…{J}! Le virus…{n}{n}Plus de technique…
+@0F2461	{p}{FE20}{n}{n}esquive l'effet!
+@0F247A	{p}Zut!{n}{n}Effet bonus raté!
+@0F2497	{p}Ah…!{n}{n}L'effet a loupé!
+@0F24B3	{p}…………Tch.{n}{n}Effet bonus évité.
+@0F24CF	{p}…Tiens?{n}{n}L'effet a échoué.
+@0F24EB	{p}Tch… Saleté!{n}{n}Il a paré l'effet!
+@0F2509	{p}Nyah!{n}{n}Effet raté, nya!
+@0F2526	{p}…Hum.{n}{n}Effet bonus paré.
+@0F2542	{p}…Grr!{n}{n}L'effet a raté!
+@0F2560	{p}Euh…?{n}{n}Pas d'effet bonus!
+@0F257B	{p}Ah… euh… pardon!{n}{n}L'effet a raté…
+@0F25C3	{p}Effet bonus!!{n}{n}Poison injecté!!
+@0F25E2	{p}Bien! Effet bonus!{n}{n}Il est empoisonné!
+@0F2601	{p}Yes! Effet bonus!{n}{n}Poison injecté!
+@0F2624	{p}…Effet bonus…{n}{n}Poison injecté.
+@0F2644	{p}Oh! Effet bonus.{n}{n}Il est empoisonné.
+@0F2665	{p}Ouais! Ça passe!{n}{n}Poison injecté!
+@0F2681	{p}Nyan★ Bonus, nya~!{n}{n}Pique-poison, nya!
+@0F26A6	{p}Parfait! Un bonus!{n}{n}Poison injecté.
+@0F26CB	{p}Hop! Effet bonus!{n}{n}Avale ce poison!
+@0F26EF	{p}Super! Un bonus!{n}{n}Poison injecté!
+@0F2713	{p}E… euh… un bonus…{n}{n}Poison injecté!
+@0F2759	{p}Le poison agit!{n}{n}{FE01} HP perdus!
+@0F2777	{p}Le poison circule!{n}{n}{FE01} HP perdus!
+@0F2799	{p}Le poison agit!{n}{n}{FE01} HP perdus!
+@0F27BA	{p}Le poison agit…{n}{n}{FE01} HP perdus.
+@0F27DC	{p}Le poison s'étend.{n}{n}{FE01} HP perdus.
+@0F27FB	{p}Le poison cogne!{n}{n}{FE01} HP perdus!
+@0F2820	{p}Bobo poison, nya!{n}{n}-{FE01} HP, nya!
+@0F2845	{p}Le poison opère.{n}{n}{FE01} HP perdus.
+@0F2869	{p}Le poison mord!{n}{n}{FE01} HP perdus!
+@0F288C	{p}C'est le poison!{n}{n}{FE01} HP perdus!
+@0F28B0	{p}Ah… le… poison…!{n}{n}{FE01} HP perdus!
+@0F28F7	{p}Effet bonus!!{n}{n}Drain infligé!!
+@0F2916	{p}Bien! Effet bonus!{n}{n}Drain infligé!
+@0F2933	{p}Yes! Effet bonus!{n}{n}Drain infligé!
+@0F2954	{p}…Effet bonus…{n}{n}Drain infligé.
+@0F2972	{p}Oh! Effet bonus.{n}{n}Le voilà drainé.
+@0F2991	{p}Ouais! Ça passe!{n}{n}Drain infligé!
+@0F29AB	{p}Nyan★ Bonus, nya~!{n}{n}Fuite-fuite, nya!
+@0F29D2	{p}Parfait! Un bonus!{n}{n}Drain infligé.
+@0F29F5	{p}Hop! Effet bonus!{n}{n}Je te draine!
+@0F2A17	{p}Super! Un bonus!{n}{n}Drain infligé!
+@0F2A39	{p}E… euh… un bonus…{n}{n}Drain infligé!
+@0F2A7D	{p}L'énergie fuit!{n}{n}{FE01} EP perdus!
+@0F2A9D	{p}C'est le drain!{n}{n}{FE01} EP perdus!
+@0F2ABE	{p}Le drain agit!{n}{n}{FE01} EP perdus!
+@0F2ADF	{p}Le drain, hein…{n}{n}{FE01} EP perdus.
+@0F2B02	{p}C'est le drain.{n}{n}{FE01} EP perdus.
+@0F2B22	{p}Ça draine, là!{n}{n}{FE01} EP perdus!
+@0F2B44	{p}Ça fuit-fuit, nya!{n}{n}-{FE01} EP, nya!
+@0F2B68	{p}Le drain opère.{n}{n}{FE01} EP perdus.
+@0F2B8A	{p}Le drain, tiens!{n}{n}{FE01} EP perdus!
+@0F2BAD	{p}Ça nous draine!{n}{n}{FE01} EP perdus!
+@0F2BCE	{p}C'est… le drain…!{n}{n}{FE01} EP perdus!
+@0F2C14	{p}Effet bonus!!{n}{n}Ennemi rouillé!!
+@0F2C31	{p}Bien! Effet bonus!{n}{n}Il est rouillé!
+@0F2C4D	{p}Yes! Effet bonus!{n}{n}Rouille infligée!
+@0F2C6D	{p}…Effet bonus…{n}{n}Il rouille.
+@0F2C8A	{p}Oh! Effet bonus.{n}{n}Le voilà rouillé.
+@0F2CA8	{p}Ouais! Ça passe!{n}{n}Rouille bien, va!
+@0F2CC1	{p}Nyan★ Bonus, nya~!{n}{n}Tout rouillé, nya!
+@0F2CE2	{p}Parfait! Un bonus!{n}{n}Il est rouillé.
+@0F2D04	{p}Hop! Effet bonus!{n}{n}Rouille donc, toi!
+@0F2D25	{p}Super! Un bonus!{n}{n}Il est rouillé!
+@0F2D46	{p}E… euh… un bonus…{n}{n}Il est rouillé!
+@0F2D89	{p}La rouille ronge{n}{n}toute la machine!
+@0F2D9D	{p}La rouille s'étend{n}{n}partout!
+@0F2DB0	{p}La rouille gagne{n}{n}partout!
+@0F2DC4	{p}La rouille gagne.
+@0F2DD6	{p}La rouille s'étend{n}{n}à tout le corps.
+@0F2DEB	{p}Ça rouille sec!
+@0F2DFF	{p}Ça rouille, nya!
+@0F2E0E	{p}La rouille semble{n}{n}se propager.
+@0F2E21	{p}La rouille ronge{n}{n}tout le corps!
+@0F2E37	{p}On dirait que la{n}{n}rouille s'étend!
+@0F2E48	{p}La rouille… gagne{n}{n}tout le corps!
+@0F2E7F	{p}Effet bonus!!{n}{n}Ennemi aveuglé!!
+@0F2E9F	{p}Bien! Effet bonus!{n}{n}Il est aveuglé!
+@0F2EBF	{p}Yes! Effet bonus!{n}{n}Il n'y voit plus!
+@0F2EE3	{p}…Effet bonus…{n}{n}Il est aveuglé.
+@0F2F04	{p}Oh! Effet bonus.{n}{n}Le voilà aveuglé.
+@0F2F26	{p}Ouais! Ça passe!{n}{n}Il voit plus rien!
+@0F2F43	{p}Nyan★ Bonus, nya~!{n}{n}Tout noir, nya!
+@0F2F6A	{p}Parfait! Un bonus!{n}{n}Il est aveuglé.
+@0F2F8F	{p}Hop! Effet bonus!{n}{n}Tu y vois, là?
+@0F2FB4	{p}Super! Un bonus!{n}{n}Il est aveuglé!
+@0F2FD9	{p}E… euh… un bonus…{n}{n}Il est aveuglé!
+@0F3020	{p}Effet bonus!!{n}{n}Ennemi paralysé!!
+@0F303D	{p}Bien! Effet bonus!{n}{n}Il est paralysé!
+@0F305C	{p}Yes! Effet bonus!{n}{n}Il est tout figé!
+@0F307F	{p}…Effet bonus…{n}{n}Il est paralysé.
+@0F309F	{p}Oh! Effet bonus.{n}{n}Le voilà paralysé.
+@0F30C0	{p}Ouais! Ça passe!{n}{n}Il est tout raide!
+@0F30DC	{p}Nyan★ Bonus, nya~!{n}{n}Bzzz-bzzz, nya!
+@0F3101	{p}Parfait! Un bonus!{n}{n}Il est paralysé.
+@0F3125	{p}Hop! Effet bonus!{n}{n}Bouge plus, toi!
+@0F3149	{p}Super! Un bonus!{n}{n}Il est paralysé!
+@0F316D	{p}E… euh… un bonus…{n}{n}Il est paralysé!
+@0F31B3	{p}{FE20} est{n}{n}paralysé, inerte!!
+@0F31D1	{p}Il est paralysé!{n}{n}Il n'attaque plus!
+@0F31F3	{p}Il est tout raide!{n}{n}Il attaque plus!
+@0F3214	{p}Il est paralysé.{n}{n}Plus d'attaque.
+@0F3235	{p}Le voilà paralysé.{n}{n}Il n'attaque plus.
+@0F3255	{p}Il est raide, là!{n}{n}Il attaque plus!
+@0F3278	{p}Il fait bzzz, nya!{n}{n}Zéro attaque, nya!
+@0F329D	{p}La paralysie agit.{n}{n}Il est neutralisé.
+@0F32C0	{p}Il est paralysé!{n}{n}Plus d'attaques!
+@0F32E2	{p}Il est tout raide!{n}{n}Il attaque plus!
+@0F3303	{p}…Ah… il est figé!{n}{n}Il n'attaque plus!
+@0F3348	{p}Effet bonus!!{n}{n}Virus injecté!!
+@0F3369	{p}Bien! Effet bonus{n}{n}Virus injecté!
+@0F3389	{p}Yes! Effet bonus!{n}{n}Virus injecté!
+@0F33AE	{p}…Effet bonus…{n}{n}Virus injecté.
+@0F33D0	{p}Oh! Effet bonus.{n}{n}Virus injecté.
+@0F33F3	{p}Ouais! Ça passe!{n}{n}Bouffe ce virus!
+@0F3411	{p}Nyan★ Bonus, nya~!{n}{n}Pique-virus, nya!
+@0F3436	{p}Parfait! Un bonus!{n}{n}Virus injecté.
+@0F345C	{p}Hop! Effet bonus!{n}{n}Prends ce virus!
+@0F3482	{p}Super! Un bonus!{n}{n}Virus injecté!
+@0F34A9	{p}E… euh… un bonus…{n}{n}Virus injecté!
+@0F34F1	{p}Virus actif!{n}{n}Techniques gelées!
+@0F3514	{p}Le virus agit!{n}{n}Plus de technique!
+@0F353C	{p}Le virus marche!{n}{n}Plus de technique!
+@0F3563	{p}Le virus agit.{n}{n}Plus de technique.
+@0F358A	{p}Le virus s'étend.{n}{n}Plus de technique.
+@0F35B0	{p}Le virus bosse!{n}{n}Plus de technique!
+@0F35D8	{p}Ça grouille, nya!{n}{n}Plus de technique!
+@0F3600	{p}Le virus opère.{n}{n}Plus de technique.
+@0F3629	{p}Le virus agit!{n}{n}Adieu techniques!
+@0F3651	{p}Le virus a pris!{n}{n}Plus de technique!
+@0F3676	{p}Le virus… agit!{n}{n}Plus de technique!
+@0F36C1	{p}{J} récupère{n}{n}{FE01} HP!!
+@0F36DA	{p}{J}!{n}{n}{FE01} HP rendus!!
+@0F36F4	{p}Tiens, {J}!{n}{n}{FE01} HP regagnés!!
+@0F370E	{p}…{J}.{n}{n}{FE01} HP rendus.
+@0F3727	{p}…Voilà, {J}.{n}{n}{FE01} HP regagnés.
+@0F3740	{p}Ouais!{n}{n}{FE01} HP, cadeau!
+@0F375C	{p}Nyanyan★{n}{n}+{FE01} HP, nya!
+@0F3779	{p}Bien, voilà.{n}{n}{FE01} HP restaurés.
+@0F3797	{p}…Ça ira comme ça?{n}{n}{FE01} HP rendus!
+@0F37B9	{p}Hop là!{n}{n}{FE01} HP rendus!
+@0F37D6	{p}Euh… c'est… fini!{n}{n}{FE01} HP rendus!
+@0F3820	{p}{J} récupère{n}{n}tous ses HP!!
+@0F3839	{p}Bien! {J}!{n}{n}HP au maximum!!
+@0F3857	{p}Super, {J}!{n}{n}HP au max!!
+@0F3876	{p}…Bien, {J}!{n}{n}HP au maximum.
+@0F3893	{p}…Hi hi, {J}.{n}{n}HP au maximum.
+@0F38B0	{p}Ouais! Nickel!{n}{n}HP remis à fond!
+@0F38D4	{p}Nyahaha~★ {J}!{n}{n}HP au max, nya!
+@0F38F5	{p}Voilà, c'est prêt.{n}{n}HP au maximum.
+@0F3917	{p}Dis merci, {J}!{n}{n}HP au max!!
+@0F393A	{p}…Ici, et puis là…{n}{n}HP au max!!
+@0F395C	{p}Ah… euh… pardon…{n}{n}HP au maximum…!
+@0F39A4	{p}{J} n'a subi{n}{n}aucun dégât!
+@0F39BB	{p}{J}!{n}{n}Pas de dégâts, va!
+@0F39D2	{p}Hein? {J}!{n}{n}T'as rien du tout!
+@0F39ED	{p}…Qu'y a-t-il?{n}{n}Tu n'as rien subi.
+@0F3A09	{p}Oh, qu'y a-t-il?{n}{n}Tu n'as rien subi.
+@0F3A26	{p}…Hé, ça va pas?{n}{n}Y a pas de dégâts!
+@0F3A4A	{p}Nya?{n}{n}Pas de bobo, nya?
+@0F3A65	{p}Hm? Qu'y a-t-il?{n}{n}Aucun dégât subi.
+@0F3A85	{p}Hein? Tu délires?{n}{n}T'as aucun dégât!
+@0F3AAB	{p}Hé? Ça va, {J}?{n}{n}Aucun dégât, hein.
+@0F3ACE	{p}…Hein? Euh… snif…{n}{n}Aucun dégât subi…
+@0F3B16	{p}{J} récupère{n}{n}{FE01} EP!!
+@0F3B2F	{p}{J}!{n}{n}{FE01} EP rendus!!
+@0F3B49	{p}Tiens, {J}!{n}{n}{FE01} EP regagnés!!
+@0F3B63	{p}…{J}.{n}{n}{FE01} EP rendus.
+@0F3B7C	{p}…Voilà, {J}.{n}{n}{FE01} EP regagnés.
+@0F3B95	{p}Ouais!{n}{n}{FE01} EP, cadeau!
+@0F3BB1	{p}Nyanyan★{n}{n}+{FE01} EP, nya!
+@0F3BCE	{p}Bien, voilà.{n}{n}{FE01} EP restaurés.
+@0F3BEC	{p}…Ça ira comme ça?{n}{n}{FE01} EP rendus!
+@0F3C0E	{p}Hop là{n}{n}{FE01} EP rendus!
+@0F3C2A	{p}Euh… c'est… fini!{n}{n}{FE01} EP rendus!
+@0F3C72	{p}{J} récupère{n}{n}tous ses EP!!
+@0F3C8B	{p}Bien! {J}!{n}{n}EP au maximum!!
+@0F3CA9	{p}Super, {J}!{n}{n}EP au max!!
+@0F3CC8	{p}…Bien, {J}!{n}{n}EP au maximum.
+@0F3CE5	{p}…Hi hi, {J}.{n}{n}EP au maximum.
+@0F3D02	{p}Ouais! Nickel!{n}{n}EP remis à fond!
+@0F3D26	{p}Nyahaha~★ {J}!{n}{n}EP au max, nya!
+@0F3D47	{p}Voilà, c'est prêt.{n}{n}EP au maximum.
+@0F3D69	{p}Dis merci, {J}!{n}{n}EP au max!!
+@0F3D8C	{p}…Ici, et puis là…{n}{n}EP au max!!
+@0F3DAE	{p}Ah… euh… pardon…{n}{n}EP au maximum!
+@0F3DF4	{p}{J} a déjà{n}{n}toute son énergie!
+@0F3E0B	{p}{J}!{n}{n}Le plein est fait!
+@0F3E23	{p}Hein? {J}!{n}{n}C'est déjà plein!
+@0F3E40	{p}…Qu'y a-t-il?{n}{n}Déjà le plein.
+@0F3E5C	{p}Oh, qu'y a-t-il?{n}{n}Énergie complète.
+@0F3E79	{p}…Hé, ça va pas?{n}{n}Réservoir plein!
+@0F3E9A	{p}Nya?{n}{n}C'est plein, nya?
+@0F3EB2	{p}Hm? Qu'y a-t-il?{n}{n}C'est déjà plein?
+@0F3ED2	{p}Hein? Tu délires?{n}{n}C'est déjà plein!
+@0F3EF6	{p}Hé? Ça va, {J}?{n}{n}Énergie au max.
+@0F3F17	{p}…Hein? Euh… snif…{n}{n}Énergie… pleine…
+@0F3F60	{p}{J} élimine{n}{n}le poison!
+@0F3F75	{p}Bien!{n}{n}Poison éliminé!
+@0F3F8C	{p}Alors…{n}{n}Plus de poison!
+@0F3FA6	{p}…Bien.{n}{n}Poison éliminé.
+@0F3FBD	{p}…Voilà, {J}.{n}{n}Plus de poison.
+@0F3FD7	{p}…Ouais, ça roule!{n}{n}Poison viré!
+@0F3FF5	{p}{J}~!{n}{n}Adieu poison, nya!
+@0F400D	{p}…Hm, cela ira.{n}{n}Poison éliminé.
+@0F4030	{p}Euh… voilà, fini.{n}{n}Poison éliminé!
+@0F4052	{p}Hum hum… comme ça?{n}{n}Plus de poison!
+@0F4074	{p}Ah… euh… euh…{n}{n}…P-poison éliminé!
+@0F40BA	{p}{J} se remet{n}{n}du drain!
+@0F40D2	{p}Bien!{n}{n}Fuite colmatée!
+@0F40EC	{p}Alors…{n}{n}Fuite colmatée!
+@0F4109	{p}…Bien.{n}{n}Fuite colmatée.
+@0F4123	{p}…Voilà, {J}.{n}{n}Fuite colmatée.
+@0F4140	{p}…Ouais, ça roule!{n}{n}Fuite colmatée!
+@0F4161	{p}{J}~!{n}{n}Ça fuit plus, nya!
+@0F417F	{p}…Hm, cela ira.{n}{n}Fuite colmatée.
+@0F41A2	{p}Euh… voilà, fini.{n}{n}Fuite colmatée!
+@0F41C7	{p}Hum hum… comme ça?{n}{n}Fuite réparée!
+@0F41E9	{p}Ah… euh… euh…{n}{n}…F-fuite colmatée!
+@0F4231	{p}{J} élimine{n}{n}la rouille!
+@0F4246	{p}Bien!{n}{n}Rouille éliminée!
+@0F425D	{p}Alors…{n}{n}Plus de rouille!
+@0F4277	{p}…Bien.{n}{n}Rouille éliminée.
+@0F428E	{p}…Voilà, {J}.{n}{n}Plus de rouille.
+@0F42A8	{p}…Ouais, ça roule!{n}{n}Rouille virée!
+@0F42C6	{p}{J}~!{n}{n}Adieu rouille, nya
+@0F42E0	{p}…Hm, cela ira.{n}{n}Rouille éliminée.
+@0F4303	{p}Euh… voilà, fini.{n}{n}Rouille éliminée!
+@0F4325	{p}Hum hum… comme ça?{n}{n}Plus de rouille!
+@0F4347	{p}Ah… euh… euh…{n}{n}…R-rouille partie!
+@0F438D	{p}{J} retrouve{n}{n}la vue!
+@0F43A7	{p}Bien!{n}{n}Caméra réparée!
+@0F43BF	{p}Alors…{n}{n}Caméra réparée!
+@0F43DA	{p}…Bien.{n}{n}Caméra restaurée.
+@0F43F4	{p}…Voilà, {J}.{n}{n}Caméra réparée.
+@0F440F	{p}…Ouais, ça roule!{n}{n}Caméra retapée!
+@0F442E	{p}{J}~!{n}{n}Fini le noir, nya!
+@0F444A	{p}…Hm, cela ira.{n}{n}Caméra réparée.
+@0F446E	{p}Euh… voilà, fini.{n}{n}Caméra réparée!
+@0F4491	{p}Hum hum… comme ça?{n}{n}Caméra: c'est bon!
+@0F44B9	{p}Ah… euh… euh…{n}{n}Caméra… réparée!
+@0F44FF	{p}{J} se remet{n}{n}de la paralysie!
+@0F4514	{p}Bien!{n}{n}Paralysie soignée!
+@0F452C	{p}Alors…{n}{n}Paralysie soignée!
+@0F4547	{p}…Bien.{n}{n}Paralysie soignée.
+@0F455F	{p}…Voilà, {J}.{n}{n}Paralysie soignée.
+@0F457A	{p}…Ouais, ça roule!{n}{n}Paralysie virée!
+@0F4599	{p}{J}~!{n}{n}Plus de bzzz, nya!
+@0F45B5	{p}…Hm, cela ira.{n}{n}Paralysie soignée.
+@0F45D6	{p}Euh… voilà, fini.{n}{n}Paralysie soignée!
+@0F45F9	{p}Hum hum… comme ça?{n}{n}Plus de paralysie!
+@0F4619	{p}Ah… euh… euh…{n}{n}Paralysie… partie!
+@0F4661	{p}{J} élimine{n}{n}le virus!
+@0F4679	{p}Bien!{n}{n}Virus éliminé!
+@0F4692	{p}Alors…{n}{n}Plus de virus!
+@0F46AE	{p}…Bien.{n}{n}Virus éliminé.
+@0F46C7	{p}…Voilà, {J}.{n}{n}Plus de virus.
+@0F46E3	{p}…Ouais, ça roule!{n}{n}Virus viré!
+@0F4703	{p}{J}~!{n}{n}Adieu virus, nya!
+@0F471E	{p}…Hm, cela ira.{n}{n}Virus éliminé.
+@0F4743	{p}Euh… voilà, fini.{n}{n}Virus éliminé!
+@0F4767	{p}Hum hum… comme ça?{n}{n}Plus de virus!
+@0F478B	{p}Ah… euh… euh…{n}{n}…V-virus éliminé!
+@0F47D2	{p}{J} retrouve{n}{n}un état parfait!
+@0F47ED	{p}Bien!!{n}{n}Tout est réparé!
+@0F480B	{p}Voilà… impeccable!{n}{n}Tout est réparé!
+@0F4830	{p}…Heh heh…{n}{n}Tout est réparé.
+@0F484F	{p}…Hi hi, {J}.{n}{n}Tout est réparé.
+@0F4870	{p}Ouais! Ça déchire!{n}{n}Remis à neuf!
+@0F4893	{p}Nya ha★ {J}~!{n}{n}Tout good, nya!
+@0F48B6	{p}Hm hm… parfait…{n}{n}Tout est rétabli.
+@0F48DE	{p}…Hop, c'est fait!{n}{n}Tout est réparé!
+@0F4905	{p}…Nickel, comme ça?{n}{n}Tout est réparé!!
+@0F4929	{p}…O-oui! …Euh…{n}{n}…Bon! Tout réparé!
+@0F4974	{p}{FE20}{n}{n}récupère {FE01} HP!
+@0F498C	{p}Hé! {FE20}{n}{n}regagne {FE01} HP!!
+@0F49AD	{p}Oh! {FE20}{n}{n}reprend {FE01} HP!!
+@0F49D1	{p}{FE20}…{n}{n}regagne {FE01} HP!!
+@0F49F0	{p}Ah, {FE20}{n}{n}regagne {FE01} HP.
+@0F4A11	{p}Eh! {FE20}{n}{n}se refait {FE01} HP!
+@0F4A36	{p}{FE20}{n}{n}+{FE01} HP, nya!!
+@0F4A5A	{p}Hm. {FE20}{n}{n}récupère {FE01} HP!
+@0F4A7E	{p}Ah! {FE20}{n}{n}reprend {FE01} HP!
+@0F4A9E	{p}Oh! {FE20}{n}{n}regagne {FE01} HP!!
+@0F4AC0	{p}Ah… {FE20}{n}{n}reprend {FE01} HP…
+@0F4B04	{p}{FE20}{n}{n}se soigne à fond!
+@0F4B1C	{p}Hé! {FE20}{n}{n}se soigne à fond!!
+@0F4B3D	{p}Oh! {FE20}{n}{n}a tout récupéré!!
+@0F4B61	{p}{FE20}…{n}{n}a tous ses HP!!
+@0F4B80	{p}Ah, {FE20}{n}{n}a tout récupéré.
+@0F4BA1	{p}Eh! {FE20}{n}{n}se refait à fond!!
+@0F4BC6	{p}{FE20}{n}{n}HP au max, nya!!
+@0F4BEA	{p}Hm. {FE20}{n}{n}a tout récupéré!!
+@0F4C0E	{p}Ah! {FE20}{n}{n}a tous ses HP!!
+@0F4C2F	{p}Oh! {FE20}{n}{n}se soigne à fond!!
+@0F4C51	{p}Ah… {FE20}{n}{n}a tout récupéré…
+@0F4C95	{p}{FE20}{n}{n}récupère {FE01} EP!
+@0F4CAD	{p}Hé! {FE20}{n}{n}regagne {FE01} EP!!
+@0F4CCE	{p}Oh! {FE20}{n}{n}reprend {FE01} EP!!
+@0F4CF2	{p}{FE20}…{n}{n}regagne {FE01} EP!!
+@0F4D11	{p}Ah, {FE20}{n}{n}regagne {FE01} EP.
+@0F4D32	{p}Eh! {FE20}{n}{n}se refait {FE01} EP!
+@0F4D57	{p}{FE20}{n}{n}+{FE01} EP, nya!!
+@0F4D7B	{p}Hm. {FE20}{n}{n}récupère {FE01} EP!
+@0F4D9F	{p}Ah! {FE20}{n}{n}reprend {FE01} EP!
+@0F4DBF	{p}Oh! {FE20}{n}{n}regagne {FE01} EP!!
+@0F4DE1	{p}Ah… {FE20}{n}{n}reprend {FE01} EP…
+@0F4E25	{p}{FE20}{n}{n}a rechargé ses EP!
+@0F4E3D	{p}Hé! {FE20}{n}{n}fait le plein!!
+@0F4E5E	{p}Oh! {FE20}{n}{n}a tous ses EP!!
+@0F4E82	{p}{FE20}…{n}{n}fait le plein!!
+@0F4EA1	{p}Ah, {FE20}{n}{n}a fait le plein.
+@0F4EC2	{p}Eh! {FE20}{n}{n}refait le plein!!
+@0F4EE7	{p}{FE20}{n}{n}EP au max, nya!!
+@0F4F0B	{p}Hm. {FE20}{n}{n}a fait le plein!!
+@0F4F2F	{p}Ah! {FE20}{n}{n}a tous ses EP!!
+@0F4F50	{p}Oh! {FE20}{n}{n}fait le plein!!
+@0F4F72	{p}Ah… {FE20}{n}{n}a fait le plein…
+@0F4FB6	{p}{FE20}{n}{n}élimine le poison!
+@0F4FCC	{p}{FE20}{n}{n}a purgé le poison!
+@0F4FE4	{p}Oh! {FE20}{n}{n}a purgé le poison!
+@0F4FFF	{p}Hm… {FE20}{n}{n}a purgé le poison.
+@0F501C	{p}{FE20}{n}{n}est désintoxiqué.
+@0F5035	{p}{FE20}{n}{n}a viré le poison!
+@0F5054	{p}{FE20}{n}{n}a guéri, nyaaa!
+@0F5074	{p}{FE20}{n}{n}s'est purgé. Joli!
+@0F5095	{p}Ah! {FE20}{n}{n}a purgé le poison!
+@0F50B3	{p}Eh! {FE20}{n}{n}a purgé le poison!
+@0F50D3	{p}Ah… {FE20}{n}{n}a purgé le poison!
+@0F5117	{p}{FE20}{n}{n}se remet du drain!
+@0F5130	{p}{FE20}{n}{n}a fini de fuir!
+@0F514A	{p}{FE20}{n}{n}ne fuit plus, zut!
+@0F5167	{p}Hm… {FE20}{n}{n}ne fuit plus.
+@0F5186	{p}{FE20}{n}{n}se remet du drain.
+@0F51A1	{p}{FE20}{n}{n}a bouché sa fuite!
+@0F51C3	{p}{FE20}{n}{n}ne fuit plus, nya!
+@0F51E3	{p}{FE20}{n}{n}a colmaté. Joli!
+@0F5207	{p}{FE20}{n}{n}ne fuit plus. Grr!
+@0F5227	{p}Eh! {FE20}{n}{n}ne fuit plus!
+@0F524A	{p}Ah… {FE20}{n}{n}…ne fuit plus!
+@0F5290	{p}{FE20}{n}{n}ôte sa rouille!
+@0F52A6	{p}{FE20}{n}{n}se dérouille! Zut!
+@0F52BE	{p}Oh! {FE20}{n}{n}a ôté sa rouille!
+@0F52D9	{p}Hm… {FE20}{n}{n}se dérouille.
+@0F52F5	{p}{FE20}{n}{n}a l'air dérouillé.
+@0F530E	{p}{FE20}{n}{n}se dérouille! Tch!
+@0F532E	{p}{FE20}{n}{n}se dérouille, nya!
+@0F5350	{p}{FE20}{n}{n}se décape. Joli!
+@0F5372	{p}{FE20}{n}{n}se dérouille. Grr!
+@0F5390	{p}Hé! {FE20}{n}{n}se dérouille!
+@0F53B1	{p}Ah… {FE20}{n}{n}…a ôté sa rouille!
+@0F53F5	{p}{FE20}{n}{n}retrouve la vue!
+@0F540F	{p}{FE20}{n}{n}y voit, on dirait!
+@0F5429	{p}Oh! {FE20}{n}{n}y voit de nouveau!
+@0F5443	{p}Hm… {FE20}{n}{n}y voit de nouveau.
+@0F5462	{p}{FE20}{n}{n}semble y revoir.
+@0F547C	{p}{FE20}{n}{n}y voit clair. Tch!
+@0F549B	{p}{FE20}{n}{n}y voit clair, nya!
+@0F54BB	{p}{FE20}{n}{n}y revoit. Joli!
+@0F54DE	{p}{FE20}{n}{n}y voit clair. Grr!
+@0F54FD	{p}Hé! {FE20}{n}{n}y voit de nouveau!
+@0F551F	{p}Ah… {FE20}{n}{n}…retrouve la vue!
+@0F5564	{p}{FE20}{n}{n}bouge de nouveau!
+@0F557A	{p}{FE20}{n}{n}se remet à bouger!
+@0F5591	{p}Oh! {FE20}{n}{n}bouge de nouveau!
+@0F55AA	{p}Hm… {FE20}{n}{n}bouge de nouveau.
+@0F55C6	{p}{FE20}{n}{n}remue, on dirait.
+@0F55DB	{p}{FE20}{n}{n}se dégrippe. Tch!
+@0F55F7	{p}{FE20}{n}{n}ne bzzz plus, nya!
+@0F5618	{p}{FE20}{n}{n}se dégage. Joli!
+@0F5636	{p}{FE20}{n}{n}peut bouger. Grr!
+@0F5650	{p}Hé! {FE20}{n}{n}bouge de nouveau!
+@0F566D	{p}Ah… {FE20}{n}{n}…bouge de nouveau!
+@0F56B1	{p}{FE20}{n}{n}purge le virus!
+@0F56C9	{p}Ah! {FE20}{n}{n}n'a plus de virus!
+@0F56E2	{p}Oh! {FE20}{n}{n}a purgé le virus!
+@0F56FD	{p}Hm… {FE20}{n}{n}a purgé le virus.
+@0F571B	{p}{FE20}{n}{n}a l'air guéri.
+@0F5736	{p}{FE20}{n}{n}a viré son virus!
+@0F5754	{p}{FE20}{n}{n}virus envolé, nya!
+@0F5776	{p}{FE20}{n}{n}s'est purgé. Joli!
+@0F579A	{p}{FE20}{n}{n}tue le virus. Grr!
+@0F57BA	{p}Hé! {FE20}{n}{n}a purgé le virus!
+@0F57DC	{p}Ah… {FE20}{n}{n}…a purgé le virus!
+@0F5822	{p}{FE20}{n}{n}se rétablit!
+@0F583B	{p}{FE20}{n}{n}est remis à neuf!
+@0F5857	{p}Oh! {FE20}{n}{n}est comme neuf!
+@0F5876	{p}{FE20}{n}{n}se rétablit… Tss.
+@0F5898	{p}…{FE20}{n}{n}est remis à neuf.
+@0F58B5	{p}{FE20}{n}{n}se requinque! Rah!
+@0F58DB	{p}{FE20}{n}{n}se rétablit, nya~!
+@0F58FF	{p}Hm, {FE20}{n}{n}se remet sur pied!
+@0F5921	{p}…C'est pas vrai…{n}{n}L'ennemi a guéri!
+@0F5945	{p}{FE20}{n}{n}se rétablit! Zut!
+@0F596A	{p}Ah… {FE20}{n}{n}se remet… Pardon!
+@0F59AF	{p}{J} utilise{n}{n}{FE11}!!
+@0F59C4	{p}{J}! J'utilise{n}{n}{FE11}!!
+@0F59D8	{p}Hop, {J}! Voilà{n}{n}{FE11}!!
+@0F59F1	{p}…{J}. J'emploie{n}{n}{FE11}.
+@0F5A09	{p}…{J}? J'utilise{n}{n}{FE11}.
+@0F5A22	{p}Ouais! J'balance{n}{n}{FE11}!!
+@0F5A3F	{p}{J}~! Nya! Hop!{n}{n}{FE11}!!
+@0F5A5C	{p}…Bien. J'utilise{n}{n}{FE11}!
+@0F5A75	{p}Bon, {J}! Voilà{n}{n}{FE11}!!
+@0F5A8F	{p}Compris! J'envoie{n}{n}{FE11}!
+@0F5AAF	{p}O-oui! J'utilise{n}{n}{FE11}!!
+@0F5AEE	{p}Cet objet est{n}{n}inutilisable!
+@0F5B02	{p}{J}! Pas ça!{n}{n}Ça ne servira pas!
+@0F5B1B	{p}{J}! Non, non!{n}{n}Ça ne marche pas!
+@0F5B35	{p}…{J}… Inutile…{n}{n}Ça ne servira pas.
+@0F5B52	{p}…Oh? {J}, ceci{n}{n}ne peut servir.
+@0F5B71	{p}Ce truc-là,{n}{n}ça sert à rien!
+@0F5B81	{p}Nyanu?{n}{n}Inutilisable, nya!
+@0F5B9A	{p}Navré, mais ceci{n}{n}est inutilisable.
+@0F5BB6	{p}Dis donc, {J}!{n}{n}Ça ne sert à rien!
+@0F5BD2	{p}{J}… désolé,{n}{n}ça ne marche pas.
+@0F5BEF	{p}Snif… pardon…{n}{n}Ça ne marche pas…
+@0F5C31	{p}{FE20} use{n}{n}de {FE11}!
+@0F5C45	{p}{FE20}:{n}{n}{FE11}!
+@0F5C5F	{p}{FE20}:{n}{n}{FE11}!!
+@0F5C7A	{p}{FE20}…{n}{n}{FE11}.
+@0F5C97	{p}…{FE20}:{n}{n}{FE11}.
+@0F5CB1	{p}{FE20}:{n}{n}{FE11}!
+@0F5CCB	{p}{FE20} use{n}{n}de {FE11}!
+@0F5CE7	{p}{FE20}:{n}{n}{FE11}.
+@0F5D02	{p}…Pff! {J}, gare{n}{n}à {FE11}!
+@0F5D1F	{p}{FE20} use{n}{n}de {FE11}!
+@0F5D3A	{p}{FE20} use{n}{n}de {FE11}…
+@0F5D7A	{p}{J} recharge{n}{n}ses EP!!
+@0F5D8F	{p}Compris!{n}{n}Énergie en route!
+@0F5DA7	{p}Ça marche!{n}{n}Voilà l'énergie!
+@0F5DC1	{p}…Bien. Compris.{n}{n}Énergie transmise.
+@0F5DDC	{p}…Oh là là. Tiens,{n}{n}un peu d'énergie.
+@0F5DF8	{p}Ouais! J'y vais!{n}{n}Recharge à bloc!!
+@0F5E19	{p}Ouiii, nya! Voilà{n}{n}plein d'énergie!
+@0F5E3A	{p}Voyons… bien…{n}{n}Recharge lancée!
+@0F5E5C	{p}Bon… attends voir.{n}{n}Voilà ton énergie!
+@0F5E80	{p}Tout est paré!{n}{n}On recharge!!
+@0F5EA3	{p}O-oui! Compris!{n}{n}Énergie… envoyée!
+@0F5EEA	{p}{FE20}{n}{n}recharge ses EP!!
+@0F5EFF	{p}{FE20}{n}{n}se charge, {J}!
+@0F5F1E	{p}Oh! {FE20}{n}{n}se charge, {J}!
+@0F5F3D	{p}…{FE20}{n}{n}se charge, {J}.
+@0F5F5D	{p}…{FE20}{n}{n}se charge en EP.
+@0F5F7A	{p}{FE20}{n}{n}se charge, {J}!
+@0F5F99	{p}Quel toupet, nya!{n}{n}Ça fait le plein!
+@0F5FB9	{p}{FE20}{n}{n}se charge, {J}.
+@0F5FD9	{p}{J}! Pour info,{n}{n}il se recharge!
+@0F6000	{p}Oh! {FE20}{n}{n}se recharge!
+@0F6020	{p}Ah… {FE20}{n}{n}…se recharge!
+@0F6061	{p}L'attaque monte!
+@0F6074	{p}Bien! L'attaque{n}{n}a augmenté!
+@0F6088	{p}Super! L'attaque{n}{n}a augmenté!
+@0F609C	{p}…L'attaque{n}{n}monte.
+@0F60AF	{p}Tiens, l'attaque{n}{n}a augmenté.
+@0F60C2	{p}Ouais! L'attaque{n}{n}grimpe!
+@0F60D6	{p}L'attaque{n}{n}monte, nya!
+@0F60EA	{p}L'attaque{n}{n}a augmenté.
+@0F60FE	{p}Voilà! L'attaque{n}{n}a augmenté!
+@0F6113	{p}Super! L'attaque{n}{n}a augmenté!
+@0F6127	{p}…L'attaque{n}{n}a augmenté!
+@0F615E	{p}La défense monte!
+@0F6171	{p}Bien! La défense{n}{n}a augmenté!
+@0F6185	{p}Super! La défense{n}{n}a augmenté!
+@0F6199	{p}…La défense{n}{n}monte.
+@0F61AC	{p}Tiens, la défense{n}{n}a augmenté.
+@0F61BF	{p}Ouais! La défense{n}{n}grimpe!
+@0F61D3	{p}La défense{n}{n}monte, nya!
+@0F61E7	{p}La défense{n}{n}a augmenté.
+@0F61FB	{p}Voilà! La défense{n}{n}a augmenté!
+@0F6210	{p}Super! La défense{n}{n}a augmenté!
+@0F6224	{p}…La défense{n}{n}a augmenté!
+@0F625B	{p}La vitesse monte!
+@0F626B	{p}Bien! La vitesse{n}{n}a augmenté!
+@0F627C	{p}Super! La vitesse{n}{n}a augmenté!
+@0F628D	{p}…La vitesse{n}{n}monte.
+@0F629D	{p}Tiens, la vitesse{n}{n}a augmenté.
+@0F62AD	{p}Ouais! La vitesse{n}{n}grimpe!
+@0F62BE	{p}La vitesse{n}{n}monte, nya!
+@0F62CF	{p}La vitesse{n}{n}a augmenté.
+@0F62E0	{p}Voilà! La vitesse{n}{n}a augmenté!
+@0F62F2	{p}Super! La vitesse{n}{n}a augmenté!
+@0F6303	{p}…La vitesse{n}{n}a augmenté!
+@0F6337	{p}L'attaque baisse!
+@0F634A	{p}Zut! L'attaque{n}{n}a baissé!
+@0F635E	{p}Oh non! L'attaque{n}{n}a baissé!
+@0F6372	{p}…L'attaque{n}{n}baisse.
+@0F6385	{p}Hélas, l'attaque{n}{n}a baissé.
+@0F6398	{p}Rah! L'attaque{n}{n}dégringole!
+@0F63AC	{p}L'attaque{n}{n}baisse, nya!
+@0F63C0	{p}L'attaque{n}{n}a baissé.
+@0F63D4	{p}Grr! L'attaque{n}{n}a baissé!
+@0F63E9	{p}Oh non! L'attaque{n}{n}a baissé!
+@0F63FD	{p}L'attaque{n}{n}a baissé…
+@0F6433	{p}La défense baisse!
+@0F6446	{p}Zut! La défense{n}{n}a baissé!
+@0F645A	{p}Oh non! La défense{n}{n}a baissé!
+@0F646E	{p}…La défense{n}{n}baisse.
+@0F6481	{p}Hélas, la défense{n}{n}a baissé.
+@0F6494	{p}Rah! La défense{n}{n}dégringole!
+@0F64A8	{p}La défense{n}{n}baisse, nya!
+@0F64BC	{p}La défense{n}{n}a baissé.
+@0F64D0	{p}Grr! La défense{n}{n}a baissé!
+@0F64E5	{p}Oh non! La défense{n}{n}a baissé!
+@0F64F9	{p}La défense{n}{n}a baissé…
+@0F652F	{p}La vitesse baisse!
+@0F653F	{p}Zut! La vitesse{n}{n}a baissé!
+@0F6550	{p}Oh non! La vitesse{n}{n}a baissé!
+@0F6561	{p}…La vitesse{n}{n}baisse.
+@0F6571	{p}Hélas, la vitesse{n}{n}a baissé.
+@0F6581	{p}Rah! La vitesse{n}{n}dégringole!
+@0F6592	{p}La vitesse{n}{n}baisse, nya!
+@0F65A3	{p}La vitesse{n}{n}a baissé.
+@0F65B4	{p}Grr! La vitesse{n}{n}a baissé!
+@0F65C6	{p}Oh non! La vitesse{n}{n}a baissé!
+@0F65D7	{p}…La vitesse{n}{n}a baissé…
+@0F660C	{p}{J} amorce{n}{n}la retraite!
+@0F6622	{p}Compris! Je vais{n}{n}trouver une issue!
+@0F663D	{p}D'accord! Je{n}{n}cherche une issue!
+@0F665A	{p}…Bien…{n}{n}Recherche d'issue…
+@0F6677	{p}…Ah bon? Soit, je{n}{n}cherche une issue.
+@0F6695	{p}On s'tire? Bon…{n}{n}J'cherche par où.
+@0F66B8	{p}…On fuit, nya?{n}{n}Je flaire l'issue!
+@0F66D7	{p}…Replions-nous.{n}{n}Cherchons l'issue!
+@0F66FE	{p}…Ça m'agace, mais…{n}{n}je cherche l'issue
+@0F671F	{p}…Oui, t'as raison!{n}{n}Vite, une issue!!
+@0F673C	{p}…Ah… o-oui…!{n}{n}…Vite, une issue!
+@0F6780	{p}{J} a réussi{n}{n}à s'enfuir!!
+@0F679A	{p}…………Bien!{n}{n}Retraite réussie!
+@0F67B4	{p}…………Ouais!{n}{n}On a pu filer!
+@0F67D0	{p}…………Bien joué.{n}{n}Retraite réussie.
+@0F67EA	{p}…………Tiens?{n}{n}La fuite a réussi.
+@0F6803	{p}…………Pas mal!{n}{n}On a filé à temps!
+@0F681E	{p}…………Nyaha★{n}{n}On a filé, nya!
+@0F683A	{p}…………Comme prévu.{n}{n}Retraite réussie.
+@0F685D	{p}…………Évidemment.{n}{n}Retraite réussie.
+@0F687C	{p}…………Super!{n}{n}On a pu s'enfuir!!
+@0F689C	{p}…………J-j'ai réussi!{n}{n}On a pu fuir!
+@0F68DE	{p}{J} se fait{n}{n}barrer la route!!
+@0F68F2	{p}…………Mince!{n}{n}Route coupée!
+@0F690B	{p}…………Ah! Pardon!{n}{n}Plus d'issue!
+@0F692A	{p}…………Quoi!?{n}{n}Route… coupée!?
+@0F6949	{p}………Pas d'issue,{n}{n}on dirait.
+@0F6961	{p}…………Ça craint…{n}{n}Y a plus d'issue…
+@0F6980	{p}…………Funyaaa~{n}{n}Plus d'issue, nya!
+@0F699A	{p}…………Fort habile…{n}{n}Fuite impossible!
+@0F69BC	{p}……Mais c'est quoi…{n}{n}Ça nous bloque!!
+@0F69DD	{p}…………Ah non! Zut!{n}{n}Plus d'issue!!
+@0F69FF	{p}…………P-pardon!!{n}{n}…Pl-plus d'issue!
+@0F6A45	{p}{FE20}{n}{n}prend la fuite!!
+@0F6A57	{p}{FE20}{n}{n}s'enfuit, {J}!
+@0F6A6D	{p}{FE20}{n}{n}se sauve, {J}!
+@0F6A83	{p}…{FE20}{n}{n}s'enfuit, {J}.
+@0F6A99	{p}Oh! {FE20}{n}{n}bat en retraite!
+@0F6AB2	{p}{FE20}{n}{n}se tire! Lâche!
+@0F6ACB	{p}{FE20}{n}{n}s'enfuit, nya?!
+@0F6AE4	{p}Oh? {FE20}{n}{n}se replie.
+@0F6AFF	{p}…{FE20}{n}{n}se sauve? Sérieux?
+@0F6B20	{p}Oh? {FE20}{n}{n}veut s'enfuir!
+@0F6B3B	{p}Ah… {FE20}{n}{n}…veut s'enfuir!
+@0F6B79	{p}{FE20}{n}{n}a réussi à fuir…
+@0F6B8F	{p}…………C'est fichu…{n}{n}Trop tard…
+@0F6BAA	{p}…………Non…{n}{n}Trop tard, zuuut…
+@0F6BC5	{p}…………Perdu…{n}{n}Trop tard.
+@0F6BE0	{p}…………Inutile…{n}{n}Trop tard, hélas.
+@0F6BFC	{p}…………Bon sang!{n}{n}Ça s'est barré!
+@0F6C1D	{p}……Trop vite, nya!{n}{n}Nyuu~ C'est loin!
+@0F6C41	{p}…………Navré…{n}{n}La cible a filé.
+@0F6C5F	{p}…………Tss…{n}{n}Trop tard, hein…
+@0F6C7C	{p}…………Désolé…{n}{n}Ça nous a échappé…
+@0F6C98	{p}……Pardon… snif…{n}{n}C'est trop tard…
+@0F6CDD	{p}{J} lui{n}{n}coupe la retraite!
+@0F6CF3	{p}…………Ouais!{n}{n}Route coupée!
+@0F6D0F	{p}…………Ouiii!{n}{n}Pas par là!
+@0F6D2C	{p}…………Hm.{n}{n}Retraite coupée.
+@0F6D46	{p}…………Bien.{n}{n}Issue bloquée.
+@0F6D62	{p}……Hé hé! Raté!{n}{n}Tu crois filer où?
+@0F6D84	{p}……Raté, nyaaa!{n}{n}Pas de fuite, nya!
+@0F6DA3	{p}……Hé hé, allons.{n}{n}Pas si vite.
+@0F6DC6	{p}…Pff! Trop facile!{n}{n}Tu croyais filer?
+@0F6DE7	{p}……Hé hé hé!{n}{n}J'avais prévu ça!
+@0F6E09	{p}……Kyaa! …Euh?{n}{n}J'ai réussi…?
+@0F6E4E	{p}{J} déclare{n}{n}forfait…
+@0F6E67	{p}……{n}{n}…Ouais. Compris…
+@0F6E7C	{p}…………{n}{n}…Oui… tant pis.
+@0F6E95	{p}…………{n}{n}…………Compris…
+@0F6EAB	{p}…………{n}{n}…Bon… tant pis.
+@0F6EC4	{p}…………{n}{n}…………Rageant…
+@0F6EDB	{p}…………{n}{n}…Funyu… snif, nya.
+@0F6EF4	{p}…………{n}{n}…………Entendu.
+@0F6F0A	{p}…………{n}{n}…Quelle honte!
+@0F6F25	{p}…………{n}{n}……Tant pis, hein?
+@0F6F3D	{p}…C-c'est ma faute…{n}{n}…Snif… Pardon!
+@0F6F89	{p}{J} a vaincu{n}{n}{FE20}!!
+@0F6F9D	{p}Ouais! On a vaincu{n}{n}{FE20}!!
+@0F6FB3	{p}Youpi! On a battu{n}{n}{FE20}!!
+@0F6FCB	{p}…………Fin pour{n}{n}{FE20}.
+@0F6FDF	{p}Oh! On a eu raison{n}{n}de {FE20}.
+@0F6FF5	{p}Ouais!! On a eu{n}{n}{FE20}!!
+@0F700D	{p}Nyaaa! On a battu{n}{n}{FE20}!!
+@0F7029	{p}Bravo! On a vaincu{n}{n}{FE20}.
+@0F7042	{p}Normal. On a battu{n}{n}{FE20}!
+@0F705E	{p}Super!! On a battu{n}{n}{FE20}!!
+@0F7077	{p}…On… on a battu{n}{n}{FE20}!
+@0F70B6	{p}{J} a perdu{n}{n}le combat…
+@0F70CC	{p}Hé! T'as quoi!?{n}{n}{J}! {J}~!!
+@0F70EA	{p}{J}! Hé, dis!!{n}{n}Réponds! {J}~!
+@0F7107	{p}{J}… {J}!!{n}{n}Ça va!? {J}!!
+@0F7122	{p}{J}? Qu'as-tu?{n}{n}{J}! Réponds!!
+@0F7141	{p}{J}! Réponds!!{n}{n}{J}!! {J}~!
+@0F715F	{p}Funya? {J}?{n}{n}Debout, {J}~!!
+@0F717D	{p}{J}! Qu'as-tu!?{n}{n}Pas ici… {J}!!
+@0F719F	{p}…{J}? Ça va?{n}{n}Non! Réponds-moi!!
+@0F71C2	{p}{J}! Fuis vite!{n}{n}{J}~~~~!!
+@0F71DF	{p}Hein…? Q-quoi!?{n}{n}……Snif… Ouiiin!!
+@0F722C	{p}{J} a perdu{n}{n}la bataille…
+@0F7242	{p}…………{n}{n}…On se rattrapera.
+@0F725F	{p}…………{n}{n}…On fera mieux!
+@0F727C	{p}…………{n}{n}…Manque de force…
+@0F7297	{p}………Prochaine fois,{n}{n}nous ferons mieux.
+@0F72B8	{p}…………{n}{n}…Revanche bientôt!
+@0F72D5	{p}…………{n}{n}…On gagnera, nya!
+@0F72F2	{p}…………{n}{n}…Rien ne presse.
+@0F7313	{p}…………Perds encore{n}{n}et tu vas voir!
+@0F7335	{p}…………{n}{n}…On s'entraînera!
+@0F7355	{p}…Je ferai mieux…{n}{n}…P-pardonne-moi…
+@0F739E	+{FE01} EXP!
+@0F73AB	+{FE01} EXP!
+@0F73B8	+{FE01} EXP!
+@0F73C5	+{FE01} EXP.
+@0F73D1	+{FE01} EXP, hop!
+@0F73DE	+{FE01} EXP!
+@0F73EB	+{FE01} EXP, nya!
+@0F73FA	+{FE01} EXP. Bien.
+@0F7408	Joli! +{FE01} EXP
+@0F7415	+{FE01} EXP, cool!
+@0F7423	+{FE01} EXP. Bien.
+@0F7452	+{FE02} GUA!
+@0F745F	+{FE01} GUA!
+@0F746C	+{FE01} GUA!
+@0F7479	+{FE01} GUA.
+@0F7485	+{FE01} GUA, hop!
+@0F7492	+{FE01} GUA!
+@0F749F	+{FE01} GUA, nya!
+@0F74AE	+{FE01} GUA. Bien.
+@0F74BC	Joli! +{FE01} GUA
+@0F74C9	+{FE01} GUA, cool!
+@0F74D7	+{FE01} GUA. Bien.
+@0F7506	+{FE11}!
+@0F7512	+{FE11}!!
+@0F751F	+{FE11}★
+@0F752C	+{FE11}.
+@0F7538	+{FE11}…
+@0F7544	+{FE11}!!!
+@0F7552	+{FE11}★
+@0F7560	+{FE11}.
+@0F756D	+{FE11}!
+@0F757A	+{FE11}!!
+@0F7588	+{FE11}!
+@0F75B7	{p}Niveau supérieur!{n}{n}Pilotage amélioré!
+@0F75D6	{p}{J}! Un niveau!{n}{n}Tu pilotes mieux!
+@0F75FB	{p}Youpi! Un niveau!{n}{n}Tu pilotes mieux★
+@0F7620	{p}…Hm. Un niveau.{n}{n}Meilleur pilotage.
+@0F7643	{p}…Oh? Un niveau!{n}{n}Tu pilotes mieux!
+@0F7668	{p}Ouais! Un niveau!{n}{n}Tu pilotes mieux!!
+@0F7690	{p}Nyaha! Un niveau!{n}{n}Tu pilotes mieux★
+@0F76B8	{p}Oh oh, un niveau!{n}{n}Pilotage amélioré!
+@0F76DF	{p}Hé hé, un niveau!{n}{n}Tu pilotes mieux!!
+@0F7704	{p}Hé hé! Un niveau!{n}{n}Tu pilotes mieux!!
+@0F772B	{p}…Ah, un niveau!{n}{n}Tu pilotes mieux!
+@0F7772	{p}{P} vient{n}{n}en renfort!!
+@0F7788	{p}{J}!!{n}{n}Je te couvre!!
+@0F779C	{p}{J}~!!{n}{n}Je te couvre!!
+@0F77B3	{p}…{J}.{n}{n}Je te couvre…
+@0F77C7	{p}…{J}.{n}{n}…Je te couvre.
+@0F77DB	{p}Ouais! {J}!!{n}{n}J'te couvre!!
+@0F77F6	{p}{J}~!{n}{n}Je te couvre, nya!
+@0F780B	{p}…Bien, {J}.{n}{n}Je te couvre.
+@0F7822	{p}Bon! {J}!!{n}{n}Je te couvre, va!
+@0F783E	{p}Allez! {J}!!{n}{n}Je te couvre!!
+@0F7857	{p}Euh… d-dis…{n}{n}…Je te couvre…
+@0F7891	{p}{P} lance le{n}{n}Vulcan 20 mm!!
+@0F78AC	{p}Prends ça!!{n}{n}Vulcan 20 mm!!
+@0F78C3	{p}Vas-y!!{n}{n}Vulcan 20 mm!!
+@0F78DB	{p}…Là.{n}{n}Vulcan 20 mm!
+@0F78F1	{p}…Ici, donc.{n}{n}Vulcan 20 mm!
+@0F7907	{p}C'est parti!{n}{n}Vulcan 20 mm!!
+@0F791F	{p}J'y vais, nya!!{n}{n}Vulcan 20 mm, nya!
+@0F793B	{p}…Allons-y.{n}{n}Vulcan 20 mm.
+@0F7954	{p}En avant!{n}{n}Vulcan 20 mm!!
+@0F796B	{p}J'y vaaais!!{n}{n}Vulcan 20 mm, feu!
+@0F7989	{p}Pardon…{n}{n}Vulcan… 20 mm…
+@0F79C5	{p}{P} lance{n}{n}l'Exploder!!
+@0F79E0	{p}Prends ça!{n}{n}Exploder!!
+@0F79F7	{p}Exploder, feu!!
+@0F7A0A	{p}…Hm…{n}{n}Exploder!
+@0F7A21	{p}…Hi hi…{n}{n}Exploder!
+@0F7A38	{p}Crame!{n}{n}Exploder!!
+@0F7A51	{p}Kyahahaha!{n}{n}Exploder, nya!!
+@0F7A6C	{p}Que dites-vous de{n}{n}ceci? Exploder.
+@0F7A88	{p}Tu rêves!{n}{n}Exploder!!
+@0F7AA0	{p}Allumage OK!{n}{n}Exploder, feu!!
+@0F7AC0	{p}…Ça va brûler…{n}{n}…Exploder…
+@0F7B01	{p}{P} lance{n}{n}Thousand Barrel!!
+@0F7B1D	{p}Prends ça!{n}{n}Thousand Barrel!!
+@0F7B39	{p}C'est parti!{n}{n}Thousand Barrel!!
+@0F7B51	{p}…Naïf.{n}{n}Thousand Barrel!
+@0F7B69	{p}…Allons-y.{n}{n}Thousand Barrel!
+@0F7B81	{p}Vole en éclats!{n}{n}Thousand Barrel!!
+@0F7B9B	{p}Prends ça, nya!{n}{n}Thousand Barrel!!
+@0F7BB9	{p}…Hé hé. Allons-y.{n}{n}Thousand Barrel.
+@0F7BD6	{p}Essaie d'esquiver!{n}{n}Thousand Barrel!!
+@0F7BF3	{p}Moteur, démarrage!{n}{n}Thousand Barrel!!
+@0F7C14	{p}…N'esquivez pas…{n}{n}Thousand Barrel…
+@0F7C57	{p}{P} lance{n}{n}Sacred Ray!!
+@0F7C73	{p}Verrou levé… Feu!{n}{n}Sacred Ray!!
+@0F7C93	{p}Énergie OK!{n}{n}Sacred Ray!!
+@0F7CAE	{p}…C'est… la fin.{n}{n}Sacred Ray!
+@0F7CCB	{p}…C'est fini…{n}{n}Sacred Ray!
+@0F7CE5	{p}Bon… on l'achève!{n}{n}Sacred Ray!!
+@0F7D03	{p}Contact, nya!{n}{n}Sacred Ray, feu!!
+@0F7D25	{p}Sécurité… levée.{n}{n}Sacred Ray.
+@0F7D45	{p}Allez! Coup final!{n}{n}Sacred Ray!!
+@0F7D63	{p}Systèmes au vert!!{n}{n}Sacred Ray, feu!!
+@0F7D89	{p}…E-euh… j'y vais!{n}{n}Sacred Ray…!!
+@0F7DCF	{p}{P} active{n}{n}Quick Repair 1!!
+@0F7DEB	{p}Quick Repair 1!!
+@0F7DF9	{p}Quick Repair 1!!
+@0F7E07	{p}…Quick Repair 1!
+@0F7E16	{p}…Quick Repair 1!
+@0F7E25	{p}Quick Repair 1!!
+@0F7E33	{p}Quick Repair 1,{n}{n}nya!!
+@0F7E43	{p}Quick Repair 1…
+@0F7E53	{p}Quick Repair 1!!
+@0F7E61	{p}C'est parti!{n}{n}Quick Repair 1!!
+@0F7E77	{p}Quick Repair 1…
+@0F7EA8	{p}{P} active{n}{n}Quick Repair 2!!
+@0F7EC4	{p}Quick Repair 2!!
+@0F7ED2	{p}Quick Repair 2!!
+@0F7EE0	{p}…Quick Repair 2!
+@0F7EEF	{p}…Quick Repair 2!
+@0F7EFE	{p}Quick Repair 2!!
+@0F7F0C	{p}Quick Repair 2,{n}{n}nya!!
+@0F7F1C	{p}Quick Repair 2…
+@0F7F2C	{p}Quick Repair 2!!
+@0F7F3A	{p}C'est parti!{n}{n}Quick Repair 2!!
+@0F7F50	{p}Quick Repair 2…
+@0F7F81	{p}{P} active{n}{n}Quick Repair 3!!
+@0F7F9D	{p}Quick Repair 3!!
+@0F7FAB	{p}Quick Repair 3!!
+@0F7FB9	{p}…Quick Repair 3!
+@0F7FC8	{p}…Quick Repair 3!
+@0F7FD7	{p}Quick Repair 3!!
+@0F7FE5	{p}Quick Repair 3,{n}{n}nya!!
+@0F7FF5	{p}Quick Repair 3…
+@0F8005	{p}Quick Repair 3!!
+@0F8013	{p}C'est parti!{n}{n}Quick Repair 3!!
+@0F8029	{p}Quick Repair 3…
+@0F805A	{p}{P} active{n}{n}Ex-Charge 1!!
+@0F8076	{p}Ex-Charge 1!!
+@0F8084	{p}Ex-Charge 1!!
+@0F8092	{p}…Ex-Charge 1!
+@0F80A1	{p}…Ex-Charge 1!
+@0F80B0	{p}Ex-Charge 1!!
+@0F80BE	{p}Ex-Chaaarge 1,{n}{n}nya!!
+@0F80CE	{p}Ex-Charge 1…
+@0F80DE	{p}Ex-Charge 1!!
+@0F80EC	{p}C'est parti!{n}{n}Ex-Charge 1!!
+@0F8102	{p}Ex-Charge 1…
+@0F8133	{p}{P} active{n}{n}Ex-Charge 2!!
+@0F814F	{p}Ex-Charge 2!!
+@0F815D	{p}Ex-Charge 2!!
+@0F816B	{p}…Ex-Charge 2!
+@0F817A	{p}…Ex-Charge 2!
+@0F8189	{p}Ex-Charge 2!!
+@0F8197	{p}Ex-Chaaarge 2,{n}{n}nya!!
+@0F81A7	{p}Ex-Charge 2…
+@0F81B7	{p}Ex-Charge 2!!
+@0F81C5	{p}C'est parti!{n}{n}Ex-Charge 2!!
+@0F81DB	{p}Ex-Charge 2…
+@0F820C	{p}{P} active{n}{n}Ex-Charge 3!!
+@0F8228	{p}Ex-Charge 3!!
+@0F8236	{p}Ex-Charge 3!!
+@0F8244	{p}…Ex-Charge 3!
+@0F8253	{p}…Ex-Charge 3!
+@0F8262	{p}Ex-Charge 3!!
+@0F8270	{p}Ex-Chaaarge 3,{n}{n}nya!!
+@0F8280	{p}Ex-Charge 3…
+@0F8290	{p}Ex-Charge 3!!
+@0F829E	{p}C'est parti!{n}{n}Ex-Charge 3!!
+@0F82B4	{p}Ex-Charge 3…
+@0F82E5	{p}{FF07} vient{n}{n}en renfort!!
+@0F82FB	{p}{J}! {FF07}{n}{n}vient en renfort!
+@0F8311	{p}À toi, {FF07}!{n}{n}{FF07} en renfort!
+@0F832C	{p}…{J}.{n}{n}{FF07} te couvre.
+@0F8345	{p}…Oh? …Hi hi hi.{n}{n}{FF07} va t'aider.
+@0F8363	{p}Oh? {J}!{n}{n}{FF07} débarque!
+@0F837F	{p}{J}~!{n}{n}{FF07} aide, nya!
+@0F8399	{p}Tiens… {J}.{n}{n}{FF07} intervient.
+@0F83B4	{p}Hé hé! {J}!{n}{n}{FF07} s'en mêle!
+@0F83D0	{p}Ah! {J}!{n}{n}{FF07} te couvre!
+@0F83EA	{p}Euh… {FF07}{n}{n}arrive en renfort!
+@0F8429	{p}{FF07} lance{n}{n}Holy Feather!!
+@0F843E	{p}Vas-y, {FF07}!{n}{n}Holy Feather!!
+@0F8458	{p}À toi, {FF07}!{n}{n}Holy Feather!!
+@0F8472	{p}…À toi de jouer.{n}{n}…Holy Feather!
+@0F848B	{p}…Je t'en prie.{n}{n}Holy Feather!
+@0F84A3	{p}Fais voir, {FF07}!{n}{n}Holy Feather!!
+@0F84BF	{p}Hop, nya! {FF07}!{n}{n}Holy Feather, nya!
+@0F84DD	{p}…Bien.{n}{n}Holy Feather.
+@0F84F3	{p}En avant, {FF07}!{n}{n}Holy Feather!!
+@0F850F	{p}Courage, {FF07}!{n}{n}Holy Feather!!
+@0F8529	{p}Courage… {FF07}…{n}{n}Holy Feather…
+@0F856A	{p}{FF07} lance{n}{n}Shining Flare!!
+@0F8580	{p}Vas-y, {FF07}!{n}{n}Shining Flare!!
+@0F859B	{p}À toi, {FF07}!{n}{n}Shining Flare!!
+@0F85B6	{p}…À toi de jouer.{n}{n}…Shining Flare!
+@0F85D0	{p}…Je t'en prie.{n}{n}Shining Flare!
+@0F85E9	{p}Fais voir, {FF07}!{n}{n}Shining Flare!!
+@0F8606	{p}Hop, nya! {FF07}!{n}{n}Shining Flare!!
+@0F8625	{p}…Bien.{n}{n}Shining Flare.
+@0F863C	{p}En avant, {FF07}!{n}{n}Shining Flare!!
+@0F8659	{p}Courage, {FF07}!{n}{n}Shining Flare!!
+@0F8674	{p}Courage… {FF07}…{n}{n}Shining Flare…
+@0F86B6	{p}{FF07} lance{n}{n}Angel Halo!!
+@0F86CC	{p}Fonce, {FF07}!!{n}{n}Angel Halo!!
+@0F86E8	{p}Vite, {FF07}!{n}{n}Angel Halo!!
+@0F8703	{p}…Libère ta force…{n}{n}…Angel Halo!
+@0F8724	{p}…………{n}{n}Angel Halo!
+@0F873A	{p}À fond, {FF07}!{n}{n}Angel Halo!!
+@0F8758	{p}Fini, nya! {FF07}!{n}{n}Angel Halo, nyaa!!
+@0F877B	{p}Allez… {FF07}.{n}{n}Angel Halo.
+@0F8797	{p}Achève-le, {FF07}!{n}{n}Angel Halo!!
+@0F87B6	{p}{FF07}! Plein gaz!{n}{n}Angel Halo!!
+@0F87D5	{p}Ah… maintenant!{n}{n}Angel Halo…!
+@0F8812	{p}{FF07} utilise{n}{n}Cure Light!!
+@0F8825	{p}Cure Light!!{n}
+@0F8833	{p}Cure Light!!{n}
+@0F8841	{p}…Cure Light!{n}
+@0F8850	{p}…Cure Light!{n}
+@0F885F	{p}Cure Light!!{n}
+@0F886D	{p}Cure Light, nya!!{n}
+@0F887E	{p}Cure Light…{n}
+@0F888E	{p}Cure Light!!{n}
+@0F889C	{p}Cure Light!!{n}
+@0F88AA	{p}Cure Light…{n}
+@0F88DB	{p}{FF07} utilise{n}{n}Healing Tear!!
+@0F88F1	{p}Healing Tear!!{n}
+@0F8902	{p}Healing Tear!!{n}
+@0F8913	{p}…Healing Tear!{n}
+@0F8925	{p}…Healing Tear!{n}
+@0F8937	{p}Healing Tear!!{n}
+@0F8948	{p}Healing Tear, nya!{n}
+@0F895C	{p}Healing Tear…{n}
+@0F896F	{p}Healing Tear!!{n}
+@0F8980	{p}Healing Tear!!{n}
+@0F8991	{p}Healing Tear…{n}
+@0F89C5	{p}{FF07} utilise{n}{n}Élixir!!
+@0F89D8	{p}Élixir!!{n}
+@0F89E6	{p}Élixir!!{n}
+@0F89F4	{p}…Élixir!{n}
+@0F8A03	{p}…Élixir!{n}
+@0F8A12	{p}Élixir!!{n}
+@0F8A20	{p}Élixir, nya!!{n}
+@0F8A31	{p}Élixir…{n}
+@0F8A41	{p}Élixir!!{n}
+@0F8A4F	{p}Élixir!!{n}
+@0F8A5D	{p}Élixir…{n}
+@0F8A8E	{p}{FF07} utilise{n}{n}Energy Sphere!!
+@0F8AA4	{p}Energy Sphere!!{n}
+@0F8AB5	{p}Energy Sphere!!{n}
+@0F8AC6	{p}…Energy Sphere!{n}
+@0F8AD8	{p}…Energy Sphere!{n}
+@0F8AEA	{p}Energy Sphere!!{n}
+@0F8AFB	{p}Energy Sphere,{n}{n}nya!!{n}
+@0F8B0F	{p}Energy Sphere…{n}
+@0F8B22	{p}Energy Sphere!!{n}
+@0F8B33	{p}Energy Sphere!!{n}
+@0F8B44	{p}Energy Sphere…{n}
+@0F8B78	{p}{FF07} utilise{n}{n}Energy Orb!!
+@0F8B8D	{p}Energy Orb!!{n}
+@0F8B9D	{p}Energy Orb!!{n}
+@0F8BAD	{p}…Energy Orb!{n}
+@0F8BBE	{p}…Energy Orb!{n}
+@0F8BCF	{p}Energy Orb!!{n}
+@0F8BDF	{p}Energy Orb, nya!!{n}
+@0F8BF2	{p}Energy Orb…{n}
+@0F8C04	{p}Energy Orb!!{n}
+@0F8C14	{p}Energy Orb!!{n}
+@0F8C24	{p}Energy Orb…{n}
+@0F8C57	{p}{FF07} utilise{n}{n}Elemental Core!!
+@0F8C6C	{p}Elemental Core!!{n}
+@0F8C7C	{p}Elemental Core!!{n}

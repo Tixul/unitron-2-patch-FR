@@ -1,0 +1,1002 @@
+# Biomotor Unitron 2 (Kikou Seiki Unitron) - traduction française. Personnages et objets du décor (script des acteurs).
+# @ADRESSE (fichier, hex) = texte du catalogue à cette adresse (tools/extraire.py) ; voir README.
+@0C7752	Mais j'ai trouvé{n}{n}une raison.{box}C'est…
+@0C7770	…que je veux être{n}{n}avec toi.{box}Voilà ma raison{n}{n}numéro un.
+@0C7792	À tes côtés,{n}{n}{J}, y a moi,{box}et y a {FF07}.
+@0C77AE	Alors, rien qu'une{n}{n}fois, allons{box}revoir ton frère.
+@0C77D1	Sinon… comment{n}{n}savoir ce qu'il{box}ressent vraiment,{n}{n}hein?
+@0C77F9	{J}, {J}!{n}{n}Tu sais, je{box}t'adore, {J}.
+@0C7813	{FF07} aussi{n}{n}t'aime, {J}.{box}C'est pour ça{n}{n}qu'on est là.
+@0C7834	Alors…{n}{n}on reste avec toi…
+@0C784B	Ton frère, {J},{n}{n}tu l'as toujours{box}détesté?
+@0C786B	Non, hein? Alors{n}{n}allons le revoir!
+@0C7886	Lui aussi… il{n}{n}pense pareil.{box}J'en suis sûr!!
+@0C78A7	…Euh… euh!{n}{n}…{P}… elle…
+@0C78BF	{J}… elle{n}{n}t'aime…………{box}très, très fort!!
+@0C78DA	Ah… euh… alors…{n}{n}s'il te plaît,{box}reprends courage…
+@0C78FB	{P}… est{n}{n}heureuse d'être{box}avec toi, {J}.
+@0C791B	Je veux rester{n}{n}avec toi pour{box}toujours… pour{n}{n}toujours…!!
+@0C793D	Mais… te voir{n}{n}triste à cause de{box}ton frère… je ne{n}{n}veux pas…
+@0C7963	{J}! Retourne{n}{n}le voir…{box}et cette fois,{n}{n}réconciliez-vous…
+@0C7985	Hm hm… {J}.{n}{n}Vous avez là de{box}bons 【compagnons】.
+@0C79A5	Ces 【compagnons】{n}{n}sont votre plus{box}grand trésor.
+@0C79C5	À deux… non, à{n}{n}trois, aucune{box}épreuve ne vous{n}{n}résistera…
+@0C79EF	J'en suis{n}{n}convaincue.{box}…Laissez-moi{n}{n}le croire.
+@0C7A15	Quant au{n}{n}【Chevalier Noir】,{box}il a quitté{n}{n}Raphias.
+@0C7A33	Où est parti{n}{n}【cet homme】…{box}je l'ignore.
+@0C7A53	Mais… vous le{n}{n}reverrez bientôt.
+@0C7A71	Si du moins le{n}{n}【destin】 le veut.
+@0C7A8D	…{J}.{n}{n}J'ai une faveur à{box}vous demander.
+@0C7AAB	Si vous le voulez{n}{n}bien, passez donc{box}à 【Chez Solty】{n}{n}pour ma mission.
+@0C7ACF	Sur ce…{n}{n}…que les esprits{box}vous protègent.
+@0C7AEC	Une mission de{n}{n}Sirius?{box}…C'est quoi, à{n}{n}ton avis?
+@0C7B09	Mais pour{n}{n}aujourd'hui…{box}on se repose{n}{n}tranquille.
+@0C7B2A	Hein, {J}!
+@0C7B31	Tiens… c'est rare,{n}{n}une mission de{box}Sirius.
+@0C7B50	Je me demande ce{n}{n}que c'est…{box}Mais aujourd'hui,{n}{n}on se repose.
+@0C7B76	Sinon, on va{n}{n}craquer.{box}Hein, {J}★
+@0C7B91	Une mission de{n}{n}Sirius…{box}…Hm. Voilà qui{n}{n}m'intrigue.
+@0C7BB2	Mais aujourd'hui,{n}{n}reposons-nous.
+@0C7BD4	Avant la mission…{n}{n}prends soin de{box}toi.
+@0C7BF0	Tiens donc…{n}{n}De quelle mission{box}peut-il s'agir?
+@0C7C0F	Mais d'abord… il{n}{n}faut te ménager.
+@0C7C35	Repose-toi bien{n}{n}aujourd'hui, et{box}préparons demain.
+@0C7C54	Ben ça! C'est pas{n}{n}banal!{box}C'est quoi, cette{n}{n}mission?
+@0C7C77	Bah, en attendant,{n}{n}on se repose!
+@0C7C95	Le boulot, on en{n}{n}cause demain!!
+@0C7CAD	C'est quoi, la{n}{n}mission de Sirius,{box}nya? Ça fait{n}{n}mystérieux, nya~!
+@0C7CD2	Mais! L'Unitro est{n}{n}en miettes, nya.{box}Je le répare pour{n}{n}demain, mais…
+@0C7CF8	Aujourd'hui, on{n}{n}se repose, nya!{box}Bonne nuit,{n}{n}nyaaa~★
+@0C7D1D	Hmm… voilà qui{n}{n}est rare.{box}Une mission de{n}{n}Sirius…
+@0C7D43	De quoi peut-il{n}{n}bien s'agir?{box}Fort intrigant.
+@0C7D67	Mais aujourd'hui,{n}{n}je te prie de te{box}reposer.
+@0C7D86	Allons, bonne{n}{n}nuit.
+@0C7D92	Ben ça alors,{n}{n}c'est rare!{box}Une mission de{n}{n}quel genre?
+@0C7DB8	Venant de Sirius…{n}{n}ça doit être du{box}lourd, non?
+@0C7DDB	Mais aujourd'hui,{n}{n}repos.{box}Non!! Au lit, et{n}{n}sans discuter!
+@0C7DFF	La mission de{n}{n}Sirius… c'est{box}quoi, tu crois?{n}{n}Ça m'intrigue…
+@0C7E24	Mais aujourd'hui,{n}{n}on se repose.{box}{J}, tu tiens{n}{n}plus debout.
+@0C7E43	Demain, on s'y{n}{n}remet, d'accord?
+@0C7E58	…C'est rare…{n}{n}Ce sera quel{box}genre de travail?
+@0C7E79	Ah… mais pas{n}{n}aujourd'hui.{box}Repose-toi, je{n}{n}t'en prie.
+@0C7EA1	Je m'inquiète…{n}{n}pour toi, {J}…
+@0C9277	Ouah! Té, encore{n}{n}vous deux?!
+@0C928F	Faire tout ce{n}{n}chemin, dis donc!{box}Hein? C'est plutôt{n}{n}à vous de le dire?
+@0C92B2	Allez allez, on{n}{n}chipote pas!{box}Entre nous, c'est{n}{n}donnant-donnant★
+@0C92D9	Bon★ Allez, on{n}{n}y va! Comme{box}d'habitude!
+@0C92F5	Bien le bonjour!{n}{n}Voici le Bazar{box}ambulant de{n}{n}Sayaka~★
+@0C9313	N'empêche… vous{n}{n}êtes pas là pour{box}le trésor, vous?
+@0C9335	Ah! Pas la peine{n}{n}d'en dire plus.{box}Hein, {J}.
+@0C9352	Je vois pas{n}{n}d'autre raison de{box}venir jusqu'ici.
+@0C9378	Pas de panique!{n}{n}Vous chiper le{box}magot, c'est trop{n}{n}mesquin pour moi.
+@0C939E	Si vous me cédez{n}{n}un bon matériau,{box}ça me suffit…
+@0C93C4	Je… je blague!{n}{n}Le prenez pas au{box}sérieux, hein!
+@0C93E3	Allez, c'est{n}{n}parti~★
+@0C93EF	…C'est moi… Arkis.{n}{n}Première fois que{box}vous me voyez{n}{n}sous cette forme?
+@0C9415	Vous deux, alors…{n}{n}…………{box}Malgré mes mises{n}{n}en garde… Soit.
+@0C943B	…Bien. Corriger{n}{n}les enfants, c'est{box}aussi le devoir{n}{n}des adultes.
+@0C9462	{J}.{n}{n}En garde, je vous{box}prie.
+@0C9478	C'est un peu{n}{n}brutal, mais{box}c'est pour votre{n}{n}bien.
+@0C94A0	Cette fâcheuse{n}{n}manie de fourrer{box}votre nez dans{n}{n}le danger…
+@0C94BE	je m'en vais vous{n}{n}la faire passer.{box}【Arvein】…{n}{n}allons-y.
+@0C94E3	……………………{n}{n}…………Mais…
+@0C94FA	Les mouvements{n}{n}d'【Arvein】,{box}l'Unitron{n}{n}d'Arkis,
+@0C951A	étaient, malgré{n}{n}son aplomb, d'une{box}lenteur extrême.
+@0C953D	…Retenait-il ses{n}{n}coups?
+@0C954D	{J} le crut un{n}{n}instant… à tort.
+@0C9569	Les jambes de son{n}{n}Unitron étaient{box}gravement{n}{n}endommagées.
+@0C958E	Regarde son{n}{n}Unitron…{box}Les jambes sont{n}{n}cassées!
+@0C95B1	Pourquoi se battre{n}{n}dans un état{box}pareil?
+@0C95D3	Qu… quoi? Son{n}{n}Unitron est en{box}miettes!?
+@0C95F4	Pourquoi… nous{n}{n}affronter dans{box}cet état…?
+@0C9615	…Hm? {J}!{n}{n}Tu l'avais{box}remarqué?
+@0C962B	Son Unitron…{n}{n}ses jambes sont{box}endommagées…
+@0C964D	Pourquoi? Pourquoi{n}{n}nous défier dans{box}un tel état?
+@0C9670	Ses jambes sont{n}{n}brisées…{box}{J}, tu l'avais{n}{n}remarqué?
+@0C9692	Je ne comprends{n}{n}pas… Alors{box}pourquoi ce{n}{n}combat…?
+@0C96B4	Hé ho! C'est quoi{n}{n}ce délire?{box}T'as vu dans quel{n}{n}état il est?!
+@0C96D8	Il nous a pris de{n}{n}haut…?{box}Non… c'est pas{n}{n}ça?
+@0C96F5	J'pige pas!!{n}{n}Mais pourquoi?!!
+@0C970F	Gagné, nya!{n}{n}Gagné, nya!{box}Ça t'apprendra,{n}{n}nya… Nyan?
+@0C9731	Son Unitron…{n}{n}il était déjà{box}cassé, nya…
+@0C9751	Mais pourquoi,{n}{n}nya? Pourquoi se{box}bagarrer, nya?
+@0C976F	…Mais pourquoi?!{n}{n}Regarde, {J}!
+@0C9789	Ses jambes étaient{n}{n}déjà brisées, on{box}dirait.
+@0C97A5	Je ne comprends{n}{n}pas…{box}Pourquoi agir{n}{n}ainsi…?
+@0C97C9	{J}… tu as vu?{n}{n}Franchement… c'est{box}pas croyable!
+@0C97E9	Ses jambes étaient{n}{n}cassées dès le{box}début…
+@0C980B	Alors pourquoi?{n}{n}Pourquoi il a fait{box}ça?!
+@0C982A	{J}!! Regarde!{n}{n}On a gagné…{box}hein? Quoi?
+@0C9846	Cassé…?{n}{n}Ses jambes sont{box}cassées!!
+@0C9863	Il était blessé…{n}{n}Pourquoi nous{box}provoquer?!
+@0C9888	Hein… quoi?{n}{n}Ah… {J}!
+@0C989E	L'Unitron de{n}{n}Monsieur Arkis…{box}ses jambes sont{n}{n}cassées!!
+@0C98C3	Comme ça… il ne{n}{n}peut pas bouger!{box}Pourquoi…{n}{n}pourquoi…
+@0C98ED	Hé… après de si{n}{n}grands discours,{box}me voilà bien…{n}{n}Pitoyable.
+@0C9915	Sur ordre du{n}{n}royaume, je{box}traquais le{n}{n}【Chevalier Noir】.
+@0C9936	Et… je l'ai enfin{n}{n}trouvé, ici même,{box}mais…
+@0C9954	Je n'ai rien pu{n}{n}faire. Une force…{box}terrifiante.
+@0C9973	Je comprends{n}{n}mieux pourquoi{box}vous n'avez pu{n}{n}le vaincre.
+@0C9998	La dernière fois,{n}{n}vous avez survécu{box}par pure chance.
+@0C99B8	…Mais si vous{n}{n}l'affrontez…
+@0C99CE	Sachant cela, je{n}{n}ne pouvais vous{box}laisser passer.
+@0C99ED	…Oui. Il est parti{n}{n}plus loin.{box}Dans quel but,{n}{n}je l'ignore…
+@0C9A17	Je ne comptais{n}{n}pas à ses yeux.{box}…C'est l'effet{n}{n}qu'il m'a fait.
+@0C9A3B	……………………{n}{n}…Vous y allez{box}quand même?
+@0C9A55	Soit. Je ne peux{n}{n}plus vous{box}arrêter.
+@0C9A78	Mais surtout, ne{n}{n}gâchez pas vos{box}vies.
+@0C9A96	C'est… l'【autel】?{n}{n}Alors on est au{box}dernier étage.
+@0C9ABA	Quand même… c'est{n}{n}drôlement beau,{box}ici…
+@0C9AD6	Hé? Y a pas un{n}{n}truc, sur le{box}socle doré, là?
+@0C9AFB	…Une clé? Oui, une{n}{n}clé en argent!{box}C'est la{n}{n}【clé des Enfers】!
+@0C9B36	…?!{n}{n}Cette… sale{box}présence… c'est…
+@0C9B51	Attention, {J}!{box}C'est le{n}{n}【Chevalier Noir】!
+@0C9B6B	Wa… waouh…!{n}{n}C'est donc ça,{box}l'【autel】!
+@0C9B8A	C'est super{n}{n}mystérieux…{box}et si beau.
+@0C9BA6	Hein? Le truc sur{n}{n}le socle, là-bas…{box}ce serait…?
+@0C9BC9	Oui! {J}!{n}{n}C'est la{box}【clé des Enfers】!{n}{n}Ouais!
+@0C9BFD	…Hein?!{n}{n}…Cette présence…{box}c'est…
+@0C9C19	Attention! Le{n}{n}【Chevalier Noir】!{box}{J}!
+@0C9C32	Voici donc le{n}{n}fameux 【autel】?{box}…Je vois. Un bel{n}{n}endroit.
+@0C9C58	Et cette{n}{n}atmosphère…{box}indescriptible.
+@0C9C7A	…Hm? Là-bas, ce{n}{n}serait le socle{box}doré dont on nous{n}{n}a parlé?
+@0C9C9E	Ce qui veut dire…{n}{n}hm, comme prévu.{box}Ce doit être la{n}{n}【clé des Enfers】.
+@0C9CC6	…Quoi?{n}{n}…Cette présence…{box}serait-ce…?
+@0C9CDF	Hm… je le savais!{n}{n}{J}!{box}Sa Seigneurie le{n}{n}【Chevalier Noir】!!
+@0C9D03	L'【autel】 céleste…{n}{n}Il évoque une{box}gloire passée.
+@0C9D26	Mais il est si{n}{n}mélancolique…{box}Une beauté née{n}{n}de la solitude…
+@0C9D4A	Ce socle, là-haut…{n}{n}si c'est bien le{box}socle doré…
+@0C9D6D	Là. Tu le vois?{n}{n}C'est là qu'est la{box}【clé des Enfers】.
+@0C9D8E	Tiens? …Notre{n}{n}invité est là.{box}Le{n}{n}【Chevalier Noir】!!
+@0C9DAE	Ooh!{n}{n}Ça en jette, ici!
+@0C9DC8	C'est pas tant le{n}{n}décor, mais…{box}l'ambiance, quoi?
+@0C9DE5	Hé, regarde,{n}{n}{J}!{box}Le truc sur le{n}{n}socle, là!
+@0C9E04	On dirait la{n}{n}【clé des Enfers】.{box}Bon… on se sert!
+@0C9E29	…Tss… cette{n}{n}présence…{box}…le voilà?!
+@0C9E43	Waaah~!!{n}{n}C'est trop beau,{box}ici, nya★
+@0C9E60	C'est ça,{n}{n}l'【autel】, nya?{box}C'est trop trop{n}{n}chouette, nya!
+@0C9E87	…Nyu? C'est quoi,{n}{n}là-bas, nya?
+@0C9EA2	Ah! C'est la{n}{n}【clé des Enfers】,{box}nya! Elle brille{n}{n}en argent, nya~!
+@0C9EC7	Snif snif…{n}{n}Nya? Cette odeur,{box}c'est…
+@0C9EE4	Nya nya nya!! Le{n}{n}【Chevalier Noir】{box}est là, nya!
+@0C9EFF	Un vestige d'un{n}{n}lointain passé…{box}voilà cet{n}{n}【autel】.
+@0C9F1E	Quel lieu divin…{n}{n}et magnifique.
+@0C9F3F	Ah, regarde{n}{n}donc. Là-bas, le{box}socle doré.
+@0C9F5E	Ce qui repose{n}{n}dessus, c'est{box}sûrement la{n}{n}【clé des Enfers】.
+@0C9F80	Hm? Qu'est-ce que{n}{n}cette présence…?{box}…! Cette{n}{n}présence…!
+@0C9FA5	{J}! Il arrive!{box}C'est le{n}{n}【Chevalier Noir】!
+@0C9FBE	Quel silence…{n}{n}à faire peur…{box}Mais… comment{n}{n}dire?
+@0C9FE3	Cet 【autel】… à{n}{n}quoi pouvait-il{box}bien être voué…?
+@0CA007	Tiens? {J},{n}{n}regarde là-bas.{box}Oui. Sur le socle{n}{n}doré.
+@0CA02B	Cette clé{n}{n}argentée…{box}Ce doit être la{n}{n}【clé des Enfers】.
+@0CA04E	…………?!{n}{n}C'est quoi, cette{box}pression…?
+@0CA068	C… c'est le{n}{n}【Chevalier Noir】…!
+@0CA07F	Waouh, génial!!{n}{n}Voilà l'【autel】!
+@0CA09B	La lumière s'y{n}{n}reflète…{box}Ça brille comme{n}{n}du verre…
+@0CA0BE	Hein? Dis, regarde{n}{n}là-bas!{box}Oui, là, sur ce{n}{n}drôle de socle.
+@0CA0E3	Ce truc dessus…{n}{n}ce serait pas la{box}【clé des Enfers】?
+@0CA107	Super! Vite, on la{n}{n}rapporte!{box}…? C'est quoi,{n}{n}cette sensation…?
+@0CA131	Mais oui! Le{n}{n}【Chevalier Noir】{box}est là!
+@0CA149	…C… c'est ça,{n}{n}l'【autel】?{box}On y est enfin…
+@0CA16A	Comment dire…{n}{n}Je sens une{box}【force】, ici…
+@0CA191	…? Euh… là-bas,{n}{n}sur le socle…{box}il y a quelque{n}{n}chose.
+@0CA1B8	C'est… la{n}{n}【clé des Enfers】.{box}…Ouf… on l'a{n}{n}trouvée…
+@0CA1DF	…?! Qu… quoi?{n}{n}Cette atmosphère…{box}ce ne serait pas…
+@0CA201	{J}! C'est le{n}{n}【Chevalier Noir】!
+@0CA215	Heh… je m'en{n}{n}doutais.{box}Tu es toujours en{n}{n}vie.
+@0CA22F	Pas comme notre{n}{n}père: toi, tu as{box}une veine du{n}{n}diable.
+@0CA24E	…Mais c'est donc{n}{n}cette 【clé】 que{box}tu cherches?
+@0CA26B	Désolé, mais je{n}{n}la prends.{box}J'ai besoin de{n}{n}cette clé.
+@0CA293	…Oh? Après avoir{n}{n}vu l'écart entre{box}nous, tu veux{n}{n}encore te battre?
+@0CA2BA	En finir pour de{n}{n}bon avec toi ne{box}me déplairait{n}{n}pas, mais…
+@0CA2E0	Hélas, je suis{n}{n}pressé.{box}Ton adversaire…{n}{n}ce sera lui.
+@0CA304	Viens à moi,{n}{n}【Sire Dragon】!
+@0CA314	Adieu, {J}.{n}{n}Si tu survis,{box}on se reverra.
+@0CA332	Ha ha ha…{n}{n}Ah ha ha ha ha…!!
+@0CA34C	…Le{n}{n}【Chevalier Noir】…{box}Il a déjà filé…!
+@0CA36C	Il nous l'a{n}{n}piquée sous le{box}nez… Bon sang!{n}{n}J'enrage!!
+@0CA38D	Qu'est-ce qu'il{n}{n}compte faire avec{box}cette clé?
+@0CA3AB	Quel secret{n}{n}peut bien cacher{box}cette clé…?
+@0CA3CB	…………?{n}{n}Hein…? C'est quoi,{box}cette lumière…?
+@0CA3E6	{J}!!{n}{n}Tu n'as rien?!
+@0CA3FB	Ouf… tant mieux.{n}{n}…Mais la clé…
+@0CA415	Dire que le{n}{n}【Chevalier Noir】{box}voulait la clé,{n}{n}lui aussi…
+@0CA436	Qu'est-ce qu'il{n}{n}veut en faire, de{box}cette clé…?
+@0CA458	Je comprends pas…{n}{n}C'est quoi, au{box}juste, cette clé?
+@0CA473	…………Hein?{n}{n}Quoi, quoi? Tout{box}devient blanc…
+@0CA490	Tch… {J}!{n}{n}Pas de blessure?
+@0CA4A5	Le{n}{n}【Chevalier Noir】{box}visait donc la{n}{n}clé…
+@0CA4C4	Les mots d'Arkis{n}{n}auraient dû{box}m'alerter…
+@0CA4E3	Mais que fera-t-il{n}{n}de cette clé?{box}À quoi peut-elle{n}{n}servir?
+@0CA505	Trop de questions{n}{n}sans réponse…{box}Que se passe-t-il{n}{n}donc……
+@0CA526	…………Hm?{n}{n}Cette lumière…?
+@0CA53B	……………………{n}{n}……{J}, ça va?
+@0CA558	Ne te laisse pas{n}{n}abattre.{box}Ce n'était juste{n}{n}pas le moment.
+@0CA57C	Mais que compte{n}{n}faire le{box}【Chevalier Noir】{n}{n}de cette clé?
+@0CA59F	Et quel mystère{n}{n}cache-t-elle donc,{box}cette clé?
+@0CA5BF	De la lumière?{n}{n}Elle vient de{box}l'autel… Mais{n}{n}c'est…………
+@0CA5DF	{J}! T'as rien?{n}{n}…Ouais. Tant{box}mieux…
+@0CA5FF	…Mais c'est pas{n}{n}l'heure de{box}souffler! Raaah,{n}{n}nom d'un chien!!
+@0CA627	Désolé pour toi,{n}{n}{J}, mais ce{box}type me gonfle{n}{n}grave!!
+@0CA645	Elle cache quoi,{n}{n}au juste, cette{box}clé?
+@0CA666	Quelqu'un peut{n}{n}m'expliquer…{box}Hein?! C'est quoi{n}{n}cette lumière…?
+@0CA689	Nyaaah! {J}~{n}{n}Ça va, nya?
+@0CA6A4	Ah oui! On s'est{n}{n}fait voler, nya!{box}Tricheur, nya!{n}{n}Méchant, nya!
+@0CA6C5	Funyuu… pourquoi{n}{n}il pique une clé,{box}nya?
+@0CA6E5	Ou alors! Elle{n}{n}cache plein plein{box}de secrets trop{n}{n}géniaux, nya!
+@0CA707	…………Funya?{n}{n}C'est quoi, nya…?{box}Cette lumière…
+@0CA725	{J}… tu n'as{n}{n}rien? …Je vois.{box}Tant mieux.
+@0CA741	Mais… hélas, la{n}{n}clé nous a été{box}dérobée.
+@0CA762	Que compte-t-il{n}{n}donc en faire?
+@0CA781	Une clé… pour{n}{n}ouvrir quelque{box}chose? …Hmm.{n}{n}Mais quoi donc…
+@0CA7A2	Qu'est-ce…………?{n}{n}Cette lumière…{box}d'où vient-elle…
+@0CA7BF	{J}… ça va?{n}{n}Bon… tant mieux.
+@0CA7DD	Mais quand même!!{n}{n}Se faire doubler{box}comme ça!!
+@0CA7F5	{J}! Voler ce{n}{n}que les autres{box}ont trouvé, c'est{n}{n}mal!
+@0CA80F	Dis-le à ton{n}{n}frère, la{box}prochaine fois!!
+@0CA82A	…Je dis{n}{n}n'importe quoi.{box}…Pardon…
+@0CA84B	Cette clé… elle{n}{n}servait à quoi?{box}…?? Quoi? Cette{n}{n}lumière…
+@0CA872	Le{n}{n}【Chevalier Noir】…{box}Il est parti…
+@0CA88B	{J}… ça va?{n}{n}Ouf. C'est déjà{box}ça.
+@0CA8AF	Mais dis… cette{n}{n}clé, à ton avis,{box}c'était quoi?
+@0CA8CA	Sirius le savait,{n}{n}tu crois?{box}…Elle va nous{n}{n}gronder, hein…
+@0CA8F3	J'ai pas envie de{n}{n}me faire gronder…{box}Qu'est-ce qu'on{n}{n}fait…?
+@0CA90E	Hein?{n}{n}Quoi? Y a un{box}truc qui brille!
+@0CA928	Ah… {J}~!!{n}{n}Tu n'as rien?!
+@0CA945	Ouf… tant{n}{n}mieux…{box}Ah… ne sois pas{n}{n}triste…
+@0CA96B	Personne n'aurait{n}{n}pu prévoir ça…{box}Ce n'est la faute{n}{n}de personne…
+@0CA98E	Oui… c'est vrai.{n}{n}Il y a tellement{box}de mystères…
+@0CA9AE	Euh… dis…{n}{n}c'est quoi, cette{box}lumière…?
+@0CA9CC	Je suis un{n}{n}【esprit divin】.{box}Je règne sur la{n}{n}【lumière】.
+@0CA9F1	J'ai répondu à{n}{n}l'appel de{box}l'【avatar】.
+@0CAA10	Pour dissiper vos{n}{n}doutes, et vous{box}montrer une voie{n}{n}nouvelle.
+@0CAA31	Ô vous deux,{n}{n}je vais répondre{box}à vos questions.
+@0CAA47	La 【clé】 que je{n}{n}gardais scellait{box}les Enfers.
+@0CAA69	Un homme me{n}{n}confia cette{box}【clé】.
+@0CAA88	Son nom était{n}{n}【Elmut】.{box}Un pauvre guerrier{n}{n}privé d'ailes.
+@0CAAAF	Il me dit:
+@0CAAB8	« Que plus jamais{n}{n}la porte ne{box}s'ouvre. Que plus{n}{n}jamais l'Entité{box}ne s'éveille. »
+@0CAAE0	Mais…{n}{n}la 【clé】 a été{box}dérobée.
+@0CAAFA	Et 【l'Entité】…{n}{n}a brisé jusqu'à{box}mon sceau.
+@0CAB17	Sa force… n'a{n}{n}plus rien{box}d'humain. Elle{n}{n}n'est pas de ce{box}monde.
+@0CAB3C	Ô toi, {J}.{n}{n}Il te faut de la{box}force.
+@0CAB59	Assez de force{n}{n}pour déjouer les{box}desseins de{n}{n}【l'Entité】.
+@0CAB79	Je suis{n}{n}l'【esprit divin】{box}de la Lumière.{n}{n}Nous sommes{box}【sept en un】.
+@0CAB9F	Si tu convoites{n}{n}notre force,{box}terrasse-nous{n}{n}tous.
+@0CABC6	Quand tu nous{n}{n}auras tous{box}vaincus, une{n}{n}force nouvelle{box}te sera donnée.
+@0CABED	Toi que protège{n}{n}l'【avatar】,{box}nous attendrons…
+@0CAC12	…le jour où vous{n}{n}reviendrez en{box}ces lieux…
+@0CAC2F	La force des{n}{n}【esprits】, hein…{box}Avec ça, ce serait{n}{n}plus simple.
+@0CAC53	Mais faut battre{n}{n}les sept esprits{box}divins…
+@0CAC73	…Bon, on verra{n}{n}ça plus tard.{box}Pour l'instant,{n}{n}on rentre.
+@0CAC91	On peut rien{n}{n}faire, ici.{box}Et faut prévenir{n}{n}Sirius.
+@0CACB6	Pense pas trop à{n}{n}ton frère, OK?{box}Hein, {J}.
+@0CACD3	…Des{n}{n}【esprits divins】…{box}Ils existent{n}{n}vraiment…
+@0CACF7	Alors, {J}…{n}{n}tu crois que tu{box}vas vraiment{n}{n}gagner en force?
+@0CAD13	Même pour parler{n}{n}à ton frère…{box}il faut être à{n}{n}la hauteur, hein.
+@0CAD37	Bon, allez!{n}{n}On rentre à{box}Albaris?
+@0CAD4F	Faut qu'on aille{n}{n}s'excuser auprès{box}de Sirius.
+@0CAD6C	J'ai encore du mal{n}{n}à y croire…{box}Voir un{n}{n}【esprit divin】…
+@0CAD90	Si c'est vrai,{n}{n}nous aurons de{box}quoi rivaliser.
+@0CADB7	La dernière fois,{n}{n}l'écart de force{box}était écrasant.
+@0CADDA	Mais avec cette{n}{n}force… cette{box}fois, sans doute…!
+@0CADFC	Hm… pardon. Je{n}{n}me suis emporté.
+@0CAE1E	Rentrons. Sirius{n}{n}sera déçue,{box}hélas.
+@0CAE41	Un{n}{n}【esprit divin】…{box}Qui aurait cru en{n}{n}rencontrer un…
+@0CAE60	Et nous pourrions{n}{n}recevoir leur{box}protection?
+@0CAE7B	Avec leur{n}{n}protection…{box}nous gagnerons.{n}{n}La prochaine fois.
+@0CAE9B	Il faudra gagner,{n}{n}et l'arrêter.{box}Ton frère.
+@0CAEBD	Allez, rentrons.{n}{n}Il faut faire{box}notre rapport.
+@0CAEDC	Oh là! C'était{n}{n}un vrai de vrai,{box}ce truc?
+@0CAEF8	Un… quoi,{n}{n}【esprit divin】?{box}Il a dit qu'il{n}{n}nous filerait de{box}la force, non?
+@0CAF1D	Ça me tue de le{n}{n}dire, mais pour{box}l'instant, il est{n}{n}plus fort…
+@0CAF3F	Mais… avec leur{n}{n}force à eux…{box}on le bat.
+@0CAF5E	Allez, on rentre.{n}{n}Se faire passer{box}un savon par{n}{n}Solty!
+@0CAF7D	I… il est parti,{n}{n}nya…{box}…C'était un vrai,{n}{n}nya?
+@0CAF9F	Si c'est un vrai…{n}{n}on aura de la{box}force, nya!!
+@0CAFBC	Suffit de battre{n}{n}tous les esprits{box}divins, nya!
+@0CAFDC	…Mais en y{n}{n}réfléchissant,{box}c'est trop dingue,{n}{n}nya.
+@0CAFFE	On peut battre{n}{n}des dieux, nya?{box}Funyuuu…
+@0CB019	On rentre en{n}{n}ville, nya.{box}La tata va nous{n}{n}gronder. Funiii.
+@0CB041	Un{n}{n}【esprit divin】…{box}C'est… à peine{n}{n}croyable.
+@0CB067	Voilà sans doute{n}{n}la vraie raison{box}d'être de{n}{n}l'【autel】.
+@0CB088	La force d'un{n}{n}【esprit divin】…{box}Quelle peut être{n}{n}son ampleur…
+@0CB0AE	Je ne peux même{n}{n}pas l'imaginer.{box}C'est… la force{n}{n}d'un dieu.
+@0CB0D5	…Rentrons en{n}{n}ville pour{box}l'instant. Il faut{n}{n}prévenir Sirius.
+@0CB0FF	Un{n}{n}【esprit divin】,{box}rien que ça. …On{n}{n}a pas rêvé?
+@0CB122	Si c'est vrai…{n}{n}on pourrait{box}gagner en force.
+@0CB143	Et là… on{n}{n}pourrait arrêter{box}ton frère.
+@0CB162	Pour de bon,{n}{n}cette fois.
+@0CB16D	Allez, on rentre!{n}{n}Faut tout{box}raconter à{n}{n}Sirius.
+@0CB18F	Des{n}{n}【esprits divins】…{box}Ils existent{n}{n}pour de vrai!
+@0CB1AB	Et si on les bat{n}{n}tous… ils nous{box}donnent leur{n}{n}force, c'est ça?
+@0CB1CA	{J}, tu vas{n}{n}y arriver!{box}Avec ta force,{n}{n}{J}, c'est sûr!
+@0CB1E7	On les bat à la{n}{n}chaîne, on prend{box}leur force! Et on{n}{n}arrête ton frère!
+@0CB20E	Pour l'instant,{n}{n}on rentre à{box}Albaris. On verra{n}{n}la suite après.
+@0CB234	Un… un{n}{n}【esprit divin】…{box}Et on a pu lui{n}{n}parler…
+@0CB25D	{P} était si{n}{n}surprise…{box}qu'elle n'a rien{n}{n}pu dire…
+@0CB27D	L'esprit a dit{n}{n}qu'ils nous{box}prêteraient leur{n}{n}force…
+@0CB29D	Mais battre des{n}{n}dieux… on en{box}est capables?
+@0CB2BB	Ah… mais rentrons{n}{n}d'abord. Il faut{box}s'excuser auprès{n}{n}de Sirius.
+@0CCBC4	{J}!!{n}{n}La porte est{box}ouverte!
+@0CCBDA	La{n}{n}【clé des Enfers】…{box}c'était la clé de{n}{n}cette porte!
+@0CCBF9	…Ça veut dire{n}{n}que… au fond, il{box}y a…?
+@0CCC13	{J}, vite!{n}{n}J'ai un mauvais{box}pressentiment!!
+@0CCC2C	…Hein?{n}{n}Qu… pas{box}maintenant!!
+@0CCC43	R… regarde!{n}{n}La porte est{box}ouverte!
+@0CCC5C	Alors… la clé…{n}{n}servait à ouvrir{box}cette porte?
+@0CCC7F	Dans ce cas… le{n}{n}【Chevalier Noir】{box}est là-dedans!
+@0CCC9D	{J}! Vite!{n}{n}J'ai un très{box}mauvais{n}{n}pressentiment…
+@0CCCBF	…?!{n}{n}Pourquoi{box}maintenant?!!
+@0CCCD7	Hm…? La porte…{n}{n}est ouverte?{box}Je vois. C'était{n}{n}donc ça.
+@0CCCFE	La clé scellait{n}{n}【quelque chose】,{box}plus loin.
+@0CCD1E	Et ce que vise le{n}{n}【Chevalier Noir】,{box}c'est ce{n}{n}【quelque chose】…
+@0CCD3D	…Hâtons-nous.{n}{n}J'ai un sinistre{box}pressentiment.
+@0CCD5E	…?!{n}{n}Tch… un gêneur…!
+@0CCD78	…Tiens?{n}{n}La porte est{box}ouverte.
+@0CCD90	Je vois… c'était{n}{n}donc ça. La{box}【clé】 qui scellait{n}{n}les 【Enfers】.
+@0CCDB5	Et si le{n}{n}【Chevalier Noir】{box}était passé avant{n}{n}nous…?
+@0CCDD8	{J}, vite.{n}{n}…Avant qu'il ne{box}soit trop tard!
+@0CCDF6	…………?{n}{n}Un cadeau{box}d'adieu… charmant!
+@0CCE0A	Ah! Mate ça!{n}{n}La porte est{box}ouverte!
+@0CCE24	Tss… c'est donc{n}{n}ça! C'était la{box}【clé du sceau】!
+@0CCE49	S'il est passé{n}{n}devant… ça sent{box}mauvais… J'le{n}{n}sens pas du tout!!
+@0CCE72	On se magne,{n}{n}{J}!!{box}On peut encore{n}{n}l'avoir!
+@0CCE90	…Quoi? Un{n}{n}monstre?!{box}La poisse! Pas{n}{n}maintenant!
+@0CCEB1	Nyanyanya?!{n}{n}La porte est{box}ouverte, nya!!
+@0CCECD	Ça veut dire…{n}{n}euh… euh…
+@0CCEE7	J'ai trouvé!!{n}{n}Elle s'est ouverte{box}toute seule, nya!{n}{n}…………Non, nya?
+@0CCF09	C'est la clé qui{n}{n}l'a ouverte?{box}{J}, t'es un{n}{n}génie, nya~★
+@0CCF25	Alors, nya!{n}{n}Faut se dépêcher,{box}nya!
+@0CCF40	…? …Regarde,{n}{n}nya! Un monstre{box}arrive, nya!
+@0CCF5F	{J}! La porte{n}{n}est ouverte!
+@0CCF75	Je vois…{n}{n}C'était donc ça.
+@0CCF8F	Voilà pourquoi le{n}{n}【Chevalier Noir】{box}a dérobé la clé.
+@0CCFB1	Hâtons-nous,{n}{n}{J}! J'ai un{box}mauvais{n}{n}pressentiment.
+@0CCFCD	…………?!{n}{n}Un monstre…!!
+@0CCFE1	Tch… il veut{n}{n}déjà nous{box}retarder…
+@0CCFFD	La porte… est{n}{n}ouverte…{box}…Pourquoi?
+@0CD018	…………! J'y suis!{n}{n}Cette clé… elle{box}ouvrait cette{n}{n}porte…
+@0CD03C	Qu'est-ce qu'il y{n}{n}a, au fond…?{box}Qu'est-ce qu'on{n}{n}nous cache?
+@0CD05D	{J}! On y va!{n}{n}Je le sens super{box}mal!
+@0CD07D	…Hein?! Oh non!{n}{n}Un monstre, là,{box}maintenant?!!
+@0CD09E	Tu parles d'un{n}{n}timing!
+@0CD0AE	Hein?! La porte{n}{n}est ouverte?{box}Qu'est-ce qui se{n}{n}passe?
+@0CD0D0	Et si… cette clé{n}{n}était celle de{box}cette porte?
+@0CD0F1	Alors le{n}{n}【Chevalier Noir】{box}est entré avant{n}{n}nous, non?
+@0CD112	J'ai un très{n}{n}mauvais{box}pressentiment…{n}{n}{J}!! Vite!
+@0CD135	…Et pendant ce{n}{n}temps, voilà un{box}monstre!
+@0CD153	Ah… {J}!{n}{n}La porte est{box}ouverte!
+@0CD16B	La clé de{n}{n}l'【autel】…{box}c'était bien celle{n}{n}d'ici!
+@0CD192	Alors, plus loin,{n}{n}il y a… les{box}【Enfers】?!
+@0CD1B0	Euh… {J}~…{n}{n}il faut… y aller,{box}hein…?
+@0CD1CE	O… oui…{n}{n}…C'est vrai……
+@0CD1E8	…………?{n}{n}{J}!{box}Un monstre!
+@0CD201	Zut… on n'a pas{n}{n}le temps de{box}traîner ici…
+@0CD224	Mais bon, pas le{n}{n}choix…{box}{J}! On y va!
+@0CD23E	Oh non!{n}{n}On n'a pas le{box}temps, en plus!!
+@0CD256	Mais… tant pis.{n}{n}Allez! {J}!
+@0CD272	Il tient vraiment{n}{n}à nous retarder,{box}on dirait.
+@0CD292	Tch… soit.{n}{n}Finissons-en,{box}{J}!
+@0CD2AF	…Il est bien{n}{n}prudent.{box}Que prépare-t-il{n}{n}donc?
+@0CD2D9	Pour le savoir,{n}{n}il faut avancer.
+@0CD2FB	Raaah! On n'a{n}{n}pas l'temps de{box}glander ici!
+@0CD31E	Tu nous barres la{n}{n}route? J'vais{box}t'écraser! Go,{n}{n}{J}!
+@0CD33D	Unyuuu~…{n}{n}Pourquoi tu nous{box}embêtes, nya?
+@0CD358	{J}!!{n}{n}On l'écrabouille,{box}nya!!
+@0CD36D	Impossible de{n}{n}l'ignorer, on{box}dirait.
+@0CD38C	Tant pis.{n}{n}…Éliminons-le.
+@0CD3A6	Dans ce cas, on{n}{n}passe, coûte que{box}coûte!
+@0CD3C2	{J}! On le{n}{n}règle vite fait!
+@0CD3D7	Quand on me barre{n}{n}la route, j'ai{box}encore plus envie{n}{n}de passer!
+@0CD3F9	On le bat en{n}{n}vitesse et on{box}avance!
+@0CD412	…Il veut nous{n}{n}bloquer…?{box}Euh… on fait{n}{n}quoi…?
+@0CD432	Euh… oui… compris!{n}{n}En position de{box}combat!
+@0CD457	Tiens, bonjour!{n}{n}Cela faisait{box}longtemps, {J},{n}{n}{P}.
+@0CD473	Alors? Le soutien{n}{n}d'un adulte, on{box}en a toujours{n}{n}besoin, non?
+@0CD494	Ha ha ha! Je ne{n}{n}suis pas venu{box}quémander votre{n}{n}gratitude.
+@0CD4B3	Sirius m'a tout{n}{n}raconté. Le temps{box}vous presse, non?
+@0CD4D8	Laissez-moi{n}{n}m'en charger, et{box}passez devant.
+@0CD4F6	Vous ne l'avez{n}{n}sans doute pas{box}remarqué, mais il{n}{n}n'est pas seul.
+@0CD51F	Des monstres en{n}{n}grand nombre ont{box}été lâchés sur{n}{n}Raphias.
+@0CD543	Ne vous en faites{n}{n}pas… pas pour{box}moi, en tout cas.
+@0CD55B	Pareil menu{n}{n}fretin ne fait{box}pas le poids.
+@0CD577	Mais vous, vous{n}{n}devez faire vite.{box}Allez! Filez!
+@0CD599	…On dirait que je{n}{n}m'étais un peu{box}trompé sur lui.
+@0CD5BB	Bon! Pendant{n}{n}qu'il les retient,{box}on fonce!
+@0CD5DA	Merci… Arkis!{box}Je m'étais{n}{n}trompée sur vous…
+@0CD5FB	…Du coup, on{n}{n}peut pas traîner{box}ici!
+@0CD61E	On y va, {J}!
+@0CD62A	Heh… ha ha ha!{n}{n}Je l'avais mal{box}jugé, semble-t-il.
+@0CD649	{J}! Ne gâchons{n}{n}pas son aide!
+@0CD664	En avant!{n}{n}{J}!
+@0CD675	Allons bon. Quel{n}{n}frimeur…{box}Mais… merci.
+@0CD694	Pour ne pas{n}{n}trahir son geste,{box}avançons.
+@0CD6B8	Allons-y.
+@0CD6C4	…Heh. Arkis,{n}{n}ce frimeur!
+@0CD6E2	Mais là… faut{n}{n}avouer que t'as{box}la classe!
+@0CD700	C'est parti!!{n}{n}En avant, {J}!!
+@0CD716	Arkis est{n}{n}gentil, nya!{box}{P} en revient{n}{n}pas, nya!
+@0CD736	Pourquoi il était{n}{n}méchant avant,{box}nya?
+@0CD751	J'y comprends{n}{n}rien, mais…{box}let's go, nya!!
+@0CD76E	Hé hé… J'étais{n}{n}encore bien{box}naïf, on dirait.
+@0CD78E	{J}! Ne gâchons{n}{n}pas son soutien!
+@0CD7AA	…D'autres{n}{n}obstacles nous{box}attendent, sans{n}{n}doute!
+@0CD7C5	Allons, en avant!
+@0CD7D5	Il a la classe,{n}{n}en fait, lui!{box}À nous d'assurer!
+@0CD7FC	Bon! Pour Arkis,{n}{n}on fonce!
+@0CD81A	Hein, {J}!
+@0CD822	Ben alors! En{n}{n}fait, il est{box}sympa, Arkis!
+@0CD841	Je m'étais trompé{n}{n}sur vous…{box}Pardon, Arkis!
+@0CD865	Allez!{n}{n}On en profite{box}pour avancer!
+@0CD87F	Je vous avais{n}{n}mal jugé… euh…{box}pardon!
+@0CD89F	Alors que vous{n}{n}êtes si gentil…{box}{P}…………
+@0CD8BA	…Oui!{n}{n}{J}! Allons-y!
+@0CD8D2	Qu'attendez-vous?{n}{n}Allez, filez!
+@0CD8ED	Avant qu'il ne{n}{n}soit trop tard!{box}Avant d'avoir des{n}{n}regrets…
+@0CD910	Allez!
+@0CD915	JE SUIS L'ESPRIT{n}{n}DES ARBRES,{box}【TRIFFID】.
+@0CD930	CELUI QUI FAIT{n}{n}ÉCLORE DES FLEURS{box}ROUGES DANS LES{n}{n}TÉNÈBRES.
+@0CD94C	TOI QUI PORTES LE{n}{n}SANG DU{box}【DÉICIDE】…
+@0CD965	TU N'IRAS PAS{n}{n}JUSQU'À MON{box}MAÎTRE! MEURS{n}{n}ICI!
+@0CD985	MON NOM EST{n}{n}【CATOBLÉPAS】.{box}JE SUIS L'ESPRIT{n}{n}DE LA TERRE.
+@0CD9A3	CELUI QUI BRISE{n}{n}LA TERRE ET{box}DÉVORE SES VEINES{n}{n}TELLURIQUES.
+@0CD9BE	DESCENDANCE DU{n}{n}【DÉICIDE】,{box}MEURS ICI!!
+@0CD9DD	JE SUIS{n}{n}【TIAMAT】,{box}L'ESPRIT DE L'EAU.
+@0CD9F8	DANS VOS VEINES{n}{n}COULE LE SANG DU{box}【DÉICIDE】.
+@0CDA18	CE SANG IMPUR,{n}{n}JE VAIS LE BOIRE{box}JUSQU'À LA{n}{n}DERNIÈRE GOUTTE.
+@0CDA3C	JE SUIS L'ESPRIT{n}{n}DU VENT,{box}【SIMURGH】.
+@0CDA54	VÊTU D'UN VENT{n}{n}D'UN NOIR DE JAIS,{box}JE VIS AU CŒUR{n}{n}DES BOURRASQUES.
+@0CDA76	QUE LA TEMPÊTE{n}{n}DE MORT, LA{box}TEMPÊTE NOIRE,{n}{n}FONDE SUR TOI!
+@0CDA92	Ouiiin~ Enfin{n}{n}des secours~!
+@0CDAAC	…Hein? C'est pas{n}{n}ça? Oh, c'est{box}trop cruel~.
+@0CDAC7	Moi? Paraît qu'y{n}{n}a des matériaux{box}du tonnerre, ici.{n}{n}J'viens me servir.
+@0CDAEF	Mais… les{n}{n}monstres d'ici{box}sont balèzes de{n}{n}chez balèzes…
+@0CDB13	Alors je faisais{n}{n}une pause, le{box}temps de voir{n}{n}quoi faire, té.
+@0CDB3A	…Bon, tant pis.{n}{n}Ça a l'air{box}urgent, votre{n}{n}affaire, non?
+@0CDB58	Vous filez pour{n}{n}un truc important,{box}je vais pas vous{n}{n}retenir, va.
+@0CDB7F	…Je sais pas si{n}{n}c'est ce que vous{box}cherchez, mais
+@0CDB9F	j'ai vu descendre{n}{n}un Unitron noir{box}à cheval, té.
+@0CDBBE	Si c'est lui que{n}{n}vous voulez,{box}grouillez-vous!
+@0CDBDD	Je sais pas trop{n}{n}pourquoi, mais il{box}était drôlement{n}{n}pressé, pardi.
+@0CDC00	Et sinon, si{n}{n}vous continuez{box}par là,
+@0CDC1E	vous allez{n}{n}forcément vouloir{box}le truc habituel,{n}{n}hein?
+@0CDC3D	L'amie de votre{n}{n}porte-monnaie!{box}Le Bazar ambulant{n}{n}de Sayaka~★
+@0CDC60	JE SUIS{n}{n}【APOCALYPSE】,{box}VÊTU DE FLAMMES{n}{n}ÉCARLATES.
+@0CDC82	【DÉICIDE】,{n}{n}TOI QUI AS TUÉ{box}MES FRÈRES!
+@0CDCA0	PORTE TOUS TES{n}{n}PÉCHÉS, ET BRÛLE{box}DANS MES FLAMMES!
+@0CDCC0	QU'IL NE RESTE DE{n}{n}TOI QU'UNE POIGNÉE{box}DE CENDRES!!
+@0CDCD3	Heh… {J}.{n}{n}…………Je{box}t'attendais.
+@0CDCEC	Je savais que tu{n}{n}viendrais ici,{box}mais…
+@0CDD07	je me réjouis{n}{n}que tu sois là{box}sans encombre.
+@0CDD21	Après tout, si{n}{n}【ces minables】{box}avaient eu ta{n}{n}peau… hein.
+@0CDD41	Bien… Je vais te{n}{n}dire pourquoi je{box}t'attendais.
+@0CDD84	{J}. Moi…{n}{n}je veux ramener{box}maman à la vie.
+@0CDDA1	Une 【mère】 pour{n}{n}remplacer notre{box}maman si douce.
+@0CDDC4	Ce 【cristal】{n}{n}brisé, derrière{box}moi…
+@0CDDE3	Ce 【cristal】,{n}{n}jadis, on le{box}nommait 【Unitis】.
+@0CDE05	C'est le nom d'une{n}{n}【déesse】, qu'on{box}appelait aussi la{n}{n}【Mère de tous】.
+@0CDE26	Mais il y a 400{n}{n}ans… 【Unitis】{box}fut abattue.
+@0CDE4B	Par un pécheur{n}{n}qu'on nomme le{box}【Déicide】.
+@0CDE69	Mais aujourd'hui,{n}{n}【Unitis】…{box}…………va renaître!
+@0CDE8A	Et moi, j'aurai{n}{n}une nouvelle{box}【mère】!!
+@0CDEAC	Seulement… heh.{n}{n}Pour la faire{box}renaître, il{n}{n}faut une chose.
+@0CDECC	La 【vie】 du{n}{n}pécheur… qui l'a{box}tuée.
+@0CDEEA	Tu connais la{n}{n}lignée du{box}【Déicide】?
+@0CDF0A	Ha ha ha… Eh bien{n}{n}…………c'est nous.
+@0CDF26	Alors j'ai{n}{n}réfléchi.
+@0CDF35	Qui ferait le{n}{n}meilleur{box}【sacrifice】?
+@0CDF50	Quel 【pécheur】{n}{n}conviendrait le{box}mieux?
+@0CDF6B	En principe,{n}{n}notre père était{box}tout désigné.
+@0CDF87	Mais, hélas, il{n}{n}est déjà tombé{box}aux Enfers.
+@0CDFA9	Tu as compris?{n}{n}Il n'y a qu'une{box}réponse, {J}.
+@0CDFC3	Toi, qui as{n}{n}oublié maman{box}avec lui… il n'y{n}{n}a que toi!
+@0CDFE7	Bien… assez{n}{n}parlé.
+@0CDFF6	Je t'ai donné mes{n}{n}raisons: ce fut{box}ma dernière{n}{n}【clémence】.
+@0CE015	Allez! Je vais te{n}{n}tuer de mes{box}propres mains!!
+@0CE035	Quoi… qu'est-ce{n}{n}que tu racontes?!{box}Un 【sacrifice】?
+@0CE055	N'importe quoi!!{n}{n}Pourquoi servir{box}de 【sacrifice】?!!
+@0CE078	{J}… {J} a{n}{n}tout fait pour{box}te sauver…
+@0CE093	C'est pour ça{n}{n}qu'on a fait tout{box}ce chemin! Rien{n}{n}que pour ça!!
+@0CE0B5	Réveille-toi! T'es{n}{n}vraiment le frère{box}de {J}?!!
+@0CE0DA	…{J}! Même à{n}{n}coups de poing,{box}on va le{n}{n}réveiller!!
+@0CE0FB	Quoi…? C'est{n}{n}quoi, ça? {J},{box}un 【sacrifice】?
+@0CE113	Dis pas de{n}{n}bêtises! Personne{box}servira de{n}{n}【sacrifice】!
+@0CE135	Tu comprends, au{n}{n}moins? {J}…{box}{J}…
+@0CE151	…a fait tout ce{n}{n}voyage pour te{box}sauver, toi!
+@0CE170	Même après avoir{n}{n}failli mourir de{box}ta main! En{n}{n}croyant en toi!!
+@0CE18D	Réveille-toi…{n}{n}je t'en supplie!{box}T'es son frère,{n}{n}non?
+@0CE1AC	T'es le frère{n}{n}de {J}…{box}…son grand frère!!
+@0CE1C5	{J}?! Arrête!{n}{n}Pourquoi vous vous{box}battez?!
+@0CE1E0	Vous deviez pas{n}{n}parler?{box}Pourquoiii!!
+@0CE1FD	Un 【sacrifice】?{n}{n}Que racontes-tu?
+@0CE219	Trêve de{n}{n}plaisanteries.{box}Non… ce n'est{n}{n}même pas drôle.
+@0CE240	Quoi que tu aies{n}{n}en tête, je n'ai{box}aucune envie de{n}{n}le comprendre.
+@0CE265	Et je ne te{n}{n}laisserai pas{box}sacrifier {J}.
+@0CE283	{J} a dit…{n}{n}vouloir te{box}sauver… toi.
+@0CE2A1	Et après un si{n}{n}long voyage…{box}voilà le{n}{n}résultat?!
+@0CE2C4	Mais je n'en{n}{n}dirai pas plus.{box}C'est à {J}{n}{n}de décider.
+@0CE2E0	{J}…{n}{n}choisis ta voie.
+@0CE2F8	Et si tu meurs…{n}{n}je mourrai avec{box}toi.
+@0CE315	……………………{n}{n}…Je suis sans{box}voix.
+@0CE336	Un 【sacrifice】?{n}{n}Mais que{box}racontes-tu donc?
+@0CE354	Ça ne vous semble{n}{n}pas absurde?{box}Vous êtes bien son{n}{n}frère, non?
+@0CE378	{J} a tout fait{n}{n}pour vous sauver.
+@0CE399	Vous avez failli{n}{n}lui ôter la vie…{box}Mais vous restiez{n}{n}dans ses pensées!
+@0CE3BF	{J}…{n}{n}Que vas-tu faire?
+@0CE3D3	Si tu dois être le{n}{n}【sacrifice】…{box}alors moi aussi,{n}{n}je serai avec toi.
+@0CE3F5	Tu te bats, donc…{n}{n}…Ensemble, alors.
+@0CE416	Tu délires, toi!!{n}{n}Un 【sacrifice】?!
+@0CE435	Mais c'est quoi,{n}{n}ton problème?!{box}T'es pas son{n}{n}frangin?!
+@0CE451	Tu sais au moins{n}{n}tout ce que {J}{box}a traversé?!
+@0CE46E	En gros… tout ça,{n}{n}c'était pour toi!
+@0CE491	Et malgré ça… toi,{n}{n}toi, tu…!
+@0CE4AB	Tu vas tuer {J}{n}{n}pour ce délire?!
+@0CE4CA	Tss… Il est barge!{n}{n}Fonce, {J}!
+@0CE4E6	Un type pareil,{n}{n}faut l'cogner pour{box}l'réveiller!
+@0CE507	Nya… nya?{n}{n}Un 【sacrifice】??
+@0CE51C	Hein…? Ça veut{n}{n}dire mourir, nya?
+@0CE539	Non non non, nya!!{n}{n}{J} mourra pas!
+@0CE557	Qu'on dise ce{n}{n}qu'on veut, c'est{box}non, nyaaaaa!!
+@0CE572	Si {J} meurt…{n}{n}{P} aussi, nya!
+@0CE58D	Parce que {J}{n}{n}et {P} sont{box}inséparables, nya!
+@0CE5A7	Partout, toujours,{n}{n}ensemble, nyaaa!!
+@0CE5C5	Touche à {J},{n}{n}et {P} sort{box}les griffes, nya!
+@0CE5E0	Ah… {J}!!{n}{n}Perds surtout pas,{box}nya!!
+@0CE5FC	Quelle horreur…{n}{n}Que dites-vous là?
+@0CE61C	Un 【sacrifice】?{n}{n}…C'est insensé…
+@0CE638	Répondez-moi{n}{n}franchement. Vous…
+@0CE650	Êtes-vous bien le{n}{n}frère de {J}?
+@0CE66E	Comment un frère{n}{n}peut-il dire ça?
+@0CE68F	Livrer votre seule{n}{n}famille au{box}【sacrifice】?!
+@0CE6B0	Réveillez-vous!{n}{n}Vous êtes en plein{box}mauvais rêve.
+@0CE6D0	Un cauchemar de{n}{n}pure folie!!{box}Regina!!
+@0CE6EB	Qu… Tu racontes{n}{n}quoi? T'es malade?
+@0CE70D	Sacrifier {J}?{n}{n}T'es pas sérieux?!
+@0CE72E	……!! Comment…{n}{n}Comment tu oses?!
+@0CE750	{J} a tout fait{n}{n}pour te sauver!
+@0CE771	Non… non…{n}{n}Pas ça… {J}…
+@0CE78A	Que {J} meure…{n}{n}Hors de question!!
+@0CE7A7	{J}…?{n}{n}…Oui. D'accord…
+@0CE7BE	Moi aussi… je vais{n}{n}te couvrir à fond!
+@0CE7D9	Un 【sacrifice】?{n}{n}Ha… ha ha… Hein?
+@0CE7F6	C'est une blague?{n}{n}Ce serait affreux…
+@0CE813	D… dis… T'es son{n}{n}grand frère, hein?{box}Le grand frère{n}{n}de {J}?
+@0CE835	Alors pourquoi?!{n}{n}Pourquoi dire ça?!
+@0CE857	Je comprends pas…{n}{n}C'est ta famille…
+@0CE879	{J}! {J}!!{n}{n}On fait quoi?!
+@0CE891	Hein…? Se battre?{n}{n}Le réveiller?
+@0CE8A9	…D'accord.{n}{n}Je vais t'aider!!
+@0CE8C1	Non… non…{n}{n}Un 【sacrifice】…?
+@0CE8DA	Regina… {J} est{n}{n}de votre famille…
+@0CE8F6	Vous êtes du même{n}{n}sang… pas vrai?!
+@0CE914	Alors… pourquoi…{n}{n}pourquoi faire ça…
+@0CE932	Je ne comprends{n}{n}paaas!! Pourquoi?
+@0CE95B	Je vous en prie…{n}{n}Réconciliez-vous…
+@0CE97F	Hein? {J}…?{n}{n}Arrête… arrête!!
+@0CE99F	Te battre? Mais{n}{n}pourquoi?{box}Et tout notre{n}{n}voyage, alors?
+@0CE9C5	Arrêteeez!!
+@0CE9CF	…Pourquoi?{n}{n}Pourquoi je perds?
+@0CE9FA	Heh… Ha ha ha…{n}{n}Ha ha ha ha ha!!
+@0CEA14	Ah! Ma 【volonté】{n}{n}ne suffit pas!
+@0CEA30	Soit! Je vais tout{n}{n}y mettre! Tout!
+@0CEA52	Jusqu'à ma vie!
+@0CEA60	Heh… heh. {J}…{n}{n}Quoi… tu pleures?
+@0CEA83	Papa te répétait{n}{n}de ne pas pleurer{box}pour un rien.
+@0CEAAA	…Je vois… Je t'ai{n}{n}fait souffrir…
+@0CEACB	…Pardonne-moi.
+@0CEAD7	On dirait que………{n}{n}c'est la fin………
+@0CEAEE	…Heh… On récolte{n}{n}ce qu'on sème.
+@0CEB08	Pourquoi donc…{n}{n}la mort de maman…
+@0CEB27	ai-je fini par en{n}{n}accuser papa…?
+@0CEB46	J'ai toujours su…{n}{n}que c'était faux…
+@0CEB61	Il me fallait… oui{n}{n}un objet de haine…
+@0CEB86	La mort de maman,{n}{n}que j'adorais, m'a{box}brisé le cœur.
+@0CEBAC	Cette fêlure, j'ai{n}{n}voulu la combler…
+@0CEBCF	Avec… la 【haine】.{n}{n}Oui, la 【haine】…
+@0CEBF1	Jusqu'à la tourner{n}{n}contre toi…
+@0CEC0F	Elle était forte…{n}{n}je m'y accrochais.
+@0CEC33	Mais… je savais{n}{n}que j'avais tort…
+@0CEC4D	Alors ce jour-là…{n}{n}j'ai voulu dire{box}pardon à papa…
+@0CEC6F	Mais la 【lumière】…{n}{n}a noyé ma raison…
+@0CEC91	…Et à mon réveil…{n}{n}j'avais…{box}poignardé papa.
+@0CECB6	Papa… savait que{n}{n}j'allais frapper…
+@0CECD2	……………………{n}{n}il n'a rien dit…
+@0CECEC	Heh… il voyait{n}{n}clair en moi…
+@0CED06	Il s'est dit: si{n}{n}ça peut l'apaiser…
+@0CED28	…C'est bien papa…{n}{n}…Kof! Kof!
+@0CED45	…Écoute-moi,{n}{n}{J}.
+@0CED50	Cette 【lumière】{n}{n}prévoyait tout ça…
+@0CED77	Oui, 【elle】 visait{n}{n}exactement ça.
+@0CED91	Une fratrie qui se{n}{n}déchire de haine…
+@0CEDB2	Une énergie noire{n}{n}en naît… puis{box}l'un des deux sert{n}{n}de 【sacrifice】…
+@0CEDDB	Voilà ce qu'【elle】{n}{n}cherchait!
+@0CEE00	Pour ressusciter{n}{n}sa 【sœur】 aînée…
+@0CEE24	Méfie-toi, {J}.{n}{n}Elle vit encore…
+@0CEE44	…Je te laisse{n}{n}encore le pire…
+@0CEE6B	Garde ce pendentif{n}{n}…Ce qu'il y a{box}dedans…
+@0CEE89	Je n'ai pas le{n}{n}droit de le voir…
+@0CEEAC	C'est… le portrait{n}{n}du bonheur…{box}{J}… par…{n}{n}don……
+@0CEED2	Papa… et maman{n}{n}aussi… je dois…
+@0CEEF3	…leur dire pardon…{n}{n}Papa… Ma… man……
+@0CFE7F	Il est donc… mort.{n}{n}…Oui… il est mort.
+@0CFE9B	Pourquoi…{n}{n}cet air triste?
+@0CFEB2	Rien de triste,{n}{n}rien à pleurer.
+@0CFED6	…C'est mal?{n}{n}…C'est absurde?
+@0CFEED	Non, pas du tout.{n}{n}Parce que tout ça…
+@0CFF08	eh oui, c'est le{n}{n}【destin】.
+@0CFF21	Hi hi hi… oui.{n}{n}C'est le 【destin】.
+@0CFF39	Tout est écrit par{n}{n}le 【destin】.
+@0CFF54	Personne ne peut{n}{n}s'y opposer.{box}Il ne faut pas!
+@0CFF74	Face au 【destin】,{n}{n}on ne peut rien.
+@0CFF91	Hi hi hi… Alors,{n}{n}pourquoi pleurer?
+@0CFFAF	…?{n}{n}Tu es en colère?
+@0CFFC0	Pourquoi? Pourquoi{n}{n}cette colère?
+@0CFFD6	Évidemment, oui!{n}{n}【Destin】, mon œil!
+@0CFFF2	Qu'un truc pareil{n}{n}décide tout? Non!
+@0D000F	Et toi… pourquoi{n}{n}t'es pas triste?!
+@0D002B	Enfin… c'était{n}{n}ton allié, non?!!
+@0D0048	Franchement… vous{n}{n}avez tout faux!
+@0D0067	Le 【destin】? Moi,{n}{n}je choisis ma vie!
+@0D0089	Ça ne vous fait{n}{n}rien? Votre allié…
+@0D00AB	est mort!? Comment{n}{n}pouvez-vous?!
+@0D00C3	Le 【destin】…?{n}{n}La belle affaire.
+@0D00E4	Je ne le laisserai{n}{n}pas tout décider.
+@0D0101	Et ton allié mort,{n}{n}tu ne pleures pas?
+@0D0128	Le 【destin】 excuse{n}{n}donc tout?!
+@0D0139	Le 【destin】? Vous{n}{n}n'avez que ce mot…
+@0D0159	Seriez-vous donc{n}{n}son esclave?
+@0D0176	Un ami meurt, et{n}{n}【c'était écrit】…
+@0D019F	Quelle façon de{n}{n}penser détestable…{box}À mes yeux, en{n}{n}tout cas!
+@0D01C3	Le 【destin】?!{n}{n}Tu délires, toi?!
+@0D01E2	Moi, j'laisse pas{n}{n}ça décider d'tout!
+@0D0201	Ton pote meurt, et{n}{n}tu dis: 【destin】?!
+@0D0226	T'es pas triste?!!
+@0D0234	Tu dis quoi, nya?{n}{n}Rien à voir, nya.
+@0D0252	…Mais Regina…{n}{n}il est mort, nya!?
+@0D0270	C'est… trop, trop{n}{n}triste, nya!!
+@0D0292	Ce que vous dites…{n}{n}n'est-ce pas faux?
+@0D02B4	Pour vous, tout{n}{n}vient du 【destin】?
+@0D02D8	Et donc, pleurer{n}{n}serait absurde?
+@0D02FB	Vous avez tort…{n}{n}…c'est inhumain.
+@0D031D	Dis donc, toi…………{n}{n}tu racontes quoi?
+@0D0339	Le 【destin】?{n}{n}Tu joues à quoi?
+@0D034E	Ton allié…{n}{n}Regina est mort!
+@0D036B	Pourquoi… hein…{n}{n}t'es pas triste…?
+@0D0387	Ton 【destin】…{n}{n}au diable!!
+@0D03A0	Le 【destin】? On{n}{n}s'en fiche!
+@0D03BB	Enfin, voyons!{n}{n}Regina est mort…
+@0D03DC	C'est pas triste,{n}{n}ça?{box}Trouver ça triste,{n}{n}c'est bizarre?
+@0D0402	…Le bizarre, ici,{n}{n}c'est toi!!
+@0D041F	………………{n}{n}Le 【destin】……?
+@0D0439	…Le 【destin】, ça{n}{n}veut dire quoiii?!
+@0D045C	Un homme est mort!{n}{n}Il est mort…!
+@0D0478	Ne pas être{n}{n}triste… ce n'est{box}pas normaaal!!
+@0D0496	Le 【destin】 n'a{n}{n}rien à voir!!
+@0D04B5	Je vois… Alors{n}{n}vous résistez.
+@0D04CD	…Au 【destin】.{n}{n}…À la 【fatalité】.
+@0D04E5	…Pauvres fous.{n}{n}Défier les dieux…
+@0D0507	La 【déesse】 qu'on{n}{n}nomme 【destin】…{box}vous osez la{n}{n}défier?
+@0D052C	…Hi hi hi.{n}{n}Fort bien.
+@0D0540	Humains, admirez{n}{n}ma 【vraie forme】.
+@0D055F	Celle du 【destin】{n}{n}en personne……!
+@0D057C	Quoi?! D'où vient{n}{n}cette pression?!!
+@0D0597	Hein?! Qu… quoi?{n}{n}Il se passe quoi?!
+@0D05B0	…Tch…!{n}{n}Cette pression…?!
+@0D05CB	…………!?{n}{n}Qu'est-ce donc…!!
+@0D05E2	Qu… quoi?!{n}{n}C'est quoi, ça?!!
+@0D05FD	Nya… nyanyanya!!{n}{n}C'est quoi, nya?!
+@0D061A	Mais enfin… quoi?!{n}{n}Que se passe-t-il!
+@0D063B	Hein… Quoi encore?{n}{n}Ça va être quoi?!
+@0D0657	…? Qu'est-ce que…{n}{n}Je le sens mal!!
+@0D0678	Euh… dis… {J}!{n}{n}J'ai peur… peuuur!
+@0D0697	…Le fuseau tourne…
+@0D06A6	…La fileuse{n}{n}chante…
+@0D06B5	…Puis le fil est{n}{n}coupé.
+@0D06C8	…Tel est le{n}{n}【destin】.
+@0D06D8	Tout, au nom{n}{n}de la déesse{box}du 【destin】.
+@0D06F3	…Le fuseau du{n}{n}【destin】… Clotho.
+@0D070F	…Sa fileuse…{n}{n}Lachésis.
+@0D072A	…Sa faucheuse…{n}{n}Atropos.
+@0D0748	Celle qui régit{n}{n}tous les 【destins】{box}et voit le passé{n}{n}comme l'avenir.
+@0D076E	Son nom: 【Fatae】,{n}{n}la déesse du{box}【destin】…
+@0D078D	Je suis Atropos.
+@0D0798	Déesse du 【destin】{n}{n}et sa faucheuse.
+@0D07BB	Je tranche son fil{n}{n}et à tous, j'offre{box}la même fin.
+@0D07E0	Voilà ma tâche.{n}{n}Ma mission divine.
+@0D0804	Pour ressusciter{n}{n}ma sœur Lachésis,
+@0D081E	cet homme a offert{n}{n}sa 【vie】: son âme{box}et son corps.
+@0D0842	Oui. Cet homme a{n}{n}rempli sa mission.
+@0D0866	Aux dieux, vous{n}{n}devez un tribut.
+@0D0886	Et les dieux vous{n}{n}doivent la paix.
+@0D08AA	Alors, humains,{n}{n}offrez vos 【vies】.
+@0D08C6	Pour que nous, les{n}{n}【Fatae】, déesses{box}du 【destin】,{n}{n}revivions,
+@0D08EA	offrez vos 【vies】.
+@0D08FA	Hé… hé!{n}{n}Il se passe quoi?!
+@0D0918	Elle raconte quoi,{n}{n}celle-là?!
+@0D0933	Qu… quoi?!{n}{n}Le… le cristal…!?
+@0D094E	Qu… quoi, ça?!{n}{n}Il se passe quoi?!
+@0D0968	Et elle, là…?{n}{n}Elle change de{box}forme…?
+@0D0988	Ah! Regarde!{n}{n}Le cristal…!?
+@0D09A1	…Qu'est-ce…{n}{n}Qui est-elle…?
+@0D09BA	Que dit-elle…{n}{n}Et ceci…?
+@0D09D7	Quoi?!{n}{n}Le cristal?!
+@0D09E9	Cette forme…{n}{n}Cette voix…
+@0D09FE	Quoi…?{n}{n}Qu'arrive-t-il…?
+@0D0A18	Ah! Oh non!{n}{n}Le cristal!
+@0D0A2E	Hé, hé………{n}{n}Ça part en vrille!
+@0D0A4D	Et sa dégaine…{n}{n}Et puis…………
+@0D0A67	Quoi?! Ça craint!{n}{n}Le cristal!
+@0D0A7E	Nyanyanyanyaaa!!{n}{n}Qu-qu-quoi, nya?!
+@0D0AA2	Elle s'est{n}{n}transformée, nya?!
+@0D0ABE	Nya? Nyanyanya?!{n}{n}Le cristal…!!
+@0D0ADC	Qu'est-ce que…?!{n}{n}Cela me dépasse.
+@0D0AFE	Mais cette forme…{n}{n}Qu'arrive-t-il……
+@0D0B1F	Ah! Regardez!{n}{n}Le cristal…!!
+@0D0B3B	C'est… c'est quoi,{n}{n}ce cirque?!!
+@0D0B56	Mais… il se passe{n}{n}quoi…? Ça, là……
+@0D0B76	R… regarde!{n}{n}Le cristal!
+@0D0B8F	Qu-qu-quoi, ça?!{n}{n}Ça devient énorme…
+@0D0BB4	Et puis…………{n}{n}cette voix…………
+@0D0BCB	…Hein?{n}{n}Le cristal brille!
+@0D0BE5	Ah… aaah…{n}{n}{J}……
+@0D0BFC	Qu'est-ce… qui{n}{n}se passe…?
+@0D0C15	Le cristal…?{n}{n}Unitis…? {J}!!!
+@0D0C36	…Je suis celle qui{n}{n}file le 【destin】.
+@0D0C4D	…Je suis celle qui{n}{n}coupe le 【destin】.
+@0D0C65	Notre nom est{n}{n}【Fatae】.
+@0D0C74	Cédez au 【destin】,{n}{n}offrez-lui tout.
+@0D0C98	Voilà votre voie.{n}{n}Votre 【destin】.
+@0D0CBE	L'heure est venue…{n}{n}Venez à moi!
+@0D0CD6	Ça va pas, non?!
+@0D0CE2	Tu crois qu'on va{n}{n}mourir sagement?!
+@0D0CFC	Vas-y, {J}!{n}{n}Démolis-la!
+@0D0D16	Ç… ça suffit!!{n}{n}Tu es qui, enfin?!
+@0D0D3A	Toi, une 【déesse】?{n}{n}Jamais de la vie!
+@0D0D58	{J}… Regina…{n}{n}Venge-le…!!
+@0D0D77	…Une 【déesse】?{n}{n}Ça, une 【déesse】?!
+@0D0D94	Ce serait donc{n}{n}sa forme ultime…?
+@0D0DB2	Attends! {J}!{n}{n}Du calme… {J}!
+@0D0DD0	…Une 【déesse】?{n}{n}Vous…?
+@0D0DE8	Non… c'est{n}{n}impossible…
+@0D0E02	Prudence, {J}!!{n}{n}C'est du sérieux!!
+@0D0E22	…Marrant, tiens…{n}{n}Ça, une 【déesse】?
+@0D0E43	Drôle de 【déesse】,{n}{n}franchement…!!
+@0D0E64	{J}! Éclate-la!{n}{n}Venge Regina!
+@0D0E82	【Déesse】? Mon œil!{n}{n}Là, j'enrage, nya!
+@0D0E9F	Manger des gens!{n}{n}Quel monstre, nya!
+@0D0EBB	Pas de pitié, nya!{n}{n}Tout est sa faute!
+@0D0EE1	Toi qui te dis{n}{n}【déesse】 et joues{box}avec les cœurs!
+@0D0F00	Toi… toi, une{n}{n}【déesse】? Jamais!
+@0D0F20	Cela… cela ne{n}{n}doit pas être!
+@0D0F3E	Fausse 【déesse】!{n}{n}Que le jugement{box}des 【esprits】{n}{n}s'abatte sur toi!
+@0D0F5B	…J'en peux plus…{n}{n}Tu vas le payer!
+@0D0F7B	…Le sort de {J}{n}{n}…et de son frère…
+@0D0F95	Tu t'en es jouée…{n}{n}et les as opposés!
+@0D0FB1	Pas de pitié…{n}{n}Aucune pitié!
+@0D0FCD	Qu… quelle peste!{n}{n}Là, je m'énerve!
+@0D0FEE	Ça… c'est sûrement{n}{n}pas une 【déesse】!
+@0D100E	{J}!!{n}{n}Venge ton frère!!
+@0D103B	…{J}…{n}{n}{P}… {P}…
+@0D1053	Je… ne pardonnerai{n}{n}pas!! Jamais!!
+@0D1078	Ça, une 【déesse】?{n}{n}Non… parce que…!!
+@0D1099	Mentir aux gens…{n}{n}les tuer…
+@0D10B1	Une 【déesse】 ne{n}{n}ferait pas ça!!
+@0D10D0	…C'est fini…!
+@0D10DB	{J} le crut.{n}{n}L'instant d'après,
+@0D10F4	une vive lumière,{n}{n}venue de derrière,{box}figea 【Fatae】.
+@0D111A	{J} suivit le{n}{n}regard de 【Fatae】.
+@0D113C	Et là… se tenait{n}{n}{P}.
+@0D1151	Son corps flottait{n}{n}dans les airs,{box}nimbé de lumière.
+@0D1175	Une lumière…{n}{n}familière.
+@0D1184	Soudain… une{n}{n}【voix】 retentit.
+@0D1193	Ce n'était pas{n}{n}celle de {P}…{box}mais elle y{n}{n}ressemblait tant.
+@0D11B3	…Tu es l'avatar{n}{n}…de la lumière.
+@0D11C9	…ombre du dieu de{n}{n}lumière… sa clarté
+@0D11E8	…Toi… protège{n}{n}ceux que tu aimes.
+@0D1205	…Protège ce monde{n}{n}de la déesse venue{box}d'ailleurs.
+@0D1224	…Mon nom, et le{n}{n}tien… 【Righteous】.
+@0D1243	Lumière et force{n}{n}envahirent {P}.
+@0D1263	Et comme en écho,{n}{n}{FF07}…
+@0D127D	{FF07}, la{n}{n}【bête-esprit】 de{box}lumière, se{n}{n}métamorphosa.
+@0D129E	Six ailes blanches{n}{n}d'un éclat divin.
+@0D12BF	Grâce aux 【ailes】{n}{n}de 【Righteous】,{box}l'Unitron retrouva{n}{n}toute sa force.
+@0D12E6	Ma sœur… Clotho…{n}{n}Tu m'entends?
+@0D1303	Ce monde… n'était{n}{n}pas le nôtre…
+@0D1321	Notre monde à nous{n}{n}a volé en éclats…
+@0D1345	Oui… on n'a pas su{n}{n}le protéger…
+@0D1364	Ma sœur…
+@0D136D	Dis-moi ta réponse{n}{n}de ce jour-là.
+@0D1388	………………{n}{n}Non… je le savais.
+@0D13A3	Je le savais, mais{n}{n}je n'osais pas{box}l'admettre.
+@0D13C3	Lachésis et moi,{n}{n}on n'a pas oublié…
+@0D13EA	Un milliard d'âmes{n}{n}sous notre garde…
+@0D1408	Jadis… 【mère】 et{n}{n}【déesse】 à la fois
+@0D142B	Une 【déesse】 ne{n}{n}peut pas devenir{box}【humaine】, hein…
+@0D144C	Alors… ramener{n}{n}Lachésis à la vie…
+@0D1469	et veiller encore…{n}{n}rien de plus…
+@0D148D	Mais… tout ça…{n}{n}ne servait à rien.
+@0D14AA	Le pouvoir d'une{n}{n}【déesse】…{box}on n'en a jamais{n}{n}eu besoin, hein.
+@0D14CF	Ma sœur…
+@0D14D8	Où est-ce qu'on{n}{n}aurait dû aller…?
+@0D14F6	Ma… sœ… ur…{n}{n}………………
+@0D1E7D	Waaaaah!!{n}{n}Au secours, vite~!
+@0D1E9C	Pfiouuu…!{n}{n}Je suis sauvée~!
+@0D1EB2	Sans vous, té,{n}{n}j'étais fichue!
+@0D1ED3	Merci, vraiment~!
+@0D1EDF	Hein? Ce que je{n}{n}fais là? Pardi!
+@0D1F05	Je suis marchande,{n}{n}moi! Qu'on parle{box}d'un trésor, et…
+@0D1F2A	Danger ou pas,{n}{n}j'y fonce!
+@0D1F42	C'est ça, être{n}{n}marchande!{box}Vous y connaissez{n}{n}rien, vous deux~
+@0D1F6A	…Oups! Pas de{n}{n}leçon à mes{box}sauveurs! Pardon★
+@0D1F90	Vous y retournez?{n}{n}Y a plus rien, té!
+@0D1FB6	C'est pas ça?{n}{n}…Bon, passons.
+@0D1FC8	Pas rapaces, hein?{n}{n}J'aime bien, ça~
+@0D1FED	…Mais bon, les{n}{n}affaires, c'est{box}les affaires!
+@0D2004	…Ça fait un bail,{n}{n}mais c'est parti~!
+@0D2022	Sourire en prime!{n}{n}Comptes clairs et{box}gestion honnête!
+@0D2043	L'argent, ça doit{n}{n}circuler, té!{box}Le Bazar ambulant{n}{n}de Sayaka~★
+@0D2066	Te voici, 【avatar】{n}{n}de 【Righteous】.
+@0D2082	Je le sais: c'est{n}{n}pour 【Yggdrasil】.
+@0D20AB	【Cela】 s'éveille à{n}{n}nouveau…
+@0D20C9	La 【déesse】 venue{n}{n}d'ailleurs a péri,{box}libérant son{n}{n}【énergie】.
+@0D20ED	Cette 【énergie】{n}{n}colossale a tordu{box}l'【espace】.
+@0D2112	Et cela a réveillé{n}{n}【Yggdrasil】.
+@0D2139	L'【anneau】 que{n}{n}vous portez est la{box}【clé d'Yggdrasil】.
+@0D2162	【Yggdrasil】… Ce{n}{n}qu'il est, je ne{box}puis vous le dire.
+@0D2188	…Mais vous devez{n}{n}vous y rendre…
+@0D21A9	Là-bas, vous{n}{n}réglerez vos{box}comptes…
+@0D21C5	Tous vos{n}{n}【comptes】.
+@0D21D4	Adieu, sang du{n}{n}【Déicide】.
+@0D21ED	{P}… Que la{n}{n}grâce de{box}【Righteous】 soit{n}{n}avec toi.
+@0D220B	…Pff. Tout ce{n}{n}chemin pour rien…
+@0D2233	Sur 【Yggdrasil】…{n}{n}sur l'【anneau】…
+@0D2253	Au final, on n'en{n}{n}sait pas plus!
+@0D2270	Une 【clé】… Merci{n}{n}du mystère, hein…
+@0D2292	…Hein? Aller à{n}{n}【Yggdrasil】?
+@0D22A8	Mais… on sait même{n}{n}pas où c'est!
+@0D22C8	…Le chercher? Bon…{n}{n}Le temps, on l'a.
+@0D22EA	Rentrons, déjà.{n}{n}Je crève de faim.
+@0D2306	Mouais… il a noyé{n}{n}le poisson, non?
+@0D2325	Sur 【Yggdrasil】,{n}{n}sur l'【anneau】…
+@0D2343	Autant dire qu'on{n}{n}sait rien. Pfff…
+@0D2365	Savoir au moins{n}{n}pour l'【anneau】…
+@0D2382	…Hein? Aller à{n}{n}【Yggdrasil】?
+@0D2398	Tu plaisantes?{n}{n}On sait même pas{box}où c'est…
+@0D23B7	…Le chercher? Ah,{n}{n}{J}… tout toi!
+@0D23CF	Bon, on rentre?{n}{n}Moi, j'ai faim★
+@0D23F0	Hm… je saisis leur{n}{n}intention, mais…
+@0D240E	Sur 【Yggdrasil】 et{n}{n}l'【anneau】: rien.
+@0D2430	Autant ne rien{n}{n}savoir du tout.
+@0D2450	Retour à la case{n}{n}départ, donc…
+@0D246D	…Quoi? Aller à{n}{n}【Yggdrasil】?
+@0D2484	…Sérieusement?{n}{n}Sans savoir où?
+@0D24A3	…Hm. Pourquoi pas.{box}Ce n'est pas le{n}{n}temps qui manque.
+@0D24C3	Rentrons en ville.{n}{n}On se reposera…{box}puis on avisera.
+@0D24E6	Nous venions{n}{n}chercher conseil,{box}et ça m'ennuie de{n}{n}le dire, mais…
+@0D250C	Sur 【Yggdrasil】…{n}{n}sur l'【anneau】…
+@0D2529	Au bout du compte,{n}{n}nous n'avons…{box}presque rien{n}{n}appris.
+@0D2547	Pour être franche…{n}{n}c'était plutôt{box}inutile.
+@0D2564	…Aller à{n}{n}【Yggdrasil】…?{box}…Tu parles{n}{n}sérieusement?
+@0D2587	Oh? Mais nous ne{n}{n}savons même pas{box}où cela se trouve.
+@0D25A8	…Hi hi. Le{n}{n}chercher, hein?{box}Toi, au moins, tu{n}{n}fais simple.
+@0D25CA	Mais rentrons{n}{n}d'abord.{box}Un bon bain nous{n}{n}fera du bien.
+@0D25F2	Mmh… T'as pas{n}{n}l'impression{box}qu'il s'est bien{n}{n}défilé, là?
+@0D2617	Sur 【Yggdrasil】,{n}{n}sur l'【anneau】…
+@0D2636	Au final, on sait{n}{n}quasi que dalle…?
+@0D2653	On fait quoi, là?{n}{n}Franchement…{box}Pfff.
+@0D2675	…Hein? Aller à{n}{n}【Yggdrasil】?
+@0D268F	Hé ho! Facile à{n}{n}dire, mais on sait{box}même pas où c'est!
+@0D26B6	…Bah, même si je{n}{n}t'arrête, t'iras.{box}Je te connais{n}{n}depuis le temps.
+@0D26DD	Mais d'abord, on{n}{n}rentre! La bouffe{box}nous attend!
+@0D2705	…Euh… euh…{n}{n}…En gros, nya!
+@0D2720	Sur 【Yggdrasil】~{n}{n}sur l'【anneau】~
+@0D273D	Au final, on sait{n}{n}rien de rien, nya?{box}Hé hé.
+@0D275F	Nya? Tu le sais{n}{n}déjà? Te fâche{box}pas, nyaaa!
+@0D2781	…Nya nya? On va{n}{n}à 【Yggdrasil】,{box}nya?
+@0D279C	Mais on sait pas{n}{n}où c'est, nya.{box}On fait comment,{n}{n}nya?
+@0D27B9	…C'est vrai, nya!{n}{n}Si on sait pas, on{box}cherche, nya!
+@0D27DA	Alors on rentre en{n}{n}ville! {P} a le{box}ventre vide, nya!
+@0D27FD	…Nous en{n}{n}attendions trop,{box}c'est vrai, mais…
+@0D2822	Sur 【Yggdrasil】…{n}{n}sur l'【anneau】…
+@0D283F	Autant dire que{n}{n}nous n'avons rien{box}appris…
+@0D2862	Avec si peu{n}{n}d'informations,{box}difficile de{n}{n}conclure…
+@0D287E	…Pardon? Aller à{n}{n}【Yggdrasil】?{box}Sérieusement?
+@0D289C	Mais sans savoir{n}{n}où il se trouve,{box}impossible d'agir.
+@0D28BE	Hé hé… Quand tu as{n}{n}ce 【regard】-là,{box}inutile de{n}{n}discuter…
+@0D28E4	Bien. Je{n}{n}t'accompagne.{box}Quelle tête de{n}{n}mule, vraiment.
+@0D290C	Rentrons d'abord{n}{n}en ville. J'ai{box}des choses à{n}{n}vérifier.
+@0D2932	…Franchement…{n}{n}…au final…
+@0D294E	Sur 【Yggdrasil】,{n}{n}sur l'【anneau】,
+@0D2969	on n'a rien appris{n}{n}du tout… hein?{box}C'est ça, non?
+@0D298D	Moi qui pensais{n}{n}qu'on saurait un{box}truc… On fait{n}{n}quoi, maintenant?
+@0D29B5	…Hein? Aller à{n}{n}【Yggdrasil】?{box}…Sans rire?
+@0D29D4	…Mais on sait{n}{n}même pas où c'est…
+@0D29F2	…Le chercher?{n}{n}…Ouais. {J},{box}t'es toujours{n}{n}comme ça.
+@0D2A18	Bon! D'abord, on{n}{n}rentre se caler{box}l'estomac! Le{n}{n}reste, après!
+@0D2A3E	…Dis…{n}{n}en fait, tout ça…
+@0D2A58	Sur 【Yggdrasil】,{n}{n}sur l'【anneau】,
+@0D2A73	on n'a pas trop{n}{n}compris… non?{box}Je crois…
+@0D2A92	Il aurait pu nous{n}{n}donner un indice{box}plus simple…{n}{n}Radin, va.
+@0D2AB7	Hein? …Aller à{n}{n}【Yggdrasil】?{box}Pour de vrai…{n}{n}{J}?
+@0D2AD8	Mais… on sait{n}{n}rien, même pas où{box}c'est!
+@0D2AF5	…Hmm… chercher,{n}{n}hein… Bon, OK.
+@0D2B12	Alors on rentre{n}{n}en ville! J'ai{box}trop faim depuis{n}{n}tout à l'heure!
+@0D2B3A	…Avec ça… euh…{n}{n}…pour {P},{box}c'est un peu dur…
+@0D2B5C	Sur 【Yggdrasil】…{n}{n}sur l'【anneau】…
+@0D2B7B	On n'a pas bien…{n}{n}compris, hein…{box}C'est embêtant…
+@0D2B9B	…Qu'est-ce qu'on{n}{n}fait, maintenant…{box}…{J}?
+@0D2BBA	…Hein? On va à{n}{n}【Yggdrasil】?!
+@0D2BD6	…Mais… on ne{n}{n}sait même pas{box}où c'est…
+@0D2BF7	…C'est vrai…{n}{n}Si on ne sait pas,{box}on n'a qu'à{n}{n}chercher.
+@0D2C1A	Oui! D'accord.{n}{n}Alors rentrons{box}en ville!
+@0D382D	【Yggdrasil】, d'un{n}{n}éclat doré,{box}flottait au-dessus{n}{n}de la mer.
+@0D3856	Il se dressait là,{n}{n}renvoyant la{box}lumière,
+@0D3878	faisant onduler{n}{n}l'espace autour{box}de lui comme un{n}{n}mirage.
+@0D3895	{J} contempla{n}{n}l'【anneau】 posé{box}au creux de sa{n}{n}main.
+@0D38B1	Légué par son{n}{n}père…{box}et jamais remis{n}{n}à Regina.
+@0D38D7	Le pendentif,{n}{n}souvenir du père…{box}et l'【anneau】{n}{n}caché dedans.
+@0D38FA	Tandis que le{n}{n}regard s'y{box}attardait, {P}{n}{n}prit la parole.
+@0D3917	Au fait, les{n}{n}esprits divins{box}disaient que{n}{n}c'était la 【clé】.
+@0D393D	La 【clé】 pour{n}{n}aller là-bas…
+@0D395C	On y va… hein,{n}{n}{J}? …Question{box}idiote, va.
+@0D3978	Mais… on fait{n}{n}comment, en vrai?{box}On sait pas voler,{n}{n}nous…
+@0D399F	…Hein? Hé… hé…!{n}{n}L'【anneau】 brille!
+@0D39C0	Qu… c'est quoi?!{n}{n}Qu'est-ce qui…{box}Waaaaah!!
+@0D39E0	Ça… les esprits{n}{n}divins ont dit{box}que c'était la{n}{n}【clé】, non?
+@0D3A07	La 【clé】 pour{n}{n}aller jusqu'à{box}【Yggdrasil】.
+@0D3A2E	Ils l'ont dit,{n}{n}{J}… Tu te{box}souviens…?
+@0D3A48	Alors? Tu y vas?{n}{n}Hi hi… question{box}inutile, hein…
+@0D3A6D	…Mais… comment{n}{n}on va là-haut?
+@0D3A87	Ni le transporteur{n}{n}ni l'Unitron ne{box}volent, et c'est…{n}{n}dans le ciel…
+@0D3AAF	…Hein?! Atten…{n}{n}attends! C'est{box}quoi, cet{n}{n}【anneau】?!
+@0D3AD3	Il s'est mis à{n}{n}briller d'un coup!{box}Attends, pas si{n}{n}vite… Kyaa!
+@0D3AF8	{J}…{n}{n}Cet 【anneau】…
+@0D3B0C	Les esprits{n}{n}divins l'ont{box}appelé la 【clé】.
+@0D3B2F	La 【clé】 menant{n}{n}à 【Yggdrasil】…
+@0D3B51	Hm…{n}{n}Si seulement…{box}c'était vrai.
+@0D3B6B	Et toi, {J}?{n}{n}…Question vaine.
+@0D3B85	Mais… reste à{n}{n}savoir comment{box}aller là-haut.
+@0D3BAC	Nous n'avons aucun{n}{n}moyen d'y aller.{box}Il faut d'abord{n}{n}régler ça.
+@0D3BD5	…………Hm? {J}!{n}{n}Cette lumière…?
+@0D3BF2	L'【anneau】…{n}{n}{J}!!
+@0D3C06	L'【anneau】 qui{n}{n}sert de 【clé】…{box}Selon les esprits{n}{n}divins.
+@0D3C2D	Si c'est vrai, on{n}{n}pourra entrer{box}dans 【cela】.
+@0D3C4E	Hi hi. Un{n}{n}passeport pour{box}【Yggdrasil】,{n}{n}en somme.
+@0D3C6D	Tu y vas, {J}?{n}{n}…Moi? Je te suis.
+@0D3C8E	…Pour l'heure,{n}{n}ce qui flotte{box}dans le ciel…
+@0D3CA9	il faut trouver{n}{n}comment y monter.
+@0D3CC7	…{J}?{n}{n}…L'【anneau】…{box}il brille!
+@0D3CE4	At… attends…{n}{n}cette lumière…{box}qu'est-ce que…?!
+@0D3D05	C'est la 【clé】{n}{n}pour entrer{box}là-dedans, qu'ils{n}{n}disaient, hein.
+@0D3D28	Et ce gros machin,{n}{n}c'est le fameux{box}【Yggdrasil】…
+@0D3D4B	Tout est réuni,{n}{n}quoi. Pas vrai,{box}{J}?
+@0D3D6B	Évidemment, t'y{n}{n}vas, hein?{box}…Hé hé! À la{n}{n}bonne heure!!
+@0D3D94	…Mais dis… on{n}{n}monte là-haut{box}comment, au juste?
+@0D3DB7	On sait pas voler,{n}{n}nous… Et le tirer{box}jusqu'en bas,{n}{n}faut pas rêver.
+@0D3DDF	…Quoi?! Hé,{n}{n}{J}!! Ton{box}【anneau】… il{n}{n}brille, là!
+@0D3E03	Hé, hé! C'est quoi{n}{n}ce délire?!{box}Waah! La… la{n}{n}lumière…!!
+@0D3E2B	Cet 【anneau】,{n}{n}c'est la 【clé】,{box}nya…
+@0D3E47	Les dieux l'ont{n}{n}dit, nya. …C'est{box}pas des bobards,{n}{n}nya!
+@0D3E6A	Mais mais! {P}…{n}{n}a peur du vide,{box}nya…
+@0D3E88	…Ah, je rigole!{n}{n}Bien sûr que je{box}viens, nya!
+@0D3EA6	Mais… comment on{n}{n}monte là-haut,{box}nya…?
+@0D3EC3	Personne vole…{n}{n}Ils pourraient{box}pas descendre une{n}{n}échelle, nya…?
+@0D3EE5	…Nya nya?!{n}{n}L'【anneau】 brille,{box}nya…?
+@0D3F05	{J}?!{n}{n}Ça brille plus{box}fort, nya…!!
+@0D3F1F	L'【anneau】 qui{n}{n}sert de 【clé】…{box}D'après les{n}{n}esprits divins.
+@0D3F48	Oui. Ils n'ont{n}{n}aucune raison de{box}mentir. Ce doit{n}{n}être vrai.
+@0D3F6F	Il doit servir à{n}{n}entrer dans{box}【Yggdrasil】.
+@0D3F95	…Tu y vas…?{n}{n}Bien sûr… je{box}viens aussi…
+@0D3FB8	…Cela dit… c'est{n}{n}un peu loin…
+@0D3FDB	Et nous ne savons{n}{n}pas voler…
+@0D3FF5	…Hm?! {J}!{n}{n}Cette lumière…?!
+@0D4013	…Ngh!!{n}{n}La lumière{box}s'intensifie…!!
+@0D402F	La 【clé】{n}{n}d'【Yggdrasil】…{box}Le truc dont ils{n}{n}parlaient…
+@0D4053	Pourquoi ton père{n}{n}l'avait, ça, je{box}sais pas…
+@0D407A	Là-bas, on aura{n}{n}peut-être la{box}réponse…?
+@0D4096	…Bon, on va pas{n}{n}moisir là. On y{box}va?
+@0D40B5	…Enfin, monter{n}{n}là-haut… comment?
+@0D40D3	Faudrait savoir{n}{n}voler… non?
+@0D40EE	…{J}?!{n}{n}…Ton 【anneau】{box}brille…?
+@0D410B	…Kyaa! Qu… quoi?!{n}{n}Ça brille d'un{box}coup…!!
